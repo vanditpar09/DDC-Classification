@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "dpi": 200,
+  "books": [
+    {
+      "file": "dasbodh_khand_2.pdf",
+      "work_id": "ramdas-dasbodh",
+      "language": "mar",
+      "pages": [
+        {
+          "pdf_page": 1,
+          "role": "cover_or_title",
+          "selection_note": "Visually checked first PDF page; a contents page rather than a cover for Ponniyin Selvan."
+        },
+        {
+          "pdf_page": 10,
+          "role": "body",
+          "selection_note": "Introductory religious verse about Dasbodh; not a table of contents."
+        }
+      ],
+      "excluded_lines": [
+        "ई साहित्य प्रतिष्ठान www.esahity.com",
+        "ई साहित्य प्रतिष्ठान",
+        "www.esahity.com",
+        "श्यामची आई साने गुरुजी",
+        "दासबोध समर्थ रामदास"
+      ]
+    },
+    {
+      "file": "gandhi-autobiography-hindi.pdf",
+      "work_id": "gandhi-experiments-with-truth",
+      "language": "hin",
+      "pages": [
+        {
+          "pdf_page": 1,
+          "role": "cover_or_title",
+          "selection_note": "Visually checked first PDF page; a contents page rather than a cover for Ponniyin Selvan."
+        },
+        {
+          "pdf_page": 10,
+          "role": "body",
+          "selection_note": "Early autobiographical prose; not a back cover."
+        }
+      ],
+      "excluded_lines": [
+        "ई साहित्य प्रतिष्ठान www.esahity.com",
+        "ई साहित्य प्रतिष्ठान",
+        "www.esahity.com",
+        "श्यामची आई साने गुरुजी",
+        "दासबोध समर्थ रामदास"
+      ]
+    },
+    {
+      "file": "godan_by_premchand.pdf",
+      "work_id": "premchand-godan",
+      "language": "hin",
+      "pages": [
+        {
+          "pdf_page": 1,
+          "role": "cover_or_title",
+          "selection_note": "Visually checked first PDF page; a contents page rather than a cover for Ponniyin Selvan."
+        },
+        {
+          "pdf_page": 10,
+          "role": "body",
+          "selection_note": "Novel prose; not a table of contents."
+        }
+      ],
+      "excluded_lines": [
+        "ई साहित्य प्रतिष्ठान www.esahity.com",
+        "ई साहित्य प्रतिष्ठान",
+        "www.esahity.com",
+        "श्यामची आई साने गुरुजी",
+        "दासबोध समर्थ रामदास"
+      ]
+    },
+    {
+      "file": "ponniyin-selvan.pdf",
+      "work_id": "kalki-ponniyin-selvan",
+      "language": "tam",
+      "pages": [
+        {
+          "pdf_page": 1,
+          "role": "contents",
+          "selection_note": "Visually checked first PDF page; a contents page rather than a cover for Ponniyin Selvan."
+        },
+        {
+          "pdf_page": 15,
+          "role": "body",
+          "selection_note": "First chapter after the 14-page contents sequence."
+        }
+      ],
+      "excluded_lines": [
+        "ई साहित्य प्रतिष्ठान www.esahity.com",
+        "ई साहित्य प्रतिष्ठान",
+        "www.esahity.com",
+        "श्यामची आई साने गुरुजी",
+        "दासबोध समर्थ रामदास"
+      ]
+    },
+    {
+      "file": "shyamachi_aai.pdf",
+      "work_id": "sane-guruji-shyamchi-aai",
+      "language": "mar",
+      "pages": [
+        {
+          "pdf_page": 1,
+          "role": "cover_or_title",
+          "selection_note": "Visually checked first PDF page; a contents page rather than a cover for Ponniyin Selvan."
+        },
+        {
+          "pdf_page": 17,
+          "role": "body",
+          "selection_note": "Visually checked first night / Savitri-vrat story. Earlier page 10 was author biography."
+        }
+      ],
+      "excluded_lines": [
+        "ई साहित्य प्रतिष्ठान www.esahity.com",
+        "ई साहित्य प्रतिष्ठान",
+        "www.esahity.com",
+        "श्यामची आई साने गुरुजी",
+        "दासबोध समर्थ रामदास"
+      ]
+    },
+    {
+      "file": "tolkappiyar.pdf",
+      "work_id": "tolkappiyar-tolkappiyam",
+      "language": "tam",
+      "pages": [
+        {
+          "pdf_page": 1,
+          "role": "cover_or_title",
+          "selection_note": "Visually checked first PDF page; a contents page rather than a cover for Ponniyin Selvan."
+        },
+        {
+          "pdf_page": 10,
+          "role": "body",
+          "selection_note": "Grammar verses; font-mapped embedded extraction is unusable."
+        }
+      ],
+      "excluded_lines": [
+        "ई साहित्य प्रतिष्ठान www.esahity.com",
+        "ई साहित्य प्रतिष्ठान",
+        "www.esahity.com",
+        "श्यामची आई साने गुरुजी",
+        "दासबोध समर्थ रामदास"
+      ]
+    },
+    {
+      "file": "pg1228-images-3.epub",
+      "work_id": "darwin-origin-of-species",
+      "language": "eng",
+      "diagnostic_spine_ordinals": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "excluded_lines": []
+    },
+    {
+      "file": "pg1342-images-3.epub",
+      "work_id": "austen-pride-and-prejudice",
+      "language": "eng",
+      "diagnostic_spine_ordinals": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "excluded_lines": []
+    }
+  ],
+  "note": "All eight works are development material because their outputs have already been inspected. Body excerpts stay separate from cover/back/contents benchmark data. No DDC labels or subjects in this plan."
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-10-04T02:02:12.123863+00:00",
+  "policy_id": "ddc-pilot-section-policy-v2",
+  "reviewer_type": "assistant",
+  "target": "Three-digit DDC section, with main class and division derived by prefix",
+  "schedule": "DDC 23 summary used as section vocabulary; explicit catalog schedule edition retained per record. This is not a claim to have consulted the full current WebDewey schedule.",
+  "rules": [
+    "Prefer same original work and edition language. Preserve translator, volume and commentary differences.",
+    "Use primary institutional DDC fields; a local call number without a declared scheme stays qualified. MDS, LCC, NDC and accession numbers are not silently treated as DDC.",
+    "For modern section diagnostics, Darwin uses 576, supported by OCLC DDC 23 and the BnF DDC 23 facsimile record. Retain the 575 record with schedule edition unknown; do not claim it was proven obsolete.",
+    "For Gandhi, select 954 as a provisional project recommendation based on Hindi autobiography records at IIT Gandhinagar and Tezpur. Keep the LBSNAA 320.55 record as a real catalog-policy conflict. No claim that 954 is uniquely correct for the uploaded translation.",
+    "A related commentary/translation can support a subject hint but cannot verify the uploaded original edition.",
+    "A suggested section does not create human_checked=true, verified_section, capture permission, checked OCR reference or training eligibility.",
+    "All eight already-examined works remain development only. No independent test accuracy is computed from these labels."
+  ],
+  "formal_accuracy_eligible": false,
+  "training_eligible": false
+}

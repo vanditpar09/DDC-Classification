@@ -1,0 +1,791 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-171WZZBP70"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-171WZZBP70');
+</script>  
+<style type="text/css" >
+@font-face {
+	font-family: 'CDAC-GISTYogesh';
+	src: url(https://www.hindisamay.com/CDACGIS0.eot);
+	font-style:  normal;
+	font-weight: normal;
+}
+</style>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<style type="text/css">
+    
+        .styleImg
+        { 	padding-left:2px;
+        	padding-right:2px;
+        	padding-top:6px;
+        	padding-bottom:10px;
+        	position:relative;
+        	z-index:0px;
+        top: 0px;
+        left: 0px;
+        width: 8px;
+        }
+    
+        .textBelowImage 
+        {
+        	position:relative;
+        	z-index:1;
+        }
+        .chapter-link
+        {
+        	color:#98DB78;
+        	text-decoration:none
+        }
+        .style1
+        {
+            text-decoration: none;
+            text-align:center
+            
+        }
+        .hindif1 
+        {
+        	text-align:left;
+        	font-family:Utsaah;
+        	font-size:1.2em;
+        	vertical-align:text-top
+        	
+        }
+        .hindif2 
+        {
+        	text-align:left;
+        	font-family:Utsaah;
+        	font-size:1.4em;
+        	font-weight:bold;
+        	vertical-align:text-top
+        	
+        }
+    .style2
+    {
+        width: 113%;
+    }
+    .style3
+    {
+        FONT-FAMILY: Mangal,CDAC-GISTYogesh,'Arial Unicode MS',Mangal,Tahoma,Verdana,Arial,Helvetica,"Bitstream Vera Sans",sans-serif;
+        color: black;
+        FONT-SIZE: 14px;
+        padding: 10px 10px 10px 25px;
+        width: 113%;
+    }
+    .style4
+    {
+        width: 288px;
+    }
+    .kavita{ 
+        text-indent :0px; 
+        font-size:18px; 
+        COLOR: #000000;
+        TEXT-ALIGN: justify;
+        MARGIN: 5px 20px;
+        FONT-FAMILY: Utsaah,Kokila,CDAC-GISTYogesh,Mangal;
+        FONT-SIZE: 12px;
+        position: relative;
+        top: -40px;
+        left: 40px;
+        right: 40px;
+    }
+    .groupheader{ font-size:22px;}
+    .groupsubheader{font-size:18px; color:Navy;}
+    p { font-size:14px; font-weight:normal}
+    .writeDir {
+        direction: rtl;
+    }
+    </style>
+<script type="text/javascript" >(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/hi_IN/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/jscript" language="javascript">
+    function qs(key) {
+    var vars = [], hash;
+    var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+    for(var i = 0; i < hashes.length; i++)
+    {
+        hash = hashes[i].split('=');
+        vars.push(hash[0]);
+        vars[hash[0]] = hash[1];
+    }
+    return vars[key];
+    }
+
+function ChangeLanguage() {
+       
+        debugger;
+        var cid = 0; var pageno = 0;
+        //txtc_id
+        cid = qs('id');
+        pageno = qs('pageno');
+        //lang = qs('lang');
+        lang = document.getElementById("lang").innerHTML;
+        //alert(cid);
+        //alert(pageno);
+
+        var e = document.getElementById("lang");
+        var lang = e.options[e.selectedIndex].value;
+        //var text = e.options[e.selectedIndex].text;
+    
+    var idx = decodeURIComponent(window.location).indexOf("?");
+   
+    var url = '';
+    if (idx == -1)
+        window.location.href = decodeURIComponent(window.location + "?lang=" + lang);
+    else {
+        url = decodeURIComponent(window.location).substring(0,idx);
+        window.location.href = url + "?lang=" + lang;
+           // alert(url + "?lang=" + lang);
+    }
+    
+        
+    }
+
+var min=12;
+var max=27;
+function increaseFontSize() {
+ 
+   var p = document.getElementsByTagName('p');
+   for(i=0;i<p.length;i++) {
+ 
+      if(p[i].style.fontSize) {
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+      } else {
+ 
+         var s = 12;
+      }
+      if(s!=max) {
+ 
+         s += 1;
+      }
+      p[i].style.fontSize = s+"px"
+ 
+   }
+}
+function decreaseFontSize() {
+   var p = document.getElementsByTagName('p');
+   for(i=0;i<p.length;i++) {
+ 
+      if(p[i].style.fontSize) {
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+      } else {
+ 
+         var s = 12;
+      }
+      if(s!=min) {
+ 
+         s -= 1;
+      }
+      p[i].style.fontSize = s+"px"
+ 
+   }
+
+}
+function print() {
+    var prtContent = document.getElementById("contenttbl");
+    var WinPrint = window.open('', '', 'letf=0,top=0,width=800,height=900,toolbar=0,scrollbars=0,status=0');
+    WinPrint.document.body.style.backgroundImage = 'https://www.hindisamay.com/images/hindisamay.jpg';
+    prtContent.style.backgroundImage = "https://www.hindisamay.com/images/hindisamay.jpg";
+    //prtContent.bgColor = "blue";
+    WinPrint.document.write(prtContent.innerHTML);
+    WinPrint.document.close();
+    WinPrint.focus();
+    WinPrint.print();
+    WinPrint.close();
+}
+function download() {
+    var prtContent = document.getElementById("contenttbl");
+    var WinPrint = window.open('', '', 'letf=0,top=0,width=800,height=900,toolbar=0,scrollbars=0,status=0');
+    
+    WinPrint.document.write(prtContent.innerHTML);
+    WinPrint.document.close();
+    WinPrint.focus();
+    WinPrint.screen();
+    WinPrint.close();
+    
+} 
+    
+function show_hide()
+{
+    if (document.getElementById('write_img').style.display == 'none')
+    {
+        document.getElementById('write_img').style.display = 'block';
+        document.getElementById('hndAvl').style.display = 'none';
+    }
+    else
+    {
+        document.getElementById('write_img').style.display = 'none';
+        document.getElementById('hndAvl').style.display = 'block';
+    }
+}
+</script>
+<link rel="stylesheet" type="text/css" href="https://www.hindisamay.com/hindi-style_c.css"/>
+<style type="text/css">
+.bluehead1{color:White
+           }
+.bluehead1.li.a
+ {color:White;}           
+</style>   
+ <style type="text/css">
+<!--
+.visibleDiv, #topLeft, #topRight, #bottomLeft, #bottomRight
+{
+    position: fixed;
+    width: 50px;
+    border: solid 1px #e1e1e1;
+    vertical-align: middle;
+    background: #ffdab9;
+    text-align: center;
+}
+
+#topLeft
+{
+    top: 10px;
+    left: 10px;
+}
+
+#topRight
+{
+    top: 10px;
+    right: 10px;
+}
+
+#bottomLeft
+{
+    bottom: 10px;
+    left: 10px;
+}
+
+#bottomRight
+{
+    bottom: 10px;
+    right: 10px;
+}
+-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://www.hindisamay.com/menustyle.css"/>
+<script type="text/javascript">
+    // Javascript originally by Patrick Griffiths and Dan Webb.
+    // http://htmldog.com/articles/suckerfish/dropdowns/
+    sfHover = function() {
+        var sfEls = document.getElementById("navbar").getElementsByTagName("li");
+        for (var i = 0; i < sfEls.length; i++) {
+            sfEls[i].onmouseover = function() {
+                this.className += " hover";
+            }
+            sfEls[i].onmouseout = function() {
+                this.className = this.className.replace(new RegExp(" hover\\b"), "");
+            }
+        }
+    }
+    if (window.attachEvent) window.attachEvent("onload", sfHover);
+</script>
+<meta name="keyword" content="प्रेमचंद ,निर्मला,उपन्यास" /><meta name="description" content="प्रेमचंद ,निर्मला,उपन्यास,निर्मला - प्रेमचंद  | Nirmala - Premchand " /><title>
+	प्रेमचंद    निर्मला उपन्यास
+</title></head>
+<body style ="background-color:#DEE7DE">
+    <form method="post" action="../../../contentDetail.aspx?id=259&amp;pageno=11&amp;lang=hi" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTEyOTkyODU1Mg9kFgJmD2QWAgIDD2QWAgIHD2QWEgIBDxYCHglpbm5lcmh0bWwFFeCkieCkquCkqOCljeCkr+CkvuCkuGQCAw8WAh8ABRXgpKjgpL/gpLDgpY3gpK7gpLLgpL5kAgUPFgIfAAUZ4KSq4KWN4KSw4KWH4KSu4KSa4KSC4KSmIGQCBw8WAh4HVmlzaWJsZWhkAgkPFgIfAWhkAg0PZBYCAgMPDxYCHgRUZXh0BRXgpIXgpKfgpY3gpK/gpL7gpK8gMTFkZAIPDxYCHgVzdHlsZQVRZmxvYXQ6bGVmdDt3aWR0aDoxNDVweDtib3JkZXI6c29saWQgMHB4O3Bvc2l0aW9uOnJlbGF0aXZlO3otaW5kZXg6MDtkaXNwbGF5Om5vbmU7FgQCAQ8PFgIfAWhkZAIDDw8WAh8BaGRkAhEPDxYCHwIFj+UCPGJyLz48cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7dGV4dC1pbmRlbnQgOiAwcHg7ICI+DQoJ4KSw4KWB4KSV4KWN4KSu4KS/4KSj4KWAIOCkqOClhyDgpKjgpL/gpLDgpY3gpK7gpLLgpL4g4KS44KWHIOCkpOCljeCkr+CljOCksOCkv+Ckr+CkvuCkgiDgpKzgpKbgpLLgpJXgpLAg4KSV4KS54KS+LSDgpJXgpY3gpK/gpL4g4KSo4KSC4KSX4KWHIOCkquCkvuCkguCktSDgpLngpYAg4KSu4KSm4KSw4KS44KWHIOCknOCkvuCkj+Clh+Ckl+Ckvj88L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KSo4KS/4KSw4KWN4KSu4KSy4KS+IOCkqOClhyDgpKzgpJrgpY3gpJrgpYAg4KSV4KWHIOCkrOCkvuCksiDgpJfgpYLgpILgpKXgpKTgpYcg4KS54KWB4KSPIOCkleCkueCkvi0g4KSu4KWI4KSCIOCkleCljeCkr+CkviDgpJXgpLDgpYHgpII/IOCkruClh+CksOClhyDgpKrgpL7gpLgg4KSw4KWB4KSq4KSv4KWHIOCkqOCkueClgOCkgiDgpLngpYjgpILgpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KSw4KWB4KSV4KWN4KSu4KS/4KSj4KWALSDgpJfgpLngpKjgpYcg4KSs4KSo4KS14KS+4KSo4KWHIOCkleCliyDgpLDgpYHgpKrgpK/gpYcg4KSc4KWB4KSh4KS84KSk4KWHIOCkueCliOCkgiwg4KSy4KSh4KS84KSV4KWHIOCkleClhyDgpJzgpYLgpKTgpYvgpIIg4KSV4KWHIOCksuCkv+CkjyDgpLDgpYHgpKrgpK/gpYvgpIIg4KSu4KWH4KSCIOCkhuCklyDgpLLgpJcg4KSc4KS+4KSk4KWAIOCkueCliOClpCDgpKbgpYsg4KSk4KWLIOCkmuCksuClhyDgpLngpYAg4KSX4KSv4KWHLCDgpJXgpY3gpK/gpL4g4KSk4KWA4KS44KSw4KWHIOCkleCliyDgpK3gpYAg4KSw4KWB4KSy4KS+LeCksOClgeCksuCkvuCkleCksCDgpK7gpL7gpLAg4KSh4KS+4KSy4KSo4KWHIOCkleCkviDgpIfgpLDgpL7gpKbgpL4g4KS54KWIPzwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpKjgpL/gpLDgpY3gpK7gpLLgpL4g4KSo4KWHIOCkj+CklSDgpLjgpL7gpILgpLgg4KSW4KWA4KSC4KSa4KSV4KSwIOCkleCkueCkvi0g4KSc4KS/4KS44KSV4KWLIOCknOClgOCkqOCkviDgpLngpYgsIOCknOCkv+Ckr+Clh+Ckl+Ckviwg4KSc4KS/4KS44KSV4KWLIOCkruCksOCkqOCkviDgpLngpYgsIOCkruCksOClh+Ckl+CkvuClpCDgpK7gpYjgpIIg4KSV4KS/4KS44KWAIOCkleCliyDgpK7gpL7gpLDgpKjgpYct4KSc4KS/4KSy4KS+4KSo4KWHIOCkqOCkueClgOCkgiDgpJzgpL7gpKTgpYDgpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KSG4KSc4KSV4KSyIOCkj+CklS3gpKgt4KSP4KSVIOCkrOCkvuCkpCDgpKrgpLAg4KSo4KS/4KSw4KWN4KSu4KSy4KS+IOCklOCksCDgpLDgpYHgpJXgpY3gpK7gpL/gpKPgpYAg4KSu4KWH4KSCIOCksOCli+CknCDgpLngpYAg4KSd4KSh4KS84KSqIOCkueCliyDgpJzgpL7gpKTgpYAg4KSl4KWA4KWkIOCknOCkrCDgpLjgpYcg4KSX4KS54KSo4KWHIOCkmuCli+CksOClgCDgpJfgpK/gpYcg4KS54KWI4KSCLCDgpKjgpL/gpLDgpY3gpK7gpLLgpL4g4KSV4KS+IOCkuOCljeCkteCkreCkvuCktSDgpKzgpL/gpLLgpJXgpYHgpLIg4KSs4KSm4KSyIOCkl+Ckr+CkviDgpLngpYjgpaQg4KS14KS5IOCkj+CklS3gpI/gpJUg4KSV4KWM4KSh4KS84KWAIOCkpuCkvuCkguCkpCDgpLjgpYcg4KSq4KSV4KSh4KS84KSo4KWHIOCksuCkl+ClgCDgpLngpYjgpaQg4KS44KS/4KSv4KS+4KSw4KS+4KSuIOCksOCli+CkpOClhy3gpLDgpYvgpKTgpYcg4KSa4KS54KWHIOCknOCkvuCkqCDgpKbgpYcg4KSm4KWHLCDgpK7gpJfgpLAg4KSJ4KS44KWHIOCkruCkv+CkoOCkvuCkiCDgpJXgpYcg4KSy4KS/4KSPIOCkquCliOCkuOClhyDgpKjgpLngpYDgpIIg4KSu4KS/4KSy4KSk4KWHIOCklOCksCDgpK/gpLkg4KSs4KSw4KWN4KSk4KS+4KS1IOCkleClgeCkmyDgpLjgpL/gpK/gpL7gpLDgpL7gpK4g4KS54KWAIOCkleClhyDgpLjgpL7gpKUg4KSo4KS54KWA4KSCIOCkueCliCwg4KSo4KS/4KSw4KWN4KSu4KSy4KS+IOCkuOCljeCkteCkr+CkgiDgpIXgpKrgpKjgpYAg4KSc4KSw4KWB4KSw4KSk4KWL4KSCIOCkleCliyDgpJ/gpL7gpLLgpKTgpYAg4KSw4KS54KSk4KWAIOCkueCliOClpCDgpKfgpYvgpKTgpYAg4KSc4KSsIOCkpOCklSDgpKvgpJ/gpJXgpKjgpLAg4KSk4KS+4KSwLeCkpOCkvuCksCDgpKgg4KS54KWLIOCknOCkvuCkj+Clhywg4KSo4KSv4KWAIOCkp+Cli+CkpOClgCDgpKjgpLngpYDgpIIg4KSG4KSk4KWA4KWkIOCkruCkueClgOCkqOCli+CkgiDgpLjgpL/gpLAg4KSV4KS+IOCkpOClh+CksiDgpKjgpLngpYDgpIIg4KSu4KSC4KSX4KS+4KSv4KS+IOCknOCkvuCkpOCkvuClpCDgpKrgpL7gpKgg4KSW4KS+4KSo4KWHIOCkleCkviDgpIngpLjgpYcg4KS24KWM4KSVIOCkpeCkviwg4KSV4KSILeCkleCkiCDgpKbgpL/gpKgg4KSk4KSVIOCkquCkvuCkqOCkpuCkvuCkqCDgpJbgpL7gpLLgpYAg4KSq4KSh4KS84KS+IOCksOCkueCkpOCkviDgpLngpYgsIOCkr+CkueCkvuCkgiDgpKTgpJUg4KSV4KS/IOCkrOCkmuCljeCkmuClgCDgpJXgpYcg4KSy4KS/4KSPIOCkpuClguCkpyDgpK3gpYAg4KSo4KS54KWA4KSCIOCkhuCkpOCkvuClpCDgpKjgpKjgpY3gpLngpYcg4KS44KWHIOCktuCkv+CktuClgSDgpJXgpL4g4KSt4KS14KS/4KS34KWN4KSvIOCkteCkv+CksOCkvuCkn+CljSDgpLDgpYHgpKog4KSn4KS+4KSw4KSjIOCkleCksOCkleClhyDgpIngpLjgpJXgpYcg4KS14KS/4KSa4KS+4KSwLeCkleCljeCkt+Clh+CkpOCljeCksCDgpKrgpLAg4KSu4KSC4KSh4KSw4KS+4KSk4KS+IOCksOCkueCkpOCkviDgpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KSu4KWB4KSC4KS24KWA4KSc4KWAIOCkqOClhyDgpIXgpKrgpKjgpYcg4KSV4KWLIOCkuOCkruCljeCkquClguCksOCljeCko+CkpOCkr+CkviDgpKjgpL/gpLDgpY3gpK7gpLLgpL4g4KSV4KWHIOCkueCkvuCkpeCli+CkgiDgpK7gpYcg4KS44KWM4KSC4KSqIOCkpuCkv+Ckr+CkviDgpLngpYjgpaQg4KSJ4KS44KSV4KWHIOCkleCkv+CkuOClgCDgpJXgpL7gpK4g4KSu4KWH4KSCIOCkpuCkluCksiDgpKjgpLngpYDgpIIg4KSm4KWH4KSk4KWH4KWkIOCkqCDgpJzgpL7gpKjgpYcg4KSV4KWN4KSv4KWL4KSCIOCkieCkuOCkuOClhyDgpJXgpYHgpJsg4KSm4KSs4KWHIOCksOCkueCkpOClhyDgpLngpYjgpILgpaQg4KS14KS5IOCkheCkrCDgpKzgpL/gpKjgpL4g4KSo4KS+4KSX4KS+IOCkleCkmuCkueCksOClgCDgpJzgpL7gpKTgpYcg4KS54KWI4KSC4KWkIOCkh+CkpOCkqOClgCDgpK7gpYfgpLngpKjgpKQg4KSJ4KSo4KWN4KS54KWL4KSC4KSo4KWHIOCknOCkteCkvuCkqOClgCDgpK7gpYfgpIIg4KSt4KWAIOCkqCDgpJXgpYAg4KSl4KWA4KWkIOCkhuCkguCkluClh+CkgiDgpJbgpLDgpL7gpKwg4KS54KWLIOCkl+Ckr+ClgCDgpLngpYjgpIIsIOCkoeClieCkleCljeCkn+CksCDgpLjgpL/gpKjgpY3gpLngpL4g4KSo4KWHIOCksOCkvuCkpCDgpJXgpYsg4KSy4KS/4KSW4KSo4KWHLeCkquCkouCkvOCkqOClhyDgpJXgpYAg4KSu4KWB4KSu4KWB4KSo4KS/4KSv4KSkIOCkleCksCDgpKbgpYAg4KS54KWILCDgpKrgpL7gpJrgpKjgpLbgpJXgpY3gpKTgpL8g4KSq4KS54KSy4KWHIOCkueClgCDgpKbgpYHgpLDgpY3gpKzgpLIg4KSl4KWALCDgpIXgpKwg4KSU4KSwIOCkreClgCDgpJbgpLDgpL7gpKwg4KS54KWLIOCkl+Ckr+ClgCDgpLngpYgsIOCkpuCkruClh+CkgiDgpJXgpYAg4KS24KS/4KSV4KS+4KSv4KSkIOCkreClgCDgpKrgpYjgpKbgpL4g4KS54KWAIOCkmuCksuClgCDgpLngpYgsIOCkquCksCDgpKzgpYfgpJrgpL7gpLDgpYcg4KS44KSs4KWH4KSw4KWHIOCkuOClhyDgpIbgpKfgpYAt4KSG4KSn4KWAIOCksOCkvuCkpCDgpKTgpJUg4KSV4KS+4KSuIOCkleCksOCkpOClhyDgpLngpYjgpILgpaQg4KSV4KS+4KSuIOCkleCksOCkqOClhyDgpJXgpYsg4KSc4KWAIOCkmuCkvuCkueClhyDgpK/gpL4g4KSoIOCkmuCkvuCkueClhywg4KSk4KSs4KWA4KSv4KSkIOCkheCkmuCljeCkm+ClgCDgpLngpYsg4KSv4KS+IOCkqCDgpLngpYssIOCkleCkvuCkriDgpJXgpLDgpKjgpL4g4KS54KWAIOCkquCkoeCkvOCkpOCkviDgpLngpYjgpaQg4KSo4KS/4KSw4KWN4KSu4KSy4KS+IOCkleCliyDgpIngpKgg4KSq4KSwIOCknOCksOCkviDgpK3gpYAg4KSm4KSv4KS+IOCkhuCkpOClgOClpCDgpLXgpLngpYAg4KSt4KS14KS/4KS34KWN4KSvIOCkleClgCDgpK3gpYDgpLfgpKMg4KSa4KS/4KSo4KWN4KSk4KS+IOCkieCkuOCkleClhyDgpIbgpKjgpY3gpKTgpLDgpL/gpJUg4KS44KSm4KWN4KSt4KS+4KS14KWL4KSCIOCkleCliyDgpLjgpLDgpY3gpLXgpKjgpL7gpLYg4KSV4KSwIOCksOCkueClgCDgpLngpYjgpaQg4KSV4KS/4KS44KWAIOCkreCkv+CkleCljeCkt+ClgeCklSDgpJXgpYAg4KSG4KS14KS+4KScIOCkuOClgeCkqOCkleCksCDgpJ3gpLLgpY3gpLLgpL4g4KSq4KSh4KS84KSk4KWAIOCkueCliOClpCDgpLXgpLkg4KSP4KSVIOCkleCli+CkoeCkvOClgCDgpK3gpYAg4KSW4KSw4KWN4KSaIOCkleCksOCkqOCkviDgpKjgpLngpYDgpIIg4KSa4KS+4KS54KSk4KWAIOClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpI/gpJUg4KSm4KS/4KSoIOCkqOCkv+CksOCljeCkruCksuCkviDgpKjgpYcg4KS44KS/4KSv4KS+4KSw4KS+4KSuIOCkleCliyDgpJjgpYAg4KSy4KS+4KSo4KWHIOCkleClhyDgpLLgpL/gpI8g4KSs4KS+4KSc4KS+4KSwIOCkreClh+CknOCkvuClpCDgpK3gpYLgpILgpJfgpYAg4KSq4KSwIOCkieCkqOCkleCkviDgpLXgpL/gpLbgpY3gpLXgpL7gpLgg4KSoIOCkpeCkviwg4KSJ4KS44KS44KWHIOCkheCkrCDgpJXgpYvgpIgg4KS44KWM4KSm4KS+IOCkqCDgpK7gpL7gpILgpJfgpKTgpYAg4KSl4KWA4KWkIOCkuOCkv+Ckr+CkvuCksOCkvuCkriDgpK7gpYfgpIIg4KSV4KS+4KSfLeCkleCkquCknyDgpJXgpYAg4KSG4KSm4KSkIOCkqCDgpKXgpYDgpaQg4KSU4KSo4KWHLeCkquCljOCkqOClhyDgpJXgpLDgpKjgpL4g4KSoIOCknOCkvuCkqOCkpOCkviDgpKXgpL7gpaQg4KSq4KWN4KSw4KS+4KSvOiDgpKzgpL7gpJzgpL7gpLAg4KSV4KS+IOCkuOCkvuCksOCkviDgpJXgpL7gpK4g4KSJ4KS44KWAIOCkleCliyDgpJXgpLDgpKjgpL4g4KSq4KSh4KS84KSk4KS+4KWkIOCkqOCkv+CksOCljeCkruCksuCkviDgpI/gpJUt4KSP4KSVIOCkmuClgOCknCDgpJXgpYsg4KSk4KWL4KSy4KSk4KWALCDgpJzgpLDgpL4g4KSt4KWAIOCkleCli+CkiCDgpJrgpYDgpJwg4KSk4KWL4KSyIOCkruClh+CkgiDgpJXgpK4g4KSq4KSh4KS84KSk4KWALCDgpKTgpYsg4KSJ4KS44KWHIOCksuCljOCkn+CkviDgpKbgpYfgpKTgpYDgpaQg4KS44KS/4KSv4KS+4KSw4KS+4KSuIOCkleCkviDgpKzgpLngpYHgpKQt4KS44KS+IOCkuOCkruCkryDgpIfgpLjgpYAg4KSy4KWM4KSfLeCkq+Clh+CksOClgCDgpK7gpYfgpIIg4KSs4KWA4KSkIOCknOCkvuCkpOCkviDgpKXgpL7gpaQg4KSs4KS+4KSc4KS+4KSwIOCkteCkvuCksuClhyDgpIngpLjgpYcg4KSc4KSy4KWN4KSm4KWAIOCkleCli+CkiCDgpLjgpYzgpKbgpL4g4KSoIOCkpuClh+CkpOClh+ClpCDgpIbgpJwg4KSt4KWAIOCkteCkueClgCDgpKjgpYzgpKzgpKQg4KSG4KSv4KWA4KWkIOCkuOCkv+Ckr+CkvuCksOCkvuCkriDgpIXgpKrgpKjgpYcg4KS14KS/4KSa4KS+4KSwIOCkuOClhyDgpKzgpLngpYHgpKQg4KSF4KSa4KWN4KSb4KS+IOCkmOClgCwg4KSV4KSIIOCkpuClguCkleCkvuCksOCkqCDgpLjgpYcg4KSm4KWH4KSW4KSV4KSwIOCksuCkvuCkr+Ckviwg4KSy4KWH4KSV4KS/4KSoIOCkqOCkv+CksOCljeCkruCksuCkviDgpKjgpYcg4KSJ4KS44KWHIOCkuOClguCkguCkmOCkpOClhyDgpLngpYAg4KSV4KS54KS+LSDgpJjgpYAg4KSW4KSw4KS+4KSsIOCkueCliCwg4KSy4KWM4KSf4KS+IOCkhuCkk+ClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL/gpK/gpL7gpLDgpL7gpK4g4KSo4KWHIOCkneClgeCkguCkneCksuCkvuCkleCksCDgpJXgpLngpL4tIOCkh+CkuOCkuOClhyDgpIXgpJrgpY3gpJvgpL4g4KSY4KWAIOCkrOCkvuCknOCkvuCksCDgpK7gpYfgpIIg4KSo4KS54KWA4KSCIOCkueCliCwg4KSu4KWI4KSCIOCkuOCkvuCksOClgCDgpKbgpYLgpJXgpL7gpKjgpYcg4KSm4KWH4KSW4KSV4KSwIOCksuCkvuCkr+CkviDgpLngpYLgpII/PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkqOCkv+CksOCljeCkruCksuCkvi0g4KSk4KWLIOCkruCliOCkgiDgpJ3gpYLgpKAg4KSV4KS54KSk4KWAIOCkueClguCkgj88L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS/4KSv4KS+4KSw4KS+4KSuLSDgpK/gpLkg4KSu4KWI4KSCIOCkqOCkueClgOCkgiDgpJXgpLngpKTgpL4sIOCksuClh+CkleCkv+CkqCDgpKzgpKjgpL/gpK/gpL4g4KSF4KSsIOCkmOClgCDgpLXgpL7gpKrgpL/gpLgg4KSoIOCksuClh+Ckl+CkvuClpCDgpIngpLjgpKjgpYcg4KSu4KWB4KSd4KS44KWHIOCkleCkueCkviDgpKXgpL4sIOCknOCkv+CkuCDgpKTgpLDgpLkg4KSm4KWH4KSW4KSo4KS+IOCkmuCkvuCkueCliywg4KSv4KS54KWA4KSCIOCkpuClh+CkluCliywg4KSu4KS+4KSyIOCkpOClgeCkruCljeCkueCkvuCksOClhyDgpLjgpL7gpK7gpKjgpYcg4KS54KWI4KWkIOCkrOCli+CkueCkv+CkqOClgC3gpKzgpJ/gpY3gpJ/gpYcg4KSV4KWHIOCkteCkleCljeCkpCDgpK7gpYfgpIIg4KS44KWM4KSm4KS+IOCkteCkvuCkquCkuCDgpKgg4KSy4KWC4KSC4KSX4KS+4KWkIOCkruCliOCkguCkqOClhyDgpLjgpYLgpILgpJjgpJXgpLAsIOCkmuCkluCkleCksCDgpLLgpL/gpK/gpL7gpaQg4KSF4KSsIOCkleCkv+CkuCDgpK7gpYHgpILgpLkg4KS44KWHIOCksuCljOCkn+CkqOClhyDgpJzgpL7gpIo/PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkqOCkv+CksOCljeCkruCksuCkviDgpKjgpYcg4KSm4KS+4KSC4KSkIOCkquClgOCkuOCkleCksCDgpJXgpLngpL4tIOCkmOClgCDgpK7gpYfgpIIg4KS44KS+4KSrIOCkmuCksOCkrOClgCDgpK7gpL/gpLLgpYAg4KS54KWB4KSIIOCkueCliCDgpJTgpLAg4KSk4KWB4KSuIOCkleCkueCkpOClhyDgpLngpYssIOCkmOClgCDgpIXgpJrgpY3gpJvgpL4g4KS54KWI4KWkIOCkruCliOCkgiDgpIfgpLjgpYcg4KSw4KS44KWL4KSIIOCkruClh+CkgiDgpKgg4KSy4KWHIOCknOCkvuCkiuCkguCkl+ClgCwg4KSk4KWB4KSu4KWN4KS54KS+4KSw4KS+IOCknOClgCDgpJrgpL7gpLngpYcg4KSy4KWM4KSf4KS+IOCkpuCliywg4KSa4KS+4KS54KWHIOCkluCkviDgpJzgpL7gpJPgpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KSY4KWAIOCkleClgCDgpLngpL7gpILgpKHgpLzgpYAg4KS14KS54KWA4KSCIOCkm+Cli+CkoeCkvOCkleCksCDgpKjgpL/gpLDgpY3gpK7gpLLgpL4g4KSY4KSwIOCkruClh+CkgiDgpJrgpLLgpYAg4KSX4KSv4KWA4KWkIOCkuOCkv+Ckr+CkvuCksOCkvuCkriDgpJXgpY3gpLDgpYvgpKcg4KSU4KSwIOCkleCljeCkt+Cli+CkrSDgpLjgpYcg4KSV4KS+4KSk4KSwIOCkueCliyDgpIngpKDgpL7gpaQg4KS14KS5IOCkleCljOCkqCDgpK7gpYHgpILgpLkg4KSy4KWH4KSV4KSwIOCksuCljOCkn+CkvuCkqOClhyDgpJzgpL7gpI/gpYc/IOCkrOCkqOCkv+Ckr+CkviDgpLjgpL7gpKsg4KSV4KS5IOCkpuClh+Ckl+Ckvi0g4KSu4KWI4KSCIOCkqOCkueClgOCkgiDgpLLgpYzgpJ/gpL7gpKTgpL7gpaQg4KSk4KSsIOCkteCkuSDgpJXgpY3gpK/gpL4g4KSV4KSw4KWH4KSX4KS+PyDgpIbgpLgt4KSq4KS+4KS4IOCkleClhyDgpKbgpLgt4KSq4KS+4KSC4KSaIOCkrOCkqOCkv+Ckr+ClhyDgpJTgpLAg4KS44KSh4KS84KSVIOCkquCksCDgpJrgpLLgpKjgpYcg4KS14KS+4KSy4KWHIOCkhuCkpuCkruClgCDgpJbgpL7gpKHgpLzgpYcg4KS54KWLIOCknOCkvuCkj+Clh+CkguCkl+Clh+ClpCDgpIngpKgg4KS44KSs4KWL4KSCIOCkleClhyDgpLjgpL7gpK7gpKjgpYcg4KSJ4KS44KWHIOCksuCknOCljeCknOCkv+CkpCDgpLngpYvgpKjgpL4g4KSq4KSh4KS84KWH4KSX4KS+4KWkIOCkrOCkvuCknOCkvuCksCDgpK7gpYfgpIIg4KSv4KWL4KSCIOCkueClgCDgpJXgpYvgpIgg4KSs4KSo4KS/4KSv4KS+IOCkieCkuOClhyDgpJzgpLLgpY3gpKbgpYAg4KS44KWM4KSm4KS+IOCkqOCkueClgOCkgiDgpKbgpYfgpKTgpL4sIOCkteCkuSDgpJXgpL/gpLjgpYAg4KSm4KWC4KSV4KS+4KSoIOCkquCksCDgpJbgpKHgpLzgpL4g4KS54KWL4KSo4KWHIOCkqOCkueClgOCkgiDgpKrgpL7gpKTgpL7gpaQg4KSa4KS+4KSw4KWL4KSCIOCkk+CksCDgpLjgpYcg4KSJ4KS44KWAIOCkquCksCDgpLLgpKTgpL7gpKHgpLwg4KSq4KSh4KS84KWH4KSX4KWA4KWkIOCkieCkuOCkqOClhyDgpK7gpKgt4KS54KWALeCkruCkqCDgpJ3gpYHgpILgpJ3gpLLgpL7gpJXgpLAg4KSV4KS54KS+LSDgpKrgpKHgpLzgpL4g4KSw4KS54KWHIOCkmOClgCwg4KSu4KWI4KSCIOCksuCljOCkn+CkvuCkqOClhyDgpKgg4KSc4KS+4KSK4KSC4KSX4KS+4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkruCkvuCkpOClgy3gpLngpYDgpKgg4KSs4KS+4KSy4KSVIOCkleClhyDgpLjgpK7gpL7gpKgg4KSm4KWB4KSW4KWALCDgpKbgpYDgpKgt4KSq4KWN4KSw4KS+4KSj4KWAIOCkuOCkguCkuOCkvuCksCDgpK7gpYfgpIIg4KSm4KWC4KS44KSw4KS+IOCkqOCkueClgOCkgiDgpLngpYvgpKTgpL4g4KSU4KSwIOCkuOCkvuCksOClhyDgpKbgpYE64KSWIOCkreClguCksiDgpJzgpL7gpKTgpYcg4KS54KWI4KSC4KWkIOCkrOCkvuCksuCklSDgpJXgpYsg4KSu4KS+4KSk4KS+IOCkr+CkvuCkpiDgpIbgpK/gpYAsIOCkheCkruCljeCkruCkvuCkgiDgpLngpYvgpKTgpYAsIOCkpOCliyDgpJXgpY3gpK/gpL4g4KSG4KScIOCkruClgeCkneClhyDgpK/gpLkg4KS44KSsIOCkuOCkueCkqOCkviDgpKrgpKHgpLzgpKTgpL4/IOCkreCliOCkr+CkviDgpJrgpLLgpYcg4KSX4KSv4KWHLCDgpK7gpYjgpIIg4KS54KWAIOCkheCkleClh+CksuCkviDgpK/gpLkg4KS14KS/4KSq4KSk4KWN4KSk4KS/IOCkuOCkueCkqOClhyDgpJXgpYcg4KSy4KS/4KSPIOCkleCljeCkr+Cli+CkgiDgpKzgpJrgpL4g4KSw4KS54KS+PyDgpLjgpL/gpK/gpL7gpLDgpL7gpK4g4KSV4KWAIOCkhuCkguCkluCli+CkgiDgpK7gpYfgpIIg4KSG4KSC4KS44KWCIOCkleClgCDgpJ3gpKHgpLzgpYAg4KSy4KSXIOCkl+Ckr+ClgOClpCDgpIngpLjgpJXgpYcg4KS24KWL4KSVIOCkleCkvuCkpOCksCDgpJXgpKPgpY3gpKAg4KS44KWHIOCkj+CklSDgpJfgpLngpLDgpYcg4KSo4KS/OuCktuCljeCkteCkvuCkuCDgpJXgpYcg4KS44KS+4KSlIOCkruCkv+CksuClhyDgpLngpYHgpI8g4KSv4KWHIOCktuCkrOCljeCkpiDgpKjgpL/gpJXgpLIg4KSG4KSv4KWHLSDgpIXgpK7gpY3gpK7gpL7gpIIhIOCkpOClgeCkriDgpK7gpYHgpJ3gpYcg4KSt4KWC4KSyIOCkleCljeCkr+Cli+CkgiDgpJfgpK/gpYDgpIIsIOCkleCljeCkr+Cli+CkgiDgpKjgpLngpYDgpIIg4KSs4KWB4KSy4KS+IOCksuClh+CkpOClgOCkgj88L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS54KS44KS+IOCkqOCkv+CksOCljeCkruCksuCkviDgpKvgpL/gpLAg4KSV4KSu4KSw4KWHIOCkleClgCDgpKTgpLDgpKsg4KSG4KSv4KWA4KWkIOCkieCkuOCkqOClhyDgpLjgpK7gpJ3gpL4g4KSl4KS+LCDgpLjgpL/gpK/gpL7gpLDgpL7gpK4g4KSa4KSy4KS+IOCkl+Ckr+CkviDgpLngpYvgpJfgpL7gpaQg4KSJ4KS44KWHIOCkrOCliOCkoOCkviDgpKbgpYfgpJbgpL4sIOCkpOCliyDgpJfgpYHgpLjgpY3gpLjgpYcg4KS44KWHIOCkrOCli+CksuClgC0g4KSk4KWB4KSuIOCkheCkreClgCDgpKTgpJUg4KSs4KWI4KSg4KWHIOCkueClgCDgpLngpYs/IOCkhuCkluCkv+CksCDgpJbgpL7gpKjgpL4g4KSV4KSsIOCkrOCkqOClh+Ckl+Ckvj88L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS/4KSv4KS+4KSw4KS+4KSuIOCkqOClhyDgpIbgpILgpJbgpYfgpIIg4KSq4KWL4KSC4KShIOCkoeCkvuCksuClgOCkguClpCDgpKzgpYvgpLLgpL4tIOCkruClgeCkneClhyDgpLjgpY3gpJXgpYLgpLIg4KSc4KS+4KSo4KWHIOCkruClh+CkgiDgpKbgpYfgpLAg4KS54KWLIOCknOCkvuCkj+Clh+Ckl+ClgOClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpKjgpL/gpLDgpY3gpK7gpLLgpL4tIOCkj+CklSDgpKbgpL/gpKgg4KSm4KWH4KSwIOCkueCliyDgpJzgpL7gpI/gpYfgpJfgpYAg4KSk4KWLIOCkleCljOCkqCDgpLngpLDgpJwg4KS54KWIPyDgpK/gpLkg4KSt4KWAIOCkpOCliyDgpJjgpLAg4KS54KWAIOCkleCkviDgpJXgpL7gpK4g4KS54KWIPzwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL/gpK/gpL7gpLDgpL7gpK4tIOCksOCli+CknCDgpKTgpYsg4KSv4KS54KWAIOCkp+CkqOCljeCkp+CkviDgpLLgpJfgpL4g4KSw4KS54KSk4KS+IOCkueCliOClpCDgpJXgpK3gpYAg4KS14KSV4KWN4KSkIOCkquCksCDgpLjgpY3gpJXgpYLgpLIg4KSo4KS54KWA4KSCIOCkquCkueClgeCkguCkmuCkpOCkvuClpCDgpJjgpLAg4KSq4KSwIOCkreClgCDgpKrgpKLgpLzgpKjgpYcg4KSV4KS+IOCkteCkleCljeCkpCDgpKjgpLngpYDgpIIg4KSu4KS/4KSy4KSk4KS+4KWkIOCkleCli+CkiCDgpLjgpYzgpKbgpL4g4KSm4KWLLeCkmuCkvuCksCDgpKzgpL7gpLAg4KSy4KWM4KSf4KS+4KSv4KWHIOCkrOCkv+CkqOCkviDgpKjgpLngpYDgpIIg4KSc4KS+4KSk4KS+4KWkIOCkoeCkvuCkguCknyDgpKTgpYsg4KSu4KWB4KSdIOCkquCksCDgpKrgpKHgpLzgpKTgpYAg4KS54KWILCDgpLbgpLDgpY3gpK7gpL/gpILgpKbgpL4g4KSk4KWLIOCkruClgeCkneClhyDgpLngpYvgpKjgpL4g4KSq4KSh4KS84KSk4KS+IOCkueCliCwg4KSG4KSq4KSV4KWLIOCkleCljeCkr+Ckvj88L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KSo4KS/4KSw4KWN4KSu4KSy4KS+LSDgpLngpL7gpIIsIOCkruClgeCkneClhyDgpJXgpY3gpK/gpL4/IOCkruCliOCkgiDgpKTgpYsg4KSk4KWB4KSu4KWN4KS54KS+4KSw4KWAIOCkpuClgeCktuCljeCkruCkqCDgpKDgpLngpLDgpYAhIOCkheCkquCkqOCkviDgpLngpYvgpKTgpL4sIOCkpOCkrCDgpKTgpYsg4KSJ4KS44KWHIOCkpuClgTrgpJYg4KS54KWL4KSk4KS+4KWkIOCkruCliOCkgiDgpKTgpYsg4KSI4KS24KWN4KS14KSwIOCkuOClhyDgpK7gpL7gpKjgpL7gpK/gpL4g4KSV4KSw4KSk4KWAIOCkueClguCkgiDgpJXgpL8g4KSk4KWB4KSuIOCkquCkouCkvC3gpLLgpL/gpJYg4KSoIOCkuOCkleCli+ClpCDgpK7gpYHgpJ3gpK7gpYfgpIIg4KS44KS+4KSw4KWAIOCkrOClgeCksOCkvuCkh+Ckr+CkvuCkgi3gpLngpYAt4KSs4KWB4KSw4KS+4KSH4KSv4KS+4KSCIOCkueCliOCkgiwg4KSk4KWB4KSu4KWN4KS54KS+4KSw4KS+IOCkleCli+CkiCDgpJXgpLjgpYLgpLAg4KSo4KS54KWA4KSC4KWkIOCkteCkv+CkruCkvuCkpOCkviDgpJXgpL4g4KSo4KS+4KSuIOCkueClgCDgpKzgpYHgpLDgpL4g4KS54KWL4KSk4KS+IOCkueCliOClpCDgpIXgpKrgpKjgpYAg4KSu4KS+4KSCIOCkteCkv+CktyDgpK3gpYAg4KSW4KS/4KSy4KS+4KSv4KWHLCDgpKTgpYsg4KSF4KSu4KWD4KSkIOCkueCliOCkgjsg4KSu4KWI4KSCIOCkheCkruClg+CkpCDgpK3gpYAg4KSq4KS/4KSy4KS+4KSK4KSCLCDgpKTgpYsg4KS14KS/4KS3IOCkueCliyDgpJzgpL7gpI/gpYfgpJfgpL7gpaQg4KSk4KWB4KSuIOCksuCli+Ckl+Cli+CkgiDgpJXgpYcg4KSV4KS+4KSw4KSjIOCkruClh+CkgiDgpK7gpL/gpJ/gpY3gpJ/gpYAg4KSu4KWH4KSCIOCkruCkv+CksiDgpJfgpK/gpYAsIOCksOCli+CkpOClhy3gpLDgpYvgpKQg4KSJ4KSu4KWN4KSwIOCkleCkvuCkn+ClgCDgpJzgpL7gpKTgpYAg4KS54KWILCDgpK7gpL7gpLLgpYLgpK4g4KS54KWAIOCkqCDgpLngpYHgpIYg4KSV4KS/IOCkreCkl+CkteCkvuCkqCDgpKjgpYcg4KSV4KS/4KS44KSy4KS/4KSPIOCknOCkqOCljeCkriDgpKbgpL/gpK/gpL4g4KSl4KS+IOCklOCksCDgpKTgpYHgpK7gpY3gpLngpL7gpLDgpYAg4KS44KSu4KSdIOCkruClh+CkgiDgpK7gpYjgpIIg4KS14KS/4KS54KS+4KSwIOCkleCksCDgpLDgpLngpYAg4KS54KWC4KSC4KWkIOCkpOClgeCkruCljeCkueClh+CkgiDgpLjgpKTgpL7gpKjgpYcg4KSu4KWH4KSCIOCkruClgeCkneClhyDgpKzgpKHgpLzgpL4g4KSu4KSc4KS+IOCkhuCkpOCkviDgpLngpYjgpaQg4KSt4KSX4KS14KS+4KSo4KWNIOCkreClgCDgpKjgpLngpYDgpIIg4KSq4KWC4KSb4KSk4KWHIOCkleCkvyDgpLjgpL7gpLDgpYAg4KS14KS/4KSq4KSk4KWN4KSk4KS/IOCkleCkviDgpIXgpKjgpY3gpKQg4KS54KWLIOCknOCkvuCkpOCkvuClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpK/gpLkg4KSV4KS54KSk4KWHLeCkleCkueCkpOClhyDgpKjgpL/gpLDgpY3gpK7gpLLgpL4g4KSV4KWAIOCkhuCkguCkluClh+CkgiDgpK3gpLAg4KSG4KSv4KWA4KWkIOCkheCkqOCljeCkpuCksCDgpJrgpLLgpYAg4KSX4KSv4KWA4KWkIOCkuOCkv+Ckr+CkvuCksOCkvuCkriDgpIngpLjgpJXgpYsg4KSw4KWL4KSk4KWHIOCkpuClh+CkluCkleCksCDgpLjgpLngpK4g4KSJ4KSg4KS+4KWkIOCkl+CljeCksuCkvuCkqOCkv+CklSDgpKTgpYsg4KSo4KS54KWA4KSCIOCkhuCkr+ClgDsg4KSq4KSwIOCktuCkguCkleCkviDgpLngpYHgpIgg4KSV4KS/IOCkqOClhyDgpJzgpL7gpKjgpYcg4KSV4KWM4KSoLeCkuOCkviDgpKbgpKPgpY3gpKEg4KSu4KS/4KSy4KWH4KWkIOCkmuClgeCkquCkleClhyDgpLjgpYcg4KS54KS+4KSC4KSh4KS84KWAIOCkieCkoOCkviDgpLLgpYAg4KSU4KSwIOCkmOClgCDgpLLgpYzgpJ/gpL7gpKjgpYcg4KSa4KSy4KS+LCDgpIfgpLgg4KSk4KSw4KS5IOCknOCliOCkuOClhyDgpJXgpYvgpIgg4KSV4KWB4KSk4KWN4KSk4KS+IOCkleCkv+CkuOClgCDgpKjgpK/gpYcg4KSX4KS+4KSC4KS1IOCkruClh+CkgiDgpJzgpL7gpKTgpL4g4KS54KWI4KWkIOCkieCkuOClhyDgpKbgpYfgpJbgpJXgpLAg4KS44KS+4KSn4KS+4KSw4KSjIOCkrOClgeCkpuCljeCkteCkvyDgpJXgpL4g4KSu4KSo4KWB4KS34KWN4KSvIOCkreClgCDgpIbgpKjgpYHgpK7gpL7gpKgg4KSV4KSwIOCkuOCkleCkpOCkviDgpKXgpL4g4KSV4KS/IOCkteCkuSDgpIXgpKjgpL7gpKUg4KS54KWI4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkv+Ckr+CkvuCksOCkvuCkriDgpJzgpY3gpK/gpYvgpIIt4KSc4KWN4KSv4KWL4KSCIOCkhuCkl+ClhyDgpKzgpKLgpLzgpKTgpL4g4KSl4KS+LCDgpIbgpKjgpYfgpLXgpL7gpLLgpYcg4KS44KSC4KSX4KWN4KSw4KS+4KSuIOCkleClhyDgpK3gpK8g4KS44KWHIOCkieCkuOCkleClgCDgpLngpYPgpKbgpK8t4KSX4KSk4KS/IOCkrOCkouCkvOCkpOClgCDgpJzgpL7gpKTgpYAg4KSl4KWA4KWkIOCkieCkuOCkqOClhyDgpKjgpL/gpLbgpY3gpJrgpK8g4KSV4KS/4KSv4KS+LeCkrOCkqOCkv+Ckr+ClhyDgpKjgpYcg4KSY4KWAIOCkqCDgpLLgpYzgpJ/gpL7gpK/gpL4sIOCkpOCliyDgpLXgpLkg4KSY4KWAIOCkteCkueClgOCkgiDgpJvgpYvgpKHgpLzgpJXgpLAg4KSa4KSy4KS+IOCkhuCkr+Clh+Ckl+CkvuClpCDgpJ3gpJYg4KSu4KS+4KSw4KSV4KSwIOCkrOCkqOCkv+Ckr+CkviDgpIbgpKog4KS54KWAIOCkrOClgeCksuCkvuCkr+Clh+Ckl+CkvuClpCDgpKzgpKjgpL/gpK/gpYcg4KSV4KWLIOCkoeCkvuCkguCkn+CkqOClhyDgpJXgpYcg4KSy4KS/4KSPIOCkreClgCDgpIngpLjgpKjgpYcg4KS24KSs4KWN4KSmIOCkuOCli+CkmiDgpLLgpL/gpI/gpaQg4KS14KS5IOCkleCkueClh+Ckl+Ckvi0g4KSV4KWN4KSv4KWL4KSCIOCkuOCkvuCkueClguCknOClgCwg4KSG4KSC4KSW4KWL4KSCIOCkruClh+CkgiDgpKfgpYLgpLIg4KSd4KWL4KSC4KSV4KSk4KWHIOCkueCliz8g4KSm4KS/4KSW4KS+4KSk4KWHIOCkueCliyDgpJrgpYvgpJbgpL4g4KSu4KS+4KSyIOCklOCksCDgpJTgpLAg4KSm4KWH4KSk4KWHIOCkueClgCDgpLDgpKbgpY3gpKbgpYAg4KSu4KS+4KSyPyDgpKrgpLAg4KSv4KS5IOCkqOCkv+CktuCljeCkmuCkryDgpJXgpLDgpKjgpYcg4KSq4KSwIOCkreClgCDgpIngpLjgpJXgpYcg4KSq4KWI4KSwIOCkhuCkl+ClhyDgpKzgpLngpYHgpKQg4KSn4KWA4KSw4KWHLeCkp+ClgOCksOClhyDgpIngpKDgpKTgpYcg4KSl4KWH4KWkIOCkteCkuSDgpK/gpLkg4KSoIOCkmuCkvuCkueCkpOCkviDgpKXgpL4sIOCkrOCkqOCkv+Ckr+CkviDgpIngpLjgpYcg4KSG4KSk4KS+IOCkueClgeCkhiDgpKbgpYfgpJbgpYcsIOCkteCkuSDgpIXgpJXgpLjgpY3gpK7gpL7gpKTgpY0g4KS54KWAIOCkieCkuOCkleClhyDgpLjgpL7gpK7gpKjgpYcg4KSq4KS54KWB4KSC4KSaIOCknOCkvuCkqOCkviDgpJrgpL7gpLngpKTgpL4g4KSl4KS+4KWkIOCkh+CkuOCksuCkv+CkjyDgpLXgpLkg4KSa4KSV4KWN4KSV4KS+4KSwIOCkleCkvuCkn+CkleCksCDgpKbgpYLgpLjgpLDgpYAg4KSX4KSy4KWAIOCkuOClhyDgpKzgpKjgpL/gpK/gpYcg4KSV4KWAIOCkpuClguCkleCkvuCkqCDgpKrgpLAg4KSX4KSv4KS+4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkrOCkqOCkv+Ckr+ClhyDgpKjgpYcg4KSJ4KS44KWHIOCkpuClh+CkluCkpOClhyDgpLngpYAg4KSV4KS54KS+LSDgpLngpK7gpKjgpYcg4KSV4KS5IOCkpuCkv+Ckr+CkviDgpKXgpL4g4KSV4KS/IOCkueCkruClhyDgpLjgpYzgpKbgpL4g4KS14KS+4KSq4KS4IOCkqCDgpLLgpYfgpILgpJfgpYfgpaQg4KSs4KWL4KSy4KWL4KSCLCDgpJXgpLngpL4g4KSl4KS+IOCkleCkvyDgpKjgpLngpYDgpILgpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS/4KSv4KS+4KSw4KS+4KSuIOCkqOClhyDgpKzgpL/gpJfgpKHgpLzgpJXgpLAg4KSV4KS54KS+LSDgpKTgpYHgpK7gpKjgpYcg4KS14KS5IOCkmOClgCDgpJXgpLngpL7gpIIg4KSm4KS/4KSv4KS+LCDgpJzgpYsg4KSm4KS/4KSW4KS+4KSv4KS+IOCkpeCkvj8g4KSm4KS/4KSW4KS+4KSv4KS+IOCkj+CklSDgpK7gpL7gpLIsIOCkpuCkv+Ckr+CkviDgpKbgpYLgpLjgpLDgpL4g4KSu4KS+4KSyLCDgpLLgpYzgpJ/gpL7gpJPgpJfgpYcg4KSV4KWI4KS44KWHIOCkqOCkueClgOCkgj8g4KSV4KWN4KSv4KS+IOCkleClgeCkmyDgpLDgpL7gpLngpJzgpKjgpYAg4KS54KWIPzwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL7gpLktIOCkh+CkuOCkuOClhyDgpJrgpYvgpJbgpL4g4KSY4KWAIOCkrOCkvuCknOCkvuCksCDgpK7gpYfgpIIg4KSo4KS/4KSV4KSyIOCkhuCkr+ClhyDgpKTgpYsg4KSc4KSw4KWA4KSs4KS+4KSo4KS+IOCkpuClguCkguClpCDgpIngpKDgpL4g4KSy4KWLIOCkueCkvuCkguCkoeCkvOClgCDgpJTgpLAg4KSm4KWLLeCkmuCkvuCksCDgpKbgpYLgpJXgpL7gpLAg4KSm4KWH4KSWIOCkhuCkk+ClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL/gpK/gpL7gpLDgpL7gpK4tIOCkueCkruClh+CkgiDgpIfgpKTgpKjgpYAg4KSr4KWB4KSw4KWN4KS44KSkIOCkqOCkueClgOCkgiDgpLngpYjgpaQg4KSF4KSq4KSo4KS+IOCkmOClgCDgpLLgpYzgpJ/gpL4g4KSy4KWL4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkvuCkuS0g4KSY4KWAIOCkqCDgpLLgpYzgpJ/gpYfgpJfgpL7gpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KSs4KSo4KS/4KSv4KWHIOCkleClgCDgpKbgpYHgpJXgpL7gpKgg4KSq4KSwIOCkj+CklSDgpJzgpJ/gpL7gpKfgpL7gpLDgpYAg4KS44KS+4KSn4KWCIOCkrOCliOCkoOCkviDgpLngpYHgpIYg4KSv4KS5IOCkpOCkruCkvuCktiDgpKbgpYfgpJYg4KSw4KS54KS+IOCkpeCkvuClpCDgpIngpKDgpJXgpLAg4KS44KS/4KSv4KS+4KSw4KS+4KSuIOCkleClhyDgpKrgpL7gpLgg4KSG4KSv4KS+IOCklOCksCDgpLngpL7gpILgpKHgpLzgpYAg4KSV4KS+IOCkmOClgCDgpLjgpYLgpILgpJjgpJXgpLAg4KSs4KWL4KSy4KS+LSDgpKzgpJrgpY3gpJrgpL4sIOCkmOClgCDgpKTgpYsg4KSs4KS54KWB4KSkIOCkheCkmuCljeCkm+CkviDgpK7gpL7gpLLgpYLgpK4g4KS54KWL4KSk4KS+IOCkueCliOClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL7gpLkg4KS44KSo4KWHIOCktuCkuSDgpKrgpL7gpJXgpLAg4KSV4KS54KS+LSDgpKzgpL7gpKzgpL7gpJzgpYAg4KS54KSuIOCksuCli+CklyDgpKTgpYsg4KSG4KSqIOCkueClgCDgpIfgpKjgpJXgpYsg4KSY4KSf4KS/4KSv4KS+IOCkruCkvuCksiDgpKjgpLngpYDgpIIg4KSm4KWH4KSk4KWH4KWkIOCkluCksOCkvuCkrCDgpK7gpL7gpLIg4KSV4KWN4KSv4KS+IOCknOCkvuCkqOClhy3gpLjgpYHgpKjgpYcg4KSX4KWN4KSw4KS+4KS54KSV4KWL4KSCIOCkleCliyDgpKbgpL/gpK/gpL4g4KSc4KS+4KSk4KS+IOCkueCliD88L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS+4KSn4KWBLSDgpJjgpYAg4KSy4KWHIOCknOCkvuCktSDgpKzgpJrgpY3gpJrgpL4sIOCkrOCkueClgeCkpCDgpIXgpJrgpY3gpJvgpL4g4KS54KWI4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkv+Ckr+CkvuCksOCkvuCkriDgpLDgpYsg4KSq4KSh4KS84KS+4KWkIOCkmOClgCDgpJXgpYsg4KSs4KWB4KSw4KS+IOCkuOCkv+CkpuCljeCkteCkviDgpJXgpLDgpKjgpYcg4KSV4KWHIOCksuCkv+CkjyDgpIngpLjgpJXgpYcg4KSq4KS+4KS4IOCkheCkrCDgpJXgpY3gpK/gpL4g4KSq4KWN4KSw4KSu4KS+4KSjIOCkpeCkvj8g4KSs4KWL4KSy4KS+LSDgpLXgpLngpYAg4KSk4KWLIOCkleCkueCkpOClgCDgpLngpYjgpIIsIOCkmOClgCDgpIXgpJrgpY3gpJvgpL4g4KSo4KS54KWA4KSCIOCkueCliCwg4KSy4KWM4KSf4KS+IOCkhuCkk+ClpCDgpK7gpYjgpIIg4KSk4KWLIOCkleCkueCkpOCkviDgpKXgpL4g4KSV4KS/IOCkmOClgCDgpIXgpJrgpY3gpJvgpL4g4KS54KWI4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkvuCkp+ClgS0g4KSV4KWM4KSoIOCkleCkueCkpOCkviDgpLngpYg/PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkvuCkuS0g4KSH4KS44KSV4KWAIOCkheCkruCljeCkruCkvuCkgiDgpJXgpLngpKTgpYAg4KS54KWL4KSC4KSX4KWA4KWkIOCkleCli+CkiCDgpLjgpYzgpKbgpL4g4KSJ4KSo4KSV4KWHIOCkruCkqCDgpLngpYAg4KSo4KS54KWA4KSCIOCkreCkvuCkpOCkvuClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpKzgpYfgpJrgpL7gpLDgpYcg4KSy4KSh4KS84KSV4KWHIOCkleCliyDgpKzgpL7gpLAt4KSs4KS+4KSwIOCkpuCljOCkoeCkvOCkvuCkr+CkviDgpJXgpLDgpKTgpYAg4KS54KWI4KWkIOCkuOCljOCkpOClh+CksuClgCDgpK7gpL7gpIIg4KS54KWIIOCkqCEg4KSF4KSq4KSo4KWAIOCkruCkvuCkgiDgpLngpYsg4KSk4KWLIOCkleClgeCkmyDgpJbgpY3gpK/gpL7gpLIg4KSt4KWAIOCkleCksOClh+ClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL7gpKfgpYEg4KSo4KWHIOCkuOCkv+Ckr+CksOCkvuCkriDgpJXgpYsg4KS44KSm4KSvIOCkqOClh+CkpOCljeCksOCli+CkgiDgpLjgpYcg4KSm4KWH4KSW4KS+LCDgpK7gpL7gpKjgpYsg4KSJ4KS44KWHIOCkpOCljeCksOCkvuCkoyDgpKbgpYfgpKjgpYcg4KSV4KWHIOCksuCkv+CkjyDgpIngpKjgpJXgpL4g4KS54KWD4KSm4KSvIOCkteCkv+CkleCksiDgpLngpYsg4KSw4KS54KS+IOCkueCliOClpCDgpKTgpKwg4KSV4KSw4KWB4KSjIOCkuOCljeCkteCksCDgpLjgpYcg4KSs4KWL4KSy4KWHLSDgpKTgpYHgpK7gpY3gpLngpL7gpLDgpYAg4KSu4KS+4KSk4KS+IOCkleCkviDgpLjgpY3gpLXgpLDgpY3gpJfgpLXgpL7gpLgg4KS54KWB4KSPIOCkleCkv+CkpOCkqOClhyDgpKbgpL/gpKgg4KS54KWB4KSPIOCkrOCkmuCljeCkmj88L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS/4KSv4KS+4KSw4KS+4KSuLSDgpJvgpKDgpL4g4KS44KS+4KSyIOCkueCliOClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL7gpKfgpYEtIOCkpOCkviDgpKTgpYHgpK4g4KSJ4KS4IOCkteCkleCljeCkpCDgpKzgpLngpYHgpKQg4KS54KWAIOCkm+Cli+Ckn+ClhyDgpLDgpLngpYcg4KS54KWL4KSC4KSX4KWH4KWkIOCkreCkl+Clh+CkteCkvuCkqOCljSDgpKTgpYHgpK7gpY3gpLngpL7gpLDgpYAg4KSy4KWA4KSy4KS+IOCkleCkv+CkpOCkqOClgCDgpLXgpL/gpJrgpL/gpKTgpY3gpLAg4KS54KWI4KWkIOCkh+CkuCDgpKbgpYHgpKfgpK7gpYHgpILgpLngpYcg4KSs4KS+4KSy4KSVIOCkleCliyDgpKTgpYHgpK7gpKjgpYcg4KSu4KS+4KSk4KWNLeCkquCljeCksOClh+CkriDgpLjgpYcg4KS14KSC4KSa4KS/4KSkIOCkleCksCDgpKbgpL/gpK/gpL7gpaQg4KSs4KSh4KS84KS+IOCkheCkqOCksOCljeCkpSDgpJXgpLDgpKTgpYcg4KS54KWLIOCkreCkl+CkteCkvuCkqOCljSEg4KSbOiDgpLjgpL7gpLIg4KSV4KS+IOCkrOCkvuCksuCklSDgpJTgpLAg4KSw4KS+4KSV4KWN4KS34KS44KWAIOCkteCkv+CkruCkvuCkpOCkviDgpJXgpYcg4KSq4KS+4KSo4KSy4KWHIOCkquCkoeCkvOClhyEg4KSn4KSo4KWN4KSvIOCkueCliyDgpKbgpK/gpL7gpKjgpL/gpKfgpL8hIOCkuOCkvuCkueCknOClgCwg4KSs4KS+4KSy4KSVIOCkquCksCDgpKbgpK/gpL4g4KSV4KSw4KWLLCDgpJjgpYAg4KSy4KWM4KSf4KS+IOCksuCliywg4KSo4KS54KWA4KSCIOCkpOCliyDgpIfgpLjgpJXgpYAg4KSu4KS+4KSkIOCkh+CkuOClhyDgpJjgpLAg4KSu4KWH4KSCIOCksOCkueCkqOClhyDgpKgg4KSm4KWH4KSX4KWA4KWkIOCkreCkl+CkteCkvuCkqCDgpJXgpYAg4KSH4KSa4KWN4KSb4KS+IOCkuOClhyDgpKTgpYHgpK7gpY3gpLngpL7gpLDgpL4g4KSY4KWAIOCknOCksuCljeCkpiDgpKzgpL/gpJUg4KSc4KS+4KSP4KWH4KSX4KS+4KWkIOCkruClh+CksOCkviDgpIbgpLbgpYDgpLDgpY3gpLXgpL7gpKYg4KSk4KWB4KSu4KWN4KS54KS+4KSw4KWHIOCkuOCkvuCkpSDgpLDgpLngpYfgpJfgpL7gpII8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS+4KS54KSc4KWAIOCkqOClhyDgpLDgpYHgpKrgpK/gpYcg4KS14KS+4KSq4KS4IOCkqCDgpJXgpL/gpK/gpYfgpaQg4KSG4KSW4KS/4KSwIOCksuCkoeCkvOCkleClhyDgpJXgpYsg4KSr4KS/4KSwIOCkmOClgCDgpLLgpYfgpKjgpYcg4KSG4KSo4KS+IOCkueClgCDgpKrgpKHgpLzgpYfgpJfgpL7gpaQg4KSoIOCknOCkvuCkqOClhyDgpKbgpL/gpKgg4KSu4KWH4KSCIOCkleCkv+CkpOCkqOClgCDgpKzgpL7gpLAg4KSa4KSV4KWN4KSV4KSwIOCksuCkl+CkvuCkqOCkviDgpKrgpKHgpLzgpYcg4KSU4KSwIOCkleCkv+CkuCDgpJzgpL7gpLLgpL/gpK/gpYcg4KS44KWHIOCkquCkvuCksuCkviDgpKrgpKHgpLzgpYfgpaQg4KSJ4KS44KSV4KWAIOCkpuClgeCkleCkvuCkqCDgpK7gpYfgpIIg4KSc4KWLIOCkmOClgCDgpLjgpKzgpLjgpYcg4KSF4KSa4KWN4KSb4KS+IOCkpeCkviwg4KS14KS5IOCkuOCkv+Ckr+CkvuCksOCkvuCkriDgpKbgpL/gpLIg4KS44KWHIOCkuOCli+CkmiDgpLDgpLngpL4g4KSl4KS+LCDgpKzgpL7gpKzgpL7gpJzgpYAg4KSV4KS/4KSk4KSo4KWHIOCkpuCkr+CkvuCksuClgSDgpLngpYjgpII/IOCkh+CkqOCljeCkueCli+CkguCkqOClhyDgpLjgpL/gpKvgpL7gpLDgpL/gpLYg4KSoIOCkleClgCDgpLngpYvgpKTgpYAsIOCkpOCliyDgpLjgpL7gpLngpJzgpYAg4KSV4KWN4KSv4KWL4KSCIOCkheCkmuCljeCkm+CkviDgpJjgpYAg4KSm4KWH4KSk4KWHPzwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL/gpK/gpL7gpLDgpL7gpK4g4KSY4KWAIOCksuClh+CkleCksCDgpJrgpLLgpL4sIOCkpOCliyDgpKzgpL7gpKzgpL7gpJzgpYAg4KSt4KWAIOCkieCkuOCkleClhyDgpLjgpL7gpKUg4KS54KWAIOCksuCkv+Ckr+Clh+ClpCDgpLDgpL7gpLjgpY3gpKTgpYcg4KSu4KWH4KSCPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkruClgOCkoOClgC3gpK7gpYDgpKDgpYAg4KSs4KS+4KSk4KWH4KSCIOCkleCksOCkqOClhyDgpLLgpJfgpYfgpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJJiMzOTvgpKzgpJrgpY3gpJrgpL4sIOCkruClh+CksOClgCDgpK7gpL7gpKTgpL4g4KSt4KWAIOCkruClgeCkneClhyDgpKTgpYDgpKgg4KS44KS+4KSyIOCkleCkviDgpJvgpYvgpKHgpLzgpJXgpLAg4KSq4KSw4KSy4KWL4KSVIOCkuOCkv+Ckp+CkvuCksOClgCDgpKXgpYDgpILgpaQg4KSk4KSt4KWAIOCkuOClhyDgpK7gpL7gpKTgpYMt4KS14KS/4KS54KWA4KSoIOCkrOCkvuCksuCkleCli+CkgiDgpJXgpYsg4KSm4KWH4KSW4KSk4KS+IOCkueClguCkgiDgpKTgpYsg4KSu4KWH4KSw4KS+IOCkueClg+CkpuCkryDgpKvgpJ/gpKjgpYcg4KSy4KSX4KSk4KS+IOCkueCliOCkguClpCYjMzk7PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkv+Ckr+CkvuCksOCkvuCkriDgpKjgpYcg4KSq4KWC4KSb4KS+LSDgpIbgpKrgpJXgpYcg4KSq4KS/4KSk4KS+4KSc4KWAIOCkqOClhyDgpK3gpYAg4KSk4KWLIOCkpuClguCkuOCksOCkviDgpLXgpL/gpLXgpL7gpLkg4KSV4KSwIOCksuCkv+Ckr+CkviDgpKXgpL4/PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkvuCkp+ClgS0g4KS54KS+4KSCLCDgpKzgpJrgpY3gpJrgpL4sIOCkqOCkueClgOCkgiDgpKTgpYsg4KSG4KScIOCkuOCkvuCkp+ClgSDgpJXgpY3gpK/gpYvgpIIg4KS54KWL4KSk4KS+PyDgpKrgpLngpLLgpYcg4KSk4KWLIOCkquCkv+CkpOCkvuCknOClgCDgpLXgpL/gpLXgpL7gpLkg4KSoIOCkleCksOCkpOClhyDgpKXgpYfgpaQg4KSu4KWB4KSd4KWHIOCkrOCkueClgeCkpCDgpKrgpY3gpK/gpL7gpLAg4KSV4KSw4KSk4KWHIOCkpeClhywg4KSr4KS/4KSwIOCkqCDgpJzgpL7gpKjgpYcg4KSV4KWN4KSv4KWL4KSCIOCkruCkqCDgpKzgpKbgpLIg4KSX4KSv4KS+LCDgpLXgpL/gpLXgpL7gpLkg4KSV4KSwIOCksuCkv+Ckr+CkvuClpCDgpLjgpL7gpKfgpYEg4KS54KWC4KSCLCDgpJXgpJ/gpYEg4KS14KSa4KSoIOCkruClgeCkguCkuSDgpLjgpYcg4KSo4KS54KWA4KSCIOCkqOCkv+CkleCkvuCksuCkqOCkviDgpJrgpL7gpLngpL/gpI8sIOCkquCksCDgpK7gpYfgpLDgpYAg4KS14KS/4KSu4KS+4KSkIOCknOCkv+CkpOCkqOClgCDgpLngpYAg4KS44KWB4KSo4KWN4KSm4KSwIOCkpeClgOCkgiwg4KSJ4KSk4KSo4KWAIOCkueClgCDgpJXgpKDgpYvgpLAg4KSl4KWA4KSC4KWkIOCkruClgeCkneClhyDgpKbgpL/gpKgt4KSm4KS/4KSoLeCkreCksCDgpJbgpL7gpKjgpYcg4KSV4KWLIOCkqCDgpKbgpYfgpKTgpYDgpIIsIOCksOCli+CkpOCkviDgpKTgpYsg4KSu4KS+4KSw4KSk4KWA4KSC4KWkIOCkquCkv+CkpOCkvuCknOClgCDgpJXgpYAg4KSG4KSC4KSW4KWH4KSCIOCkreClgCDgpKvgpL/gpLAg4KSX4KSv4KWA4KSC4KWkIOCkieCkqOCljeCkueClh+CkgiDgpK7gpYfgpLDgpYAg4KS44KWC4KSw4KSkIOCkuOClhyDgpJjgpYPgpKPgpL4g4KS54KWL4KSo4KWHIOCksuCkl+ClgOClpCDgpK7gpYfgpLDgpL4g4KSw4KWL4KSo4KS+IOCkuOClgeCkqOCkleCksCDgpK7gpYHgpJ3gpYcg4KSq4KWA4KSf4KSo4KWHIOCksuCkl+CkpOClh+ClpCDgpIXgpKjgpY3gpKQg4KSV4KWLIOCkruCliOCkgiDgpI/gpJUg4KSm4KS/4KSoIOCkmOCksCDgpLjgpYcg4KSo4KS/4KSV4KSyIOCkluCkoeCkvOCkviDgpLngpYHgpIbgpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS/4KSv4KS+4KSw4KS+4KSuIOCkleClhyDgpK7gpKgg4KSu4KWH4KSCIOCkreClgCDgpJjgpLAg4KS44KWHIOCkqOCkv+CkleCksiDgpK3gpL7gpJfgpKjgpYcg4KSV4KS+IOCkteCkv+CkmuCkvuCksCDgpJXgpIgg4KSs4KS+4KSwIOCkueClgeCkhiDgpKXgpL7gpaQg4KSH4KS4IOCkuOCkruCkryDgpK3gpYAg4KSJ4KS44KSV4KWHIOCkruCkqCDgpK7gpYfgpIIg4KSv4KS54KWAIOCkteCkv+CkmuCkvuCksCDgpIngpKAg4KSw4KS54KS+IOCkpeCkvuClpCDgpKzgpKHgpLzgpYAg4KSJ4KSk4KWN4KS44KWB4KSV4KSk4KS+IOCkuOClhyDgpKzgpYvgpLLgpL4t4KSY4KSwIOCkuOClhyDgpKjgpL/gpJXgpLLgpJXgpLAg4KSG4KSqIOCkleCkueCkvuCkgiDgpJfgpK/gpYc/PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkrOCkvuCkrOCkvuCknOClgCDgpKjgpYcg4KS54KSC4KS44KSV4KSwIOCkleCkueCkvi0g4KSJ4KS44KWAIOCkpuCkv+CkqCDgpK7gpYfgpLDgpYcg4KS44KS+4KSw4KWHIOCkleCkt+CljeCkn+Cli+CkgiDgpJXgpL4g4KSF4KSo4KWN4KSkIOCkueCliyDgpJfgpK/gpL4g4KSc4KS/4KS4IOCkpuCkv+CkqCDgpJjgpLAg4KSV4KWHIOCkruCli+CkuS3gpKzgpKjgpY3gpKfgpKgg4KS44KWHIOCkm+ClguCkn+CkviDgpJTgpLAg4KSt4KSvIOCkruCkqCDgpLjgpYcg4KSo4KS/4KSV4KSy4KS+LCDgpIngpLjgpYAg4KSm4KS/4KSoIOCkruCkvuCkqOCliyDgpK7gpYfgpLDgpL4g4KSJ4KSm4KWN4KS14KS+4KSwIOCkueCliyDgpJfgpK/gpL7gpaQg4KSm4KS/4KSoIOCkreCksCDgpK7gpYjgpIIg4KSP4KSVIOCkquClgeCksiDgpJXgpYcg4KSo4KWA4KSa4KWHIOCkrOCliOCkoOCkviDgpLDgpLngpL7gpaQg4KS44KSC4KSn4KWN4KSv4KS+IOCkuOCkruCkryDgpK7gpYHgpJ3gpYcg4KSP4KSVIOCkruCkueCkvuCkpOCljeCkruCkviDgpK7gpL/gpLIg4KSX4KSv4KWH4KWkIOCkieCkqOCkleCkviDgpLjgpY3gpLXgpL7gpK7gpYAg4KSq4KSw4KSu4KS+4KSo4KSo4KWN4KSm4KSc4KWAIOCkpeCkvuClpCDgpLXgpYcg4KSs4KS+4KSyLeCkrOCljeCksOCkueCljeCksOCkmuCkvuCksOClgCDgpKXgpYfgpaQg4KSu4KWB4KSdIOCkquCksCDgpIngpKjgpY3gpLngpYvgpILgpKjgpYcg4KSm4KSv4KS+IOCkleClgCDgpJTgpLAg4KSF4KSq4KSo4KWHIOCkuOCkvuCkpSDgpLDgpJYg4KSy4KS/4KSv4KS+4KWkIOCkieCkqOCkleClhyDgpLjgpL7gpKUg4KSw4KSWIOCksuCkv+Ckr+CkvuClpCDgpIngpKjgpJXgpYcg4KS44KS+4KSlIOCkruCliOCkgiDgpKbgpYfgpLYt4KSm4KWH4KS24KS+4KSo4KWN4KSk4KSw4KWL4KSCIOCkruClh+CkgiDgpJjgpYLgpK7gpKjgpYcg4KSy4KSX4KS+4KWkIOCkteCkuSDgpKzgpKHgpLzgpYcg4KSF4KSa4KWN4KSb4KWHIOCkr+Cli+Ckl+ClgCDgpKXgpYfgpaQg4KSu4KWB4KSd4KWHIOCkreClgCDgpIngpKjgpY3gpLngpYvgpILgpKjgpYcg4KSv4KWL4KSXLeCkteCkv+CkpuCljeCkr+CkviDgpLjgpL/gpJbgpL7gpIjgpaQg4KSF4KSsIOCkpOCliyDgpK7gpYfgpLDgpYcg4KSV4KWLIOCkh+CkpOCkqOCkviDgpIXgpK3gpY3gpK/gpL7gpLgg4KS54KWLIOCkr+Clh+Ckl+Ckr+CkviDgpLngpYgg4KSV4KS/IOCknOCkrCDgpIfgpJrgpY3gpJvgpL4g4KS54KWL4KSk4KWAIOCkueCliCwg4KSu4KS+4KSk4KS+4KSc4KWAIOCkleClhyDgpKbgpLDgpY3gpLbgpKgg4KSV4KSwIOCksuClh+CkpOCkviDgpLngpYLgpIIsIOCkieCkqOCkuOClhyDgpKzgpL7gpKQg4KSV4KSwIOCksuClh+CkpOCkviDgpLngpYLgpILgpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS/4KSv4KS+4KSw4KS+4KSuIOCkqOClhyDgpLXgpL/gpLjgpY3gpKvgpL7gpLDgpL/gpKQg4KSo4KWH4KSk4KWN4KSw4KWL4KSCIOCkuOClhyDgpKbgpYfgpJbgpJXgpLAg4KSq4KWC4KSb4KS+LSDgpIbgpKrgpJXgpYAg4KSu4KS+4KSk4KS+IOCkleCkviDgpKTgpYsg4KSm4KWH4KS54KS+4KSo4KWN4KSkIOCkueCliyDgpJrgpYHgpJXgpL4g4KSl4KS+PzwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL7gpKfgpYEtIOCkpOCliyDgpJXgpY3gpK/gpL4g4KS54KWB4KSGIOCkrOCkmuCljeCkmiwg4KSv4KWL4KSXLeCkteCkv+CkpuCljeCkr+CkviDgpK7gpYfgpIIg4KS14KS5IOCktuCkleCljeCkpOCkvyDgpLngpYgg4KSV4KS/IOCknOCkv+CkuCDgpK7gpYPgpKQt4KSG4KSk4KWN4KSuIOCkleCliyDgpJrgpL7gpLngpYcsIOCkrOClgeCksuCkviDgpLLgpYfgpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS/4KSv4KS+4KSw4KS+4KSuLSDgpK7gpYjgpIIg4KSv4KWL4KSXLeCkteCkv+CkpuCljeCkr+CkviDgpLjgpYDgpJbgpY0g4KSy4KWC4KSCLCDgpKTgpYsg4KSu4KWB4KSd4KWHIOCkreClgCDgpK7gpL7gpKTgpL7gpJzgpYAg4KSV4KWHIOCkpuCksOCljeCktuCkqCDgpLngpYvgpILgpJfgpYc/PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkvuCkp+ClgS0g4KSF4KS14KS24KWN4KSvLCDgpIXgpK3gpY3gpK/gpL7gpLgg4KS44KWHIOCkuOCkrCDgpJXgpYHgpJsg4KS54KWLIOCkuOCkleCkpOCkviDgpLngpYjgpaQg4KS54KS+4KSCLCDgpK/gpYvgpJfgpY3gpK8g4KSX4KWB4KSw4KWBIOCkmuCkvuCkueCkv+Ckj+ClpCDgpK/gpYvgpJcg4KS44KWHIOCkrOCkoeCkvOClgC3gpKzgpKHgpLzgpYAg4KS44KS/4KSm4KWN4KS14KS/4KSv4KS+4KSCIOCkquCljeCksOCkvuCkquCljeCkpCDgpLngpYsg4KS44KSV4KSk4KWAIOCkueCliOCkguClpCDgpJzgpL/gpKTgpKjgpL4g4KSn4KSoIOCkmuCkvuCkueCliywg4KSq4KSyLeCkruCkvuCkpOCljeCksCDgpK7gpYfgpIIg4KSu4KSC4KSX4KS+IOCkuOCkleCkpOClhyDgpLngpYvgpaQg4KSV4KWI4KS44KWAIOCkueClgCDgpKzgpYDgpK7gpL7gpLDgpYAg4KS54KWLLCDgpIngpLjgpJXgpYAg4KSU4KS34KSn4KS/IOCkheCkpOCkviDgpLjgpJXgpKTgpYcg4KS54KWL4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkv+Ckr+CkvuCksOCkvuCkri0g4KSG4KSq4KSV4KS+IOCkuOCljeCkpeCkvuCkqCDgpJXgpLngpL7gpIIg4KS54KWIPzwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL7gpKfgpYEtIOCkrOCkmuCljeCkmuCkviwg4KSu4KWH4KSw4KWHIOCkleCliyDgpLjgpY3gpKXgpL7gpKgg4KSV4KS54KWA4KSCIOCkqOCkueClgOCkgiDgpLngpYjgpaQg4KSm4KWH4KS2LeCkpuClh+CktuCkvuCkqOCljeCkpOCksOCli+CkgiDgpLjgpYcg4KSw4KSu4KSk4KS+IOCkq+Ckv+CksOCkpOCkviDgpLngpYLgpILgpaQg4KSF4KSa4KWN4KSb4KS+LCDgpKzgpJrgpY3gpJrgpL4g4KSF4KSsIOCkpOClgeCkriDgpJzgpL7gpJMsIOCkruCliOClpCDgpJzgpLDgpL4g4KS44KWN4KSo4KS+4KSoLeCkp+CljeCkr+Ckr+CkvuCkqCDgpJXgpLDgpKjgpYcg4KSc4KS+4KSK4KSC4KSX4KS+4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkv+Ckr+CksOCkvuCkri0g4KSa4KSy4KS/4KSPIOCkruCliOCkgiDgpK3gpYAg4KSJ4KS44KWAIOCkpOCksOCkqyDgpJrgpLLgpKTgpL4g4KS54KWC4KSC4KWkIOCkhuCkquCkleClhyDgpKbgpLDgpY3gpLbgpKgg4KS44KWHIOCknOClgCDgpKjgpLngpYDgpIIg4KSt4KSw4KS+4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkvuCkp+ClgS0g4KSo4KS54KWA4KSCIOCkrOCkmuCljeCkmuCkviwg4KSk4KWB4KSu4KWN4KS54KWH4KSCIOCkquCkvuCkoOCktuCkvuCksuCkviDgpJzgpL7gpKjgpYcg4KSV4KWAIOCkpuClh+CksOClgCDgpLngpYsg4KSw4KS54KWAIOCkueCliOClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL/gpK/gpLDgpL7gpK4tIOCkq+Ckv+CksCDgpIbgpKrgpJXgpYcg4KSm4KSw4KWN4KS24KSoIOCkleCkrCDgpLngpYvgpILgpJfgpYc/PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkvuCkp+ClgS0g4KSV4KSt4KWAIOCkhiDgpJzgpL7gpIrgpILgpJfgpL4g4KSs4KSa4KWN4KSa4KS+LCDgpKTgpYHgpK7gpY3gpLngpL7gpLDgpL4g4KSY4KSwIOCkleCkueCkvuCkgiDgpLngpYg/PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkv+Ckr+CkvuCksOCkvuCkriDgpKrgpY3gpLDgpLjgpKjgpY3gpKgg4KS54KWL4KSV4KSwIOCkrOCli+CksuCkvi0g4KSa4KSy4KS/4KSP4KSX4KS+IOCkruClh+CksOClhyDgpJjgpLA/IOCkrOCkueClgeCkpCDgpKjgpJzgpKbgpYDgpJUg4KS54KWI4KWkIOCkhuCkquCkleClgCDgpKzgpKHgpLzgpYAg4KSV4KWD4KSq4KS+IOCkueCli+Ckl+ClgOClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL/gpK/gpL7gpLDgpL7gpK4g4KSV4KSm4KSuIOCkrOCkouCkvOCkvuCkleCksCDgpIbgpJfgpYct4KSG4KSX4KWHIOCkmuCksuCkqOClhyDgpLLgpJfgpL7gpaQg4KSH4KSk4KSo4KS+IOCkquCljeCksOCkuOCkqOCljeCkqCDgpKXgpL4sIOCkruCkvuCkqOCliyDgpLjgpYvgpKjgpYcg4KSV4KWAIOCkl+CkoOCksOClgCDgpLLgpL/gpI8g4KSc4KS+4KSk4KS+IOCkueCli+ClpCDgpJjgpLAg4KSV4KWHIOCkuOCkvuCkruCkqOClhyDgpKrgpLngpYHgpILgpJrgpJXgpLAg4KSs4KWL4KSy4KS+LSDgpIbgpIfgpI8sIOCkrOCliOCkoOCkv+CkjyDgpJXgpYHgpJsg4KSm4KWH4KSw4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkvuCkp+ClgS0g4KSo4KS54KWA4KSCIOCkrOCkmuCljeCkmuCkviwg4KSs4KWI4KSg4KWC4KSC4KSX4KS+IOCkqOCkueClgOCkguClpCDgpKvgpL/gpLAg4KSV4KSyLeCkquCksOCkuOCli+CkgiDgpJXgpL/gpLjgpYAg4KS44KSu4KSvIOCkhiDgpJzgpL7gpIrgpILgpJfgpL7gpaQg4KSv4KS54KWAIOCkpOClgeCkruCljeCkueCkvuCksOCkviDgpJjgpLAg4KS54KWIPzwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL/gpK/gpL7gpLDgpL7gpK4tIOCkleCksiDgpJXgpL/gpLgg4KS14KSV4KWN4KSkIOCkhuCkh+Ckr+Clh+Ckl+Ckvj88L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS+4KSn4KWBLSDgpKjgpL/gpLbgpY3gpJrgpK8g4KSo4KS54KWA4KSCIOCkleCkuSDgpLjgpJXgpKTgpL7gpaQg4KSV4KS/4KS44KWAIOCkuOCkruCkryDgpIYg4KSc4KS+4KSK4KSC4KSX4KS+4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkvuCkp+ClgSDgpIbgpJfgpYcg4KSs4KSi4KS84KWHLCDgpKTgpYsg4KSl4KWL4KSh4KS84KWAIOCkueClgCDgpKbgpYLgpLAg4KSq4KSwIOCkieCkqOCljeCkueClh+CkgiDgpI/gpJUg4KSm4KWC4KS44KSw4KS+IOCkuOCkvuCkp+ClgSDgpK7gpL/gpLLgpL7gpaQg4KSJ4KS44KSV4KS+IOCkqOCkvuCkriDgpKXgpL4g4KS54KSw4KS/4KS54KSw4KS+4KSo4KSo4KWN4KSm4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkquCksOCkruCkvuCkqOCkqOCljeCkpiDgpLjgpYcg4KSq4KWC4KSb4KS+LSDgpJXgpLngpL7gpIIt4KSV4KS54KS+4KSCIOCkleClgCDgpLjgpYjgpLAg4KSV4KWAPyDgpJXgpYvgpIgg4KS24KS/4KSV4KS+4KSwIOCkq+CkguCkuOCkvj88L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS54KSw4KS/4KS54KSw4KS+4KSo4KSo4KWN4KSmLSDgpIfgpKfgpLDgpL4g4KSa4KS+4KSw4KWL4KSCIOCkpOCksOCkqyDgpJjgpYLgpK4g4KSG4KSv4KS+LCDgpJXgpYvgpIgg4KS24KS/4KSV4KS+4KSwIOCkqCDgpK7gpL/gpLLgpL7gpIIg4KSP4KSV4KS+4KSnIOCkruCkv+CksuCkviDgpK3gpYAsIOCkpOCliyDgpK7gpYfgpLDgpYAg4KS54KSC4KS44KWAIOCkieCkoeCkvOCkvuCkqOClhyDgpLLgpJfgpL7gpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KSq4KSw4KSu4KS+4KSo4KSo4KWN4KSmLSDgpK7gpYHgpJ3gpYcg4KSk4KWLIOCkj+CklSDgpK7gpL/gpLLgpKTgpL4g4KS54KWB4KSGIOCknOCkvuCkqCDgpKrgpKHgpLzgpKTgpL4g4KS54KWIISDgpKvgpILgpLgg4KSc4KS+4KSP4KWHIOCkpOCliyDgpJzgpL7gpKjgpYLgpILgpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS54KSw4KS/4KS54KSw4KS+4KSo4KSo4KWN4KSmLSDgpKTgpYHgpK4g4KSv4KWL4KSCIOCkueClgCDgpJXgpLngpL4g4KSV4KSw4KSk4KWHIOCkueCli+ClpCDgpJzgpYsg4KSG4KSk4KS+IOCkueCliCwg4KSm4KWLLeCkj+CklSDgpKbgpL/gpKgg4KSV4KWHIOCkrOCkvuCkpiDgpKjgpL/gpJXgpLIg4KSt4KS+4KSX4KSk4KS+IOCkueCliOClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpKrgpLDgpK7gpL7gpKjgpKjgpY3gpKYtIOCkheCkrOCkleClgCDgpKgg4KSt4KS+4KSX4KWH4KSX4KS+LCDgpKbgpYfgpJYg4KSy4KWH4KSo4KS+4KWkIOCkh+CkuOCkleClgCDgpK7gpL7gpIIg4KSu4KSwIOCkl+Ckr+ClgCDgpLngpYjgpaQg4KSs4KS+4KSqIOCkqOClhyDgpKbgpYLgpLjgpLDgpL4g4KS14KS/4KS14KS+4KS5IOCkleCksCDgpLLgpL/gpK/gpL4g4KS54KWI4KWkIOCkruCkvuCkgiDgpK3gpYAg4KS44KSk4KS+4KSv4KS+IOCkleCksOCkpOClgCDgpLngpYjgpaQg4KSY4KSwIOCkuOClhyDgpIrgpKzgpL4g4KS54KWB4KSGIOCkueCliOClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLngpLDgpL/gpLngpLDgpL7gpKjgpKjgpY3gpKYtIOCkluClguCkrCDgpIXgpJrgpY3gpJvgpYAg4KSk4KSw4KS54KWkIOCkr+CkueClgCDgpKTgpLDgpJXgpYDgpKwg4KS44KSs4KS44KWHIOCkheCkmuCljeCkm+ClgCDgpLngpYjgpaQg4KSq4KS54KSy4KWHIOCkh+CkuOCkleCkviDgpKrgpKTgpL4g4KSy4KSX4KS+IOCksuClh+CkqOCkviDgpJrgpL7gpLngpL/gpI8g4KSV4KS/IOCkruClgeCkueCksuCljeCksuClhyDgpK7gpYfgpIIg4KSV4KS/4KSoLeCkleCkv+CkqCDgpJjgpLDgpYvgpIIg4KSu4KWH4KSCIOCkteCkv+CkruCkvuCkpOCkvuCkj+CkgiDgpLngpYjgpII/IOCkieCkqOCljeCkueClgOCkgiDgpJjgpLDgpYvgpIIg4KSu4KWH4KSCIOCkq+CkqOCljeCkpuCkviDgpKHgpL7gpLLgpKjgpL4g4KSa4KS+4KS54KS/4KSP4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkqOCkv+CksOCljeCkruCksuCkviDgpKjgpYcg4KSs4KS/4KSX4KSh4KS84KSV4KSwIOCkleCkueCkvi0g4KSH4KSk4KSo4KWAIOCkpuClh+CksCDgpJXgpLngpL7gpIIg4KSy4KSX4KS+4KSv4KWAPzwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL/gpK/gpL7gpLDgpL7gpK4g4KSo4KWHIOCkouCkv+CkoOCkvuCkiCDgpLjgpYcg4KSV4KS54KS+LSDgpLDgpL7gpLjgpY3gpKTgpYcg4KSu4KWH4KSCIOCkj+CklSDgpJzgpJfgpLkg4KS44KWLIOCkl+Ckr+CkviDgpKXgpL7gpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KSo4KS/4KSw4KWN4KSu4KSy4KS+LSDgpK/gpLkg4KSk4KWLIOCkruCliOCkgiDgpKjgpLngpYDgpIIg4KSV4KS54KSk4KWALCDgpKrgpLAg4KSc4KS+4KSo4KSk4KWHIOCkueCliyDgpJXgpYgg4KSs4KScIOCkl+Ckr+ClhyDgpLngpYjgpII/IOCkpuCkuCDgpJXgpK3gpYAg4KSV4KWHIOCkrOCknCDgpJfgpK/gpYfgpaQg4KSs4KS+4KSc4KS+4KSwIOCkleClgeCkpiDgpKbgpYLgpLAg4KSt4KWAIOCkpOCliyDgpKjgpLngpYDgpIIg4KS54KWI4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkv+Ckr+CkvuCksOCkvuCkri0g4KSV4KWB4KSbIOCkpuClguCksCDgpKjgpLngpYDgpILgpaQg4KSm4KSw4KS14KS+4KSc4KWHIOCkueClgCDgpKrgpLAg4KSk4KWLIOCkueCliOClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpKjgpL/gpLDgpY3gpK7gpLLgpL4tIOCkuOClgOCkp+ClhyDgpLjgpYcg4KSV4KWN4KSv4KWL4KSCIOCkqOCkueClgOCkgiDgpKzgpYvgpLLgpKTgpYc/IOCkkOCkuOCkviDgpKzgpL/gpJfgpKHgpLwg4KSw4KS54KWHIOCkueCliywg4KSc4KWI4KS44KWHIOCkruClh+CksOCkviDgpLngpYAg4KSV4KWL4KSIIOCkleCkvuCkruClhyDgpJXgpLDgpKjgpYcg4KSX4KSv4KWHIOCkueCliz88L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS/4KSv4KS+4KSw4KS+4KSuLSDgpKTgpYsg4KSG4KSqIOCkteCljeCkr+CksOCljeCkpSDgpJXgpYAg4KSs4KSV4KS14KS+4KS4IOCkleCljeCkr+Cli+CkgiDgpJXgpLDgpKTgpYAg4KS54KWI4KSCPyDgpLLgpL/gpK/gpL4g4KS44KWM4KSm4KS+IOCksuCljOCkn+CkvuCkqOCkviDgpJXgpY3gpK/gpL4g4KSG4KS44KS+4KSoIOCkleCkvuCkriDgpLngpYg/IOCkrOCkqOCkv+Ckr+ClhyDgpLjgpYcg4KSY4KSC4KSf4KWL4KSCIOCkueClgeCknOCljeCknOCkpCDgpJXgpLDgpKjgpYAg4KSq4KSh4KS84KWAIOCkr+CkuSDgpKTgpYsg4KSV4KS54KWLLCDgpI/gpJUg4KSs4KS+4KSs4KS+4KSc4KWAIOCkqOClhyDgpJXgpLkt4KS44KWB4KSo4KSV4KSwIOCkq+Clh+CksOCkteCkviDgpKbgpL/gpK/gpL4sIOCkqOCkueClgOCkgiDgpKTgpYsg4KSV4KS/4KS44KWAIOCkpOCksOCkuSDgpKgg4KSr4KWH4KSw4KSk4KS+4KWkIOCksOCkvuCkuOCljeCkpOClhyDgpK7gpYfgpIIg4KSV4KS54KWA4KSCIOCkj+CklSDgpK7gpL/gpKjgpJ8g4KSt4KWAIOCkqCDgpLDgpYHgpJXgpL4sIOCkuOClgOCkp+CkviDgpJrgpLLgpL4g4KSG4KSk4KS+IOCkueClguCkguClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpKjgpL/gpLDgpY3gpK7gpLLgpL4tIOCkmOClgCDgpJXgpYcg4KSy4KS/4KSPIOCkl+Ckr+Clhy3gpJfgpK/gpYcsIOCkpOCliyDgpKTgpYHgpK4g4KSX4KWN4KSv4KS+4KSw4KS5IOCkrOCknOClhyDgpLLgpYzgpJ/gpYcg4KS54KWLLCDgpLLgpJXgpKHgpLzgpYAg4KSV4KWHIOCksuCkv+CkjyDgpJzgpL7gpJPgpJfgpYcsIOCkpOCliyDgpLjgpL7gpILgpJ0g4KS54KWAIOCkleCksCDgpKbgpYvgpJfgpYfgpaQg4KSk4KWB4KSu4KWN4KS54KS+4KSw4KWHIOCkrOCkvuCkrOClguCknOClgCDgpKzgpL/gpKjgpL4g4KSW4KS+4KSv4KWHIOCkueClgCDgpJrgpLLgpYcg4KSX4KSv4KWH4KWkIOCkpOClgeCkruCljeCkueClh+CkgiDgpIfgpKTgpKjgpYAg4KSm4KWH4KSwIOCksuCkl+CkvuCkqOClgCDgpKXgpL4sIOCkpOCliyDgpKrgpLngpLLgpYcg4KS54KWAIOCkleCljeCkr+Cli+CkgiDgpKgg4KSV4KS5IOCkpuCkv+Ckr+Ckvj8g4KSc4KS+4KSk4KWHIOCkueClgCDgpLLgpJXgpKHgpLzgpYAg4KSV4KWHIOCksuCkv+Ckj+ClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL/gpK/gpL7gpLDgpL7gpK4g4KSF4KSsIOCkheCkquCkqOClhyDgpJXgpYsg4KS44KSC4KSt4KS+4KSyIOCkqCDgpLjgpJXgpL7gpaQg4KSd4KSy4KWN4KSy4KS+4KSV4KSwIOCkrOCli+CksuCkvi0g4KSy4KSV4KSh4KS84KWAIOCkleCkv+CkuOClgCDgpJTgpLAg4KS44KWHIOCkruCkguCkl+CkvuCkh+Ckj+ClpCDgpK7gpYHgpJ3gpYcg4KS44KWN4KSV4KWC4KSyIOCknOCkvuCkqOClhyDgpJXgpYsg4KSm4KWH4KSwIOCkueCliyDgpLDgpLngpYAg4KS54KWI4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkqOCkv+CksOCljeCkruCksuCkvi0g4KSW4KS+4KSo4KS+IOCkqCDgpJbgpL7gpJPgpJfgpYc/PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkv+Ckr+CkvuCksOCkvuCkri0g4KSoIOCkluCkvuCkiuCkguCkl+CkvuClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpKjgpL/gpLDgpY3gpK7gpLLgpL4tIOCkruCliOCkgiDgpJbgpL7gpKjgpL4g4KSs4KSo4KS+4KSo4KWHIOCkleCliyDgpKTgpYjgpK/gpL7gpLAg4KS54KWC4KSC4KWkIOCkueCkvuCkgiwg4KSy4KSV4KSh4KS84KWAIOCksuCkvuCkqOClhyDgpKjgpLngpYDgpIIg4KSc4KS+IOCkuOCkleCkpOClgOClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL/gpK/gpL7gpLDgpL7gpK4tIOCkreClguCkguCkl+ClgCDgpJXgpYsg4KSV4KWN4KSv4KWL4KSCIOCkqOCkueClgOCkgiDgpK3gpYfgpJzgpKTgpYA/PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkqOCkv+CksOCljeCkruCksuCkvi0g4KSt4KWC4KSC4KSX4KWAIOCkleCkviDgpLLgpL7gpK/gpL4g4KS44KWM4KSm4KS+IOCkpOClgeCkruCkqOClhyDgpJXgpK3gpYAg4KSm4KWH4KSW4KS+IOCkqOCkueClgOCkgiDgpLngpYjgpII/PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkuOCkv+Ckr+CkvuCksOCkvuCkri0g4KSk4KWLIOCkruCliOCkgiDgpIfgpLgg4KS14KSV4KWN4KSkIOCkqCDgpJzgpL7gpIrgpILgpJfgpL7gpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KSo4KS/4KSw4KWN4KSu4KSy4KS+LSDgpK7gpYHgpJ3gpYcg4KSm4KWL4KS3IOCkqCDgpKbgpYfgpKjgpL7gpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS/4KSv4KS+4KSw4KS+4KSuIOCkleCkiCDgpKbgpL/gpKjgpYvgpIIg4KS44KWHIOCkuOCljeCkleClguCksiDgpKjgpLngpYDgpIIg4KSX4KSv4KS+IOCkpeCkvuClpCDgpKzgpL7gpJzgpL7gpLAt4KS54KS+4KSfIOCkleClhyDgpK7gpL7gpLDgpYcg4KSJ4KS44KWHIOCkleCkv+CkpOCkvuCkrOClh+CkgiDgpKbgpYfgpJbgpKjgpYcg4KSV4KS+IOCkuOCkruCkryDgpLngpYAg4KSoIOCkruCkv+CksuCkpOCkviDgpKXgpL7gpaQg4KS44KWN4KSV4KWC4KSyIOCknOCkvuCkleCksCDgpJ3gpL/gpKHgpLzgpJXgpL/gpK/gpL7gpIIg4KSW4KS+4KSoLCDgpLjgpYcg4KSs4KWH4KSC4KSaIOCkquCksCDgpJbgpKHgpLzgpYcg4KS54KWL4KSo4KWHIOCkr+CkviDgpIrgpILgpJrgpYAg4KSf4KWL4KSq4KWAIOCkpuClh+CkqOClhyDgpJXgpYcg4KS44KS/4KS14KS+IOCklOCksCDgpJXgpY3gpK/gpL4g4KSu4KS/4KSy4KSk4KS+PyDgpLXgpLkg4KSY4KSwIOCkuOClhyDgpJXgpL/gpKTgpL7gpKzgpYfgpIIg4KSy4KWH4KSV4KSwIOCkmuCksuCkpOCkviwg4KSq4KSwIOCktuCkueCksCDgpJXgpYcg4KSs4KS+4KS54KSwIOCknOCkvuCkleCksCDgpJXgpL/gpLjgpYAg4KS14KWD4KSV4KWN4KS3IOCkleClgCDgpJvgpL7gpILgpLkg4KSu4KWH4KSCIOCkrOCliOCkoOCkviDgpLDgpLngpKTgpL4g4KSv4KS+IOCkquCksuCljeCkn+CkqOCli+CkgiDgpJXgpYAg4KSV4KS14KS+4KSv4KSmIOCkpuClh+CkluCkpOCkvuClpCDgpKTgpYDgpKgg4KSs4KSc4KWHIOCkmOCksCDgpLjgpYcg4KSy4KWM4KSfIOCkhuCkpOCkvuClpCDgpIbgpJwg4KSt4KWAIOCkteCkuSDgpJjgpLAg4KS44KWHIOCkmuCksuCkviwg4KSy4KWH4KSV4KS/4KSoIOCkrOCliOCkoOCkqOClhyDgpK7gpYfgpIIg4KSJ4KS44KSV4KS+IOCknOClgCDgpKgg4KSy4KSX4KS+LCDgpIngpLgg4KSq4KSwIOCkhuCkguCkpOClh+CkgiDgpIXgpLIg4KSXIOCknOCksiDgpLDgpLngpYAg4KSl4KWA4KSC4KWkIOCkueCkviEg4KSF4KSsIOCkieCkuOClhyDgpLDgpYvgpJ/gpL/gpK/gpYvgpIIg4KSV4KWHIOCkreClgCDgpLLgpL7gpLLgpYcg4KSq4KSh4KS8IOCkl+Ckr+Clh+ClpCDgpKbgpLgg4KSs4KSc4KWHIOCkleCljeCkr+CkviDgpJbgpL7gpKjgpL4g4KSoIOCkrOCkqCDgpLjgpJXgpKTgpL4g4KSl4KS+PyDgpK7gpL7gpKjgpL4g4KSV4KS/IOCkrOCkvuCkrOClguCknOClgCDgpJrgpLLgpYcg4KSX4KSv4KWHIOCkpeClh+ClpCDgpJXgpY3gpK/gpL4g4KSu4KWH4KSw4KWHIOCksuCkv+CkjyDgpJjgpLAg4KSu4KWH4KSCIOCkpuCliy3gpJrgpL7gpLAg4KSq4KWI4KS44KWHIOCkreClgCDgpKgg4KSl4KWHPyDgpIXgpK7gpY3gpK7gpL7gpIIg4KS54KWL4KSk4KWA4KSCLCDgpKTgpYsg4KSH4KS4IOCkpOCksOCkuSDgpKzgpL/gpKjgpL4g4KSV4KWB4KSbIOCkluCkvuCkr+Clhy3gpKrgpL/gpK/gpYcg4KSG4KSo4KWHIOCkpuClh+CkpOClgOCkgj8g4KSu4KWH4KSw4KS+IOCkheCkrCDgpJXgpYvgpIgg4KSo4KS54KWA4KSCIOCksOCkueCkvuClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL/gpK/gpL7gpLDgpL7gpK4g4KSV4KS+IOCkruCkqCDgpKzgpL7gpKzgpL7gpJzgpYAg4KSV4KWHIOCkpuCksOCljeCktuCkqCDgpJXgpYcg4KSy4KS/4KSPIOCkteCljeCkr+CkvuCkleClgeCksiDgpLngpYsg4KSJ4KSg4KS+4KWkIOCkieCkuOCkqOClhyDgpLjgpYvgpJrgpL4tIOCkh+CkuCDgpLXgpJXgpY3gpKQg4KS14KS5IOCkleCkueCkvuCkgiDgpK7gpL/gpLLgpYfgpILgpJfgpYc/IOCkleCkueCkvuCkgiDgpJrgpLLgpJXgpLAg4KSm4KWH4KSW4KWC4KSCPyDgpIngpKjgpJXgpYAg4KSu4KSo4KWL4KS54KSwIOCkteCkvuCko+ClgCwg4KSJ4KSo4KSV4KWAIOCkieCkpOCljeCkuOCkvuCkueCkquCljeCksOCkpiDgpLjgpL7gpKjgpY3gpKTgpY3gpLXgpKjgpL4sIOCkieCkuOCkleClhyDgpK7gpKgg4KSV4KWLIOCkluClgOCkguCkmuCkqOClhyDgpLLgpJfgpYDgpaQg4KSJ4KS44KSo4KWHIOCkhuCkpOClgeCksCDgpLngpYvgpJXgpLAg4KSV4KS54KS+LSDgpK7gpYjgpIIg4KSJ4KSo4KSV4KWHIOCkuOCkvuCkpSDgpLngpYAg4KSV4KWN4KSv4KWL4KSCIOCkqCDgpJrgpLLgpL4g4KSX4KSv4KS+PyDgpJjgpLAg4KSq4KSwIOCkruClh+CksOClhyDgpLLgpL/gpI8g4KSV4KWN4KSv4KS+IOCksOCkluCkviDgpKXgpL4/PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkteCkuSDgpIbgpJwg4KSv4KS54KS+4KSCIOCkuOClhyDgpJrgpLLgpL4g4KSk4KWLIOCkmOCksCDgpKgg4KSc4KS+4KSV4KSwIOCkuOClgOCkp+CkviDgpJjgpYAg4KS14KS+4KSy4KWHIOCkuOCkvuCkueCknOClgCDgpJXgpYAg4KSm4KWB4KSV4KS+4KSoIOCkquCksCDgpJfgpK/gpL7gpaQg4KS24KS+4KSv4KSmIOCkrOCkvuCkrOCkvuCknOClgCDgpLjgpYcg4KS14KS54KS+4KSCIOCkruClgeCksuCkvuCkleCkvuCkpCDgpLngpYsg4KSc4KS+4KSP4KWHLCDgpKrgpLAg4KS14KS54KS+4KSCIOCkrOCkvuCkrOCkvuCknOClgCDgpKgg4KSl4KWH4KWkIOCkrOCkoeCkvOClgCDgpKbgpYfgpLAg4KSk4KSVIOCkluCkoeCkvOCkvi3gpJbgpKHgpLzgpL4g4KSy4KWM4KSfIOCkhuCkr+CkvuClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpJjgpLAg4KSG4KSV4KSwIOCkrOCliOCkoOCkviDgpLngpYAg4KSl4KS+IOCkleCkv+CkuCDgpKjgpL/gpLDgpY3gpK7gpLLgpL4g4KSo4KWHIOCkhuCkleCksCDgpJXgpLngpL4tIOCkhuCknCDgpKbgpYfgpLAg4KSV4KS54KS+4KSCIOCksuCkl+CkvuCkiD8g4KS44KS14KWH4KSw4KWHIOCkluCkvuCkqOCkviDgpKjgpLngpYDgpIIg4KSs4KSo4KS+LCDgpJXgpY3gpK/gpL4g4KSH4KS4IOCkteCkleCljeCkpCDgpK3gpYAg4KSJ4KSq4KS14KS+4KS4IOCkueCli+Ckl+Ckvj8g4KSc4KS+4KSV4KSwIOCkrOCkvuCknOCkvuCksCDgpLjgpYcg4KSV4KWL4KSIIOCkpOCksOCkleCkvuCksOClgCDgpLLgpL7gpJPgpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS/4KSv4KS+4KSw4KS+4KSuIOCkqOClhyDgpJ3gpLLgpY3gpLLgpL7gpJXgpLAg4KSV4KS54KS+LSDgpKbgpL/gpKjgpK3gpLAg4KSV4KS+IOCkreClguCkluCkviDgpJrgpLLgpL4g4KSG4KSk4KS+IOCkueClguCkgjsg4KSV4KWB4KSbIOCkquClgOCkqOClgCDgpKrgpYDgpKjgpYcg4KSk4KSVIOCkleCliyDgpLLgpL7gpIgg4KSo4KS54KWA4KSCLCDgpIrgpKrgpLAg4KS44KWHIOCkrOCkvuCknOCkvuCksCDgpJzgpL7gpKjgpYcg4KSV4KS+IOCkueClgeCkleCljeCkriDgpKbgpYcg4KSm4KS/4KSv4KS+4KWkIOCkruCliOCkgiDgpKjgpLngpYDgpIIg4KSc4KS+4KSk4KS+IOCkrOCkvuCknOCkvuCksCwg4KSV4KS/4KS44KWAIOCkleCkviDgpKjgpYzgpJXgpLAg4KSo4KS54KWA4KSCIOCkueClguCkguClpCDgpIbgpJbgpL/gpLAg4KSw4KWL4KSf4KS/4KSv4KS+4KSCIOCkueClgCDgpKTgpYsg4KSW4KS/4KSy4KS+4KSk4KWAIOCkueCliyDgpK/gpL4g4KSU4KSwIOCkleClgeCkmz8g4KSQ4KS44KWAIOCksOCli+Ckn+Ckv+Ckr+CkvuCkgiDgpJzgpLngpL7gpIIg4KSu4KWH4KS54KSo4KSkIOCkleCksOClgeCkguCkl+Ckviwg4KS14KS54KWA4KSCIOCkruCkv+CksiDgpJzgpL7gpI/gpYfgpILgpJfgpYDgpaQg4KSc4KSsIOCkruCknOClguCksOClgCDgpLngpYAg4KSV4KSw4KSo4KWAIOCkueCliCwg4KSk4KWLIOCkhuCkquCkleClgCDgpKgg4KSV4KSw4KWB4KSC4KSX4KS+LCDgpJzgpL7gpIfgpI8g4KSu4KWH4KSw4KWHIOCksuCkv+CkjyDgpJbgpL7gpKjgpL4g4KSu4KSkIOCkrOCkqOCkvuCkh+Ckj+Ckl+CkvuClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpKjgpL/gpLDgpY3gpK7gpLLgpL4g4KSF4KS14KS+4KSV4KWNIOCksOCkuSDgpJfgpK/gpYDgpaQg4KSy4KSh4KS84KSV4KWHIOCkleCliyDgpIbgpJwg4KSV4KWN4KSv4KS+IOCkueCliyDgpJfgpK/gpL4/IOCklOCksCDgpKbgpL/gpKgg4KSk4KWLIOCkmuClgeCkquCkleClhyDgpLjgpYcg4KSc4KS+4KSV4KSwIOCkleCkvuCkriDgpJXgpLAg4KSy4KS+4KSk4KS+IOCkpeCkviwg4KSG4KScIOCkleCljeCkr+Cli+CkgiDgpKTgpY3gpK/gpYvgpLDgpL/gpK/gpL7gpIIg4KSs4KSm4KSyIOCksOCkueCkviDgpLngpYg/IOCkheCkrCDgpK3gpYAg4KSJ4KS44KSV4KWLIOCkr+CkuSDgpKgg4KS44KWC4KSd4KWAIOCkleCkvyDgpLjgpL/gpK/gpL7gpLDgpL7gpK4g4KSV4KWLIOCkpuCliy3gpJrgpL7gpLAg4KSq4KWI4KS44KWHIOCkleClgeCkmyDgpJbgpL7gpKjgpYcg4KSV4KWHIOCkpuClhyDgpKbgpYfgpaQg4KSJ4KS44KSV4KS+IOCkuOCljeCkteCkreCkvuCktSDgpIfgpKTgpKjgpL4g4KSV4KWD4KSq4KSjIOCkueCliyDgpJfgpK/gpL4g4KSl4KS+LCDgpKzgpYvgpLLgpYAtIOCkmOCksCDgpJXgpL4g4KSV4KS+4KSuIOCkleCksOCkqOCkviDgpKTgpYsg4KSu4KSc4KWC4KSw4KWAIOCkqOCkueClgOCkgiDgpJXgpLngpLLgpL7gpKTgpYDgpaQg4KSH4KS44KWAIOCkpOCksOCkuSDgpK7gpYjgpIIg4KSt4KWAIOCkleCkuSDgpKbgpYLgpIIg4KSV4KS/IOCkruCliOCkgiDgpJbgpL7gpKjgpL4g4KSo4KS54KWA4KSCIOCkquCkleCkvuCkpOClgCwg4KSk4KWB4KSu4KWN4KS54KS+4KSw4KWHIOCkrOCkvuCkrOClguCknOClgCDgpJXgpLkg4KSm4KWH4KSCIOCkleCkvyDgpJXgpJrgpLngpLDgpYAg4KSo4KS54KWA4KSCIOCknOCkvuCkpOCkviwg4KSk4KWLIOCkleCljeCkr+CkviDgpLngpYsg4KSs4KSk4KS+4KSTPyDgpKjgpLngpYDgpIIg4KSc4KS+4KSo4KS+IOCkmuCkvuCkueCkpOClhywg4KSk4KWLIOCkruCkpCDgpJzgpL7gpJMsIOCkreClguCkguCkl+ClgCDgpLjgpYcg4KSu4KSC4KSX4KS+IOCksuClguCkguCkl+ClgOClpCDgpK7gpYjgpIIg4KSV4KWN4KSv4KS+IOCknOCkvuCkqOCkpOClgCDgpKXgpYAg4KSV4KS/IOCkpOClgeCkruCljeCkueClh+CkgiDgpKzgpL7gpJzgpL7gpLAg4KSc4KS+4KSo4KS+IOCkrOClgeCksOCkviDgpLLgpJfgpKTgpL4g4KS54KWILCDgpKjgpLngpYDgpIIg4KSk4KWLIOCkrOCksuCkviDgpLjgpYcg4KSn4KWH4KSy4KWHIOCkleClgCDgpJrgpYDgpJwg4KSq4KWI4KS44KWHIOCkruClh+CkgiDgpIbgpKTgpYAsIOCkpOClgeCkruCljeCkueClh+CkgiDgpKgg4KSt4KWH4KSc4KSk4KWA4KWkIOCksuCliywg4KSG4KScIOCkuOClhyDgpJXgpL7gpKgg4KSq4KSV4KSh4KS84KSk4KWAIOCkueClguCkguClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL/gpK/gpL7gpLDgpL7gpK4g4KSm4KS/4KSyIOCkruClh+CkgiDgpJXgpYHgpJsg4KSy4KSc4KWN4KSc4KS/4KSkIOCkpOCliyDgpLngpYHgpIYsIOCkquCksCDgpKzgpL7gpJzgpL7gpLAg4KSoIOCkl+Ckr+CkvuClpCDgpIngpLjgpJXgpL4g4KSn4KWN4KSv4KS+4KSoIOCkrOCkvuCkrOCkvuCknOClgCDgpJXgpYAg4KST4KSwIOCksuCkl+CkviDgpLngpYHgpIYg4KSl4KS+4KWkIOCkheCkquCkqOClhyDgpLjgpL7gpLDgpYcg4KSm4KWB4KSW4KWL4KSCIOCkleCkviDgpIXgpKjgpY3gpKQg4KSU4KSwIOCknOClgOCkteCkqCDgpJXgpYAg4KS44KS+4KSw4KWAIOCkhuCktuCkvuCkj+CkgiDgpIngpLjgpYcg4KSF4KSsIOCkrOCkvuCkrOCkvuCknOClgCDgpJUg4KSG4KS24KWA4KSw4KWN4KS14KS+4KSmIOCkruClh+CkgiDgpK7gpL7gpLLgpYLgpK4g4KS54KWL4KSk4KWAIOCkpeClgOCkguClpCDgpIngpKjgpY3gpLngpYDgpIIg4KSV4KWAIOCktuCksOCkoyDgpJzgpL7gpJXgpLAg4KSJ4KS44KSV4KS+IOCkr+CkuSDgpIbgpKfgpL7gpLDgpLngpYDgpKgg4KSc4KWA4KS14KSoIOCkuOCkvuCksOCljeCkpeCklSDgpLngpYvgpJfgpL7gpaQg4KS44KWC4KSw4KWN4KSv4KS+4KS44KWN4KSkIOCkleClhyDgpLjgpK7gpK8g4KS14KS5IOCkheCkp+ClgOCksCDgpLngpYsg4KSX4KSv4KS+4KWkIOCkuOCkvuCksOCkviDgpKzgpL7gpJzgpL7gpLAg4KSb4KS+4KSoIOCkruCkvuCksOCkviwg4KSy4KWH4KSV4KS/4KSoIOCkrOCkvuCkrOCkvuCknOClgCDgpJXgpL4g4KSV4KS54KWA4KSCIOCkquCkpOCkviDgpKgg4KSu4KS/4KSy4KS+4KWkIOCkpuCkv+CkqOCkreCksCDgpJXgpL4g4KSt4KWC4KSWLeCkquCljeCkr+CkvuCkuOCkviwg4KS14KS5IOCkheCkrOCli+CkpyDgpKzgpL7gpLLgpJUg4KSm4KWB4KSW4KSk4KWHIOCkueClgeCkjyDgpKbgpL/gpLIg4KSV4KWLIOCkueCkvuCkpeCli+CkgiDgpLjgpYcg4KSm4KSs4KS+4KSv4KWHLCDgpIbgpLbgpL4g4KSU4KSwIOCkreCkryDgpJXgpYAg4KSu4KWC4KSw4KWN4KSk4KS/IOCkrOCkqOCkviwg4KSm4KWB4KSV4KS+4KSo4KWL4KSCLCDgpJfgpL7gpLLgpL/gpK/gpYvgpIIg4KSU4KSwIOCkruCkqOCljeCkpuCkv+CksOCli+CkgiDgpK7gpYfgpIIg4KSJ4KS4IOCkhuCktuCljeCksOCkruClhyDgpJXgpYsg4KSW4KWL4KSc4KSk4KS+IOCkq+Ckv+CksOCkpOCkviDgpKXgpL4sIOCknOCkv+CkuOCkleClhyDgpKzgpL/gpKjgpL4g4KSJ4KS44KWHIOCkheCkquCkqOCkviDgpJzgpYDgpLXgpKgg4KSm4KWB4KS44KWN4KS44KS5IOCkueCliyDgpLDgpLngpL4g4KSl4KS+4KWkIOCkj+CklSDgpKzgpL7gpLAg4KSu4KSo4KWN4KSm4KS/4KSwIOCkleClhyDgpLjgpL7gpK7gpKjgpYcg4KSJ4KS44KWHIOCkleCli+CkiCDgpLjgpL7gpKfgpYEg4KSW4KSh4KS84KS+IOCkpuCkv+CkluCkvuCkiCDgpKbgpL/gpK/gpL7gpaQg4KSJ4KS44KSo4KWHIOCkuOCkruCkneCkviDgpLXgpLngpYAg4KS54KWI4KSC4KWkIOCkueCksOCljeCkt+Cli+CksuCljeCksuCkvuCkuCDgpLjgpYcg4KS14KS5IOCkq+ClguCksiDgpIngpKDgpL7gpaQg4KSm4KWM4KSh4KS84KS+IOCklOCksCDgpLjgpL7gpKfgpYEg4KSV4KWHIOCkquCkvuCkuCDgpJbgpKHgpLzgpL4g4KS54KWLIOCkl+Ckr+CkvuClpCDgpKrgpLAg4KSv4KS5IOCkleCli+CkiCDgpJTgpLAg4KS54KWAIOCkruCkueCkvuCkpOCljeCkruCkviDgpKXgpYfgpaQg4KSo4KS/4KSw4KS+4KS2IOCkueCliyDgpJXgpLAg4KSG4KSX4KWHIOCkrOCkouCkvCDgpJfgpK/gpL7gpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KSn4KS+4KSw4KWHLeCkp+ClgOCksOClhyDgpLjgpKHgpLzgpJXgpYvgpIIg4KSq4KSwIOCkuOCkqOCljeCkqOCkvuCkn+CkviDgpKbgpL4g4KSX4KSv4KS+LCDgpJjgpLDgpYvgpIIg4KSV4KWHIOCkpuCljeCkteCkvuCksOCkviDgpKzgpKjgpY3gpKYg4KS54KWL4KSo4KWHIOCksuCkl+Clh+ClpCDgpLjgpKHgpLzgpJUg4KSV4KWAIOCkquCkn+CksOCkv+Ckr+Cli+CkgiDgpKrgpLAg4KSU4KSwIOCkl+CksuCkv+Ckr+Cli+CkgiDgpK7gpYfgpIIg4KSs4KSC4KS44KSW4KSf4KWHIOCkr+CkviDgpKzgpYvgpLDgpYcg4KSs4KS/4KSb4KS+LeCkrOCkv+Ckm+CkvuCkleCksCDgpK3gpL7gpLDgpKQg4KSV4KWAIOCkquCljeCksOCknOCkviDgpLjgpYHgpJYt4KSo4KS/4KSm4KWN4KSw4KS+IOCkruClh+CkgiDgpK7gpJfgpY3gpKgg4KS54KWL4KSo4KWHIOCksuCkl+ClgCwg4KSy4KWH4KSV4KS/4KSoIOCkuOCkv+Ckr+CkvuCksOCkvuCkriDgpJjgpLAg4KSoIOCksuCljOCkn+CkvuClpCDgpIngpLgg4KSY4KSwIOCkuOClhyDgpIngpLjgpJUg4KSm4KS/4KSyIOCkq+CknyDgpJfgpK/gpL4g4KSl4KS+LCDgpJzgpLngpL7gpIIg4KSV4KS/4KS44KWAIOCkleCliyDgpIngpLjgpLjgpYcg4KSq4KWN4KSw4KWH4KSuIOCkqCDgpKXgpL4sIOCknOCkueCkvuCkgiDgpLXgpLkg4KSV4KS/4KS44KWAIOCkquCksOCkvuCktuCljeCksOCkv+CkpCDgpJXgpYAg4KSt4KS+4KSC4KSk4KS/IOCkquCkoeCkvOCkviDgpLngpYHgpIYg4KSl4KS+LCDgpJXgpYfgpLXgpLIg4KSH4KS44KWA4KSy4KS/4KSPIOCkleCkvyDgpIngpLjgpYcg4KSU4KSwIOCkleCkueClgOCkgiDgpLbgpLDgpKMg4KSoIOCkpeClgOClpCDgpIfgpLgg4KS14KSV4KWN4KSkIOCkreClgCDgpIngpLjgpJXgpYcg4KSY4KSwIOCkqCDgpJzgpL7gpKjgpYcg4KSV4KWLIOCkleCkv+CkuOClhyDgpJrgpL/gpKjgpY3gpKTgpL4g4KS54KWL4KSX4KWAPyDgpKzgpL7gpKzgpYLgpJzgpYAg4KSt4KWL4KSc4KSoIOCkleCksOCkleClhyDgpLLgpYfgpJ/gpYcg4KS54KWL4KSC4KSX4KWHLCDgpIXgpK7gpY3gpK7gpL7gpILgpJzgpYAg4KSt4KWAIOCkhuCksOCkvuCkriDgpJXgpLDgpKjgpYcg4KSc4KS+IOCksOCkueClgCDgpLngpYvgpILgpJfgpYDgpaQg4KSV4KS/4KS44KWAIOCkqOClhyDgpK7gpYfgpLDgpYcg4KSV4KSu4KSw4KWHIOCkleClgCDgpJPgpLAg4KSd4KS+4KSC4KSV4KSV4KSwIOCkpuClh+CkluCkviDgpK3gpYAg4KSoIOCkueCli+Ckl+CkvuClpCDgpLngpL7gpIIsIOCkrOClgeCkhuCknOClgCDgpJjgpKzgpLDgpL4g4KSw4KS54KWAIOCkueCli+CkguCkl+ClgCwg4KS14KS5IOCkheCkreClgCDgpKTgpJUg4KSu4KWH4KSw4KWAIOCksOCkvuCkuSDgpKbgpYfgpJbgpKTgpYAg4KS54KWL4KSC4KSX4KWA4KWkIOCknOCkrCDgpKTgpJUg4KSu4KWI4KSCIOCkqCDgpJzgpL7gpIrgpILgpJfgpL4sIOCkreCli+CknOCkqCDgpKgg4KSV4KSw4KWH4KSC4KSX4KWA4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCksOClgeCkleCljeCkruCkv+Cko+ClgCDgpJXgpYAg4KSv4KS+4KSmIOCkhuCkpOClhyDgpLngpYAg4KS44KS/4KSv4KS+4KSw4KS+4KSuIOCkmOCksCDgpJXgpYAg4KST4KSwIOCkmuCksiDgpKbgpL/gpK/gpL7gpaQg4KS14KS5IOCkheCkl+CksCDgpJTgpLAg4KSV4KWB4KSbIOCkqCDgpJXgpLAg4KS44KSV4KSk4KWAIOCkpeClgCwg4KSk4KWLIOCkleCkri3gpLjgpYct4KSV4KSuIOCkieCkuOClhyDgpJfgpYvgpKYg4KSu4KWH4KSCIOCkmuCkv+CkruCkn+CkvuCkleCksCDgpLDgpYvgpKTgpYAg4KSl4KWAPyDgpIngpLjgpJXgpYcg4KSs4KS+4KS54KSwIOCkuOClhyDgpIbgpKjgpYcg4KSq4KSwIOCkueCkvuCkpS3gpK7gpYHgpILgpLkg4KSn4KWL4KSo4KWHIOCkleClhyDgpLLgpL/gpI8g4KSq4KS+4KSo4KWAIOCkpOCliyDgpLDgpJYg4KSm4KWH4KSk4KWAIOCkpeClgOCkguClpCDgpLjgpILgpLjgpL7gpLAg4KSu4KWH4KSCIOCkuOCkreClgCDgpKzgpL7gpLLgpJUg4KSm4KWC4KSnIOCkleClgCDgpJXgpYHgpLLgpY3gpLLgpL/gpK/gpYvgpIIg4KSo4KS54KWA4KSCIOCkleCksOCkpOClhywg4KS44KSt4KWAIOCkuOCli+CkqOClhyDgpJXgpYcg4KSV4KWM4KSwIOCkqOCkueClgOCkgiDgpJbgpL7gpKTgpYfgpaQg4KSV4KS/4KSk4KSo4KWL4KSCIOCkleClhyDgpKrgpYfgpJ8g4KSt4KSwIOCkreCli+CknOCkqCDgpK3gpYAg4KSo4KS54KWA4KSCIOCkruCkv+CksuCkpOCkvjsg4KSq4KSwIOCkmOCksCDgpLjgpYcg4KS14KS/4KSw4KSV4KWN4KSkIOCkteCkueClgCDgpLngpYvgpKTgpYcg4KS54KWI4KSCLCDgpJzgpYsg4KSu4KS+4KSk4KWDLeCkuOCljeCkqOClh+CkuSDgpLjgpYcg4KS14KSC4KSa4KS/4KSkIOCkueCliOCkguClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL/gpK/gpL7gpLDgpL7gpK4g4KSY4KSwIOCkleClgCDgpJPgpLAg4KSa4KSy4KS+IOCkueClgCDgpJXgpL8g4KS44KS54KS44KS+IOCkrOCkvuCkrOCkviDgpKrgpLDgpK7gpL7gpKjgpKjgpY3gpKYg4KSP4KSVIOCkl+CksuClgCDgpLjgpYcg4KSG4KSk4KWHIOCkpuCkv+CkluCkvuCkr+ClgCDgpKbgpL/gpK/gpYfgpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS/4KSv4KS+4KSw4KS+4KSuIOCkqOClhyDgpJzgpL7gpJXgpLAg4KSJ4KSo4KSV4KS+IOCkueCkvuCkpSDgpKrgpJXgpKHgpLwg4KSy4KS/4KSv4KS+4KWkIOCkquCksOCkruCkvuCkqOCkqOCljeCkpiDgpKjgpYcg4KSa4KWM4KSC4KSV4KSV4KSwIOCkquClguCkm+Ckvi0g4KSs4KSa4KWN4KSa4KS+LCDgpKTgpYHgpK4g4KSv4KS54KS+4KSCIOCkleCkueCkvuCkgj88L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS/4KSv4KS+4KSw4KS+4KSuIOCkqOClhyDgpKzgpL7gpKQg4KSs4KSo4KS+4KSV4KSwIOCkleCkueCkvi0g4KSP4KSVIOCkpuCli+CkuOCljeCkpCDgpLjgpYcg4KSu4KS/4KSy4KSo4KWHIOCkhuCkr+CkviDgpKXgpL7gpaQg4KSG4KSq4KSV4KS+IOCkuOCljeCkpeCkvuCkqCDgpK/gpLngpL7gpIIg4KS44KWHIOCkleCkv+CkpOCkqOClgCDgpKbgpYLgpLAg4KS54KWIPzwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpKrgpLDgpK7gpL7gpKjgpKjgpY3gpKYtIOCkueCkriDgpLLgpYvgpJcg4KSk4KWLIOCkhuCknCDgpK/gpLngpL7gpIIg4KS44KWHIOCknOCkviDgpLDgpLngpYcg4KS54KWI4KSCLCDgpKzgpJrgpY3gpJrgpL4sIOCkueCksOCkv+CkpuCljeCkteCkvuCksCDgpJXgpYAg4KSv4KS+4KSk4KWN4KSw4KS+IOCkueCliOClpDwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpLjgpL/gpK/gpL7gpLDgpL7gpK4g4KSo4KWHIOCkueCkpOCli+CkpOCljeCkuOCkvuCkuSDgpLngpYvgpJXgpLAg4KSV4KS54KS+LSDgpJXgpY3gpK/gpL4g4KSG4KScIOCkueClgCDgpJrgpLLgpYcg4KSc4KS+4KSH4KSP4KSX4KS+PzwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgngpKrgpLDgpK7gpL7gpKjgpKjgpY3gpKYtIOCkueCkvuCkgiDgpKzgpJrgpY3gpJrgpL4sIOCkheCkrCDgpLLgpYzgpJ/gpJXgpLAg4KSG4KSK4KSC4KSX4KS+LCDgpKTgpYsg4KSm4KSw4KWN4KS24KSoIOCkpuClguCkguCkl+Ckvj88L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS/4KSv4KS+4KSw4KS+4KSuIOCkqOClhyDgpJXgpL7gpKQg4KSV4KSC4KSgIOCkuOClhyDgpJXgpLngpL4tIOCkruCliOCkgiDgpK3gpYAg4KSG4KSq4KSV4KWHIOCkuOCkvuCkpSDgpJrgpLLgpYLgpILgpJfgpL7gpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KSq4KSw4KSu4KS+4KSo4KSo4KWN4KSmLSDgpK7gpYfgpLDgpYcg4KS44KS+4KSlISDgpKTgpYHgpK7gpY3gpLngpL7gpLDgpYcg4KSY4KSwIOCkleClhyDgpLLgpYvgpJcg4KSc4KS+4KSo4KWHIOCkpuClh+CkguCkl+Clhz88L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KS44KS/4KSv4KS+4KSw4KS+4KSuLSDgpJjgpLAg4KSV4KWHIOCksuCli+Ckl+Cli+CkgiDgpJXgpYsg4KSu4KWH4KSw4KWAIOCkleCljeCkr+CkviDgpKrgpLDgpLXgpL7gpLkg4KS54KWIPyDgpIfgpLjgpJXgpYcg4KSG4KSX4KWHIOCkuOCkv+Ckr+CkvuCksOCkvuCkriDgpJTgpLAg4KSV4KWB4KSbIOCkuOCkqCDgpJXgpLkg4KS44KSV4KS+4KWkIOCkieCkuOCkleClhyDgpIXgpLbgpY3gpLDgpYEt4KSq4KWC4KSw4KS/4KSkIOCkqOClh+CkpOCljeCksOCli+CkgiDgpKjgpYcg4KSJ4KS44KSV4KWAIOCkleCksOClgeCko+CkvjwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tbGVmdDogNDBweDsgIj4NCgkt4KSX4KS+4KSl4KS+IOCkieCkuOCkuOClhyDgpJXgpLngpYDgpIIg4KS14KS/4KS44KWN4KSk4KS+4KSwIOCkleClhyDgpLjgpL7gpKUg4KS44KWB4KSo4KS+IOCkpuClgCwg4KSc4KS/4KSk4KSo4KWAIOCkieCkuOCkleClgCDgpLXgpL7gpKPgpYAg4KSV4KSwIOCkuOCkleCkpOClgCDgpKXgpYDgpaQ8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWxlZnQ6IDQwcHg7ICI+DQoJ4KSq4KSw4KSu4KS+4KSo4KSo4KWN4KSmIOCkqOClhyDgpKzgpL7gpLLgpJUg4KSV4KWLIOCkleCkguCkoCDgpLjgpYcg4KSy4KSX4KS+4KSV4KSwIOCkleCkueCkvi0g4KSF4KSa4KWN4KSb4KS+IOCkrOCkmuCljeCkmiwg4KSk4KWH4KSw4KWAIOCkh+CkmuCljeCkm+CkviDgpLngpYsg4KSk4KWLIOCkmuCksuClpCDgpLjgpL7gpKfgpYEt4KS44KSo4KWN4KSk4KWL4KSCIOCkleClgCDgpLjgpILgpJfgpKTgpL8g4KSV4KS+IOCkhuCkqOCkqOCljeCkpiDgpIngpKDgpL7gpaQg4KSt4KSX4KS14KS+4KSo4KWNIOCkleClgCDgpIfgpJrgpY3gpJvgpL4g4KS54KWL4KSX4KWALCDgpKTgpYsg4KSk4KWH4KSw4KWAIOCkh+CkmuCljeCkm+CkviDgpKrgpYLgpLDgpYAg4KS54KWL4KSX4KWA4KWkPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA0MHB4OyAiPg0KCeCkpuCkvuCkqOClhyDgpKrgpLAg4KSu4KSj4KWN4KSh4KSw4KS+4KSk4KS+IOCkueClgeCkhiDgpKrgpJXgpY3gpLfgpYAg4KSF4KSo4KWN4KSkIOCkruClh+CkgiDgpKbgpL7gpKjgpYcg4KSq4KSwIOCkl+Ckv+CksCDgpKrgpKHgpLzgpL7gpaQg4KSJ4KS44KSV4KWHIOCknOClgOCkteCkqCDgpJXgpL4g4KSF4KSo4KWN4KSkIOCkquCkv+CkguCknOCksOClhyDgpK7gpYfgpIIg4KS54KWL4KSX4KS+IOCkr+CkviDgpLXgpY3gpK/gpL7gpKcg4KSV4KWAIOCkm+ClgeCksOClgCDgpJXgpYcg4KSk4KSy4KWHLSDgpK/gpLkg4KSV4KWM4KSoIOCknOCkvuCkqOCkpOCkviDgpLngpYg/PC9wPg0KZGQCEw8PFgIfAgX7AjxzcGFuIHN0eWxlID0iZmxvYXQ6cmlnaHQiPiA8YSBocmVmPSJodHRwczovL2hpbmRpc2FtYXkuY29tL2NvbnRlbnQvMjU5LzEwLy3gpIngpKrgpKjgpY3gpK/gpL7gpLgt4KSo4KS/4KSw4KWN4KSu4KSy4KS+LeCkheCkp+CljeCkr+CkvuCkry0xMS5jc3B4IiBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOm5vbmUiID4gPj7gpKrgpYDgpJvgpYc+PiA8L2E+IDxhIGhyZWY9Imh0dHBzOi8vaGluZGlzYW1heS5jb20vY29udGVudC8yNTkvMTIvLeCkieCkquCkqOCljeCkr+CkvuCkuC3gpKjgpL/gpLDgpY3gpK7gpLLgpL4t4KSF4KSn4KWN4KSv4KS+4KSvLTExLmNzcHgiIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246bm9uZSIgPiA+PuCkhuCkl+Clhz4+ICA8L2E+IDwvc3Bhbj5kZGThZFz/X8lR26+sgaVY2HSIGTACTg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C65AFE61" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAQZeu8IGSGuqPBycO6rGi2PimZjWwP9fjF/Z8emdokxI+T7trterDfuBb2E9/N6tD8aeX/GIKnIpTr1wMR/wytHdokf2vxDadxRTk4DXlSl6XYs/Zo=" />
+    <div>
+    <table style="width:1050px; vertical-align:top; border-color:White" align="center" > 
+    <tr>
+    <td style="width:1050px" colspan ="3"> 
+<table border="1" cellpadding="2" width="1050px" style="border-collapse: collapse" cellspacing="3">
+    <tr >
+    <!--style="vertical-align:bottom;background-image:url('http://www.hindisamay.com/images/low-banner.jpg')"-->
+      <td  width="1050px" valign="top" height="180px">
+     <img src="//hindisamay.com/images/low-banner.jpg" alt="hindisamay head" style="width:1050px; height:180px" />
+      
+      </td>      
+    </tr>        
+    <tr>        
+     <td width="1050px" height="35px" style=" text-align:center; background-color:white; padding-left:35px;  z-index:1; position:relative" id="nav-menu">           
+     <ul id="navbar">
+      <!-- The strange spacing herein prevents an IE6 whitespace bug. -->
+         <li><a style="background-color:White;color: Black;" href="//hindisamay.com/default.aspx">
+     मुखपृष्ठ </a></li>
+     <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=1">
+      उपन्यास </a>  </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=2">
+     कहानी</a> </li>
+     <li> <a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=3">
+      कविता</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=4">
+      व्यंग्य</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=5">
+      नाटक</a></li> 
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=12">
+      निबंध</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=6">
+      आलोचना</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=7">
+      विमर्श</a></li> 
+     <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content_n.aspx?ctype=बाल साहित्य">
+      बाल साहित्य</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=18">
+      संस्मरण</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=19">
+     यात्रा वृत्तांत</a></li> 
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=20">
+     सिनेमा</a></li> 
+    
+      
+     
+         
+     
+     
+     
+         <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/vivid.aspx?id=8">
+      विविध</a>
+            <ul>
+               <li><a href="//hindisamay.com/content.aspx?id=8">विविध</a></li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=लघुकथाएँ">लघुकथाएँ</a></li>    
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=लोककथा">लोककथा</a></li> 
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=बात-चीत">बात-चीत</a></li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=वैचारिकी">वैचारिकी</a> </li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=शोध">शोध</a> </li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=डायरी">डायरी</a> </li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=आत्मकथा">आत्मकथा</a> </li>
+                <li><a href="//hindisamay.com/content_n.aspx?ctype=पत्र">पत्र</a> </li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=डायरी">डायरी</a> </li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=सूक्तियाँ">सूक्तियाँ</a> </li>
+               
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=आत्मकथ्य">आत्मकथ्य </a> </li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=रचना प्रक्रिया">रचना प्रक्रिया </a> </li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=व्याख्यान">व्याख्यान</a> </li>
+               
+               
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=लेख">लेख </a> </li>
+               
+               
+               <li><a href="//hindisamay.com/content.aspx?id=16">बात</a> </li>
+               <li><a href="//hindisamay.com/content.aspx?id=14">शब्द चर्चा</a> </li>
+               <li><a href="//hindisamay.com/content.aspx?id=13">अन्यत्र</a> </li>
+               <li><a href="//hindisamay.com/content.aspx?id=15">जिज्ञासा</a></li>
+               
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=जीवनी">जीवनी</a> </li>
+               
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=अन्य">अन्य</a></li>
+            </ul>
+         </li>
+         <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/kosh.aspx?id=19">कोश</a>
+         </li> 
+       
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/samarg.aspx">
+      समग्र-संचयन </a> 
+      <ul>
+        <li><a href="//hindisamay.com/samarg.aspx">समग्र-संचयन</a></li>     
+               <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1275">अज्ञेय रचना संचयन </a></li>
+               <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1355">कबीर ग्रंथावली </a></li>               
+               <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1182">मोहन राकेश संचयन</a> </li>
+               <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1162">'हरिऔध' समग्र</a> </li>
+               <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1152">प्रेमचंद समग्र</a> </li>
+               <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1157">भारतेंदु हरिश्चंद्र</a> </li>
+               <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1262">रामचंद्र शुक्‍ल समग्र</a> </li>
+                <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1539">सहजानंद सरस्वती समग्र </a> </li>
+               <li><a href="//hindisamay.com/samagra-sanchayan.aspx?id=19">रहीम ग्रंथावली </a> </li>
+               </ul>
+      </li>  	
+               
+               
+<li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/audio-vedio.aspx">आडियो/वीडियो </a> </li>  
+<li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/anuvad.aspx">अनुवाद</a> </li>  
+
+
+<li><a href="//hindisamay.com/writer/hindisamay_writer.aspx" style="text-decoration: none;background-color:White;color: Black;">हमारे रचनाकार</a>  </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/writer/writer.aspx">हिंदी लेखक</a></li>      
+       <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/hindisamay_oldIssues.aspx">अभिलेखागार</a></li>
+       <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/university-publication.aspx">हमारे प्रकाशन</a></li> 
+      <li><a href="//hindisamay.com/search.aspx" style="text-decoration: none;background-color:White;color: Black;">खोज</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/contact.aspx">संपर्क</a></li> 
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindivishwa.org">विश्वविद्यालय</a> </li>
+<li><a style="text-decoration: none;background-color:White;color: Black;" href="http://archive.hindivishwa.org">संग्रहालय</a></li>
+
+</ul>
+      </td>
+    </tr>
+    </table> </td>
+    </tr>
+    <tr> 
+    <!--4D8F55 5FB73A #749080-->
+    <td style="width:150px; vertical-align:top; background-color:#749080; margin-right:10px ">
+    <div style="float:left; width:100%">
+   
+          <img id="writer_img" class="styleImg" src="" height="175" width="145" /> 
+           <span id="lblWriterImage" class="floating-menu" style="display:inline-block;"></span>     
+      
+    </div>
+        
+        </td>
+    <td style="width:750px; vertical-align:top;  padding-top :4px "> 
+    <table width="100%" id="contenttbl">
+      <tr>
+      <td valign="top" >
+      <a name="top"></a>
+       
+
+      <br /><br />
+      <span style="float:right; font-size:large"><a href="javascript:increaseFontSize();">अ+</a>&nbsp;<a href="javascript:decreaseFontSize();">अ-</a> </span>      
+      
+      
+      
+      <div id="fb-root"></div>
+      <div class="fb-like" data-send="true" data-width="450" data-show-faces="true"></div>
+        <div style="clear:both; float:right" > <select id="lang" onchange="ChangeLanguage();">
+            <option value="0"> Change Script to </option>
+            
+            <option value="ur">Urdu </option>
+            <option value="en">Roman </option>  
+            <option value="hi">Devnagari </option>
+          </select> </div>
+       <div style =" background-color:CaptionText; color:White;font-family:Mangal; font-style:italic; font-size:14px" > 
+       <h3 id="ContentPlaceHolder1_lblContentType" Class="headertext">उपन्यास</h3> </div>  
+        <Div align="center">
+        <h1 id="ContentPlaceHolder1_lblTitle" Class="tittleHeader">निर्मला</h1> 
+        <h2 id="ContentPlaceHolder1_lblAuthor" Class="subtittleHeader">प्रेमचंद </h2> 
+         
+        
+        </div>
+        <p align="center">
+        <span id="ContentPlaceHolder1_lblToc"></span>
+        </p>        
+        <div id="chapater-list" >
+        <span id="ContentPlaceHolder1_chapter_info">
+        <table>
+        <tr><td style="width:50px">
+        <a id="ContentPlaceHolder1_btntoc" class="chapter-link" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$btntoc&#39;,&#39;&#39;)"> अनुक्रम </a> </td> 
+        <td style="width:600px;text-align:center" > 
+        
+        <span id="ContentPlaceHolder1_lblChapter" class="subtittleHeader" style="font-size:16px;font-weight:bold;color:White">अध्याय 11</span> </td> 
+        <td style="width:50px">
+        <a id="ContentPlaceHolder1_btnPrevChapter" class="chapter-link" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$btnPrevChapter&#39;,&#39;&#39;)">पीछे  </a> &nbsp&nbsp&nbsp 
+            <a id="ContentPlaceHolder1_btnNextChapter" class="chapter-link" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$btnNextChapter&#39;,&#39;&#39;)"> आगे  </a> </td>
+        </tr>
+        </table> </span>    
+        </div>
+        </td>
+        </tr>
+        
+        
+        <tr>
+      <td  style=" vertical-align:text-top;padding-right:40px;">  
+      <div id="ContentPlaceHolder1_write_img" style="float:left;width:145px;border:solid 0px;position:relative;z-index:0;display:none;">
+            
+      
+          <br /><br />
+      </div>
+      
+      <div style=" padding-top:20px; padding-left:20px; padding-right:40px; padding-bottom:20px;margin-top:5px; vertical-align:text-top;">
+          
+      <span id="ContentPlaceHolder1_lblContentText" class="middleContentH"><br/><p style="margin-left: 40px;text-indent : 0px; ">
+	रुक्मिणी ने निर्मला से त्यौरियां बदलकर कहा- क्या नंगे पांव ही मदरसे जाएेगा?</p>
+<p style="margin-left: 40px; ">
+	निर्मला ने बच्ची के बाल गूंथते हुए कहा- मैं क्या करुं? मेरे पास रुपये नहीं हैं।</p>
+<p style="margin-left: 40px; ">
+	रुक्मिणी- गहने बनवाने को रुपये जुड़ते हैं, लड़के के जूतों के लिए रुपयों में आग लग जाती है। दो तो चले ही गये, क्या तीसरे को भी रुला-रुलाकर मार डालने का इरादा है?</p>
+<p style="margin-left: 40px; ">
+	निर्मला ने एक सांस खींचकर कहा- जिसको जीना है, जियेगा, जिसको मरना है, मरेगा। मैं किसी को मारने-जिलाने नहीं जाती।</p>
+<p style="margin-left: 40px; ">
+	आजकल एक-न-एक बात पर निर्मला और रुक्मिणी में रोज ही झड़प हो जाती थी। जब से गहने चोरी गये हैं, निर्मला का स्वभाव बिलकुल बदल गया है। वह एक-एक कौड़ी दांत से पकड़ने लगी है। सियाराम रोते-रोते चहे जान दे दे, मगर उसे मिठाई के लिए पैसे नहीं मिलते और यह बर्ताव कुछ सियाराम ही के साथ नहीं है, निर्मला स्वयं अपनी जरुरतों को टालती रहती है। धोती जब तक फटकनर तार-तार न हो जाएे, नयी धोती नहीं आती। महीनों सिर का तेल नहीं मंगाया जाता। पान खाने का उसे शौक था, कई-कई दिन तक पानदान खाली पड़ा रहता है, यहां तक कि बच्ची के लिए दूध भी नहीं आता। नन्हे से शिशु का भविष्य विराट् रुप धारण करके उसके विचार-क्षेत्र पर मंडराता रहता ।</p>
+<p style="margin-left: 40px; ">
+	मुंशीजी ने अपने को सम्पूर्णतया निर्मला के हाथों मे सौंप दिया है। उसके किसी काम में दखल नहीं देते। न जाने क्यों उससे कुछ दबे रहते हैं। वह अब बिना नागा कचहरी जाते हैं। इतनी मेहनत उन्होंने जवानी में भी न की थी। आंखें खराब हो गयी हैं, डॉक्टर सिन्हा ने रात को लिखने-पढ़ने की मुमुनियत कर दी है, पाचनशक्ति पहले ही दुर्बल थी, अब और भी खराब हो गयी है, दमें की शिकायत भी पैदा ही चली है, पर बेचारे सबेरे से आधी-आधी रात तक काम करते हैं। काम करने को जी चाहे या न चाहे, तबीयत अच्छी हो या न हो, काम करना ही पड़ता है। निर्मला को उन पर जरा भी दया आती। वही भविष्य की भीषण चिन्ता उसके आन्तरिक सद्भावों को सर्वनाश कर रही है। किसी भिक्षुक की आवाज सुनकर झल्ला पड़ती है। वह एक कोड़ी भी खर्च करना नहीं चाहती ।</p>
+<p style="margin-left: 40px; ">
+	एक दिन निर्मला ने सियाराम को घी लाने के लिए बाजार भेजा। भूंगी पर उनका विश्वास न था, उससे अब कोई सौदा न मांगती थी। सियाराम में काट-कपट की आदत न थी। औने-पौने करना न जानता था। प्राय: बाजार का सारा काम उसी को करना पड़ता। निर्मला एक-एक चीज को तोलती, जरा भी कोई चीज तोल में कम पड़ती, तो उसे लौटा देती। सियाराम का बहुत-सा समय इसी लौट-फेरी में बीत जाता था। बाजार वाले उसे जल्दी कोई सौदा न देते। आज भी वही नौबत आयी। सियाराम अपने विचार से बहुत अच्छा घी, कई दूकारन से देखकर लाया, लेकिन निर्मला ने उसे सूंघते ही कहा- घी खराब है, लौटा आओ।</p>
+<p style="margin-left: 40px; ">
+	सियाराम ने झुंझलाकर कहा- इससे अच्छा घी बाजार में नहीं है, मैं सारी दूकाने देखकर लाया हूं?</p>
+<p style="margin-left: 40px; ">
+	निर्मला- तो मैं झूठ कहती हूं?</p>
+<p style="margin-left: 40px; ">
+	सियाराम- यह मैं नहीं कहता, लेकिन बनिया अब घी वापिस न लेगा। उसने मुझसे कहा था, जिस तरह देखना चाहो, यहीं देखो, माल तुम्हारे सामने है। बोहिनी-बट्टे के वक्त में सौदा वापस न लूंगा। मैंने सूंघकर, चखकर लिया। अब किस मुंह से लौटने जाऊ?</p>
+<p style="margin-left: 40px; ">
+	निर्मला ने दांत पीसकर कहा- घी में साफ चरबी मिली हुई है और तुम कहते हो, घी अच्छा है। मैं इसे रसोई में न ले जाऊंगी, तुम्हारा जी चाहे लौटा दो, चाहे खा जाओ।</p>
+<p style="margin-left: 40px; ">
+	घी की हांड़ी वहीं छोड़कर निर्मला घर में चली गयी। सियाराम क्रोध और क्षोभ से कातर हो उठा। वह कौन मुंह लेकर लौटाने जाएे? बनिया साफ कह देगा- मैं नहीं लौटाता। तब वह क्या करेगा? आस-पास के दस-पांच बनिये और सड़क पर चलने वाले आदमी खाड़े हो जाएेंगे। उन सबों के सामने उसे लज्जित होना पड़ेगा। बाजार में यों ही कोई बनिया उसे जल्दी सौदा नहीं देता, वह किसी दूकान पर खड़ा होने नहीं पाता। चारों ओर से उसी पर लताड़ पड़ेगी। उसने मन-ही-मन झुंझलाकर कहा- पड़ा रहे घी, मैं लौटाने न जाऊंगा।</p>
+<p style="margin-left: 40px; ">
+	मातृ-हीन बालक के समान दुखी, दीन-प्राणी संसार में दूसरा नहीं होता और सारे दु:ख भूल जाते हैं। बालक को माता याद आयी, अम्मां होती, तो क्या आज मुझे यह सब सहना पड़ता? भैया चले गये, मैं ही अकेला यह विपत्ति सहने के लिए क्यों बचा रहा? सियाराम की आंखों में आंसू की झड़ी लग गयी। उसके शोक कातर कण्ठ से एक गहरे नि:श्वास के साथ मिले हुए ये शब्द निकल आये- अम्मां! तुम मुझे भूल क्यों गयीं, क्यों नहीं बुला लेतीं?</p>
+<p style="margin-left: 40px; ">
+	सहसा निर्मला फिर कमरे की तरफ आयी। उसने समझा था, सियाराम चला गया होगा। उसे बैठा देखा, तो गुस्से से बोली- तुम अभी तक बैठे ही हो? आखिर खाना कब बनेगा?</p>
+<p style="margin-left: 40px; ">
+	सियाराम ने आंखें पोंड डालीं। बोला- मुझे स्कूल जाने में देर हो जाएेगी।</p>
+<p style="margin-left: 40px; ">
+	निर्मला- एक दिन देर हो जाएेगी तो कौन हरज है? यह भी तो घर ही का काम है?</p>
+<p style="margin-left: 40px; ">
+	सियाराम- रोज तो यही धन्धा लगा रहता है। कभी वक्त पर स्कूल नहीं पहुंचता। घर पर भी पढ़ने का वक्त नहीं मिलता। कोई सौदा दो-चार बार लौटाये बिना नहीं जाता। डांट तो मुझ पर पड़ती है, शर्मिंदा तो मुझे होना पड़ता है, आपको क्या?</p>
+<p style="margin-left: 40px; ">
+	निर्मला- हां, मुझे क्या? मैं तो तुम्हारी दुश्मन ठहरी! अपना होता, तब तो उसे दु:ख होता। मैं तो ईश्वर से मानाया करती हूं कि तुम पढ़-लिख न सको। मुझमें सारी बुराइयां-ही-बुराइयां हैं, तुम्हारा कोई कसूर नहीं। विमाता का नाम ही बुरा होता है। अपनी मां विष भी खिलाये, तो अमृत हैं; मैं अमृत भी पिलाऊं, तो विष हो जाएेगा। तुम लोगों के कारण में मिट्टी में मिल गयी, रोते-रोत उम्र काटी जाती है, मालूम ही न हुआ कि भगवान ने किसलिए जन्म दिया था और तुम्हारी समझ में मैं विहार कर रही हूं। तुम्हें सताने में मुझे बड़ा मजा आता है। भगवान् भी नहीं पूछते कि सारी विपत्ति का अन्त हो जाता।</p>
+<p style="margin-left: 40px; ">
+	यह कहते-कहते निर्मला की आंखें भर आयी। अन्दर चली गयी। सियाराम उसको रोते देखकर सहम उठा। ग्लानिक तो नहीं आयी; पर शंका हुई कि ने जाने कौन-सा दण्ड मिले। चुपके से हांड़ी उठा ली और घी लौटाने चला, इस तरह जैसे कोई कुत्ता किसी नये गांव में जाता है। उसे देखकर साधारण बुद्वि का मनुष्य भी आनुमान कर सकता था कि वह अनाथ है।</p>
+<p style="margin-left: 40px; ">
+	सियाराम ज्यों-ज्यों आगे बढ़ता था, आनेवाले संग्राम के भय से उसकी हृदय-गति बढ़ती जाती थी। उसने निश्चय किया-बनिये ने घी न लौटाया, तो वह घी वहीं छोड़कर चला आयेगा। झख मारकर बनिया आप ही बुलायेगा। बनिये को डांटने के लिए भी उसने शब्द सोच लिए। वह कहेगा- क्यों साहूजी, आंखों में धूल झोंकते हो? दिखाते हो चोखा माल और और देते ही रद्दी माल? पर यह निश्चय करने पर भी उसके पैर आगे बहुत धीरे-धीरे उठते थे। वह यह न चाहता था, बनिया उसे आता हुआ देखे, वह अकस्मात् ही उसके सामने पहुंच जाना चाहता था। इसलिए वह चक्कार काटकर दूसरी गली से बनिये की दूकान पर गया।</p>
+<p style="margin-left: 40px; ">
+	बनिये ने उसे देखते ही कहा- हमने कह दिया था कि हमे सौदा वापस न लेंगे। बोलों, कहा था कि नहीं।</p>
+<p style="margin-left: 40px; ">
+	सियाराम ने बिगड़कर कहा- तुमने वह घी कहां दिया, जो दिखाया था? दिखाया एक माल, दिया दूसरा माल, लौटाओगे कैसे नहीं? क्या कुछ राहजनी है?</p>
+<p style="margin-left: 40px; ">
+	साह- इससे चोखा घी बाजार में निकल आये तो जरीबाना दूं। उठा लो हांड़ी और दो-चार दूकार देख आओ।</p>
+<p style="margin-left: 40px; ">
+	सियाराम- हमें इतनी फुर्सत नहीं है। अपना घी लौटा लो।</p>
+<p style="margin-left: 40px; ">
+	साह- घी न लौटेगा।</p>
+<p style="margin-left: 40px; ">
+	बनिये की दुकान पर एक जटाधारी साधू बैठा हुआ यह तमाश देख रहा था। उठकर सियाराम के पास आया और हांड़ी का घी सूंघकर बोला- बच्चा, घी तो बहुत अच्छा मालूम होता है।</p>
+<p style="margin-left: 40px; ">
+	साह सने शह पाकर कहा- बाबाजी हम लोग तो आप ही इनको घटिया माल नहीं देते। खराब माल क्या जाने-सुने ग्राहकों को दिया जाता है?</p>
+<p style="margin-left: 40px; ">
+	साधु- घी ले जाव बच्चा, बहुत अच्छा है।</p>
+<p style="margin-left: 40px; ">
+	सियाराम रो पड़ा। घी को बुरा सिद्वा करने के लिए उसके पास अब क्या प्रमाण था? बोला- वही तो कहती हैं, घी अच्छा नहीं है, लौटा आओ। मैं तो कहता था कि घी अच्छा है।</p>
+<p style="margin-left: 40px; ">
+	साधु- कौन कहता है?</p>
+<p style="margin-left: 40px; ">
+	साह- इसकी अम्मां कहती होंगी। कोई सौदा उनके मन ही नहीं भाता।</p>
+<p style="margin-left: 40px; ">
+	बेचारे लड़के को बार-बार दौड़ाया करती है। सौतेली मां है न! अपनी मां हो तो कुछ ख्याल भी करे।</p>
+<p style="margin-left: 40px; ">
+	साधु ने सियराम को सदय नेत्रों से देखा, मानो उसे त्राण देने के लिए उनका हृदय विकल हो रहा है। तब करुण स्वर से बोले- तुम्हारी माता का स्वर्गवास हुए कितने दिन हुए बच्च?</p>
+<p style="margin-left: 40px; ">
+	सियाराम- छठा साल है।</p>
+<p style="margin-left: 40px; ">
+	साधु- ता तुम उस वक्त बहुत ही छोटे रहे होंगे। भगेवान् तुम्हारी लीला कितनी विचित्र है। इस दुधमुंहे बालक को तुमने मात्-प्रेम से वंचित कर दिया। बड़ा अनर्थ करते हो भगवान्! छ: साल का बालक और राक्षसी विमाता के पानले पड़े! धन्य हो दयानिधि! साहजी, बालक पर दया करो, घी लौटा लो, नहीं तो इसकी मात इसे घर में रहने न देगी। भगवान की इच्छा से तुम्हारा घी जल्द बिक जाएेगा। मेरा आशीर्वाद तुम्हारे साथ रहेगां</p>
+<p style="margin-left: 40px; ">
+	साहजी ने रुपये वापस न किये। आखिर लड़के को फिर घी लेने आना ही पड़ेगा। न जाने दिन में कितनी बार चक्कर लगाना पड़े और किस जालिये से पाला पड़े। उसकी दुकान में जो घी सबसे अच्छा था, वह सियाराम दिल से सोच रहा था, बाबाजी कितने दयालु हैं? इन्होंने सिफारिश न की होती, तो साहजी क्यों अच्छा घी देते?</p>
+<p style="margin-left: 40px; ">
+	सियाराम घी लेकर चला, तो बाबाजी भी उसके साथ ही लिये। रास्ते में</p>
+<p style="margin-left: 40px; ">
+	मीठी-मीठी बातें करने लगे।</p>
+<p style="margin-left: 40px; ">
+	&#39;बच्चा, मेरी माता भी मुझे तीन साल का छोड़कर परलोक सिधारी थीं। तभी से मातृ-विहीन बालकों को देखता हूं तो मेरा हृदय फटने लगता हैं।&#39;</p>
+<p style="margin-left: 40px; ">
+	सियाराम ने पूछा- आपके पिताजी ने भी तो दूसरा विवाह कर लिया था?</p>
+<p style="margin-left: 40px; ">
+	साधु- हां, बच्चा, नहीं तो आज साधु क्यों होता? पहले तो पिताजी विवाह न करते थे। मुझे बहुत प्यार करते थे, फिर न जाने क्यों मन बदल गया, विवाह कर लिया। साधु हूं, कटु वचन मुंह से नहीं निकालना चाहिए, पर मेरी विमात जितनी ही सुन्दर थीं, उतनी ही कठोर थीं। मुझे दिन-दिन-भर खाने को न देतीं, रोता तो मारतीं। पिताजी की आंखें भी फिर गयीं। उन्हें मेरी सूरत से घृणा होने लगी। मेरा रोना सुनकर मुझे पीटने लगते। अन्त को मैं एक दिन घर से निकल खड़ा हुआ।</p>
+<p style="margin-left: 40px; ">
+	सियाराम के मन में भी घर से निकल भागने का विचार कई बार हुआ था। इस समय भी उसके मन में यही विचार उठ रहा था। बड़ी उत्सुकता से बोला-घर से निकलकर आप कहां गये?</p>
+<p style="margin-left: 40px; ">
+	बाबाजी ने हंसकर कहा- उसी दिन मेरे सारे कष्टों का अन्त हो गया जिस दिन घर के मोह-बन्धन से छूटा और भय मन से निकला, उसी दिन मानो मेरा उद्वार हो गया। दिन भर मैं एक पुल के नीचे बैठा रहा। संध्या समय मुझे एक महात्मा मिल गये। उनका स्वामी परमानन्दजी था। वे बाल-ब्रह्रचारी थे। मुझ पर उन्होंने दया की और अपने साथ रख लिया। उनके साथ रख लिया। उनके साथ मैं देश-देशान्तरों में घूमने लगा। वह बड़े अच्छे योगी थे। मुझे भी उन्होंने योग-विद्या सिखाई। अब तो मेरे को इतना अभ्यास हो येगया है कि जब इच्छा होती है, माताजी के दर्शन कर लेता हूं, उनसे बात कर लेता हूं।</p>
+<p style="margin-left: 40px; ">
+	सियाराम ने विस्फारित नेत्रों से देखकर पूछा- आपकी माता का तो देहान्त हो चुका था?</p>
+<p style="margin-left: 40px; ">
+	साधु- तो क्या हुआ बच्च, योग-विद्या में वह शक्ति है कि जिस मृत-आत्म को चाहे, बुला ले।</p>
+<p style="margin-left: 40px; ">
+	सियाराम- मैं योग-विद्या सीख् लूं, तो मुझे भी माताजी के दर्शन होंगे?</p>
+<p style="margin-left: 40px; ">
+	साधु- अवश्य, अभ्यास से सब कुछ हो सकता है। हां, योग्य गुरु चाहिए। योग से बड़ी-बड़ी सिद्वियां प्राप्त हो सकती हैं। जितना धन चाहो, पल-मात्र में मंगा सकते हो। कैसी ही बीमारी हो, उसकी औषधि अता सकते हो।</p>
+<p style="margin-left: 40px; ">
+	सियाराम- आपका स्थान कहां है?</p>
+<p style="margin-left: 40px; ">
+	साधु- बच्चा, मेरे को स्थान कहीं नहीं है। देश-देशान्तरों से रमता फिरता हूं। अच्छा, बच्चा अब तुम जाओ, मै। जरा स्नान-ध्ययान करने जाऊंगा।</p>
+<p style="margin-left: 40px; ">
+	सियराम- चलिए मैं भी उसी तरफ चलता हूं। आपके दर्शन से जी नहीं भरा।</p>
+<p style="margin-left: 40px; ">
+	साधु- नहीं बच्चा, तुम्हें पाठशाला जाने की देरी हो रही है।</p>
+<p style="margin-left: 40px; ">
+	सियराम- फिर आपके दर्शन कब होंगे?</p>
+<p style="margin-left: 40px; ">
+	साधु- कभी आ जाऊंगा बच्चा, तुम्हारा घर कहां है?</p>
+<p style="margin-left: 40px; ">
+	सियाराम प्रसन्न होकर बोला- चलिएगा मेरे घर? बहुत नजदीक है। आपकी बड़ी कृपा होगी।</p>
+<p style="margin-left: 40px; ">
+	सियाराम कदम बढ़ाकर आगे-आगे चलने लगा। इतना प्रसन्न था, मानो सोने की गठरी लिए जाता हो। घर के सामने पहुंचकर बोला- आइए, बैठिए कुछ देर।</p>
+<p style="margin-left: 40px; ">
+	साधु- नहीं बच्चा, बैठूंगा नहीं। फिर कल-परसों किसी समय आ जाऊंगा। यही तुम्हारा घर है?</p>
+<p style="margin-left: 40px; ">
+	सियाराम- कल किस वक्त आइयेगा?</p>
+<p style="margin-left: 40px; ">
+	साधु- निश्चय नहीं कह सकता। किसी समय आ जाऊंगा।</p>
+<p style="margin-left: 40px; ">
+	साधु आगे बढ़े, तो थोड़ी ही दूर पर उन्हें एक दूसरा साधु मिला। उसका नाम था हरिहरानन्द।</p>
+<p style="margin-left: 40px; ">
+	परमानन्द से पूछा- कहां-कहां की सैर की? कोई शिकार फंसा?</p>
+<p style="margin-left: 40px; ">
+	हरिहरानन्द- इधरा चारों तरफ घूम आया, कोई शिकार न मिलां एकाध मिला भी, तो मेरी हंसी उड़ाने लगा।</p>
+<p style="margin-left: 40px; ">
+	परमानन्द- मुझे तो एक मिलता हुआ जान पड़ता है! फंस जाएे तो जानूं।</p>
+<p style="margin-left: 40px; ">
+	हरिहरानन्द- तुम यों ही कहा करते हो। जो आता है, दो-एक दिन के बाद निकल भागता है।</p>
+<p style="margin-left: 40px; ">
+	परमानन्द- अबकी न भागेगा, देख लेना। इसकी मां मर गयी है। बाप ने दूसरा विवाह कर लिया है। मां भी सताया करती है। घर से ऊबा हुआ है।</p>
+<p style="margin-left: 40px; ">
+	हरिहरानन्द- खूब अच्छी तरह। यही तरकीब सबसे अच्छी है। पहले इसका पता लगा लेना चाहिए कि मुहल्ले में किन-किन घरों में विमाताएं हैं? उन्हीं घरों में फन्दा डालना चाहिए।</p>
+<p style="margin-left: 40px; ">
+	निर्मला ने बिगड़कर कहा- इतनी देर कहां लगायी?</p>
+<p style="margin-left: 40px; ">
+	सियाराम ने ढिठाई से कहा- रास्ते में एक जगह सो गया था।</p>
+<p style="margin-left: 40px; ">
+	निर्मला- यह तो मैं नहीं कहती, पर जानते हो कै बज गये हैं? दस कभी के बज गये। बाजार कुद दूर भी तो नहीं है।</p>
+<p style="margin-left: 40px; ">
+	सियाराम- कुछ दूर नहीं। दरवाजे ही पर तो है।</p>
+<p style="margin-left: 40px; ">
+	निर्मला- सीधे से क्यों नहीं बोलते? ऐसा बिगड़ रहे हो, जैसे मेरा ही कोई कामे करने गये हो?</p>
+<p style="margin-left: 40px; ">
+	सियाराम- तो आप व्यर्थ की बकवास क्यों करती हैं? लिया सौदा लौटाना क्या आसान काम है? बनिये से घंटों हुज्जत करनी पड़ी यह तो कहो, एक बाबाजी ने कह-सुनकर फेरवा दिया, नहीं तो किसी तरह न फेरता। रास्ते में कहीं एक मिनट भी न रुका, सीधा चला आता हूं।</p>
+<p style="margin-left: 40px; ">
+	निर्मला- घी के लिए गये-गये, तो तुम ग्यारह बजे लौटे हो, लकड़ी के लिए जाओगे, तो सांझ ही कर दोगे। तुम्हारे बाबूजी बिना खाये ही चले गये। तुम्हें इतनी देर लगानी था, तो पहले ही क्यों न कह दिया? जाते ही लकड़ी के लिए।</p>
+<p style="margin-left: 40px; ">
+	सियाराम अब अपने को संभाल न सका। झल्लाकर बोला- लकड़ी किसी और से मंगाइए। मुझे स्कूल जाने को देर हो रही है।</p>
+<p style="margin-left: 40px; ">
+	निर्मला- खाना न खाओगे?</p>
+<p style="margin-left: 40px; ">
+	सियाराम- न खाऊंगा।</p>
+<p style="margin-left: 40px; ">
+	निर्मला- मैं खाना बनाने को तैयार हूं। हां, लकड़ी लाने नहीं जा सकती।</p>
+<p style="margin-left: 40px; ">
+	सियाराम- भूंगी को क्यों नहीं भेजती?</p>
+<p style="margin-left: 40px; ">
+	निर्मला- भूंगी का लाया सौदा तुमने कभी देखा नहीं हैं?</p>
+<p style="margin-left: 40px; ">
+	सियाराम- तो मैं इस वक्त न जाऊंगा।</p>
+<p style="margin-left: 40px; ">
+	निर्मला- मुझे दोष न देना।</p>
+<p style="margin-left: 40px; ">
+	सियाराम कई दिनों से स्कूल नहीं गया था। बाजार-हाट के मारे उसे किताबें देखने का समय ही न मिलता था। स्कूल जाकर झिड़कियां खान, से बेंच पर खड़े होने या ऊंची टोपी देने के सिवा और क्या मिलता? वह घर से किताबें लेकर चलता, पर शहर के बाहर जाकर किसी वृक्ष की छांह में बैठा रहता या पल्टनों की कवायद देखता। तीन बजे घर से लौट आता। आज भी वह घर से चला, लेकिन बैठने में उसका जी न लगा, उस पर आंतें अल ग जल रही थीं। हा! अब उसे रोटियों के भी लाले पड़ गये। दस बजे क्या खाना न बन सकता था? माना कि बाबूजी चले गये थे। क्या मेरे लिए घर में दो-चार पैसे भी न थे? अम्मां होतीं, तो इस तरह बिना कुछ खाये-पिये आने देतीं? मेरा अब कोई नहीं रहा।</p>
+<p style="margin-left: 40px; ">
+	सियाराम का मन बाबाजी के दर्शन के लिए व्याकुल हो उठा। उसने सोचा- इस वक्त वह कहां मिलेंगे? कहां चलकर देखूं? उनकी मनोहर वाणी, उनकी उत्साहप्रद सान्त्वना, उसके मन को खींचने लगी। उसने आतुर होकर कहा- मैं उनके साथ ही क्यों न चला गया? घर पर मेरे लिए क्या रखा था?</p>
+<p style="margin-left: 40px; ">
+	वह आज यहां से चला तो घर न जाकर सीधा घी वाले साहजी की दुकान पर गया। शायद बाबाजी से वहां मुलाकात हो जाएे, पर वहां बाबाजी न थे। बड़ी देर तक खड़ा-खड़ा लौट आया।</p>
+<p style="margin-left: 40px; ">
+	घर आकर बैठा ही था किस निर्मला ने आकर कहा- आज देर कहां लगाई? सवेरे खाना नहीं बना, क्या इस वक्त भी उपवास होगा? जाकर बाजार से कोई तरकारी लाओ।</p>
+<p style="margin-left: 40px; ">
+	सियाराम ने झल्लाकर कहा- दिनभर का भूखा चला आता हूं; कुछ पीनी पीने तक को लाई नहीं, ऊपर से बाजार जाने का हुक्म दे दिया। मैं नहीं जाता बाजार, किसी का नौकर नहीं हूं। आखिर रोटियां ही तो खिलाती हो या और कुछ? ऐसी रोटियां जहां मेहनत करुंगा, वहीं मिल जाएेंगी। जब मजूरी ही करनी है, तो आपकी न करुंगा, जाइए मेरे लिए खाना मत बनाइएगा।</p>
+<p style="margin-left: 40px; ">
+	निर्मला अवाक् रह गयी। लड़के को आज क्या हो गया? और दिन तो चुपके से जाकर काम कर लाता था, आज क्यों त्योरियां बदल रहा है? अब भी उसको यह न सूझी कि सियाराम को दो-चार पैसे कुछ खाने के दे दे। उसका स्वभाव इतना कृपण हो गया था, बोली- घर का काम करना तो मजूरी नहीं कहलाती। इसी तरह मैं भी कह दूं कि मैं खाना नहीं पकाती, तुम्हारे बाबूजी कह दें कि कचहरी नहीं जाता, तो क्या हो बताओ? नहीं जाना चाहते, तो मत जाओ, भूंगी से मंगा लूंगी। मैं क्या जानती थी कि तुम्हें बाजार जाना बुरा लगता है, नहीं तो बला से धेले की चीज पैसे में आती, तुम्हें न भेजती। लो, आज से कान पकड़ती हूं।</p>
+<p style="margin-left: 40px; ">
+	सियाराम दिल में कुछ लज्जित तो हुआ, पर बाजार न गया। उसका ध्यान बाबाजी की ओर लगा हुआ था। अपने सारे दुखों का अन्त और जीवन की सारी आशाएं उसे अब बाबाजी क आशीर्वाद में मालूम होती थीं। उन्हीं की शरण जाकर उसका यह आधारहीन जीवन सार्थक होगा। सूर्यास्त के समय वह अधीर हो गया। सारा बाजार छान मारा, लेकिन बाबाजी का कहीं पता न मिला। दिनभर का भूख-प्यासा, वह अबोध बालक दुखते हुए दिल को हाथों से दबाये, आशा और भय की मूर्ति बना, दुकानों, गालियों और मन्दिरों में उस आश्रमे को खोजता फिरता था, जिसके बिना उसे अपना जीवन दुस्सह हो रहा था। एक बार मन्दिर के सामने उसे कोई साधु खड़ा दिखाई दिया। उसने समझा वही हैं। हर्षोल्लास से वह फूल उठा। दौड़ा और साधु के पास खड़ा हो गया। पर यह कोई और ही महात्मा थे। निराश हो कर आगे बढ़ गया।</p>
+<p style="margin-left: 40px; ">
+	धारे-धीरे सड़कों पर सन्नाटा दा गया, घरों के द्वारा बन्द होने लगे। सड़क की पटरियों पर और गलियों में बंसखटे या बोरे बिछा-बिछाकर भारत की प्रजा सुख-निद्रा में मग्न होने लगी, लेकिन सियाराम घर न लौटा। उस घर से उसक दिल फट गया था, जहां किसी को उससे प्रेम न था, जहां वह किसी पराश्रित की भांति पड़ा हुआ था, केवल इसीलिए कि उसे और कहीं शरण न थी। इस वक्त भी उसके घर न जाने को किसे चिन्ता होगी? बाबूजी भोजन करके लेटे होंगे, अम्मांजी भी आराम करने जा रही होंगी। किसी ने मेरे कमरे की ओर झांककर देखा भी न होगा। हां, बुआजी घबरा रही होंगी, वह अभी तक मेरी राह देखती होंगी। जब तक मैं न जाऊंगा, भोजन न करेंगी।</p>
+<p style="margin-left: 40px; ">
+	रुक्मिणी की याद आते ही सियाराम घर की ओर चल दिया। वह अगर और कुछ न कर सकती थी, तो कम-से-कम उसे गोद में चिमटाकर रोती थी? उसके बाहर से आने पर हाथ-मुंह धोने के लिए पानी तो रख देती थीं। संसार में सभी बालक दूध की कुल्लियों नहीं करते, सभी सोने के कौर नहीं खाते। कितनों के पेट भर भोजन भी नहीं मिलता; पर घर से विरक्त वही होते हैं, जो मातृ-स्नेह से वंचित हैं।</p>
+<p style="margin-left: 40px; ">
+	सियाराम घर की ओर चला ही कि सहसा बाबा परमानन्द एक गली से आते दिखायी दिये।</p>
+<p style="margin-left: 40px; ">
+	सियाराम ने जाकर उनका हाथ पकड़ लिया। परमानन्द ने चौंककर पूछा- बच्चा, तुम यहां कहां?</p>
+<p style="margin-left: 40px; ">
+	सियाराम ने बात बनाकर कहा- एक दोस्त से मिलने आया था। आपका स्थान यहां से कितनी दूर है?</p>
+<p style="margin-left: 40px; ">
+	परमानन्द- हम लोग तो आज यहां से जा रहे हैं, बच्चा, हरिद्वार की यात्रा है।</p>
+<p style="margin-left: 40px; ">
+	सियाराम ने हतोत्साह होकर कहा- क्या आज ही चले जाइएगा?</p>
+<p style="margin-left: 40px; ">
+	परमानन्द- हां बच्चा, अब लौटकर आऊंगा, तो दर्शन दूंगा?</p>
+<p style="margin-left: 40px; ">
+	सियाराम ने कात कंठ से कहा- मैं भी आपके साथ चलूंगा।</p>
+<p style="margin-left: 40px; ">
+	परमानन्द- मेरे साथ! तुम्हारे घर के लोग जाने देंगे?</p>
+<p style="margin-left: 40px; ">
+	सियाराम- घर के लोगों को मेरी क्या परवाह है? इसके आगे सियाराम और कुछ सन कह सका। उसके अश्रु-पूरित नेत्रों ने उसकी करुणा</p>
+<p style="margin-left: 40px; ">
+	-गाथा उससे कहीं विस्तार के साथ सुना दी, जितनी उसकी वाणी कर सकती थी।</p>
+<p style="margin-left: 40px; ">
+	परमानन्द ने बालक को कंठ से लगाकर कहा- अच्छा बच्च, तेरी इच्छा हो तो चल। साधु-सन्तों की संगति का आनन्द उठा। भगवान् की इच्छा होगी, तो तेरी इच्छा पूरी होगी।</p>
+<p style="margin-left: 40px; ">
+	दाने पर मण्डराता हुआ पक्षी अन्त में दाने पर गिर पड़ा। उसके जीवन का अन्त पिंजरे में होगा या व्याध की छुरी के तले- यह कौन जानता है?</p>
+</span><br />
+      
+      
+      <span id="ContentPlaceHolder1_lblEndMarker" class="middleContentH"><span style ="float:right"> <a href="https://hindisamay.com/content/259/10/-उपन्यास-निर्मला-अध्याय-11.cspx" style="text-decoration:none" > >>पीछे>> </a> <a href="https://hindisamay.com/content/259/12/-उपन्यास-निर्मला-अध्याय-11.cspx" style="text-decoration:none" > >>आगे>>  </a> </span></span>
+      
+      
+      </div>
+      <div id="bottomRight">
+        <a href="#top"> शीर्ष पर जाएँ</a>
+    </div>
+     
+      
+      </td>
+      </tr>
+      </table>
+ </td> 
+    <td style="width:150px;vertical-align:top; background-color:#749080;">  
+    <div style="float:left; width:100%">
+    <span id="lblWriterID" class="floating-menu" style="display:inline-block;"></span>
+    </div>
+     <div id="bottomRight">
+        <a href="#top"> शीर्ष पर जाएँ</a>
+    </div>
+
+    </td> 
+    </tr>
+    <tr>
+    <td style="width:1050px" colspan ="3"> 
+<table border="1" cellpadding="2" width="1050px" style="border-collapse: collapse" cellspacing="3">
+         
+    <tr>        
+     <td width="1050px" height="35" style=" text-align:center; background-color:white; padding-left:35px;  z-index:1; position:relative" id="nav-menu">           
+     <ul id="navbar">
+      <!-- The strange spacing herein prevents an IE6 whitespace bug. -->
+         <li><a style="background-color:White;color: Black;" href="http://www.hindisamay.com/default.aspx">
+     मुखपृष्ठ </a></li>
+     <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=1">
+      उपन्यास </a>  </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=2">
+     कहानी</a> </li>
+     <li> <a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=3">
+      कविता</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=4">
+      व्यंग्य</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=5">
+      नाटक</a></li> 
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=12">
+      निबंध</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=6">
+      आलोचना</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=7">
+      विमर्श</a></li> 
+     <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content_n.aspx?ctype=बाल साहित्य">
+      बाल साहित्य</a>
+      <ul>
+     
+               </ul>
+         </li>
+     
+         <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/vivid.aspx?id=8">
+      विविध</a>
+            <ul>
+                
+            </ul>
+         </li>
+      
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/samarg.aspx">
+      समग्र-संचयन </a>  </li>  	
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/anuvad.aspx">
+      अनुवाद</a> </li>  
+      <li><a href="http://www.hindisamay.com/writer/hindisamay_writer.aspx" style="text-decoration: none;background-color:White;color: Black;">हमारे रचनाकार</a>  </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://hindisamay.com/writer/writer.aspx">हिंदी लेखक</a></li>
+       <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://hindisamay.com/hindisamay_oldIssues.aspx">अभिलेखागार</a></li>
+       <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://hindisamay.com/university-publication.aspx">हमारे प्रकाशन</a></li>       
+      <li><a href="http://www.hindisamay.com/search.aspx" style="text-decoration: none;background-color:White;color: Black;"> खोज</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/contact.aspx">संपर्क</a></li> 
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindivishwa.ac.in">विश्वविद्यालय</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://archive.hindivishwa.ac.in">संग्रहालय</a></li>
+      
+      </ul>
+      </td>
+    </tr>
+    </table> </td>
+    </tr>
+    </table>        
+    </div>
+    </form>
+</body>
+</html>

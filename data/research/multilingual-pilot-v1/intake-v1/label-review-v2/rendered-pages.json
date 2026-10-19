@@ -1,0 +1,20 @@
+[
+  {
+    "source": "data/research/multilingual-pilot-v1/intake-v1/label-review-v2/sources/vivekanand-marathi-catalog.pdf",
+    "pdf_page_one_based": 93,
+    "image": "data/research/multilingual-pilot-v1/intake-v1/label-review-v2/pages/vivekanand-marathi-catalog-page-93.png",
+    "raw_embedded_text": "data/research/multilingual-pilot-v1/intake-v1/label-review-v2/pages/vivekanand-marathi-catalog-page-93.txt"
+  },
+  {
+    "source": "data/research/multilingual-pilot-v1/intake-v1/label-review-v2/sources/iitgn-hindi-catalog.pdf",
+    "pdf_page_one_based": 28,
+    "image": "data/research/multilingual-pilot-v1/intake-v1/label-review-v2/pages/iitgn-hindi-catalog-page-28.png",
+    "raw_embedded_text": "data/research/multilingual-pilot-v1/intake-v1/label-review-v2/pages/iitgn-hindi-catalog-page-28.txt"
+  },
+  {
+    "source": "data/research/multilingual-pilot-v1/intake-v1/label-review-v2/sources/oclc-ddc23-summaries.pdf",
+    "pdf_page_one_based": 13,
+    "image": "data/research/multilingual-pilot-v1/intake-v1/label-review-v2/pages/oclc-ddc23-summaries-page-13.png",
+    "raw_embedded_text": "data/research/multilingual-pilot-v1/intake-v1/label-review-v2/pages/oclc-ddc23-summaries-page-13.txt"
+  }
+]

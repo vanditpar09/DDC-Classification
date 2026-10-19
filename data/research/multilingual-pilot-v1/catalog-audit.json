@@ -1,0 +1,21 @@
+{
+  "dataset_sha256": "56706f35e2db101d912edbefabcbc495442d8e18ecb33b29ecef101a232d0673",
+  "books": 5034,
+  "explicit_language_rows": 0,
+  "native_script_title_counts": {
+    "devanagari": 0,
+    "tamil": 0
+  },
+  "review_status": {
+    "not_reviewed": 4986,
+    "supported_L1": 8,
+    "plausible_L1": 36,
+    "supported_L1_check_detail": 3,
+    "plausible_L1_check_detail": 1
+  },
+  "label_eligibility": {
+    "2": 5007,
+    "3": 4988
+  },
+  "note": "Script counts are diagnostics, not language identification. Native-language DDC accuracy is unmeasured."
+}

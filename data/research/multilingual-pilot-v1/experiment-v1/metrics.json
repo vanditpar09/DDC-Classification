@@ -1,0 +1,559 @@
+{
+  "protocol": {
+    "C": 10.0,
+    "min_groups": 5,
+    "native_group_weight": 10.0,
+    "encoder": "intfloat/multilingual-e5-small",
+    "encoder_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+    "selection": "Single predeclared configuration; no search on development or locked test",
+    "calibration": "None; manual review always required",
+    "native_test_locked": true,
+    "dataset_sha256": "fd3ef6383eff62780a4ba953ac7349dccd7688abb305583b8fae86512d5ead58",
+    "baseline_sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b",
+    "original_catalog_train": 3061,
+    "native_train_editions": 54,
+    "native_development_editions": 14
+  },
+  "development": {
+    "baseline": {
+      "overall": {
+        "books": 14,
+        "work_groups": 10,
+        "levels": {
+          "1": {
+            "accuracy": 0.7499999999999998,
+            "macro_f1": 0.6049382716049383,
+            "suggestion_coverage": 1.0,
+            "per_section": {
+              "400": {
+                "books": 1,
+                "correct": 0
+              },
+              "500": {
+                "books": 5,
+                "correct": 5
+              },
+              "800": {
+                "books": 8,
+                "correct": 6
+              }
+            }
+          },
+          "2": {
+            "accuracy": 0.09999999999999998,
+            "macro_f1": 0.25,
+            "suggestion_coverage": 1.0,
+            "per_section": {
+              "490": {
+                "books": 1,
+                "correct": 0
+              },
+              "500": {
+                "books": 2,
+                "correct": 0
+              },
+              "510": {
+                "books": 3,
+                "correct": 3
+              },
+              "890": {
+                "books": 8,
+                "correct": 0
+              }
+            }
+          },
+          "3": {
+            "accuracy": 0.0,
+            "macro_f1": 0.0,
+            "suggestion_coverage": 0.8999999999999998,
+            "per_section": {
+              "494": {
+                "books": 1,
+                "correct": 0
+              },
+              "500": {
+                "books": 2,
+                "correct": 0
+              },
+              "510": {
+                "books": 3,
+                "correct": 0
+              },
+              "891": {
+                "books": 6,
+                "correct": 0
+              },
+              "894": {
+                "books": 2,
+                "correct": 0
+              }
+            }
+          }
+        }
+      },
+      "by_language": {
+        "hin": {
+          "books": 8,
+          "work_groups": 7,
+          "levels": {
+            "1": {
+              "accuracy": 0.7857142857142857,
+              "macro_f1": 0.9117647058823529,
+              "suggestion_coverage": 1.0,
+              "per_section": {
+                "500": {
+                  "books": 2,
+                  "correct": 2
+                },
+                "800": {
+                  "books": 6,
+                  "correct": 4
+                }
+              }
+            },
+            "2": {
+              "accuracy": 0.14285714285714285,
+              "macro_f1": 0.3333333333333333,
+              "suggestion_coverage": 1.0,
+              "per_section": {
+                "500": {
+                  "books": 1,
+                  "correct": 0
+                },
+                "510": {
+                  "books": 1,
+                  "correct": 1
+                },
+                "890": {
+                  "books": 6,
+                  "correct": 0
+                }
+              }
+            },
+            "3": {
+              "accuracy": 0.0,
+              "macro_f1": 0.0,
+              "suggestion_coverage": 0.8571428571428571,
+              "per_section": {
+                "500": {
+                  "books": 1,
+                  "correct": 0
+                },
+                "510": {
+                  "books": 1,
+                  "correct": 0
+                },
+                "891": {
+                  "books": 6,
+                  "correct": 0
+                }
+              }
+            }
+          }
+        },
+        "mar": {
+          "books": 1,
+          "work_groups": 1,
+          "levels": {
+            "1": {
+              "accuracy": 1.0,
+              "macro_f1": 1.0,
+              "suggestion_coverage": 1.0,
+              "per_section": {
+                "500": {
+                  "books": 1,
+                  "correct": 1
+                }
+              }
+            },
+            "2": {
+              "accuracy": 1.0,
+              "macro_f1": 1.0,
+              "suggestion_coverage": 1.0,
+              "per_section": {
+                "510": {
+                  "books": 1,
+                  "correct": 1
+                }
+              }
+            },
+            "3": {
+              "accuracy": 0.0,
+              "macro_f1": 0.0,
+              "suggestion_coverage": 0.0,
+              "per_section": {
+                "510": {
+                  "books": 1,
+                  "correct": 0
+                }
+              }
+            }
+          }
+        },
+        "tam": {
+          "books": 5,
+          "work_groups": 5,
+          "levels": {
+            "1": {
+              "accuracy": 0.8,
+              "macro_f1": 0.6,
+              "suggestion_coverage": 1.0,
+              "per_section": {
+                "400": {
+                  "books": 1,
+                  "correct": 0
+                },
+                "500": {
+                  "books": 2,
+                  "correct": 2
+                },
+                "800": {
+                  "books": 2,
+                  "correct": 2
+                }
+              }
+            },
+            "2": {
+              "accuracy": 0.2,
+              "macro_f1": 0.25,
+              "suggestion_coverage": 1.0,
+              "per_section": {
+                "490": {
+                  "books": 1,
+                  "correct": 0
+                },
+                "500": {
+                  "books": 1,
+                  "correct": 0
+                },
+                "510": {
+                  "books": 1,
+                  "correct": 1
+                },
+                "890": {
+                  "books": 2,
+                  "correct": 0
+                }
+              }
+            },
+            "3": {
+              "accuracy": 0.0,
+              "macro_f1": 0.0,
+              "suggestion_coverage": 0.8,
+              "per_section": {
+                "494": {
+                  "books": 1,
+                  "correct": 0
+                },
+                "500": {
+                  "books": 1,
+                  "correct": 0
+                },
+                "510": {
+                  "books": 1,
+                  "correct": 0
+                },
+                "894": {
+                  "books": 2,
+                  "correct": 0
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "silver_candidate": {
+      "overall": {
+        "books": 14,
+        "work_groups": 10,
+        "levels": {
+          "1": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "suggestion_coverage": 1.0,
+            "per_section": {
+              "400": {
+                "books": 1,
+                "correct": 1
+              },
+              "500": {
+                "books": 5,
+                "correct": 5
+              },
+              "800": {
+                "books": 8,
+                "correct": 8
+              }
+            }
+          },
+          "2": {
+            "accuracy": 1.0,
+            "macro_f1": 1.0,
+            "suggestion_coverage": 1.0,
+            "per_section": {
+              "490": {
+                "books": 1,
+                "correct": 1
+              },
+              "500": {
+                "books": 2,
+                "correct": 2
+              },
+              "510": {
+                "books": 3,
+                "correct": 3
+              },
+              "890": {
+                "books": 8,
+                "correct": 8
+              }
+            }
+          },
+          "3": {
+            "accuracy": 0.8999999999999998,
+            "macro_f1": 0.8,
+            "suggestion_coverage": 0.8999999999999998,
+            "per_section": {
+              "494": {
+                "books": 1,
+                "correct": 1
+              },
+              "500": {
+                "books": 2,
+                "correct": 2
+              },
+              "510": {
+                "books": 3,
+                "correct": 0
+              },
+              "891": {
+                "books": 6,
+                "correct": 6
+              },
+              "894": {
+                "books": 2,
+                "correct": 2
+              }
+            }
+          }
+        }
+      },
+      "by_language": {
+        "hin": {
+          "books": 8,
+          "work_groups": 7,
+          "levels": {
+            "1": {
+              "accuracy": 1.0,
+              "macro_f1": 1.0,
+              "suggestion_coverage": 1.0,
+              "per_section": {
+                "500": {
+                  "books": 2,
+                  "correct": 2
+                },
+                "800": {
+                  "books": 6,
+                  "correct": 6
+                }
+              }
+            },
+            "2": {
+              "accuracy": 1.0,
+              "macro_f1": 1.0,
+              "suggestion_coverage": 1.0,
+              "per_section": {
+                "500": {
+                  "books": 1,
+                  "correct": 1
+                },
+                "510": {
+                  "books": 1,
+                  "correct": 1
+                },
+                "890": {
+                  "books": 6,
+                  "correct": 6
+                }
+              }
+            },
+            "3": {
+              "accuracy": 0.8571428571428571,
+              "macro_f1": 0.6666666666666666,
+              "suggestion_coverage": 0.8571428571428571,
+              "per_section": {
+                "500": {
+                  "books": 1,
+                  "correct": 1
+                },
+                "510": {
+                  "books": 1,
+                  "correct": 0
+                },
+                "891": {
+                  "books": 6,
+                  "correct": 6
+                }
+              }
+            }
+          }
+        },
+        "mar": {
+          "books": 1,
+          "work_groups": 1,
+          "levels": {
+            "1": {
+              "accuracy": 1.0,
+              "macro_f1": 1.0,
+              "suggestion_coverage": 1.0,
+              "per_section": {
+                "500": {
+                  "books": 1,
+                  "correct": 1
+                }
+              }
+            },
+            "2": {
+              "accuracy": 1.0,
+              "macro_f1": 1.0,
+              "suggestion_coverage": 1.0,
+              "per_section": {
+                "510": {
+                  "books": 1,
+                  "correct": 1
+                }
+              }
+            },
+            "3": {
+              "accuracy": 0.0,
+              "macro_f1": 0.0,
+              "suggestion_coverage": 0.0,
+              "per_section": {
+                "510": {
+                  "books": 1,
+                  "correct": 0
+                }
+              }
+            }
+          }
+        },
+        "tam": {
+          "books": 5,
+          "work_groups": 5,
+          "levels": {
+            "1": {
+              "accuracy": 1.0,
+              "macro_f1": 1.0,
+              "suggestion_coverage": 1.0,
+              "per_section": {
+                "400": {
+                  "books": 1,
+                  "correct": 1
+                },
+                "500": {
+                  "books": 2,
+                  "correct": 2
+                },
+                "800": {
+                  "books": 2,
+                  "correct": 2
+                }
+              }
+            },
+            "2": {
+              "accuracy": 1.0,
+              "macro_f1": 1.0,
+              "suggestion_coverage": 1.0,
+              "per_section": {
+                "490": {
+                  "books": 1,
+                  "correct": 1
+                },
+                "500": {
+                  "books": 1,
+                  "correct": 1
+                },
+                "510": {
+                  "books": 1,
+                  "correct": 1
+                },
+                "890": {
+                  "books": 2,
+                  "correct": 2
+                }
+              }
+            },
+            "3": {
+              "accuracy": 0.8,
+              "macro_f1": 0.75,
+              "suggestion_coverage": 0.8,
+              "per_section": {
+                "494": {
+                  "books": 1,
+                  "correct": 1
+                },
+                "500": {
+                  "books": 1,
+                  "correct": 1
+                },
+                "510": {
+                  "books": 1,
+                  "correct": 0
+                },
+                "894": {
+                  "books": 2,
+                  "correct": 2
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "legacy_catalog_development": {
+    "baseline": {
+      "books": 200,
+      "accuracy": 0.655,
+      "macro_f1": 0.6558685762001351,
+      "note": "Previously exposed catalog test subset; development regression check, NOT fresh validation"
+    },
+    "silver_candidate": {
+      "books": 200,
+      "accuracy": 0.685,
+      "macro_f1": 0.6875381392557818,
+      "note": "Previously exposed catalog test subset; development regression check, NOT fresh validation"
+    }
+  },
+  "train_work_groups": 50,
+  "head_counts": {
+    "2": 10,
+    "3": 59
+  },
+  "new_section_support": {
+    "891": 23,
+    "894": 8,
+    "494": 5
+  },
+  "active_new_sections": [
+    "891",
+    "894",
+    "494"
+  ],
+  "model_sha256": "242c28afadc79078e1169c2b0a10dbd48459832640951234933654d4ec29a6c0",
+  "baseline_unchanged": true,
+  "seconds": 41.86,
+  "locked_test_evaluated": false,
+  "limitations": [
+    "Silver labels and OCR are not gold references.",
+    "Small development set with provisional work grouping.",
+    "Shared authors/publishers and textbook-family overlap can inflate results.",
+    "Body text differs from phone cover/contents captures; no camera accuracy claim.",
+    "Sparse native classes lack development/test coverage.",
+    "Encoder pretraining overlap is unknown.",
+    "No probability calibration or automatic acceptance.",
+    "This does not establish patentability."
+  ],
+  "serialization_checked": true
+}

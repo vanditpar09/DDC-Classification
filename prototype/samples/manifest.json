@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ambiguous cover",
+    "file": "ambiguous_cover.png",
+    "kind": "cover",
+    "language": "eng",
+    "expected": "request_page"
+  },
+  {
+    "name": "Descriptive back cover",
+    "file": "informative_back.png",
+    "kind": "back_cover",
+    "language": "eng",
+    "expected": "request_page"
+  },
+  {
+    "name": "Blurred page",
+    "file": "blurred_page.png",
+    "kind": "cover",
+    "language": "eng",
+    "expected": "recapture_region"
+  },
+  {
+    "name": "Small print",
+    "file": "small_text.png",
+    "kind": "cover",
+    "language": "eng",
+    "expected": "reprocess_region"
+  }
+]

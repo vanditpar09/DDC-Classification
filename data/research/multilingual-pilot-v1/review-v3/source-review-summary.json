@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-10-04T03:46:28.184146+00:00",
+  "titles_reviewed": 61,
+  "body_windows_saved": 183,
+  "source_page_checks": 141,
+  "text_statuses": {
+    "sampled source agreement; unverified full transcription": 24,
+    "needs source-fidelity investigation": 19,
+    "extraction unusable; sampled OCR will be stored separately": 4,
+    "candidate native text; source-sample concordance pending": 13,
+    "partial native source; complete-work claim rejected": 1
+  },
+  "human_checked_references": 0,
+  "verified_training_books": 0,
+  "model_retrained": false,
+  "agreement_screen_threshold": 0.8,
+  "minimum_native_characters_per_page": 100,
+  "note": "OCR concordance is an agreement screen only. Native-script ratios and OCR do not establish exact text fidelity, identity or labels."
+}

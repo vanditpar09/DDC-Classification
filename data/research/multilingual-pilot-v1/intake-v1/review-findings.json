@@ -1,0 +1,101 @@
+{
+  "books": [
+    {
+      "file": "dasbodh_khand_2.pdf",
+      "source_sha256": "0265036325d75847a308c39428eb6954d2a5be6a2a15d4ecc4d8a381712d74ca",
+      "inspection_basis": "Rendered PDF pages 1 and 10, embedded-text comparison, and one OCR sample",
+      "finding": "Rendered Devanagari is readable, but embedded extraction substitutes or omits letters.",
+      "recommended_text_route": "selected_page_rasterization_then_ocr",
+      "entire_book_visual_review": false,
+      "human_reference_transcription_complete": false,
+      "verified_ddc_section": null,
+      "review_status": "intake_checked_labels_pending",
+      "training_eligible": false
+    },
+    {
+      "file": "gandhi-autobiography-hindi.pdf",
+      "source_sha256": "51fa6a24da5a3733f8c675351b98f7d85d8ea8769df4d55341a0cc9baf77a6b9",
+      "inspection_basis": "Rendered PDF pages 1 and 10, embedded-text comparison, and one OCR sample",
+      "finding": "Rendered Devanagari is readable, but embedded extraction substitutes or omits letters.",
+      "recommended_text_route": "selected_page_rasterization_then_ocr",
+      "entire_book_visual_review": false,
+      "human_reference_transcription_complete": false,
+      "verified_ddc_section": null,
+      "review_status": "intake_checked_labels_pending",
+      "training_eligible": false
+    },
+    {
+      "file": "godan_by_premchand.pdf",
+      "source_sha256": "ea60e2269dc153d0b503014ca5878f81fe1a2492e55f9abd6109660d5e446b9d",
+      "inspection_basis": "Rendered PDF pages 1 and 10, embedded-text comparison, and one OCR sample",
+      "finding": "Rendered Devanagari is readable, but embedded extraction substitutes or omits letters.",
+      "recommended_text_route": "selected_page_rasterization_then_ocr",
+      "entire_book_visual_review": false,
+      "human_reference_transcription_complete": false,
+      "verified_ddc_section": null,
+      "review_status": "intake_checked_labels_pending",
+      "training_eligible": false
+    },
+    {
+      "file": "pg1228-images-3.epub",
+      "source_sha256": "410f0371c6d65a218ebc400b0c354db83685df1203a4c2ec8f16845d09abed08",
+      "inspection_basis": "EPUB package metadata and sample chapter",
+      "finding": "Clean Unicode EPUB text; metadata title and language match the requested English work.",
+      "recommended_text_route": "epub_spine_extraction",
+      "entire_book_visual_review": false,
+      "human_reference_transcription_complete": false,
+      "verified_ddc_section": null,
+      "review_status": "intake_checked_labels_pending",
+      "training_eligible": false
+    },
+    {
+      "file": "pg1342-images-3.epub",
+      "source_sha256": "d401ad6b118e84d01b8dd1a3d034fd41784feb14c50f1f7a0fc17f3263fa8e9f",
+      "inspection_basis": "EPUB package metadata and sample chapter",
+      "finding": "Clean Unicode EPUB text; metadata title and language match the requested English work.",
+      "recommended_text_route": "epub_spine_extraction",
+      "entire_book_visual_review": false,
+      "human_reference_transcription_complete": false,
+      "verified_ddc_section": null,
+      "review_status": "intake_checked_labels_pending",
+      "training_eligible": false
+    },
+    {
+      "file": "ponniyin-selvan.pdf",
+      "source_sha256": "875ac51e939665c421a1445c7b0d18e07b76f5a1f7ee2d6ea99c906e6dcdac82",
+      "inspection_basis": "Rendered PDF pages 1 and 10, embedded-text comparison, and one OCR sample",
+      "finding": "Broken font mapping: rendered Tamil is readable, but embedded extraction substitutes Latin/control characters.",
+      "recommended_text_route": "selected_page_rasterization_then_ocr",
+      "entire_book_visual_review": false,
+      "human_reference_transcription_complete": false,
+      "verified_ddc_section": null,
+      "review_status": "intake_checked_labels_pending",
+      "training_eligible": false
+    },
+    {
+      "file": "shyamachi_aai.pdf",
+      "source_sha256": "9dcf9536b454ed97a388616f7250f8f81afa572143cf0420681252ac8fd2b9c1",
+      "inspection_basis": "Rendered PDF pages 1 and 10, embedded-text comparison, and one OCR sample",
+      "finding": "Rendered Devanagari is readable, but embedded extraction substitutes or omits letters.",
+      "recommended_text_route": "selected_page_rasterization_then_ocr",
+      "entire_book_visual_review": false,
+      "human_reference_transcription_complete": false,
+      "verified_ddc_section": null,
+      "review_status": "intake_checked_labels_pending",
+      "training_eligible": false
+    },
+    {
+      "file": "tolkappiyar.pdf",
+      "source_sha256": "30e71124b13493be9b94eb6588debfa80c206aae65d42a5e9057fdb859e8b722",
+      "inspection_basis": "Rendered PDF pages 1 and 10, embedded-text comparison, and one OCR sample",
+      "finding": "Legacy TSCII/font encoding; embedded extracted text does not contain Unicode Tamil.",
+      "recommended_text_route": "selected_page_rasterization_then_ocr",
+      "entire_book_visual_review": false,
+      "human_reference_transcription_complete": false,
+      "verified_ddc_section": null,
+      "review_status": "intake_checked_labels_pending",
+      "training_eligible": false
+    }
+  ],
+  "source_inventory_sha256": "4820c55c80d3f43f5ff36458dd46b0bdaecd641809a83586fc24b396d53519c0"
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "path": "user-screenshots/austen-1.png",
+    "original_path": "/var/folders/gn/8zlt_1jj7fl9yys69vclsv4h0000gn/T/codex-clipboard-4152945b-8e0f-4c2e-a9ab-7f94f9bbc88b.png",
+    "sha256": "972c8ba592dbfc045c321587b4134011b4fec7ca833fcc2eeebadf88999b704e",
+    "role": "User supplied view of Pride and Prejudice; corroborating evidence, not a PDF page index"
+  },
+  {
+    "path": "user-screenshots/austen-2.png",
+    "original_path": "/var/folders/gn/8zlt_1jj7fl9yys69vclsv4h0000gn/T/codex-clipboard-6f428a80-1fdc-44bc-a60b-4b20dcb2f159.png",
+    "sha256": "5a9ec436b403b5e8aeb826debc095007fd80e69b2693028386a76855a044fbd6",
+    "role": "User supplied view of Pride and Prejudice; corroborating evidence, not a PDF page index"
+  },
+  {
+    "path": "user-screenshots/austen-3.png",
+    "original_path": "/var/folders/gn/8zlt_1jj7fl9yys69vclsv4h0000gn/T/codex-clipboard-a1078147-08cf-4e0b-98d6-b1517cdfdada.png",
+    "sha256": "895d2230fcc6d53ad02449454e76f9a9ca9711de0746e7130ef0addc29a4fe12",
+    "role": "User supplied view of Pride and Prejudice; corroborating evidence, not a PDF page index"
+  }
+]

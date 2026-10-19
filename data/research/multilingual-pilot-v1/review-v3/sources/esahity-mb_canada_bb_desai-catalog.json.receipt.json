@@ -1,0 +1,9 @@
+{
+  "source_url": "https://openlibrary.org/search.json?title=%E0%A4%AE%E0%A4%B2%E0%A4%BE+%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%87%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A5%85%E0%A4%A8%E0%A4%A1%E0%A4%BE&author=%E0%A4%AE%E0%A4%A8%E0%A5%8B%E0%A4%B9%E0%A4%B0+%28%E0%A4%AC%E0%A5%80.+%E0%A4%AC%E0%A5%80.+%E0%A4%A6%E0%A5%87%E0%A4%B8%E0%A4%BE%E0%A4%88%29&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "final_url": "https://openlibrary.org/search.json?title=%E0%A4%AE%E0%A4%B2%E0%A4%BE+%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%87%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A5%85%E0%A4%A8%E0%A4%A1%E0%A4%BE&author=%E0%A4%AE%E0%A4%A8%E0%A5%8B%E0%A4%B9%E0%A4%B0+%28%E0%A4%AC%E0%A5%80.+%E0%A4%AC%E0%A5%80.+%E0%A4%A6%E0%A5%87%E0%A4%B8%E0%A4%BE%E0%A4%88%29&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "retrieved_at": "2026-10-04T03:34:35.595042+00:00",
+  "bytes": 156,
+  "sha256": "a68a51a345fbaef76433e2dc9c3af3f7f73ee9f366a07aa6e9eec27944a0f069",
+  "content_type": "application/json",
+  "file": "data/research/multilingual-pilot-v1/review-v3/sources/esahity-mb_canada_bb_desai-catalog.json"
+}

@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-04",
+  "regression_tests_passed": 231,
+  "etl_snapshot_verified": 5034,
+  "fresh_python311_macos_setup_passed": true,
+  "catalog_corrected_book": "The Kite Runner",
+  "catalog_path": [
+    "800",
+    "810",
+    "813"
+  ],
+  "source_ddc": "813/.6",
+  "learned_model_retrained": false,
+  "classifier_sha256": "cf2e4d18dbe43ad9431a965bc1a6213a0bcfbecac5b5c8830e73cb9a48f6cc86",
+  "actual_windows_check": "GitHub startup_failure before any jobs; actual Windows execution unverified",
+  "general_ddc_accuracy_claimed": false,
+  "extracted_packages_verified": true,
+  "extracted_packages_host": "Darwin / Python 3.11.15"
+}

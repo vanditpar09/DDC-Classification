@@ -1,0 +1,9 @@
+{
+  "source_url": "https://openlibrary.org/search.json?title=Nannul&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "final_url": "https://openlibrary.org/search.json?title=Nannul&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "retrieved_at": "2026-10-04T03:37:15.793213+00:00",
+  "bytes": 910,
+  "sha256": "8c6accd5d6d29deb4b979ae0c397ebf1e0f2c966a6273a58ae6d02048305bd88",
+  "content_type": "application/json",
+  "file": "data/research/multilingual-pilot-v1/review-v3/sources/pm-work-147-catalog-authorless.json"
+}

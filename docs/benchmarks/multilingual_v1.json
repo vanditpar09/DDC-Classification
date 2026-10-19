@@ -1,0 +1,183 @@
+{
+  "dataset_sha256": "56706f35e2db101d912edbefabcbc495442d8e18ecb33b29ecef101a232d0673",
+  "seed": 42,
+  "splits": {
+    "train": 3061,
+    "calibration": 542,
+    "test": 1007,
+    "historical_reserved": 424
+  },
+  "selection_rule": "Mean of metadata and cover-proxy macro-F1 across 3 training-only grouped folds",
+  "best_candidate": {
+    "family": "multilingual_e5",
+    "C": 10.0,
+    "augment": true,
+    "folds": [
+      {
+        "metadata": 0.6642007763735711,
+        "cover": 0.5811414138311933
+      },
+      {
+        "metadata": 0.6643962100382185,
+        "cover": 0.5627809151652823
+      },
+      {
+        "metadata": 0.6080324612197996,
+        "cover": 0.5213810339949536
+      }
+    ],
+    "metadata_cv_macro_f1": 0.6455431492105298,
+    "cover_cv_macro_f1": 0.5551011209971431,
+    "selection_score": 0.6003221351038365,
+    "seconds": 0.14
+  },
+  "encoder": "intfloat/multilingual-e5-small",
+  "encoder_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "python": "3.9.6",
+  "dependencies": {
+    "scikit-learn": "1.6.1",
+    "numpy": "2.0.2",
+    "joblib": "1.5.3",
+    "sentence-transformers": "3.4.1",
+    "transformers": "4.49.0",
+    "torch": "2.8.0"
+  },
+  "paired_accuracy_comparisons": {
+    "metadata__vs__previous_baseline": {
+      "delta_accuracy": 0.0407149950347567,
+      "group_bootstrap_95pct": [
+        0.010967098703888335,
+        0.07178805946691942
+      ],
+      "resamples": 2000,
+      "seed": 42
+    },
+    "metadata__vs__matched_tfidf_reference": {
+      "delta_accuracy": 0.04865938430983118,
+      "group_bootstrap_95pct": [
+        0.018886679920477135,
+        0.07913546229569965
+      ],
+      "resamples": 2000,
+      "seed": 42
+    },
+    "cover__vs__previous_baseline": {
+      "delta_accuracy": 0.11519364448857994,
+      "group_bootstrap_95pct": [
+        0.08259359770580059,
+        0.15094714730485012
+      ],
+      "resamples": 2000,
+      "seed": 42
+    },
+    "cover__vs__matched_tfidf_reference": {
+      "delta_accuracy": 0.10625620655412116,
+      "group_bootstrap_95pct": [
+        0.07248716902474757,
+        0.14129729689829781
+      ],
+      "resamples": 2000,
+      "seed": 42
+    }
+  },
+  "limitations": [
+    "No labeled language-specific evaluation; multilingual encoder support is not measured DDC accuracy.",
+    "Cover inputs are clean title/subtitle proxies, not real OCR.",
+    "Historical reserved books are unused, not a fresh test set.",
+    "The original test has previously been inspected; obtain an independent real-scan set before deployment.",
+    "Previous baseline used more training books and isotonic calibration; matched reference controls these differences."
+  ],
+  "evaluation": {
+    "selected": {
+      "metadata": {
+        "n": 1007,
+        "accuracy": 0.6534260178748759,
+        "macro_f1": 0.6528523168094255,
+        "top3_accuracy": 0.8689175769612711,
+        "log_loss": 1.1499937675669842,
+        "brier_multiclass": 0.5049450598189856,
+        "routing_at_fixed_085": {
+          "accepted": 0,
+          "coverage": 0.0,
+          "accuracy": null,
+          "note": "Descriptive only; not a validated deployment threshold."
+        }
+      },
+      "cover": {
+        "n": 1007,
+        "accuracy": 0.5521350546176763,
+        "macro_f1": 0.5518977420603959,
+        "top3_accuracy": 0.8083416087388282,
+        "log_loss": 1.37623951715131,
+        "brier_multiclass": 0.6026043942640006,
+        "routing_at_fixed_085": {
+          "accepted": 0,
+          "coverage": 0.0,
+          "accuracy": null,
+          "note": "Descriptive only; not a validated deployment threshold."
+        }
+      }
+    },
+    "matched_tfidf_reference": {
+      "metadata": {
+        "n": 1007,
+        "accuracy": 0.6047666335650447,
+        "macro_f1": 0.6042353414560411,
+        "top3_accuracy": 0.8113207547169812,
+        "log_loss": 1.3043851159236013,
+        "brier_multiclass": 0.544861550322731,
+        "routing_at_fixed_085": {
+          "accepted": 0,
+          "coverage": 0.0,
+          "accuracy": null,
+          "note": "Descriptive only; not a validated deployment threshold."
+        }
+      },
+      "cover": {
+        "n": 1007,
+        "accuracy": 0.4458788480635551,
+        "macro_f1": 0.4500360448788614,
+        "top3_accuracy": 0.6782522343594836,
+        "log_loss": 1.7273378097135268,
+        "brier_multiclass": 0.70811331072587,
+        "routing_at_fixed_085": {
+          "accepted": 0,
+          "coverage": 0.0,
+          "accuracy": null,
+          "note": "Descriptive only; not a validated deployment threshold."
+        }
+      }
+    },
+    "previous_baseline": {
+      "metadata": {
+        "n": 1007,
+        "accuracy": 0.6127110228401191,
+        "macro_f1": 0.611619368323612,
+        "top3_accuracy": 0.7815292949354519,
+        "log_loss": 1.7280248735799513,
+        "brier_multiclass": 0.5237982878223169,
+        "routing_at_fixed_085": {
+          "accepted": 53,
+          "coverage": 0.05263157894736842,
+          "accuracy": 0.9811320754716981,
+          "note": "Descriptive only; not a validated deployment threshold."
+        }
+      },
+      "cover": {
+        "n": 1007,
+        "accuracy": 0.4369414101290963,
+        "macro_f1": 0.4363538713579578,
+        "top3_accuracy": 0.6534260178748759,
+        "log_loss": 2.2772324033687967,
+        "brier_multiclass": 0.7060259703937755,
+        "routing_at_fixed_085": {
+          "accepted": 5,
+          "coverage": 0.004965243296921549,
+          "accuracy": 1.0,
+          "note": "Descriptive only; not a validated deployment threshold."
+        }
+      }
+    }
+  },
+  "date": "2026-09-23"
+}

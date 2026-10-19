@@ -1,0 +1,20 @@
+{
+  "pool_sha256": "ac0a45722643b788f61654394eea893c8840672db55f17ed34b9c8c844b4b893",
+  "shortlist_sha256": "842ab1e0ef6ba8178a3f666d60d0f514fd47e91caa8019e374f7b05786f5cd70",
+  "candidate_count": 48,
+  "distinct_catalog_work_ids": 48,
+  "target_counts": {
+    "hin:891": 8,
+    "mar:891": 8,
+    "tam:894": 8,
+    "tam:494": 8,
+    "mar:294": 8,
+    "hin:954": 8
+  },
+  "native_script_title_counts": {
+    "hin": 0,
+    "mar": 0,
+    "tam": 10
+  },
+  "note": "Native-script title absence is not proof of wrong language. Inspect each edition. Resolve translations/volumes/repeated works before partitioning. No files, images, or labels were acquired by this shortlist selection."
+}

@@ -1,0 +1,16 @@
+{
+  "prototype/scene_ocr.py": "593228eb2c51565945d2c8a441c4df1a29a92d50fb2b3e1b50478203ab11a3e7",
+  "prototype/vision_ocr.swift": "4181739dab50a2bb7a0438173df157613c532fdffb285699e2d4b56242b3b14c",
+  "prototype/easy_ocr_worker.py": "324bcd03a87541f91abde319046b103c10853125fa16af4100b622581815ad7b",
+  "prototype/easyocr_compat.py": "16f5b2a2e7d8bde4d3ada2df05e288ddb3c7a6ba27b735a230b7f707489f37b5",
+  "prototype/engine.py": "2724bd838994c2048af57a02db93620677726b96bf7d1d22b1f1cd524c05e717",
+  "prototype/app.py": "ddbad80b7aab6566fffa68872469dc45b49c344267a2867b7cafaf92edaaf881",
+  "prototype/controller.py": "e3acd4c523524bec90d2e73d49baf3bd784d012ecdf0a962e445baf66286d822",
+  "prototype/static/app.js": "d7ed37dcf6fd8b073dbf1e9ecc861a0895ea2432595978e138837c4e72655653",
+  "scripts/setup_scene_ocr.py": "9e9a52815352bfbe786adba7e02eb572a57c236a07965d42b057d8e33b82753f",
+  "scripts/evaluate_scene_ocr.py": "78989ad01856d038050d2178a08f1cffdae06903c06c45e2073966cf765d79f1",
+  "scripts/check_server_ocr_gate.py": "56558dd34faa442a108db969dea9eaba34fb1d1ddcfe1b69dae468090c99c783",
+  "scripts/check_scene_ocr_browser.cjs": "fcbbc85549390c0486277e8a617a1f6d70bea2b1444498d23cd3ea47d5366ef3",
+  "requirements-ocr.txt": "3e9edcec9edfe5a74c212bc8c3fe52053e86420bf8e28177f4e38da59f298030",
+  "tests/test_scene_ocr.py": "2b1c3eaef65f1c63c8ff29331bf3d029adfb89158c4fa5d21aafb7dbc884fc73"
+}

@@ -1,0 +1,18 @@
+{
+  "prepared_at": "2026-10-04T02:42:35.447937+00:00",
+  "selected_titles": 23,
+  "downloaded_titles": 21,
+  "by_language": {
+    "tam": 11,
+    "mar": 6,
+    "hin": 4
+  },
+  "text_available_unverified": 19,
+  "verified_training_books": 0,
+  "model_retrained": false,
+  "derived_hindi_epubs": 4,
+  "failed_titles": [
+    "pm-work-923",
+    "pm-work-924"
+  ]
+}

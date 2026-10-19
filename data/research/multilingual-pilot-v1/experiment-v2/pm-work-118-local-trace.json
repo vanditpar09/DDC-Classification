@@ -1,0 +1,1815 @@
+{
+  "id": "5b2a333c-b688-46ea-bcd0-eb401eb6d88e",
+  "updated": 1791087988.8480582,
+  "pages": [
+    {
+      "text": "11\nகோட்டங்‌ கோண்‌ படப்பை நாடூ கோயி லவ்விய மான்‌ கொட்டில்‌\nதோட்டியங்கு சங்க பாடந்‌ துணையென்பதளவும்‌ ஒப்பும்‌.\n58 (16)\nதடமலை பெருமை கோணஞ்‌ சரிகரை அகலம்‌ வாவி\nஅடல்‌ கொலை வலிபோராகும்‌ அருத்தமே பொருள்‌ பொன்‌ பாதி\nஉடல்‌ பொரு ளாகமென்ப வோங்கல்‌ வெற்‌ புயர மூங்கில்‌\nவிடமே யிடபராசி விடை மரக்கொம்பு முப்பேர்‌.\n59 (17)\nகடகமே சேனை வட்டங்‌ கைவளை மதி னாற்பேரே\nவடகந்‌ தோல்‌ அத்தவாளம்‌ வலமென்ப திடமே வெற்றி\nபடூவி கள்‌ விற்பாள்‌ குண்டம்‌ பரமென்ப கவச மெய்யாம்‌\nநொடி பிதிர்‌ கிளவியாகு நூ னநிச்சயமே குன்றல்‌.\n60 (18)\nகடங்‌ கயிறு வாக்‌ கதுப்புக்‌ கான்‌ சுர முடம்பு நீதி\nகுடங்‌ கடா மீமம்‌ யானைக்‌ குழாங்‌ கடன்‌ முழவைந்‌ தேழாம்‌\nமடங்கலே சனி சீய மறலி நோ யுக மூழித்தீ\nபடங்‌ கரிமுகபடா நற்றுகில்‌ பாம்பின்பட முப்பேரே.\n61 (19)\nHL Co பெண்ணான்‌ கூடல்‌ வார்த்தைக்‌ கூத்தாடல்‌ வென்றி\nபாடலஞ்‌ சிவப்பினோடுூ பாதிரி குதிரை முப்பேர்‌\nகோடரங்‌ குரங்கு சோலை கொம்பொடூ குதிரையாகும்‌\nஆடவர்‌ புருடர்‌ நாமம்‌ ஆ மிளையவர்க்கும்‌ பேரே.\n62 (20)\nகடிமணம்‌ விரைவு கூர்மை காலம்‌ பேய்‌ விளக்கங்‌ காப்பு\nவடி வச்சம்‌ வாச மையம்‌ வரைவு விம்மித மேழாறாம்‌\nவடூகே யிந்தளராகப்பேர்‌ மருதயாழ்‌ திறனுமாமே\nவடவையே குதிரைப்‌ பெட்டை யுவாப்பிடி வடவைத்‌ தீயாம்‌.\n63 (21)\nகோடூ சங்கூது கொம்பு மரக்கொம்பு விலங்கின்‌ கொம்பு\n66 செய்‌ வரம்பு குன்றின்‌ முகடு நீர்க்கரை யேழ்பேராம்‌\nமோடு மேடு தரமாகும்‌ முறுவலே நகைத்தல்‌ பல்லாம்‌\nஆடி யே யோர்மாதங்‌ கண்ணாடி யுத்தராடமாமே.\n64 ( 22)\nதட்டுத்தேர்‌ நடுவு குற்றந்‌ தட்டொடு பரிசை முட்டாம்‌\nசெட்டி வாணிகன்‌ செவ்வேளாஞ்‌ செப்புரை கரண்டகப்‌ பேர்‌\nமட்டென்ப தெல்லை கள்ளாம்‌ மார்கமே சமயம்‌ வீதி\nபட்டிகை யென்ப கச்சுப்‌ பகட்டூட னிரதமாமே.",
+      "words": [
+        {
+          "text": "11",
+          "confidence": 96.0,
+          "left": 889,
+          "top": 66,
+          "width": 15,
+          "height": 15
+        },
+        {
+          "text": "கோட்டங்‌",
+          "confidence": 91.0,
+          "left": 128,
+          "top": 130,
+          "width": 86,
+          "height": 16
+        },
+        {
+          "text": "கோண்‌",
+          "confidence": 95.0,
+          "left": 221,
+          "top": 130,
+          "width": 62,
+          "height": 16
+        },
+        {
+          "text": "படப்பை",
+          "confidence": 93.0,
+          "left": 290,
+          "top": 130,
+          "width": 68,
+          "height": 16
+        },
+        {
+          "text": "நாடூ",
+          "confidence": 85.0,
+          "left": 365,
+          "top": 130,
+          "width": 37,
+          "height": 21
+        },
+        {
+          "text": "கோயி",
+          "confidence": 93.0,
+          "left": 409,
+          "top": 130,
+          "width": 55,
+          "height": 16
+        },
+        {
+          "text": "லவ்விய",
+          "confidence": 92.0,
+          "left": 472,
+          "top": 130,
+          "width": 63,
+          "height": 16
+        },
+        {
+          "text": "மான்‌",
+          "confidence": 96.0,
+          "left": 542,
+          "top": 130,
+          "width": 41,
+          "height": 16
+        },
+        {
+          "text": "கொட்டில்‌",
+          "confidence": 96.0,
+          "left": 590,
+          "top": 130,
+          "width": 89,
+          "height": 20
+        },
+        {
+          "text": "தோட்டியங்கு",
+          "confidence": 92.0,
+          "left": 128,
+          "top": 157,
+          "width": 119,
+          "height": 21
+        },
+        {
+          "text": "சங்க",
+          "confidence": 93.0,
+          "left": 254,
+          "top": 157,
+          "width": 42,
+          "height": 16
+        },
+        {
+          "text": "பாடந்‌",
+          "confidence": 92.0,
+          "left": 303,
+          "top": 157,
+          "width": 51,
+          "height": 21
+        },
+        {
+          "text": "துணையென்பதளவும்‌",
+          "confidence": 92.0,
+          "left": 361,
+          "top": 157,
+          "width": 181,
+          "height": 22
+        },
+        {
+          "text": "ஒப்பும்‌.",
+          "confidence": 96.0,
+          "left": 550,
+          "top": 157,
+          "width": 56,
+          "height": 21
+        },
+        {
+          "text": "58",
+          "confidence": 95.0,
+          "left": 128,
+          "top": 212,
+          "width": 20,
+          "height": 15
+        },
+        {
+          "text": "(16)",
+          "confidence": 93.0,
+          "left": 155,
+          "top": 212,
+          "width": 35,
+          "height": 19
+        },
+        {
+          "text": "தடமலை",
+          "confidence": 74.0,
+          "left": 128,
+          "top": 243,
+          "width": 76,
+          "height": 16
+        },
+        {
+          "text": "பெருமை",
+          "confidence": 93.0,
+          "left": 211,
+          "top": 238,
+          "width": 78,
+          "height": 22
+        },
+        {
+          "text": "கோணஞ்‌",
+          "confidence": 83.0,
+          "left": 296,
+          "top": 238,
+          "width": 83,
+          "height": 22
+        },
+        {
+          "text": "சரிகரை",
+          "confidence": 92.0,
+          "left": 385,
+          "top": 238,
+          "width": 70,
+          "height": 19
+        },
+        {
+          "text": "அகலம்‌",
+          "confidence": 96.0,
+          "left": 462,
+          "top": 238,
+          "width": 61,
+          "height": 17
+        },
+        {
+          "text": "வாவி",
+          "confidence": 96.0,
+          "left": 530,
+          "top": 238,
+          "width": 41,
+          "height": 16
+        },
+        {
+          "text": "அடல்‌",
+          "confidence": 96.0,
+          "left": 128,
+          "top": 265,
+          "width": 49,
+          "height": 17
+        },
+        {
+          "text": "கொலை",
+          "confidence": 92.0,
+          "left": 184,
+          "top": 265,
+          "width": 76,
+          "height": 16
+        },
+        {
+          "text": "வலிபோராகும்‌",
+          "confidence": 92.0,
+          "left": 266,
+          "top": 265,
+          "width": 124,
+          "height": 20
+        },
+        {
+          "text": "அருத்தமே",
+          "confidence": 91.0,
+          "left": 397,
+          "top": 265,
+          "width": 91,
+          "height": 22
+        },
+        {
+          "text": "பொருள்‌",
+          "confidence": 96.0,
+          "left": 495,
+          "top": 265,
+          "width": 74,
+          "height": 22
+        },
+        {
+          "text": "பொன்‌",
+          "confidence": 96.0,
+          "left": 576,
+          "top": 265,
+          "width": 56,
+          "height": 16
+        },
+        {
+          "text": "பாதி",
+          "confidence": 96.0,
+          "left": 640,
+          "top": 265,
+          "width": 37,
+          "height": 21
+        },
+        {
+          "text": "உடல்‌",
+          "confidence": 96.0,
+          "left": 128,
+          "top": 292,
+          "width": 51,
+          "height": 16
+        },
+        {
+          "text": "பொரு",
+          "confidence": 93.0,
+          "left": 186,
+          "top": 292,
+          "width": 56,
+          "height": 22
+        },
+        {
+          "text": "ளாகமென்ப",
+          "confidence": 91.0,
+          "left": 249,
+          "top": 292,
+          "width": 101,
+          "height": 16
+        },
+        {
+          "text": "வோங்கல்‌",
+          "confidence": 92.0,
+          "left": 357,
+          "top": 292,
+          "width": 84,
+          "height": 16
+        },
+        {
+          "text": "வெற்‌",
+          "confidence": 93.0,
+          "left": 448,
+          "top": 292,
+          "width": 44,
+          "height": 22
+        },
+        {
+          "text": "புயர",
+          "confidence": 93.0,
+          "left": 499,
+          "top": 297,
+          "width": 35,
+          "height": 15
+        },
+        {
+          "text": "மூங்கில்‌",
+          "confidence": 96.0,
+          "left": 541,
+          "top": 292,
+          "width": 67,
+          "height": 21
+        },
+        {
+          "text": "விடமே",
+          "confidence": 91.0,
+          "left": 128,
+          "top": 319,
+          "width": 61,
+          "height": 16
+        },
+        {
+          "text": "யிடபராசி",
+          "confidence": 85.0,
+          "left": 197,
+          "top": 319,
+          "width": 82,
+          "height": 19
+        },
+        {
+          "text": "விடை",
+          "confidence": 93.0,
+          "left": 288,
+          "top": 319,
+          "width": 53,
+          "height": 16
+        },
+        {
+          "text": "மரக்கொம்பு",
+          "confidence": 86.0,
+          "left": 348,
+          "top": 319,
+          "width": 105,
+          "height": 20
+        },
+        {
+          "text": "முப்பேர்‌.",
+          "confidence": 96.0,
+          "left": 460,
+          "top": 319,
+          "width": 70,
+          "height": 21
+        },
+        {
+          "text": "59",
+          "confidence": 95.0,
+          "left": 128,
+          "top": 375,
+          "width": 20,
+          "height": 15
+        },
+        {
+          "text": "(17)",
+          "confidence": 92.0,
+          "left": 155,
+          "top": 375,
+          "width": 35,
+          "height": 19
+        },
+        {
+          "text": "கடகமே",
+          "confidence": 90.0,
+          "left": 128,
+          "top": 401,
+          "width": 71,
+          "height": 16
+        },
+        {
+          "text": "சேனை",
+          "confidence": 93.0,
+          "left": 206,
+          "top": 401,
+          "width": 62,
+          "height": 16
+        },
+        {
+          "text": "வட்டங்‌",
+          "confidence": 91.0,
+          "left": 275,
+          "top": 401,
+          "width": 61,
+          "height": 16
+        },
+        {
+          "text": "கைவளை",
+          "confidence": 96.0,
+          "left": 344,
+          "top": 406,
+          "width": 81,
+          "height": 11
+        },
+        {
+          "text": "மதி",
+          "confidence": 93.0,
+          "left": 432,
+          "top": 401,
+          "width": 28,
+          "height": 21
+        },
+        {
+          "text": "னாற்பேரே",
+          "confidence": 91.0,
+          "left": 469,
+          "top": 401,
+          "width": 91,
+          "height": 22
+        },
+        {
+          "text": "வடகந்‌",
+          "confidence": 92.0,
+          "left": 128,
+          "top": 428,
+          "width": 58,
+          "height": 21
+        },
+        {
+          "text": "தோல்‌",
+          "confidence": 93.0,
+          "left": 192,
+          "top": 428,
+          "width": 53,
+          "height": 21
+        },
+        {
+          "text": "அத்தவாளம்‌",
+          "confidence": 91.0,
+          "left": 252,
+          "top": 428,
+          "width": 101,
+          "height": 21
+        },
+        {
+          "text": "வலமென்ப",
+          "confidence": 91.0,
+          "left": 359,
+          "top": 428,
+          "width": 90,
+          "height": 16
+        },
+        {
+          "text": "திடமே",
+          "confidence": 96.0,
+          "left": 456,
+          "top": 428,
+          "width": 60,
+          "height": 21
+        },
+        {
+          "text": "வெற்றி",
+          "confidence": 96.0,
+          "left": 523,
+          "top": 428,
+          "width": 59,
+          "height": 22
+        },
+        {
+          "text": "படூவி",
+          "confidence": 81.0,
+          "left": 128,
+          "top": 455,
+          "width": 41,
+          "height": 20
+        },
+        {
+          "text": "கள்‌",
+          "confidence": 93.0,
+          "left": 178,
+          "top": 455,
+          "width": 29,
+          "height": 16
+        },
+        {
+          "text": "விற்பாள்‌",
+          "confidence": 93.0,
+          "left": 214,
+          "top": 455,
+          "width": 70,
+          "height": 22
+        },
+        {
+          "text": "குண்டம்‌",
+          "confidence": 92.0,
+          "left": 291,
+          "top": 455,
+          "width": 70,
+          "height": 20
+        },
+        {
+          "text": "பரமென்ப",
+          "confidence": 90.0,
+          "left": 369,
+          "top": 455,
+          "width": 81,
+          "height": 19
+        },
+        {
+          "text": "கவச",
+          "confidence": 90.0,
+          "left": 457,
+          "top": 460,
+          "width": 41,
+          "height": 11
+        },
+        {
+          "text": "மெய்யாம்‌",
+          "confidence": 85.0,
+          "left": 505,
+          "top": 455,
+          "width": 83,
+          "height": 16
+        },
+        {
+          "text": "நொடி",
+          "confidence": 96.0,
+          "left": 128,
+          "top": 482,
+          "width": 56,
+          "height": 21
+        },
+        {
+          "text": "பிதிர்‌",
+          "confidence": 93.0,
+          "left": 191,
+          "top": 482,
+          "width": 42,
+          "height": 21
+        },
+        {
+          "text": "கிளவியாகு",
+          "confidence": 92.0,
+          "left": 239,
+          "top": 482,
+          "width": 95,
+          "height": 20
+        },
+        {
+          "text": "நூ",
+          "confidence": 93.0,
+          "left": 340,
+          "top": 487,
+          "width": 21,
+          "height": 17
+        },
+        {
+          "text": "னநிச்சயமே",
+          "confidence": 84.0,
+          "left": 368,
+          "top": 482,
+          "width": 102,
+          "height": 21
+        },
+        {
+          "text": "குன்றல்‌.",
+          "confidence": 88.0,
+          "left": 476,
+          "top": 482,
+          "width": 69,
+          "height": 21
+        },
+        {
+          "text": "60",
+          "confidence": 83.0,
+          "left": 128,
+          "top": 537,
+          "width": 20,
+          "height": 15
+        },
+        {
+          "text": "(18)",
+          "confidence": 29.0,
+          "left": 155,
+          "top": 537,
+          "width": 35,
+          "height": 19
+        },
+        {
+          "text": "கடங்‌",
+          "confidence": 92.0,
+          "left": 128,
+          "top": 563,
+          "width": 45,
+          "height": 16
+        },
+        {
+          "text": "கயிறு",
+          "confidence": 96.0,
+          "left": 180,
+          "top": 563,
+          "width": 48,
+          "height": 21
+        },
+        {
+          "text": "வாக்‌",
+          "confidence": 93.0,
+          "left": 235,
+          "top": 563,
+          "width": 39,
+          "height": 16
+        },
+        {
+          "text": "கதுப்புக்‌",
+          "confidence": 89.0,
+          "left": 281,
+          "top": 563,
+          "width": 70,
+          "height": 22
+        },
+        {
+          "text": "கான்‌",
+          "confidence": 96.0,
+          "left": 358,
+          "top": 563,
+          "width": 42,
+          "height": 16
+        },
+        {
+          "text": "சுர",
+          "confidence": 93.0,
+          "left": 407,
+          "top": 568,
+          "width": 25,
+          "height": 14
+        },
+        {
+          "text": "முடம்பு",
+          "confidence": 91.0,
+          "left": 439,
+          "top": 563,
+          "width": 58,
+          "height": 21
+        },
+        {
+          "text": "நீதி",
+          "confidence": 96.0,
+          "left": 504,
+          "top": 563,
+          "width": 30,
+          "height": 21
+        },
+        {
+          "text": "குடங்‌",
+          "confidence": 93.0,
+          "left": 128,
+          "top": 590,
+          "width": 48,
+          "height": 20
+        },
+        {
+          "text": "கடா",
+          "confidence": 93.0,
+          "left": 184,
+          "top": 595,
+          "width": 40,
+          "height": 11
+        },
+        {
+          "text": "மீமம்‌",
+          "confidence": 93.0,
+          "left": 232,
+          "top": 590,
+          "width": 41,
+          "height": 16
+        },
+        {
+          "text": "யானைக்‌",
+          "confidence": 93.0,
+          "left": 280,
+          "top": 590,
+          "width": 76,
+          "height": 16
+        },
+        {
+          "text": "குழாங்‌",
+          "confidence": 92.0,
+          "left": 363,
+          "top": 590,
+          "width": 57,
+          "height": 22
+        },
+        {
+          "text": "கடன்‌",
+          "confidence": 93.0,
+          "left": 427,
+          "top": 590,
+          "width": 48,
+          "height": 16
+        },
+        {
+          "text": "முழவைந்‌",
+          "confidence": 92.0,
+          "left": 482,
+          "top": 590,
+          "width": 78,
+          "height": 22
+        },
+        {
+          "text": "தேழாம்‌",
+          "confidence": 92.0,
+          "left": 567,
+          "top": 590,
+          "width": 65,
+          "height": 22
+        },
+        {
+          "text": "மடங்கலே",
+          "confidence": 92.0,
+          "left": 128,
+          "top": 617,
+          "width": 89,
+          "height": 16
+        },
+        {
+          "text": "சனி",
+          "confidence": 93.0,
+          "left": 224,
+          "top": 617,
+          "width": 32,
+          "height": 16
+        },
+        {
+          "text": "சீய",
+          "confidence": 93.0,
+          "left": 265,
+          "top": 617,
+          "width": 27,
+          "height": 16
+        },
+        {
+          "text": "மறலி",
+          "confidence": 96.0,
+          "left": 300,
+          "top": 617,
+          "width": 44,
+          "height": 21
+        },
+        {
+          "text": "நோ",
+          "confidence": 96.0,
+          "left": 353,
+          "top": 617,
+          "width": 36,
+          "height": 21
+        },
+        {
+          "text": "யுக",
+          "confidence": 91.0,
+          "left": 397,
+          "top": 622,
+          "width": 27,
+          "height": 15
+        },
+        {
+          "text": "மூழித்தீ",
+          "confidence": 92.0,
+          "left": 431,
+          "top": 617,
+          "width": 62,
+          "height": 22
+        },
+        {
+          "text": "படங்‌",
+          "confidence": 93.0,
+          "left": 128,
+          "top": 644,
+          "width": 43,
+          "height": 16
+        },
+        {
+          "text": "கரிமுகபடா",
+          "confidence": 92.0,
+          "left": 178,
+          "top": 644,
+          "width": 100,
+          "height": 22
+        },
+        {
+          "text": "நற்றுகில்‌",
+          "confidence": 92.0,
+          "left": 285,
+          "top": 644,
+          "width": 77,
+          "height": 21
+        },
+        {
+          "text": "பாம்பின்பட",
+          "confidence": 91.0,
+          "left": 369,
+          "top": 644,
+          "width": 99,
+          "height": 16
+        },
+        {
+          "text": "முப்பேரே.",
+          "confidence": 92.0,
+          "left": 475,
+          "top": 644,
+          "width": 84,
+          "height": 22
+        },
+        {
+          "text": "61",
+          "confidence": 86.0,
+          "left": 128,
+          "top": 700,
+          "width": 18,
+          "height": 15
+        },
+        {
+          "text": "(19)",
+          "confidence": 86.0,
+          "left": 155,
+          "top": 700,
+          "width": 35,
+          "height": 19
+        },
+        {
+          "text": "HL",
+          "confidence": 3.0,
+          "left": 128,
+          "top": 726,
+          "width": 66,
+          "height": 22
+        },
+        {
+          "text": "Co",
+          "confidence": 3.0,
+          "left": 169,
+          "top": 722,
+          "width": 20,
+          "height": 30
+        },
+        {
+          "text": "பெண்ணான்‌",
+          "confidence": 92.0,
+          "left": 201,
+          "top": 726,
+          "width": 105,
+          "height": 16
+        },
+        {
+          "text": "கூடல்‌",
+          "confidence": 95.0,
+          "left": 313,
+          "top": 726,
+          "width": 55,
+          "height": 16
+        },
+        {
+          "text": "வார்த்தைக்‌",
+          "confidence": 93.0,
+          "left": 374,
+          "top": 726,
+          "width": 96,
+          "height": 21
+        },
+        {
+          "text": "கூத்தாடல்‌",
+          "confidence": 91.0,
+          "left": 477,
+          "top": 726,
+          "width": 93,
+          "height": 21
+        },
+        {
+          "text": "வென்றி",
+          "confidence": 96.0,
+          "left": 577,
+          "top": 726,
+          "width": 64,
+          "height": 22
+        },
+        {
+          "text": "பாடலஞ்‌",
+          "confidence": 88.0,
+          "left": 128,
+          "top": 753,
+          "width": 74,
+          "height": 22
+        },
+        {
+          "text": "சிவப்பினோடுூ",
+          "confidence": 46.0,
+          "left": 209,
+          "top": 753,
+          "width": 117,
+          "height": 20
+        },
+        {
+          "text": "பாதிரி",
+          "confidence": 96.0,
+          "left": 333,
+          "top": 753,
+          "width": 53,
+          "height": 21
+        },
+        {
+          "text": "குதிரை",
+          "confidence": 96.0,
+          "left": 394,
+          "top": 753,
+          "width": 65,
+          "height": 21
+        },
+        {
+          "text": "முப்பேர்‌",
+          "confidence": 96.0,
+          "left": 465,
+          "top": 753,
+          "width": 66,
+          "height": 21
+        },
+        {
+          "text": "கோடரங்‌",
+          "confidence": 89.0,
+          "left": 128,
+          "top": 780,
+          "width": 81,
+          "height": 19
+        },
+        {
+          "text": "குரங்கு",
+          "confidence": 96.0,
+          "left": 216,
+          "top": 780,
+          "width": 61,
+          "height": 20
+        },
+        {
+          "text": "சோலை",
+          "confidence": 92.0,
+          "left": 285,
+          "top": 780,
+          "width": 71,
+          "height": 16
+        },
+        {
+          "text": "கொம்பொடூ",
+          "confidence": 78.0,
+          "left": 363,
+          "top": 780,
+          "width": 108,
+          "height": 20
+        },
+        {
+          "text": "குதிரையாகும்‌",
+          "confidence": 91.0,
+          "left": 478,
+          "top": 780,
+          "width": 121,
+          "height": 21
+        },
+        {
+          "text": "ஆடவர்‌",
+          "confidence": 96.0,
+          "left": 128,
+          "top": 807,
+          "width": 63,
+          "height": 22
+        },
+        {
+          "text": "புருடர்‌",
+          "confidence": 96.0,
+          "left": 198,
+          "top": 807,
+          "width": 56,
+          "height": 22
+        },
+        {
+          "text": "நாமம்‌",
+          "confidence": 96.0,
+          "left": 260,
+          "top": 807,
+          "width": 51,
+          "height": 21
+        },
+        {
+          "text": "ஆ",
+          "confidence": 92.0,
+          "left": 329,
+          "top": 812,
+          "width": 10,
+          "height": 17
+        },
+        {
+          "text": "மிளையவர்க்கும்‌",
+          "confidence": 91.0,
+          "left": 346,
+          "top": 807,
+          "width": 137,
+          "height": 20
+        },
+        {
+          "text": "பேரே.",
+          "confidence": 95.0,
+          "left": 491,
+          "top": 807,
+          "width": 53,
+          "height": 19
+        },
+        {
+          "text": "62",
+          "confidence": 93.0,
+          "left": 128,
+          "top": 862,
+          "width": 20,
+          "height": 15
+        },
+        {
+          "text": "(20)",
+          "confidence": 93.0,
+          "left": 155,
+          "top": 862,
+          "width": 35,
+          "height": 19
+        },
+        {
+          "text": "கடிமணம்‌",
+          "confidence": 96.0,
+          "left": 128,
+          "top": 888,
+          "width": 81,
+          "height": 20
+        },
+        {
+          "text": "விரைவு",
+          "confidence": 96.0,
+          "left": 216,
+          "top": 888,
+          "width": 62,
+          "height": 20
+        },
+        {
+          "text": "கூர்மை",
+          "confidence": 96.0,
+          "left": 286,
+          "top": 888,
+          "width": 65,
+          "height": 16
+        },
+        {
+          "text": "காலம்‌",
+          "confidence": 96.0,
+          "left": 358,
+          "top": 888,
+          "width": 53,
+          "height": 16
+        },
+        {
+          "text": "பேய்‌",
+          "confidence": 96.0,
+          "left": 419,
+          "top": 888,
+          "width": 38,
+          "height": 16
+        },
+        {
+          "text": "விளக்கங்‌",
+          "confidence": 94.0,
+          "left": 465,
+          "top": 888,
+          "width": 79,
+          "height": 16
+        },
+        {
+          "text": "காப்பு",
+          "confidence": 96.0,
+          "left": 551,
+          "top": 888,
+          "width": 48,
+          "height": 20
+        },
+        {
+          "text": "வடி",
+          "confidence": 93.0,
+          "left": 128,
+          "top": 920,
+          "width": 30,
+          "height": 15
+        },
+        {
+          "text": "வச்சம்‌",
+          "confidence": 93.0,
+          "left": 164,
+          "top": 915,
+          "width": 54,
+          "height": 16
+        },
+        {
+          "text": "வாச",
+          "confidence": 96.0,
+          "left": 224,
+          "top": 920,
+          "width": 38,
+          "height": 11
+        },
+        {
+          "text": "மையம்‌",
+          "confidence": 96.0,
+          "left": 269,
+          "top": 915,
+          "width": 59,
+          "height": 16
+        },
+        {
+          "text": "வரைவு",
+          "confidence": 93.0,
+          "left": 334,
+          "top": 920,
+          "width": 58,
+          "height": 15
+        },
+        {
+          "text": "விம்மித",
+          "confidence": 93.0,
+          "left": 399,
+          "top": 915,
+          "width": 62,
+          "height": 21
+        },
+        {
+          "text": "மேழாறாம்‌",
+          "confidence": 92.0,
+          "left": 468,
+          "top": 915,
+          "width": 88,
+          "height": 22
+        },
+        {
+          "text": "வடூகே",
+          "confidence": 88.0,
+          "left": 128,
+          "top": 942,
+          "width": 56,
+          "height": 20
+        },
+        {
+          "text": "யிந்தளராகப்பேர்‌",
+          "confidence": 92.0,
+          "left": 192,
+          "top": 942,
+          "width": 147,
+          "height": 21
+        },
+        {
+          "text": "மருதயாழ்‌",
+          "confidence": 91.0,
+          "left": 346,
+          "top": 942,
+          "width": 84,
+          "height": 22
+        },
+        {
+          "text": "திறனுமாமே",
+          "confidence": 92.0,
+          "left": 437,
+          "top": 942,
+          "width": 105,
+          "height": 22
+        },
+        {
+          "text": "வடவையே",
+          "confidence": 91.0,
+          "left": 128,
+          "top": 969,
+          "width": 91,
+          "height": 16
+        },
+        {
+          "text": "குதிரைப்‌",
+          "confidence": 96.0,
+          "left": 226,
+          "top": 969,
+          "width": 75,
+          "height": 21
+        },
+        {
+          "text": "பெட்டை",
+          "confidence": 92.0,
+          "left": 309,
+          "top": 969,
+          "width": 78,
+          "height": 16
+        },
+        {
+          "text": "யுவாப்பிடி",
+          "confidence": 92.0,
+          "left": 394,
+          "top": 969,
+          "width": 83,
+          "height": 20
+        },
+        {
+          "text": "வடவைத்‌",
+          "confidence": 92.0,
+          "left": 483,
+          "top": 969,
+          "width": 78,
+          "height": 21
+        },
+        {
+          "text": "தீயாம்‌.",
+          "confidence": 91.0,
+          "left": 568,
+          "top": 969,
+          "width": 57,
+          "height": 21
+        },
+        {
+          "text": "63",
+          "confidence": 94.0,
+          "left": 128,
+          "top": 1025,
+          "width": 19,
+          "height": 15
+        },
+        {
+          "text": "(21)",
+          "confidence": 94.0,
+          "left": 155,
+          "top": 1025,
+          "width": 35,
+          "height": 19
+        },
+        {
+          "text": "கோடூ",
+          "confidence": 82.0,
+          "left": 128,
+          "top": 1051,
+          "width": 52,
+          "height": 20
+        },
+        {
+          "text": "சங்கூது",
+          "confidence": 92.0,
+          "left": 187,
+          "top": 1051,
+          "width": 69,
+          "height": 22
+        },
+        {
+          "text": "கொம்பு",
+          "confidence": 93.0,
+          "left": 264,
+          "top": 1051,
+          "width": 66,
+          "height": 20
+        },
+        {
+          "text": "மரக்கொம்பு",
+          "confidence": 92.0,
+          "left": 338,
+          "top": 1051,
+          "width": 105,
+          "height": 20
+        },
+        {
+          "text": "விலங்கின்‌",
+          "confidence": 96.0,
+          "left": 450,
+          "top": 1051,
+          "width": 86,
+          "height": 16
+        },
+        {
+          "text": "கொம்பு",
+          "confidence": 96.0,
+          "left": 544,
+          "top": 1051,
+          "width": 66,
+          "height": 20
+        },
+        {
+          "text": "66",
+          "confidence": 90.0,
+          "left": 128,
+          "top": 1078,
+          "width": 27,
+          "height": 21
+        },
+        {
+          "text": "செய்‌",
+          "confidence": 96.0,
+          "left": 162,
+          "top": 1078,
+          "width": 43,
+          "height": 16
+        },
+        {
+          "text": "வரம்பு",
+          "confidence": 96.0,
+          "left": 213,
+          "top": 1078,
+          "width": 49,
+          "height": 20
+        },
+        {
+          "text": "குன்றின்‌",
+          "confidence": 96.0,
+          "left": 269,
+          "top": 1078,
+          "width": 71,
+          "height": 22
+        },
+        {
+          "text": "முகடு",
+          "confidence": 73.0,
+          "left": 347,
+          "top": 1078,
+          "width": 45,
+          "height": 21
+        },
+        {
+          "text": "நீர்க்கரை",
+          "confidence": 91.0,
+          "left": 399,
+          "top": 1078,
+          "width": 83,
+          "height": 21
+        },
+        {
+          "text": "யேழ்பேராம்‌",
+          "confidence": 91.0,
+          "left": 489,
+          "top": 1078,
+          "width": 101,
+          "height": 22
+        },
+        {
+          "text": "மோடு",
+          "confidence": 28.0,
+          "left": 128,
+          "top": 1105,
+          "width": 51,
+          "height": 20
+        },
+        {
+          "text": "மேடு",
+          "confidence": 65.0,
+          "left": 187,
+          "top": 1105,
+          "width": 40,
+          "height": 20
+        },
+        {
+          "text": "தரமாகும்‌",
+          "confidence": 92.0,
+          "left": 235,
+          "top": 1105,
+          "width": 80,
+          "height": 21
+        },
+        {
+          "text": "முறுவலே",
+          "confidence": 91.0,
+          "left": 323,
+          "top": 1105,
+          "width": 78,
+          "height": 22
+        },
+        {
+          "text": "நகைத்தல்‌",
+          "confidence": 92.0,
+          "left": 408,
+          "top": 1105,
+          "width": 91,
+          "height": 21
+        },
+        {
+          "text": "பல்லாம்‌",
+          "confidence": 93.0,
+          "left": 506,
+          "top": 1105,
+          "width": 68,
+          "height": 16
+        },
+        {
+          "text": "ஆடி",
+          "confidence": 96.0,
+          "left": 128,
+          "top": 1137,
+          "width": 37,
+          "height": 17
+        },
+        {
+          "text": "யே",
+          "confidence": 93.0,
+          "left": 172,
+          "top": 1132,
+          "width": 27,
+          "height": 16
+        },
+        {
+          "text": "யோர்மாதங்‌",
+          "confidence": 92.0,
+          "left": 207,
+          "top": 1132,
+          "width": 103,
+          "height": 21
+        },
+        {
+          "text": "கண்ணாடி",
+          "confidence": 93.0,
+          "left": 318,
+          "top": 1132,
+          "width": 89,
+          "height": 20
+        },
+        {
+          "text": "யுத்தராடமாமே.",
+          "confidence": 91.0,
+          "left": 415,
+          "top": 1132,
+          "width": 137,
+          "height": 21
+        },
+        {
+          "text": "64",
+          "confidence": 88.0,
+          "left": 128,
+          "top": 1187,
+          "width": 20,
+          "height": 15
+        },
+        {
+          "text": "(",
+          "confidence": 88.0,
+          "left": 155,
+          "top": 1187,
+          "width": 6,
+          "height": 19
+        },
+        {
+          "text": "22)",
+          "confidence": 96.0,
+          "left": 168,
+          "top": 1187,
+          "width": 27,
+          "height": 19
+        },
+        {
+          "text": "தட்டுத்தேர்‌",
+          "confidence": 76.0,
+          "left": 128,
+          "top": 1213,
+          "width": 95,
+          "height": 21
+        },
+        {
+          "text": "நடுவு",
+          "confidence": 26.0,
+          "left": 229,
+          "top": 1213,
+          "width": 41,
+          "height": 21
+        },
+        {
+          "text": "குற்றந்‌",
+          "confidence": 91.0,
+          "left": 277,
+          "top": 1213,
+          "width": 57,
+          "height": 22
+        },
+        {
+          "text": "தட்டொடு",
+          "confidence": 86.0,
+          "left": 340,
+          "top": 1213,
+          "width": 87,
+          "height": 21
+        },
+        {
+          "text": "பரிசை",
+          "confidence": 93.0,
+          "left": 434,
+          "top": 1213,
+          "width": 56,
+          "height": 19
+        },
+        {
+          "text": "முட்டாம்‌",
+          "confidence": 86.0,
+          "left": 497,
+          "top": 1213,
+          "width": 74,
+          "height": 21
+        },
+        {
+          "text": "செட்டி",
+          "confidence": 94.0,
+          "left": 128,
+          "top": 1240,
+          "width": 61,
+          "height": 20
+        },
+        {
+          "text": "வாணிகன்‌",
+          "confidence": 93.0,
+          "left": 195,
+          "top": 1240,
+          "width": 85,
+          "height": 16
+        },
+        {
+          "text": "செவ்வேளாஞ்‌",
+          "confidence": 90.0,
+          "left": 288,
+          "top": 1240,
+          "width": 119,
+          "height": 22
+        },
+        {
+          "text": "செப்புரை",
+          "confidence": 92.0,
+          "left": 414,
+          "top": 1240,
+          "width": 81,
+          "height": 20
+        },
+        {
+          "text": "கரண்டகப்‌",
+          "confidence": 92.0,
+          "left": 502,
+          "top": 1240,
+          "width": 90,
+          "height": 19
+        },
+        {
+          "text": "பேர்‌",
+          "confidence": 96.0,
+          "left": 599,
+          "top": 1240,
+          "width": 35,
+          "height": 16
+        },
+        {
+          "text": "மட்டென்ப",
+          "confidence": 88.0,
+          "left": 128,
+          "top": 1267,
+          "width": 92,
+          "height": 16
+        },
+        {
+          "text": "தெல்லை",
+          "confidence": 90.0,
+          "left": 228,
+          "top": 1267,
+          "width": 80,
+          "height": 21
+        },
+        {
+          "text": "கள்ளாம்‌",
+          "confidence": 92.0,
+          "left": 315,
+          "top": 1267,
+          "width": 71,
+          "height": 16
+        },
+        {
+          "text": "மார்கமே",
+          "confidence": 91.0,
+          "left": 393,
+          "top": 1267,
+          "width": 76,
+          "height": 16
+        },
+        {
+          "text": "சமயம்‌",
+          "confidence": 96.0,
+          "left": 476,
+          "top": 1267,
+          "width": 54,
+          "height": 16
+        },
+        {
+          "text": "வீதி",
+          "confidence": 96.0,
+          "left": 537,
+          "top": 1267,
+          "width": 32,
+          "height": 21
+        },
+        {
+          "text": "பட்டிகை",
+          "confidence": 96.0,
+          "left": 128,
+          "top": 1294,
+          "width": 76,
+          "height": 20
+        },
+        {
+          "text": "யென்ப",
+          "confidence": 93.0,
+          "left": 212,
+          "top": 1294,
+          "width": 60,
+          "height": 16
+        },
+        {
+          "text": "கச்சுப்‌",
+          "confidence": 91.0,
+          "left": 280,
+          "top": 1294,
+          "width": 53,
+          "height": 16
+        },
+        {
+          "text": "பகட்டூட",
+          "confidence": 63.0,
+          "left": 341,
+          "top": 1294,
+          "width": 72,
+          "height": 20
+        },
+        {
+          "text": "னிரதமாமே.",
+          "confidence": 92.0,
+          "left": 420,
+          "top": 1294,
+          "width": 103,
+          "height": 21
+        }
+      ],
+      "usable": true,
+      "quality": {
+        "ocr_confidence": 89.80597014925372,
+        "word_count": 201,
+        "median_character_height": 20.0,
+        "sharpness": 9064.408629200323,
+        "script": "Tamil",
+        "script_mismatch": false,
+        "suggested_languages": [],
+        "region": {
+          "left": 113,
+          "top": 522,
+          "width": 228,
+          "height": 727,
+          "image_width": 1075,
+          "image_height": 1521
+        }
+      },
+      "id": "a61e3f40-db85-4176-8c60-7c9ea98b0612",
+      "kind": "cover",
+      "language": "eng+tam",
+      "source": "ocr",
+      "repairs": 0,
+      "digest": "07eb5d380b9bfdf7b0e1a8a0e9593fbf201fb336dcd44f178bbeded48af1ed8d",
+      "sequence": 1,
+      "duplicate": false
+    }
+  ],
+  "events": [
+    {
+      "event": "ocr_attempt",
+      "reason": "OCR completed; actual work recorded.",
+      "reserved_passes": 2,
+      "status": "complete",
+      "at": 1791087987.473871,
+      "work": {
+        "ocr_passes": 2,
+        "pixels": 3270150,
+        "seconds": 1.2774728329999903
+      }
+    },
+    {
+      "event": "image_analyzed",
+      "page": "cover",
+      "language": "eng+tam",
+      "action": "request_page",
+      "reason": "The available text is readable, but subject evidence is insufficient or ambiguous. A new page is more useful than repeating OCR on the same text.",
+      "ocr_passes": 2,
+      "model_score": 0.6209031625822229
+    }
+  ],
+  "prediction": {
+    "label": "400",
+    "score": 0.6209031625822229,
+    "margin": 0.479550536845635,
+    "entropy": 0.5707660306568189,
+    "top3": [
+      {
+        "label": "400",
+        "name": "Language",
+        "score": 0.6209031625822229
+      },
+      {
+        "label": "800",
+        "name": "Literature",
+        "score": 0.14135262573658794
+      },
+      {
+        "label": "900",
+        "name": "History & geography",
+        "score": 0.10244797699379375
+      }
+    ],
+    "token_count": 564,
+    "truncated": true,
+    "hierarchy": {
+      "path": [
+        {
+          "level": 1,
+          "label": "400",
+          "score": 0.6209031625822229,
+          "margin": 0.479550536845635,
+          "supported": true,
+          "review_ready": false,
+          "path_score": 0.6209031625822229,
+          "top3": [
+            {
+              "label": "400",
+              "score": 0.6209031625822229
+            },
+            {
+              "label": "800",
+              "score": 0.14135262573658794
+            },
+            {
+              "label": "900",
+              "score": 0.10244797699379375
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "parent": "400",
+          "label": "490",
+          "supported": true,
+          "score": 0.9185207669052441,
+          "margin": 0.8632129222410917,
+          "path_score": 0.5703124490689149,
+          "review_ready": false,
+          "training_groups": 26,
+          "top3": [
+            {
+              "label": "490",
+              "score": 0.9185207669052441
+            },
+            {
+              "label": "420",
+              "score": 0.05530784466415242
+            },
+            {
+              "label": "410",
+              "score": 0.01478338669559
+            }
+          ],
+          "reason": "Conditional suggestion; human review required"
+        },
+        {
+          "level": 3,
+          "parent": "490",
+          "label": "494",
+          "supported": true,
+          "score": 0.9525785001921269,
+          "margin": 0.9340964403853511,
+          "path_score": 0.5432673773749657,
+          "review_ready": false,
+          "training_groups": 5,
+          "top3": [
+            {
+              "label": "494",
+              "score": 0.9525785001921269
+            },
+            {
+              "label": "495",
+              "score": 0.018482059806775756
+            },
+            {
+              "label": "491",
+              "score": 0.015251034302495236
+            }
+          ],
+          "reason": "Conditional suggestion; human review required"
+        }
+      ],
+      "review_level": 0,
+      "target_level": 3,
+      "needs_finer_evidence": true,
+      "score_note": "Uncalibrated silver-label experiment; all suggestions require review."
+    },
+    "inference_seconds": 0.0690081249999821,
+    "model_version": {
+      "name": "native_silver_v2",
+      "sha256": "cf2e4d18dbe43ad9431a965bc1a6213a0bcfbecac5b5c8830e73cb9a48f6cc86",
+      "experimental": true
+    }
+  },
+  "created": 1791087987.4609978,
+  "revision": 5,
+  "reviews": [],
+  "page_history": [],
+  "policy_version": "adaptive-hierarchy-v2",
+  "model_version": {
+    "name": "native_silver_v2",
+    "sha256": "cf2e4d18dbe43ad9431a965bc1a6213a0bcfbecac5b5c8830e73cb9a48f6cc86",
+    "experimental": true
+  },
+  "combined_text": "11\nகோட்டங்‌ கோண்‌ படப்பை நாடூ கோயி லவ்விய மான்‌ கொட்டில்‌\nதோட்டியங்கு சங்க பாடந்‌ துணையென்பதளவும்‌ ஒப்பும்‌.\n58 (16)\nதடமலை பெருமை கோணஞ்‌ சரிகரை அகலம்‌ வாவி\nஅடல்‌ கொலை வலிபோராகும்‌ அருத்தமே பொருள்‌ பொன்‌ பாதி\nஉடல்‌ பொரு ளாகமென்ப வோங்கல்‌ வெற்‌ புயர மூங்கில்‌\nவிடமே யிடபராசி விடை மரக்கொம்பு முப்பேர்‌.\n59 (17)\nகடகமே சேனை வட்டங்‌ கைவளை மதி னாற்பேரே\nவடகந்‌ தோல்‌ அத்தவாளம்‌ வலமென்ப திடமே வெற்றி\nபடூவி கள்‌ விற்பாள்‌ குண்டம்‌ பரமென்ப கவச மெய்யாம்‌\nநொடி பிதிர்‌ கிளவியாகு நூ னநிச்சயமே குன்றல்‌.\n60 (18)\nகடங்‌ கயிறு வாக்‌ கதுப்புக்‌ கான்‌ சுர முடம்பு நீதி\nகுடங்‌ கடா மீமம்‌ யானைக்‌ குழாங்‌ கடன்‌ முழவைந்‌ தேழாம்‌\nமடங்கலே சனி சீய மறலி நோ யுக மூழித்தீ\nபடங்‌ கரிமுகபடா நற்றுகில்‌ பாம்பின்பட முப்பேரே.\n61 (19)\nHL Co பெண்ணான்‌ கூடல்‌ வார்த்தைக்‌ கூத்தாடல்‌ வென்றி\nபாடலஞ்‌ சிவப்பினோடுூ பாதிரி குதிரை முப்பேர்‌\nகோடரங்‌ குரங்கு சோலை கொம்பொடூ குதிரையாகும்‌\nஆடவர்‌ புருடர்‌ நாமம்‌ ஆ மிளையவர்க்கும்‌ பேரே.\n62 (20)\nகடிமணம்‌ விரைவு கூர்மை காலம்‌ பேய்‌ விளக்கங்‌ காப்பு\nவடி வச்சம்‌ வாச மையம்‌ வரைவு விம்மித மேழாறாம்‌\nவடூகே யிந்தளராகப்பேர்‌ மருதயாழ்‌ திறனுமாமே\nவடவையே குதிரைப்‌ பெட்டை யுவாப்பிடி வடவைத்‌ தீயாம்‌.\n63 (21)\nகோடூ சங்கூது கொம்பு மரக்கொம்பு விலங்கின்‌ கொம்பு\n66 செய்‌ வரம்பு குன்றின்‌ முகடு நீர்க்கரை யேழ்பேராம்‌\nமோடு மேடு தரமாகும்‌ முறுவலே நகைத்தல்‌ பல்லாம்‌\nஆடி யே யோர்மாதங்‌ கண்ணாடி யுத்தராடமாமே.\n64 ( 22)\nதட்டுத்தேர்‌ நடுவு குற்றந்‌ தட்டொடு பரிசை முட்டாம்‌\nசெட்டி வாணிகன்‌ செவ்வேளாஞ்‌ செப்புரை கரண்டகப்‌ பேர்‌\nமட்டென்ப தெல்லை கள்ளாம்‌ மார்கமே சமயம்‌ வீதி\nபட்டிகை யென்ப கச்சுப்‌ பகட்டூட னிரதமாமே.",
+  "work": {
+    "ocr_passes": 2,
+    "pixels": 3270150,
+    "seconds": 1.2774728329999903,
+    "classifier_calls": 1,
+    "duplicate_uploads": 0
+  },
+  "decision": {
+    "experimental": true,
+    "thresholds": {
+      "min_ocr_confidence": 55,
+      "min_character_height": 18,
+      "min_sharpness": 28,
+      "min_model_score": 0.62,
+      "min_margin": 0.18,
+      "max_ocr_passes": 6
+    },
+    "action": "request_page",
+    "title": "Scan the back cover",
+    "reason": "The available text is readable, but subject evidence is insufficient or ambiguous. A new page is more useful than repeating OCR on the same text.",
+    "requested_page": "back_cover"
+  }
+}

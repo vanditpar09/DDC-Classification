@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-08",
+  "model": "native_silver_v2",
+  "model_sha256": "cf2e4d18dbe43ad9431a965bc1a6213a0bcfbecac5b5c8830e73cb9a48f6cc86",
+  "weights_changed": false,
+  "input_image_sha256": [
+    "a636347656222a3d14dda43e2ad3cb477d93075bd22d7ed916f69ba074977e25",
+    "464e8a32b5702fd6dc2f367484cce87a25f23c209283f72bb18dfe68d6c76b77",
+    "d40f3e9b59540a028183569996de085b3919d01ea579718b01bce32ee0f4c710"
+  ],
+  "ocr": [
+    {
+      "kind": "cover",
+      "usable": true,
+      "recognition_score": 95.11842857142857
+    },
+    {
+      "kind": "back_cover",
+      "usable": true,
+      "recognition_score": 93.64327464788734
+    },
+    {
+      "kind": "contents",
+      "usable": true,
+      "recognition_score": 86.24747619047619
+    }
+  ],
+  "provisional_path": [
+    "800",
+    "810",
+    "813"
+  ],
+  "scores": [
+    0.3107359461760359,
+    0.35364561762370195,
+    0.9646048656796697
+  ],
+  "combined_path_score": 0.1060008199364649,
+  "review_level": 0,
+  "regression": {
+    "command": ".venv/bin/python -m pytest tests prototype -q",
+    "passed": 243,
+    "warnings": 3
+  },
+  "python311_check": {
+    "command": "output/macos-clean-check/.venv/bin/python -m pytest tests/test_collection_export.py tests/test_catalog.py -q",
+    "passed": 28,
+    "warnings": 1
+  },
+  "verification": {
+    "browser": "Codex in-app browser via Computer Use",
+    "actual_three_file_chooser_uploads": true,
+    "visible_three_level_scores": true,
+    "conditional_score_labels": true,
+    "browser_console_errors": [],
+    "csv_json_candidates_present": true,
+    "qualified_codes_remain_blank": true,
+    "saved_prediction_unchanged_after_display_update": true,
+    "six_pass_ocr_budget_unchanged": true,
+    "manual_review_required": true
+  },
+  "limitations": [
+    "Functional development example, not an independent accuracy benchmark.",
+    "No model retraining or reviewed ground-truth label added.",
+    "L2/L3 scores depend on predicted parents and remain uncalibrated.",
+    "Original input images and screenshots stay local under output/; no acquired image committed.",
+    "Verification performed on Mac; native Windows validation pending."
+  ]
+}

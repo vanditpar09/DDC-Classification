@@ -1,0 +1,31 @@
+{
+  "reviewer": "assistant",
+  "human_reviewed": false,
+  "scope": "selected source pages; no full transcription certification",
+  "checks": [
+    {
+      "work_id": "esahity-anand_madhu_shirgaonkar",
+      "pdf_page": 134,
+      "image": "body-review-1.jpg",
+      "finding": "Rendered Marathi prose is legible; existing extraction drops/substitutes vowel signs. Independent OCR is more readable but remains unchecked."
+    },
+    {
+      "work_id": "pm-work-147",
+      "pdf_page": 18,
+      "image": "body-review-4.jpg",
+      "finding": "Rendered Tamil grammatical verse is legible. Lower OCR/HTML concordance requires investigation; this alone does not prove publisher HTML is wrong."
+    },
+    {
+      "work_id": "pm-work-295",
+      "pdf_page": 10,
+      "image": "body-review-5.jpg",
+      "finding": "Source contains numbered verse and traditional grammatical/poetic subject material. Do not resolve 494/894 only from the publisher genre category."
+    },
+    {
+      "work_id": "esahity-saichi_vahi",
+      "pdf_page": 11,
+      "image": "body-review-6.jpg",
+      "finding": "Stylized italic blue Marathi text over a lined illustrated background. Sample OCR is substantially garbled; exclude it as a clean reference."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "source_receipts_checked": 92,
+  "hash_mismatches": [],
+  "downloaded_title_count": 21,
+  "languages": {
+    "tam": 11,
+    "mar": 6,
+    "hin": 4
+  },
+  "epub_checks": [
+    {
+      "book": "hindisamay-work-226",
+      "epub_parts": 5,
+      "parsed_title": "गबन",
+      "parsed_language": "hi"
+    },
+    {
+      "book": "hindisamay-work-233",
+      "epub_parts": 17,
+      "parsed_title": "प्रतिज्ञा",
+      "parsed_language": "hi"
+    },
+    {
+      "book": "hindisamay-work-259",
+      "epub_parts": 12,
+      "parsed_title": "निर्मला",
+      "parsed_language": "hi"
+    },
+    {
+      "book": "hindisamay-work-238",
+      "epub_parts": 12,
+      "parsed_title": "प्रेमा",
+      "parsed_language": "hi"
+    }
+  ],
+  "verified_training_count": 0,
+  "source_books_bytes": 57909849,
+  "unverified_text_available": 19,
+  "provisional_group_count": 20,
+  "groups_excluding_quarantined_anthology": 19
+}

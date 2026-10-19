@@ -1,0 +1,7127 @@
+{
+  "language": "mar",
+  "url": "https://openlibrary.org/search.json?q=language%3Amar+AND+ddc%3A%5B000+TO+999%5D&offset=0&limit=100&fields=key%2Ctitle%2Cddc%2Cauthor_name%2Clanguage%2Cedition_key%2Ccover_i%2Cebook_access%2Cia%2Ceditions%2Ceditions.key%2Ceditions.title%2Ceditions.language%2Ceditions.ddc%2Ceditions.isbn%2Ceditions.cover_i%2Ceditions.ebook_access&sort=random",
+  "retrieved_at": "2026-10-03T02:43:29.700802+00:00",
+  "payload_sha256": "40ab7d0a41a368b2f69517b82c9196a09a7c80657692a83f15372dfdf8a131c3",
+  "response": {
+    "numFound": 611,
+    "start": 0,
+    "numFoundExact": true,
+    "num_found": 611,
+    "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+    "q": "language:mar AND ddc:[000 TO 999]",
+    "offset": 0,
+    "docs": [
+      {
+        "author_name": [
+          "Kālidāsa"
+        ],
+        "ddc": [
+          "891.22"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL18628507M",
+          "OL19431745M",
+          "OL23392713M",
+          "OL23533912M",
+          "OL24060269M",
+          "OL4623441M",
+          "OL158118M",
+          "OL644728M",
+          "OL1316934M",
+          "OL2698186M",
+          "OL7014M",
+          "OL504571M",
+          "OL264257M",
+          "OL264252M",
+          "OL16251129M",
+          "OL1684131M",
+          "OL4080950M",
+          "OL5175078M",
+          "OL642445M",
+          "OL3285975M",
+          "OL264247M",
+          "OL329844M",
+          "OL264258M",
+          "OL951274M",
+          "OL328884M",
+          "OL6294507M",
+          "OL329845M",
+          "OL1682977M",
+          "OL17181891M",
+          "OL328277M"
+        ],
+        "key": "/works/OL293386W",
+        "language": [
+          "tel",
+          "dut",
+          "mar",
+          "dan",
+          "hin",
+          "ger",
+          "slv",
+          "san",
+          "eng"
+        ],
+        "title": "Mālavikāgnimitra",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL951274M",
+              "title": "Mālavikāgnimitra",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Śaraṇakumāra Limbāḷe"
+        ],
+        "ddc": [
+          "891.4638009"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44920222M"
+        ],
+        "key": "/works/OL33056483W",
+        "language": [
+          "mar"
+        ],
+        "title": "Dalita ātmakathā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44920222M",
+              "title": "Dalita ātmakathā",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788172947057",
+                "8172947054"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ānanda Vaidya"
+        ],
+        "ddc": [
+          "599.670",
+          "954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24817322M"
+        ],
+        "key": "/works/OL15910933W",
+        "language": [
+          "mar"
+        ],
+        "title": "Bhāratīya hattī-kāla āṇi āja",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24817322M",
+              "title": "Bhāratīya hattī-kāla āṇi āja",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788172945596",
+                "8172945590"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Viśvāsa Vasekara"
+        ],
+        "ddc": [
+          "891.461"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44451980M"
+        ],
+        "key": "/works/OL32639139W",
+        "language": [
+          "mar"
+        ],
+        "title": "Porṭreṭa poemsa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44451980M",
+              "title": "Porṭreṭa poemsa",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9789384497385",
+                "938449738X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Prabhākara Pāṇḍuraṅga Pāṭhaka"
+        ],
+        "ddc": [
+          "954.035"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31237245M"
+        ],
+        "key": "/works/OL23382541W",
+        "language": [
+          "mar"
+        ],
+        "title": "Rāshṭradharmācā kalpavr̥ksha",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31237245M",
+              "title": "Rāshṭradharmācā kalpavr̥ksha",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Mikhail Aleksandrovich Sholokhov"
+        ],
+        "cover_i": 6381735,
+        "ddc": [
+          "891.7342",
+          "891.73"
+        ],
+        "ebook_access": "public",
+        "edition_key": [
+          "OL20428035M",
+          "OL19299604M",
+          "OL22869523M",
+          "OL8843214M",
+          "OL8843212M",
+          "OL2216760M",
+          "OL23276946M",
+          "OL16384527M",
+          "OL2259532M",
+          "OL17927907M",
+          "OL14083481M",
+          "OL16165337M",
+          "OL15150293M",
+          "OL13532785M",
+          "OL48250547M",
+          "OL13570769M",
+          "OL13546485M",
+          "OL22373778M",
+          "OL6441608M",
+          "OL8843232M",
+          "OL9887438M",
+          "OL48271234M",
+          "OL22151108M",
+          "OL644130M",
+          "OL9803651M",
+          "OL5808047M",
+          "OL992460M",
+          "OL4861600M",
+          "OL13571598M",
+          "OL24200174M",
+          "OL20656835M",
+          "OL5265764M",
+          "OL22948006M",
+          "OL2572371M",
+          "OL23098080M",
+          "OL16516367M",
+          "OL14671924M",
+          "OL16798034M",
+          "OL15063775M",
+          "OL14671911M",
+          "OL21424173M",
+          "OL8843233M",
+          "OL23266334M",
+          "OL16069056M",
+          "OL19155832M",
+          "OL22782928M",
+          "OL23618918M",
+          "OL13570845M",
+          "OL19012476M",
+          "OL22105964M",
+          "OL48061882M",
+          "OL5250901M",
+          "OL15242288M",
+          "OL530792M",
+          "OL9039691M",
+          "OL15242302M",
+          "OL17185672M",
+          "OL8843213M",
+          "OL16520875M"
+        ],
+        "ia": [
+          "nybc201679",
+          "andquietflowsdon00shol",
+          "andquietflowsdon0000shol",
+          "andquietflowsdon0000shol_p4e8",
+          "quietflowsdon00shol_0",
+          "andquietflowsdonshol00shol",
+          "quietflowsdonnov0000shol"
+        ],
+        "key": "/works/OL326262W",
+        "language": [
+          "mon",
+          "mar",
+          "chi",
+          "rus",
+          "eng",
+          "ukr",
+          "yid"
+        ],
+        "title": "Тихий Дон",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL644130M",
+              "title": "Jāgā jhālelā deśa",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "John Howard Griffin"
+        ],
+        "cover_i": 6383648,
+        "ddc": [
+          "301.45196073076",
+          "301.45196073",
+          "975.00496073",
+          "301.451",
+          "304.451"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL61376213M",
+          "OL28281067M",
+          "OL22201975M",
+          "OL14825271M",
+          "OL27672251M",
+          "OL28160204M",
+          "OL25421009M",
+          "OL16521073M",
+          "OL22135640M",
+          "OL16665617M",
+          "OL7882645M",
+          "OL25048591M",
+          "OL23814801M",
+          "OL26361052M",
+          "OL7574456M",
+          "OL4902571M",
+          "OL21572295M",
+          "OL8136403M",
+          "OL16570990M",
+          "OL23233777M",
+          "OL13645570M",
+          "OL23277119M",
+          "OL5819483M",
+          "OL16351792M",
+          "OL17637004M",
+          "OL3288891M",
+          "OL17744865M",
+          "OL24604471M",
+          "OL8581466M",
+          "OL8581467M",
+          "OL7569836M",
+          "OL18394234M",
+          "OL7569958M",
+          "OL729644M",
+          "OL7569781M",
+          "OL14998924M",
+          "OL8689652M",
+          "OL22713777M",
+          "OL16546182M",
+          "OL14964430M",
+          "OL8359779M",
+          "OL8359780M",
+          "OL1371913M"
+        ],
+        "ia": [
+          "blacklikeme0000grif_f7o9",
+          "blacklikeme00john",
+          "blacklikeme0000grif",
+          "blacklikeme1961grif",
+          "blacklikemedefin00grif_0",
+          "blacklikeme0000grif_c0i4",
+          "blacklikeme00grif_0",
+          "blacklikeme00grif"
+        ],
+        "key": "/works/OL2810429W",
+        "language": [
+          "eng",
+          "mar"
+        ],
+        "title": "Black like me",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1371913M",
+              "title": "Kāyāpālaṭa",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kālidāsa"
+        ],
+        "cover_i": 612105,
+        "ddc": [
+          "891.21"
+        ],
+        "ebook_access": "public",
+        "edition_key": [
+          "OL26619305M",
+          "OL18353880M",
+          "OL18524178M",
+          "OL18291367M",
+          "OL18308404M",
+          "OL18376628M",
+          "OL16738690M",
+          "OL17431245M",
+          "OL16753013M",
+          "OL8045220M",
+          "OL21086M",
+          "OL951229M",
+          "OL6294504M",
+          "OL3931478M",
+          "OL512416M",
+          "OL3710505M",
+          "OL2014211M",
+          "OL18513318M",
+          "OL644083M",
+          "OL324843M",
+          "OL1830604M",
+          "OL950732M",
+          "OL508252M",
+          "OL3591912M",
+          "OL3020914M",
+          "OL324973M",
+          "OL5758488M",
+          "OL3591510M",
+          "OL3298579M",
+          "OL638435M",
+          "OL19088420M",
+          "OL22656322M",
+          "OL512418M",
+          "OL512554M",
+          "OL2695883M",
+          "OL1829958M",
+          "OL273788M",
+          "OL643964M"
+        ],
+        "ia": [
+          "kumrasambhava03klid",
+          "kumarasambhavah01klid",
+          "originofyounggod0000klid"
+        ],
+        "key": "/works/OL293322W",
+        "language": [
+          "mar",
+          "tel",
+          "kan",
+          "hin",
+          "san",
+          "guj",
+          "eng",
+          "mal"
+        ],
+        "title": "Kumārasambhava",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3591912M",
+              "title": "Kumāra sambhavam",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Bhārata Sāsaṇe"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24496877M"
+        ],
+        "key": "/works/OL15540383W",
+        "language": [
+          "mar"
+        ],
+        "title": "Adr̥shṭa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24496877M",
+              "title": "Adr̥shṭa",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788174868268",
+                "8174868267"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Priya Purushothaman"
+        ],
+        "ddc": [
+          "780.92"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31105177M"
+        ],
+        "key": "/works/OL23264685W",
+        "language": [
+          "mar",
+          "eng"
+        ],
+        "title": "Living music",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31105177M",
+              "title": "Living music",
+              "language": [
+                "eng",
+                "mar"
+              ],
+              "isbn": [
+                "9788179916315",
+                "8179916316"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Shankar Gopal Tulpule"
+        ],
+        "cover_i": 1126323,
+        "ddc": [
+          "491.46321"
+        ],
+        "ebook_access": "unclassified",
+        "edition_key": [
+          "OL163544M",
+          "OL52529M"
+        ],
+        "ia": [
+          "dictionaryofoldm00tula"
+        ],
+        "key": "/works/OL306034W",
+        "language": [
+          "mar",
+          "eng"
+        ],
+        "title": "A dictionary of old Marathi",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL52529M",
+              "title": "A dictionary of Old Marathi",
+              "cover_i": 1126323,
+              "language": [
+                "eng",
+                "mar"
+              ],
+              "isbn": [
+                "0195126009",
+                "9780195126006"
+              ],
+              "ebook_access": "unclassified"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vāmana Harī Deśapāṇḍe"
+        ],
+        "ddc": [
+          "780.954",
+          "784.0954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2360241M",
+          "OL2163565M",
+          "OL5033474M"
+        ],
+        "key": "/works/OL4422924W",
+        "language": [
+          "und",
+          "eng",
+          "mar"
+        ],
+        "title": "Gharandāja gāyakī",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2163565M",
+              "title": "Indian musical traditions",
+              "language": [
+                "eng",
+                "mar"
+              ],
+              "isbn": [
+                "0861321448",
+                "9780861321445"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "M. R. Kantak"
+        ],
+        "ddc": [
+          "954.0298"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL1687238M"
+        ],
+        "key": "/works/OL23457646W",
+        "language": [
+          "mar",
+          "eng"
+        ],
+        "title": "First Anglo-Maratha War",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1687238M",
+              "title": "First Anglo-Maratha War",
+              "language": [
+                "eng",
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "N. R. Parasnis"
+        ],
+        "ddc": [
+          "370.954792"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4076283M"
+        ],
+        "key": "/works/OL6310923W",
+        "language": [
+          "eng",
+          "mar"
+        ],
+        "title": "The history and survey of education in Thana District",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4076283M",
+              "title": "The history and survey of education in Thana District",
+              "language": [
+                "eng",
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Pratika Purī"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31124367M"
+        ],
+        "key": "/works/OL23280129W",
+        "language": [
+          "mar"
+        ],
+        "title": "Vāphāḷalele divasa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31124367M",
+              "title": "Vāphāḷalele divasa",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788192650401",
+                "8192650405"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Bhā. La Mahābaḷa"
+        ],
+        "ddc": [
+          "891.46371"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44423481M"
+        ],
+        "key": "/works/OL32612497W",
+        "language": [
+          "mar"
+        ],
+        "title": "Oḷakha",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44423481M",
+              "title": "Oḷakha",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9789351171829",
+                "9351171825"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Prakāśa Hariścandra Pāṭīla"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44057417M"
+        ],
+        "key": "/works/OL32307835W",
+        "language": [
+          "mar"
+        ],
+        "title": "Andhārācyā ārapāra",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44057417M",
+              "title": "Andhārācyā ārapāra",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9789386469557",
+                "9386469553"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ajitema Jośī"
+        ],
+        "ddc": [
+          "891.46372"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30812538M"
+        ],
+        "key": "/works/OL22899931W",
+        "language": [
+          "mar"
+        ],
+        "title": "Khela",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30812538M",
+              "title": "Khela",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Miguel de Cervantes Saavedra"
+        ],
+        "cover_i": 14428305,
+        "ddc": [
+          "868",
+          "082 s",
+          "[Fic]",
+          "863.3 s",
+          "862.3",
+          "863.3",
+          "823.91",
+          "468.6",
+          "863.32",
+          "863.82",
+          "863.1"
+        ],
+        "ebook_access": "public",
+        "edition_key": [
+          "OL45282336M",
+          "OL45282722M",
+          "OL45282843M",
+          "OL45283883M",
+          "OL45293356M",
+          "OL45293397M",
+          "OL45294513M",
+          "OL45544885M",
+          "OL41850563M",
+          "OL42246518M",
+          "OL42261689M",
+          "OL42269838M",
+          "OL42278298M",
+          "OL42399809M",
+          "OL42464756M",
+          "OL42472490M",
+          "OL42498024M",
+          "OL42566219M",
+          "OL42578202M",
+          "OL37946646M",
+          "OL37946647M",
+          "OL37947104M",
+          "OL37947236M",
+          "OL37948290M",
+          "OL37948704M",
+          "OL37949621M",
+          "OL37950309M",
+          "OL37950733M",
+          "OL37951920M",
+          "OL37951921M",
+          "OL37951929M",
+          "OL37951930M",
+          "OL38023666M",
+          "OL38023674M",
+          "OL38026992M",
+          "OL38029499M",
+          "OL38030309M",
+          "OL38031149M",
+          "OL36409903M",
+          "OL36933974M",
+          "OL36936480M",
+          "OL36948600M",
+          "OL36951163M",
+          "OL36951441M",
+          "OL36958234M",
+          "OL36965760M",
+          "OL36966752M",
+          "OL36968620M",
+          "OL42103747M",
+          "OL42185273M",
+          "OL42233057M",
+          "OL42271456M",
+          "OL42370689M",
+          "OL42620194M",
+          "OL46786672M",
+          "OL46820584M",
+          "OL12321295M",
+          "OL36287953M",
+          "OL36287958M",
+          "OL36288216M",
+          "OL36288217M",
+          "OL36288605M",
+          "OL36288750M",
+          "OL36290065M",
+          "OL36290326M",
+          "OL36290651M",
+          "OL36290652M",
+          "OL36290760M",
+          "OL36291543M",
+          "OL36291697M",
+          "OL36292757M",
+          "OL36292768M",
+          "OL36293221M",
+          "OL36293304M",
+          "OL36293902M",
+          "OL36295880M",
+          "OL36295931M",
+          "OL36296051M",
+          "OL36296179M",
+          "OL36296294M",
+          "OL36296444M",
+          "OL36296516M",
+          "OL36296656M",
+          "OL36296689M",
+          "OL36297368M",
+          "OL36297369M",
+          "OL36297516M",
+          "OL36299267M",
+          "OL36300093M",
+          "OL36300515M",
+          "OL36301075M",
+          "OL36301241M",
+          "OL36301812M",
+          "OL36302016M",
+          "OL36302911M",
+          "OL36302981M",
+          "OL36304288M",
+          "OL36305068M",
+          "OL36305203M",
+          "OL36305217M",
+          "OL36305646M",
+          "OL35653405M",
+          "OL35788502M",
+          "OL36184634M",
+          "OL36185248M",
+          "OL36188118M",
+          "OL36189114M",
+          "OL36189167M",
+          "OL36190061M",
+          "OL36190655M",
+          "OL36190700M",
+          "OL36194448M",
+          "OL36201703M",
+          "OL36201982M",
+          "OL36205287M",
+          "OL36206884M",
+          "OL36211462M",
+          "OL36212923M",
+          "OL36285816M",
+          "OL36285817M",
+          "OL36286348M",
+          "OL36286363M",
+          "OL34359639M",
+          "OL36389802M",
+          "OL36465800M",
+          "OL36502480M",
+          "OL36510952M",
+          "OL36596684M",
+          "OL38138380M",
+          "OL38426283M",
+          "OL38440871M",
+          "OL38496658M",
+          "OL38520788M",
+          "OL32315670M",
+          "OL32701975M",
+          "OL34999833M",
+          "OL35120670M",
+          "OL35217382M",
+          "OL37457724M",
+          "OL37604201M",
+          "OL38495996M",
+          "OL39431590M",
+          "OL39445337M",
+          "OL40589370M",
+          "OL40696356M",
+          "OL40781693M",
+          "OL40782428M",
+          "OL40807482M",
+          "OL40870640M",
+          "OL40911806M",
+          "OL40994896M",
+          "OL41256499M",
+          "OL41388847M",
+          "OL42024611M",
+          "OL42233252M",
+          "OL42246876M",
+          "OL42305625M",
+          "OL42306091M",
+          "OL42382551M",
+          "OL42654894M",
+          "OL48547748M",
+          "OL49186449M",
+          "OL22209169M",
+          "OL22979254M",
+          "OL9879950M",
+          "OL13734921M",
+          "OL13987209M",
+          "OL13912130M",
+          "OL6629736M",
+          "OL19895869M",
+          "OL36311839M",
+          "OL36312454M",
+          "OL36313136M",
+          "OL36313236M",
+          "OL36313724M",
+          "OL36314150M",
+          "OL36314625M",
+          "OL36314885M",
+          "OL36315022M",
+          "OL36315110M",
+          "OL36315331M",
+          "OL36315540M",
+          "OL36315616M",
+          "OL36316078M",
+          "OL36316209M",
+          "OL36317694M",
+          "OL36318160M",
+          "OL36318649M",
+          "OL36318988M",
+          "OL36319147M",
+          "OL36319385M",
+          "OL36319440M",
+          "OL36320811M",
+          "OL36320994M",
+          "OL36321001M",
+          "OL36321405M",
+          "OL36321870M",
+          "OL36321917M",
+          "OL36321919M",
+          "OL36322012M",
+          "OL36322067M",
+          "OL36322333M",
+          "OL36322475M",
+          "OL36322521M",
+          "OL36322620M",
+          "OL36322851M",
+          "OL36322852M",
+          "OL36322853M",
+          "OL36323671M",
+          "OL36323679M",
+          "OL36323710M",
+          "OL36323711M",
+          "OL36323770M",
+          "OL36323837M",
+          "OL36323906M",
+          "OL36324047M",
+          "OL36332190M",
+          "OL36332191M",
+          "OL36332192M",
+          "OL36333042M",
+          "OL36333051M",
+          "OL36333076M",
+          "OL36333104M",
+          "OL36333211M",
+          "OL36333228M",
+          "OL36334002M",
+          "OL36334003M",
+          "OL36334004M",
+          "OL36334934M",
+          "OL36334935M",
+          "OL36334948M",
+          "OL36334960M",
+          "OL36335212M",
+          "OL36335285M",
+          "OL36335374M",
+          "OL36335875M",
+          "OL36335876M",
+          "OL36336955M",
+          "OL36347767M",
+          "OL36355616M",
+          "OL36357818M",
+          "OL36362595M",
+          "OL36384769M",
+          "OL36607439M",
+          "OL40236192M",
+          "OL27273832M",
+          "OL32879330M",
+          "OL32798139M",
+          "OL37833698M",
+          "OL30304909M",
+          "OL29228337M",
+          "OL33061526M",
+          "OL23501471M",
+          "OL24226534M",
+          "OL27059428M",
+          "OL26643705M",
+          "OL24343614M",
+          "OL8714713M",
+          "OL16262736M",
+          "OL24951134M",
+          "OL24207174M",
+          "OL25625565M",
+          "OL7015993M",
+          "OL11505566M",
+          "OL7245561M",
+          "OL23388163M",
+          "OL6664935M",
+          "OL24137697M",
+          "OL20588624M",
+          "OL20479428M",
+          "OL26363066M",
+          "OL17946584M",
+          "OL17729575M",
+          "OL5670503M",
+          "OL13986484M",
+          "OL13986374M",
+          "OL23400942M",
+          "OL23742694M",
+          "OL28635009M",
+          "OL28597970M",
+          "OL22872033M",
+          "OL24348338M",
+          "OL7461671M",
+          "OL38216109M",
+          "OL38128451M",
+          "OL35240185M",
+          "OL13277200M",
+          "OL34227089M",
+          "OL34458036M",
+          "OL32831230M",
+          "OL26110628M",
+          "OL34359500M",
+          "OL34877262M",
+          "OL37412817M",
+          "OL36312716M",
+          "OL34459496M",
+          "OL36854708M",
+          "OL62519122M",
+          "OL61475522M",
+          "OL61475470M",
+          "OL61420889M",
+          "OL61011567M",
+          "OL60558776M",
+          "OL59428405M",
+          "OL59415719M",
+          "OL56299179M",
+          "OL56299541M",
+          "OL56302591M",
+          "OL56304219M",
+          "OL56307237M",
+          "OL56313431M",
+          "OL56318897M",
+          "OL56350574M",
+          "OL56398355M",
+          "OL56416720M",
+          "OL56424470M",
+          "OL56450583M",
+          "OL56513500M",
+          "OL56516462M",
+          "OL56562539M",
+          "OL56568538M",
+          "OL56589529M",
+          "OL56599487M",
+          "OL56605455M",
+          "OL56648078M",
+          "OL56649498M",
+          "OL56672409M",
+          "OL56678737M",
+          "OL56758296M",
+          "OL56095791M",
+          "OL56112841M",
+          "OL56114608M",
+          "OL56115380M",
+          "OL56142717M",
+          "OL56143729M",
+          "OL56148093M",
+          "OL56149786M",
+          "OL56211331M",
+          "OL55342098M",
+          "OL55343575M",
+          "OL55344685M",
+          "OL55354093M",
+          "OL55356660M",
+          "OL55405105M",
+          "OL55433274M",
+          "OL55463812M",
+          "OL55465203M",
+          "OL52578799M",
+          "OL52579944M",
+          "OL52579947M",
+          "OL52579949M",
+          "OL52579951M",
+          "OL52579954M",
+          "OL52590672M",
+          "OL52590954M",
+          "OL52592407M",
+          "OL52600570M",
+          "OL45281830M",
+          "OL45281890M",
+          "OL45282159M",
+          "OL45282301M",
+          "OL34944904M",
+          "OL35626250M",
+          "OL38072239M",
+          "OL37622498M",
+          "OL34891060M",
+          "OL35621788M",
+          "OL36312710M",
+          "OL34911259M",
+          "OL11505568M",
+          "OL27048556M",
+          "OL26867966M",
+          "OL10601285M",
+          "OL12580739M",
+          "OL10601284M",
+          "OL12580735M",
+          "OL28378187M",
+          "OL30409785M",
+          "OL31475862M",
+          "OL31151133M",
+          "OL27784540M",
+          "OL25984203M",
+          "OL29411556M",
+          "OL29411552M",
+          "OL8501864M",
+          "OL8501752M",
+          "OL25447347M",
+          "OL25447346M",
+          "OL25682706M",
+          "OL25880193M",
+          "OL1093018M",
+          "OL20952825M",
+          "OL22901380M",
+          "OL22940916M",
+          "OL14824288M",
+          "OL13985822M",
+          "OL13987954M",
+          "OL13986948M",
+          "OL13987955M",
+          "OL13987952M",
+          "OL25413526M",
+          "OL20787631M",
+          "OL13735387M",
+          "OL14826060M",
+          "OL13986907M",
+          "OL13987212M",
+          "OL19957330M",
+          "OL19957329M",
+          "OL6283244M",
+          "OL27769799M",
+          "OL27769800M",
+          "OL19827288M",
+          "OL19899025M",
+          "OL32337608M",
+          "OL32466830M",
+          "OL13308098M",
+          "OL6220222M",
+          "OL20629505M",
+          "OL19056327M",
+          "OL18525116M",
+          "OL18526777M",
+          "OL28884474M",
+          "OL28736728M",
+          "OL28746775M",
+          "OL30044236M",
+          "OL28753932M",
+          "OL23108483M",
+          "OL12534708M",
+          "OL6208560M",
+          "OL17076519M",
+          "OL22937473M",
+          "OL13986908M",
+          "OL13909866M",
+          "OL13986909M",
+          "OL13987220M",
+          "OL13986945M",
+          "OL15956095M",
+          "OL24405787M",
+          "OL24505681M",
+          "OL16192167M",
+          "OL22187936M",
+          "OL20611363M",
+          "OL22269779M",
+          "OL6288569M",
+          "OL9130631M",
+          "OL9130054M",
+          "OL13219096M",
+          "OL13986867M",
+          "OL22401983M",
+          "OL23387069M",
+          "OL24820919M",
+          "OL24587461M",
+          "OL24775086M",
+          "OL25100112M",
+          "OL24977711M",
+          "OL24991969M",
+          "OL24647979M",
+          "OL24998814M",
+          "OL24770723M",
+          "OL24993080M",
+          "OL24992120M",
+          "OL24774615M",
+          "OL25069604M",
+          "OL24992067M",
+          "OL24774227M",
+          "OL24786017M",
+          "OL24785986M",
+          "OL2694855M",
+          "OL1628259M",
+          "OL727042M",
+          "OL13986901M",
+          "OL6585080M",
+          "OL3651468M",
+          "OL6610563M",
+          "OL13734919M",
+          "OL13986906M",
+          "OL19659769M",
+          "OL4509981M",
+          "OL5899795M",
+          "OL13986911M",
+          "OL20820207M",
+          "OL20820203M",
+          "OL6599320M",
+          "OL13572393M",
+          "OL19659968M",
+          "OL98930M",
+          "OL5899950M",
+          "OL5899976M",
+          "OL20819931M",
+          "OL20819964M",
+          "OL19417084M",
+          "OL16764699M",
+          "OL22874522M",
+          "OL12562008M",
+          "OL20819967M",
+          "OL5899953M",
+          "OL5899949M",
+          "OL6469670M",
+          "OL3129382M",
+          "OL6507740M",
+          "OL23303547M",
+          "OL13987951M",
+          "OL2695389M",
+          "OL24348734M",
+          "OL4828380M",
+          "OL25090735M",
+          "OL24372514M",
+          "OL9145646M",
+          "OL7698534M",
+          "OL12505641M",
+          "OL24348183M",
+          "OL13362425M",
+          "OL24998815M",
+          "OL6664018M",
+          "OL15055709M",
+          "OL13986383M",
+          "OL6630114M",
+          "OL5670500M",
+          "OL1241202M",
+          "OL11229381M",
+          "OL7577643M",
+          "OL6301058M",
+          "OL5670159M",
+          "OL3455323M",
+          "OL13221050M",
+          "OL10274099M",
+          "OL7355428M",
+          "OL5899948M",
+          "OL4328432M",
+          "OL24140036M",
+          "OL23063412M",
+          "OL19885194M",
+          "OL13986370M",
+          "OL13965427M",
+          "OL8801660M",
+          "OL6081257M",
+          "OL4842046M",
+          "OL22828950M",
+          "OL21450086M",
+          "OL20502439M",
+          "OL17742465M",
+          "OL13986198M",
+          "OL13836262M",
+          "OL13768018M",
+          "OL13775334M",
+          "OL13569208M",
+          "OL13986480M",
+          "OL9481403M",
+          "OL5899929M",
+          "OL6050037M",
+          "OL20134298M",
+          "OL19607270M",
+          "OL13986464M",
+          "OL10505761M",
+          "OL4443485M",
+          "OL4463018M",
+          "OL4312363M",
+          "OL18874893M",
+          "OL16718892M",
+          "OL13057602M",
+          "OL9134490M",
+          "OL8823805M",
+          "OL5670554M",
+          "OL4587001M",
+          "OL24171989M",
+          "OL13986900M",
+          "OL6284070M",
+          "OL5899958M",
+          "OL4419310M",
+          "OL22973105M",
+          "OL22957207M",
+          "OL17371053M",
+          "OL13986875M",
+          "OL10274230M",
+          "OL7718899M",
+          "OL6278730M",
+          "OL5964399M",
+          "OL36324048M",
+          "OL36324144M",
+          "OL36324212M",
+          "OL36324242M",
+          "OL36324670M",
+          "OL36324671M",
+          "OL36325572M",
+          "OL36325657M",
+          "OL36325676M",
+          "OL36325764M",
+          "OL36325936M",
+          "OL36325940M",
+          "OL36325941M",
+          "OL36326024M",
+          "OL36326035M",
+          "OL36326080M",
+          "OL36326108M",
+          "OL36326541M",
+          "OL36326542M",
+          "OL36327397M",
+          "OL36327534M",
+          "OL36327536M",
+          "OL36327956M",
+          "OL36329315M",
+          "OL36329346M",
+          "OL36329452M",
+          "OL36329620M",
+          "OL36329622M",
+          "OL36329623M",
+          "OL36329851M",
+          "OL36329878M",
+          "OL36331192M",
+          "OL36331225M",
+          "OL36331239M",
+          "OL36331247M",
+          "OL36331427M",
+          "OL36331525M",
+          "OL36331658M",
+          "OL36331752M",
+          "OL36331920M",
+          "OL5900029M",
+          "OL5670548M",
+          "OL5214083M",
+          "OL4758874M",
+          "OL20874519M",
+          "OL13734097M",
+          "OL5899951M",
+          "OL18015907M",
+          "OL4035582M",
+          "OL2694666M",
+          "OL22369063M",
+          "OL9047036M",
+          "OL21242356M",
+          "OL2101101M",
+          "OL20376025M",
+          "OL5670160M",
+          "OL13986307M",
+          "OL13533747M",
+          "OL13069984M",
+          "OL22607515M",
+          "OL10505577M",
+          "OL6000655M",
+          "OL13986467M",
+          "OL13734907M",
+          "OL13767352M",
+          "OL24150204M",
+          "OL10274037M",
+          "OL9326464M",
+          "OL17639512M",
+          "OL13987206M",
+          "OL13360922M",
+          "OL23339377M",
+          "OL12953674M",
+          "OL11558478M",
+          "OL21208444M",
+          "OL19660115M",
+          "OL17450206M",
+          "OL5787593M",
+          "OL13986291M",
+          "OL13986206M",
+          "OL22777669M",
+          "OL7229368M",
+          "OL6971228M",
+          "OL5934615M",
+          "OL5627940M",
+          "OL22416980M",
+          "OL13986308M",
+          "OL6370216M",
+          "OL13533748M",
+          "OL5899970M",
+          "OL4808475M",
+          "OL4339396M",
+          "OL9239898M",
+          "OL24107735M",
+          "OL23334181M",
+          "OL5670145M",
+          "OL22185249M",
+          "OL22050842M",
+          "OL22120037M",
+          "OL13986373M",
+          "OL13459276M",
+          "OL6971230M",
+          "OL6317236M",
+          "OL6390900M",
+          "OL6119880M",
+          "OL5899956M",
+          "OL2539451M",
+          "OL5267304M",
+          "OL24011423M",
+          "OL23896253M",
+          "OL23058875M",
+          "OL13649197M",
+          "OL1596406M",
+          "OL3875561M",
+          "OL20985220M",
+          "OL20440920M",
+          "OL13986494M",
+          "OL13987946M",
+          "OL13930547M",
+          "OL13658061M",
+          "OL7248581M",
+          "OL5925267M",
+          "OL24275403M",
+          "OL23934679M",
+          "OL22609506M",
+          "OL10274190M",
+          "OL5670176M",
+          "OL24137600M",
+          "OL13986369M",
+          "OL9488611M",
+          "OL6978502M",
+          "OL6237807M",
+          "OL5973764M",
+          "OL4610987M",
+          "OL1138921M",
+          "OL10137653M",
+          "OL6703848M",
+          "OL4878805M",
+          "OL5670504M",
+          "OL1671018M",
+          "OL22106733M",
+          "OL13361013M",
+          "OL18876323M",
+          "OL22823908M",
+          "OL13836322M",
+          "OL13572303M",
+          "OL5670152M",
+          "OL5132854M",
+          "OL4131380M",
+          "OL5670168M",
+          "OL12033804M",
+          "OL5670156M",
+          "OL22501559M",
+          "OL13987208M",
+          "OL7073200M",
+          "OL6449257M",
+          "OL10174241M",
+          "OL5787600M",
+          "OL5900030M",
+          "OL20475661M",
+          "OL24288931M",
+          "OL22227978M",
+          "OL13986419M",
+          "OL6308104M",
+          "OL7577087M",
+          "OL5711174M",
+          "OL7456861M",
+          "OL6656772M",
+          "OL23159979M",
+          "OL22901382M",
+          "OL13459270M",
+          "OL20479717M",
+          "OL5899928M",
+          "OL22936526M",
+          "OL13938618M",
+          "OL6143988M",
+          "OL4666854M",
+          "OL22812805M",
+          "OL7591803M",
+          "OL22349189M",
+          "OL5931162M",
+          "OL4462388M",
+          "OL6002370M",
+          "OL4449948M",
+          "OL4343415M",
+          "OL7172553M",
+          "OL6500580M",
+          "OL13986382M",
+          "OL7591804M",
+          "OL7384084M",
+          "OL468131M",
+          "OL22166705M",
+          "OL22646726M",
+          "OL9929221M",
+          "OL7285191M",
+          "OL348852M",
+          "OL3460691M",
+          "OL13836314M",
+          "OL1336939M",
+          "OL120240M",
+          "OL24156394M",
+          "OL22901381M",
+          "OL9876054M",
+          "OL13986199M",
+          "OL13361064M",
+          "OL5670140M",
+          "OL6327228M",
+          "OL13743659M",
+          "OL167235M",
+          "OL5670143M",
+          "OL14014778M",
+          "OL8373984M",
+          "OL5494767M",
+          "OL22823950M",
+          "OL22628838M",
+          "OL5670144M",
+          "OL9723490M",
+          "OL17197781M",
+          "OL13986376M",
+          "OL9230463M",
+          "OL450324M",
+          "OL9273347M",
+          "OL22169130M",
+          "OL852042M",
+          "OL13986490M",
+          "OL22471599M",
+          "OL7318692M",
+          "OL24160224M",
+          "OL1586369M",
+          "OL13533936M",
+          "OL6917284M",
+          "OL6000654M",
+          "OL8978960M",
+          "OL7954034M",
+          "OL7275755M",
+          "OL24136995M",
+          "OL20434631M",
+          "OL11760253M",
+          "OL6760666M",
+          "OL7589423M",
+          "OL2237346M",
+          "OL6295743M",
+          "OL5670550M",
+          "OL5670167M",
+          "OL13568698M",
+          "OL9440502M",
+          "OL24137592M",
+          "OL4470562M",
+          "OL18588140M",
+          "OL13986202M",
+          "OL24292782M",
+          "OL20450867M",
+          "OL13986304M",
+          "OL24607408M",
+          "OL21364259M",
+          "OL7465633M",
+          "OL15519494M",
+          "OL18073135M",
+          "OL20848511M",
+          "OL24327317M",
+          "OL23564576M",
+          "OL23564757M",
+          "OL5931165M",
+          "OL9120121M",
+          "OL6921443M",
+          "OL14036885M",
+          "OL9460693M",
+          "OL20587030M",
+          "OL20487497M",
+          "OL23544325M",
+          "OL32094457M",
+          "OL26340216M",
+          "OL25953200M",
+          "OL26521156M",
+          "OL26500930M",
+          "OL25498043M",
+          "OL25479190M",
+          "OL23496012M",
+          "OL26578933M",
+          "OL23467972M",
+          "OL20611179M",
+          "OL20608082M",
+          "OL20552760M",
+          "OL25569923M",
+          "OL26885557M",
+          "OL24474203M",
+          "OL24366101M",
+          "OL24367536M",
+          "OL25554419M",
+          "OL25615102M",
+          "OL20456371M",
+          "OL20484661M",
+          "OL27740458M",
+          "OL25417814M",
+          "OL24992690M",
+          "OL25091286M",
+          "OL6537711M",
+          "OL24992013M",
+          "OL24991426M",
+          "OL24992054M",
+          "OL24992051M",
+          "OL13533744M",
+          "OL6654632M",
+          "OL4416779M",
+          "OL9535340M",
+          "OL17890806M",
+          "OL7355478M",
+          "OL22996460M",
+          "OL6650091M",
+          "OL6287172M",
+          "OL3829562M",
+          "OL1172918M",
+          "OL1567448M",
+          "OL14824968M",
+          "OL11760252M",
+          "OL5670178M",
+          "OL7361001M",
+          "OL4314215M",
+          "OL7576733M",
+          "OL22491403M",
+          "OL7382844M",
+          "OL3452081M",
+          "OL8108619M",
+          "OL7077460M",
+          "OL12609752M",
+          "OL22964990M",
+          "OL9430113M",
+          "OL7509277M",
+          "OL13987207M",
+          "OL13986477M",
+          "OL13571800M",
+          "OL6149979M",
+          "OL24286428M",
+          "OL4772289M",
+          "OL13763271M",
+          "OL194637M",
+          "OL13986197M",
+          "OL13986466M",
+          "OL13959934M",
+          "OL13986871M",
+          "OL13813467M",
+          "OL19605306M",
+          "OL13986205M",
+          "OL8021003M",
+          "OL5712065M",
+          "OL5592913M",
+          "OL23091321M",
+          "OL13922754M",
+          "OL1226612M",
+          "OL22487923M",
+          "OL22574336M",
+          "OL20432617M",
+          "OL17573225M",
+          "OL10274159M",
+          "OL13767169M",
+          "OL13360920M",
+          "OL3520761M",
+          "OL13986372M",
+          "OL30942443M",
+          "OL30300935M",
+          "OL30299920M",
+          "OL30301452M",
+          "OL30299833M",
+          "OL30293257M",
+          "OL30285820M",
+          "OL30285350M",
+          "OL30279857M",
+          "OL30108687M",
+          "OL30029377M",
+          "OL29094789M",
+          "OL29094993M",
+          "OL29095198M",
+          "OL29095970M",
+          "OL29096199M",
+          "OL29613893M",
+          "OL29617030M",
+          "OL29617786M",
+          "OL29644792M",
+          "OL28577013M",
+          "OL28308073M",
+          "OL28270404M",
+          "OL28467520M",
+          "OL28471861M",
+          "OL28630758M",
+          "OL28689944M",
+          "OL28920894M",
+          "OL28993917M",
+          "OL29033427M",
+          "OL29225512M",
+          "OL29668365M",
+          "OL29668366M",
+          "OL29668440M",
+          "OL29669219M",
+          "OL29686854M",
+          "OL29778731M",
+          "OL29779929M",
+          "OL29781283M",
+          "OL29930269M",
+          "OL28175851M",
+          "OL27919765M",
+          "OL27674859M",
+          "OL27496935M",
+          "OL27488100M",
+          "OL27486767M",
+          "OL27471881M",
+          "OL27635869M",
+          "OL28345256M",
+          "OL30292352M",
+          "OL30294242M",
+          "OL30300605M",
+          "OL27417614M",
+          "OL27376053M",
+          "OL27376066M",
+          "OL27371674M",
+          "OL27429461M",
+          "OL27145579M",
+          "OL27002387M",
+          "OL8823710M",
+          "OL26332614M",
+          "OL26231794M",
+          "OL26230284M",
+          "OL25994690M",
+          "OL25667091M",
+          "OL25596613M",
+          "OL25577934M",
+          "OL25525318M",
+          "OL25498447M",
+          "OL25389820M",
+          "OL25122549M",
+          "OL24992738M",
+          "OL24990034M",
+          "OL24951761M",
+          "OL24786108M",
+          "OL24786081M",
+          "OL24785178M",
+          "OL24651183M",
+          "OL25440520M",
+          "OL24620994M",
+          "OL24584428M",
+          "OL24581201M",
+          "OL24433138M",
+          "OL24432864M",
+          "OL24432854M",
+          "OL24398119M",
+          "OL24396350M",
+          "OL24367320M",
+          "OL24364114M",
+          "OL24347558M",
+          "OL6632619M",
+          "OL5312827M",
+          "OL24260322M",
+          "OL6599042M",
+          "OL5931270M",
+          "OL19949740M",
+          "OL19580032M",
+          "OL13986488M",
+          "OL13986384M",
+          "OL7383855M",
+          "OL23082207M",
+          "OL7068584M",
+          "OL13986421M",
+          "OL13986479M",
+          "OL13768060M",
+          "OL11072382M",
+          "OL5670149M",
+          "OL23306401M",
+          "OL9842046M",
+          "OL21345561M",
+          "OL13986200M",
+          "OL13057601M",
+          "OL9307824M",
+          "OL14005174M",
+          "OL14006174M",
+          "OL5670553M",
+          "OL7133627M",
+          "OL22980229M",
+          "OL11340515M",
+          "OL13986414M",
+          "OL12562725M",
+          "OL8365241M",
+          "OL10504402M",
+          "OL6971227M",
+          "OL6761229M",
+          "OL6394975M",
+          "OL3837331M",
+          "OL3467726M",
+          "OL2571408M",
+          "OL4028626M",
+          "OL24243726M",
+          "OL3139802M",
+          "OL18384049M",
+          "OL13986495M",
+          "OL13360919M",
+          "OL25910979M",
+          "OL26383207M",
+          "OL9134877M",
+          "OL13198177M",
+          "OL30545700M",
+          "OL13784259M",
+          "OL13986285M",
+          "OL14826099M",
+          "OL22313812M",
+          "OL13986287M",
+          "OL13986289M",
+          "OL21491473M",
+          "OL16173422M",
+          "OL13986288M",
+          "OL16863732M",
+          "OL16654897M",
+          "OL13819051M",
+          "OL5457031M",
+          "OL7234054M",
+          "OL22514934M",
+          "OL13986491M",
+          "OL16688659M",
+          "OL2892493M",
+          "OL23615106M",
+          "OL23306400M",
+          "OL21646430M",
+          "OL16071483M",
+          "OL13986418M",
+          "OL8990705M",
+          "OL5670549M",
+          "OL4811312M",
+          "OL23133663M",
+          "OL20174720M",
+          "OL14844196M",
+          "OL13658062M",
+          "OL1138823M",
+          "OL9580694M",
+          "OL6428656M",
+          "OL5670155M",
+          "OL13986201M",
+          "OL6637464M",
+          "OL5899959M",
+          "OL23832668M",
+          "OL22272018M",
+          "OL21723161M",
+          "OL20609417M",
+          "OL17853476M",
+          "OL15313911M",
+          "OL14824158M",
+          "OL13986305M",
+          "OL13775330M",
+          "OL13722921M",
+          "OL13533745M",
+          "OL13784258M",
+          "OL11312986M",
+          "OL8738526M",
+          "OL6497390M",
+          "OL18058713M",
+          "OL13986904M",
+          "OL5670162M",
+          "OL4630807M",
+          "OL4502196M",
+          "OL3555872M",
+          "OL24196040M",
+          "OL23678508M",
+          "OL22162892M",
+          "OL13986475M",
+          "OL13798522M",
+          "OL13360921M",
+          "OL13549438M",
+          "OL9462180M",
+          "OL8870146M",
+          "OL5960351M",
+          "OL5670547M",
+          "OL4837788M",
+          "OL462109M",
+          "OL22585997M",
+          "OL22278534M",
+          "OL21450174M",
+          "OL5877267M",
+          "OL474172M",
+          "OL3467045M",
+          "OL22113265M",
+          "OL13987210M",
+          "OL13986371M",
+          "OL24289127M",
+          "OL23377617M",
+          "OL22591622M",
+          "OL20470293M",
+          "OL13672083M",
+          "OL11138550M",
+          "OL23174056M",
+          "OL23052681M",
+          "OL18058716M",
+          "OL13986192M",
+          "OL13310138M",
+          "OL13353801M",
+          "OL6506169M",
+          "OL3748641M",
+          "OL22019146M",
+          "OL16679162M",
+          "OL13734912M",
+          "OL13768236M",
+          "OL13568655M",
+          "OL9388614M",
+          "OL6088349M",
+          "OL5670174M",
+          "OL21588257M",
+          "OL20934361M",
+          "OL16767823M",
+          "OL13986465M",
+          "OL13986293M",
+          "OL13439942M",
+          "OL8108620M",
+          "OL6584639M",
+          "OL6599321M",
+          "OL22391986M",
+          "OL22337523M",
+          "OL22086613M",
+          "OL13986204M",
+          "OL13965428M",
+          "OL5899957M",
+          "OL925143M",
+          "OL5670175M",
+          "OL22471558M",
+          "OL22483072M",
+          "OL19890601M",
+          "OL18074852M",
+          "OL14645079M",
+          "OL11938541M",
+          "OL14826133M",
+          "OL13986306M",
+          "OL13459278M",
+          "OL6971229M",
+          "OL6178239M",
+          "OL1149460M",
+          "OL10273829M",
+          "OL20607385M",
+          "OL19579947M",
+          "OL6283656M",
+          "OL13986486M",
+          "OL8144826M",
+          "OL22448303M",
+          "OL13986463M",
+          "OL13768050M",
+          "OL13221847M",
+          "OL11646477M",
+          "OL17780882M",
+          "OL6718714M",
+          "OL5670158M",
+          "OL5797129M",
+          "OL5670154M",
+          "OL20819980M",
+          "OL22228074M",
+          "OL13702152M",
+          "OL13762970M",
+          "OL14012867M",
+          "OL13986286M",
+          "OL9172314M",
+          "OL8998580M",
+          "OL5693587M",
+          "OL7004036M",
+          "OL13986195M",
+          "OL13926290M",
+          "OL13986498M",
+          "OL22842575M",
+          "OL6629733M",
+          "OL6083137M",
+          "OL10273988M",
+          "OL528888M",
+          "OL21168889M",
+          "OL5899952M",
+          "OL6627673M",
+          "OL5670506M",
+          "OL4514764M",
+          "OL3031677M",
+          "OL22829438M",
+          "OL13986416M",
+          "OL13986420M",
+          "OL13986290M",
+          "OL13986294M",
+          "OL11505561M",
+          "OL5710959M",
+          "OL5670161M",
+          "OL22615849M",
+          "OL5670165M",
+          "OL1978667M",
+          "OL17030154M",
+          "OL1650556M",
+          "OL9630089M",
+          "OL7427455M",
+          "OL7242805M",
+          "OL6469522M",
+          "OL6283366M",
+          "OL5899962M",
+          "OL3769295M",
+          "OL6600355M",
+          "OL23040872M",
+          "OL17806646M",
+          "OL13459273M",
+          "OL13198141M",
+          "OL380196M",
+          "OL23693929M",
+          "OL22487917M",
+          "OL4139348M",
+          "OL2900665M",
+          "OL19579936M",
+          "OL13768039M",
+          "OL129450M",
+          "OL13986381M",
+          "OL13568419M",
+          "OL13731392M",
+          "OL5670146M",
+          "OL5670142M",
+          "OL13502669M",
+          "OL13836203M",
+          "OL13732383M",
+          "OL6629744M",
+          "OL8364845M",
+          "OL6620871M",
+          "OL5899971M",
+          "OL16071480M",
+          "OL1226621M",
+          "OL10273947M",
+          "OL16688640M",
+          "OL22468025M",
+          "OL6602762M",
+          "OL6278284M",
+          "OL6021341M",
+          "OL5670171M",
+          "OL22828949M",
+          "OL5359586M",
+          "OL19580043M",
+          "OL24150024M",
+          "OL13986497M",
+          "OL117959M",
+          "OL16715321M",
+          "OL10504647M",
+          "OL13986902M",
+          "OL13439279M",
+          "OL7577183M",
+          "OL5899954M",
+          "OL528453M",
+          "OL23026033M",
+          "OL22129409M",
+          "OL19508217M",
+          "OL20258890M",
+          "OL9606662M",
+          "OL11760091M",
+          "OL22870515M",
+          "OL5900005M",
+          "OL22000952M",
+          "OL194365M",
+          "OL16688645M",
+          "OL22567501M",
+          "OL14825305M",
+          "OL6754435M",
+          "OL5670147M",
+          "OL11256674M",
+          "OL5670150M",
+          "OL19180394M",
+          "OL5670505M",
+          "OL5480203M",
+          "OL3466577M",
+          "OL20819988M",
+          "OL23933047M",
+          "OL7425061M",
+          "OL17777361M",
+          "OL13986499M",
+          "OL6724707M",
+          "OL755914M",
+          "OL9902805M",
+          "OL21590656M",
+          "OL20542030M",
+          "OL6747096M",
+          "OL5670164M",
+          "OL22287681M",
+          "OL17172864M",
+          "OL22313403M",
+          "OL20605597M",
+          "OL13986415M",
+          "OL9370704M",
+          "OL129488M",
+          "OL5670640M",
+          "OL23360693M",
+          "OL4841940M",
+          "OL4837949M",
+          "OL4512253M",
+          "OL22164310M",
+          "OL19582495M",
+          "OL21627271M",
+          "OL1148048M",
+          "OL19803241M",
+          "OL13986196M",
+          "OL6491399M",
+          "OL4128984M",
+          "OL3208571M",
+          "OL23832652M",
+          "OL7040353M",
+          "OL22466586M",
+          "OL13986468M",
+          "OL9310865M",
+          "OL13466675M",
+          "OL7577336M",
+          "OL699634M",
+          "OL6753271M",
+          "OL17450723M",
+          "OL5670141M",
+          "OL5670157M",
+          "OL24181986M",
+          "OL22487924M",
+          "OL22482667M",
+          "OL11821174M",
+          "OL5376279M",
+          "OL464743M",
+          "OL2638228M",
+          "OL1561600M",
+          "OL21142957M",
+          "OL5670502M",
+          "OL7355324M",
+          "OL6659389M",
+          "OL6469521M",
+          "OL5899961M",
+          "OL5670170M",
+          "OL5670148M",
+          "OL15519321M",
+          "OL4572342M",
+          "OL16688656M",
+          "OL13459272M",
+          "OL5730970M",
+          "OL19660082M",
+          "OL23750895M",
+          "OL22529321M",
+          "OL22371998M",
+          "OL22209024M",
+          "OL20943459M",
+          "OL13116963M",
+          "OL13986876M",
+          "OL12560612M",
+          "OL11646479M",
+          "OL9888738M",
+          "OL5670172M",
+          "OL4664547M",
+          "OL6001517M",
+          "OL5670163M",
+          "OL22908569M",
+          "OL20549911M",
+          "OL13986193M",
+          "OL13459274M",
+          "OL5670169M",
+          "OL5670166M",
+          "OL23832631M",
+          "OL19035857M",
+          "OL23713539M",
+          "OL13815678M",
+          "OL5670552M",
+          "OL5837335M",
+          "OL6218938M",
+          "OL24179015M",
+          "OL22630708M",
+          "OL9116837M",
+          "OL7589389M",
+          "OL3465205M",
+          "OL20465023M",
+          "OL13986292M",
+          "OL5670151M",
+          "OL7577514M",
+          "OL5670173M",
+          "OL13986485M",
+          "OL5900031M",
+          "OL24139661M",
+          "OL21744598M",
+          "OL19895865M",
+          "OL4336411M",
+          "OL8978417M",
+          "OL7453348M",
+          "OL13986385M",
+          "OL6058578M",
+          "OL11637034M",
+          "OL6462255M",
+          "OL5670177M",
+          "OL3468811M",
+          "OL24205503M",
+          "OL22371405M",
+          "OL19579938M",
+          "OL7589458M",
+          "OL5670501M",
+          "OL4737638M",
+          "OL23155097M",
+          "OL22273417M",
+          "OL6528448M",
+          "OL17754897M",
+          "OL13987950M",
+          "OL13734913M",
+          "OL13502307M",
+          "OL21300237M",
+          "OL13845648M",
+          "OL13734914M",
+          "OL12584608M",
+          "OL15043061M",
+          "OL13987096M",
+          "OL16793503M",
+          "OL18040786M",
+          "OL13986425M",
+          "OL24156468M",
+          "OL5670551M",
+          "OL5710967M",
+          "OL22147070M",
+          "OL15951881M",
+          "OL22885201M",
+          "OL6002369M",
+          "OL22823954M",
+          "OL13986872M",
+          "OL13459287M",
+          "OL13459284M",
+          "OL13459286M",
+          "OL15027923M",
+          "OL16781690M",
+          "OL18036901M",
+          "OL13782319M",
+          "OL16789380M",
+          "OL15043240M",
+          "OL22371409M",
+          "OL13459271M",
+          "OL13986375M",
+          "OL13986476M",
+          "OL13988000M",
+          "OL6971571M",
+          "OL18372604M",
+          "OL18373895M",
+          "OL13459283M",
+          "OL13459280M",
+          "OL13987996M",
+          "OL15033608M",
+          "OL19885792M",
+          "OL16752497M",
+          "OL19885796M",
+          "OL19885798M",
+          "OL19660546M",
+          "OL13459285M",
+          "OL13459275M",
+          "OL13459279M",
+          "OL13459282M",
+          "OL16992240M",
+          "OL19660547M",
+          "OL5899960M",
+          "OL24157222M",
+          "OL19495032M",
+          "OL24311983M",
+          "OL12122325M",
+          "OL12122324M",
+          "OL7355438M",
+          "OL20820510M",
+          "OL20466335M",
+          "OL16768153M",
+          "OL13361007M",
+          "OL13174140M",
+          "OL12276896M",
+          "OL10174194M",
+          "OL9430509M",
+          "OL13385436M",
+          "OL7351612M",
+          "OL17149231M",
+          "OL22618112M",
+          "OL23238983M",
+          "OL20648973M",
+          "OL9161143M",
+          "OL9160812M",
+          "OL13444626M",
+          "OL17862769M",
+          "OL23356452M",
+          "OL13734911M",
+          "OL13986496M",
+          "OL6523922M",
+          "OL13874960M",
+          "OL16992751M",
+          "OL18374344M",
+          "OL19660559M",
+          "OL14826800M",
+          "OL22289909M",
+          "OL22371399M",
+          "OL6688023M",
+          "OL13986426M",
+          "OL13986474M",
+          "OL6650027M",
+          "OL16992250M",
+          "OL22334492M",
+          "OL22371391M",
+          "OL22371410M",
+          "OL15038824M",
+          "OL13957020M",
+          "OL15017414M",
+          "OL16992254M",
+          "OL13986417M",
+          "OL1226744M",
+          "OL22819092M",
+          "OL13783505M",
+          "OL6718233M",
+          "OL15477929M",
+          "OL7577304M",
+          "OL10943232M",
+          "OL8061710M",
+          "OL11149084M",
+          "OL12366700M",
+          "OL9112390M",
+          "OL12158563M",
+          "OL12031982M",
+          "OL16478964M",
+          "OL9719199M",
+          "OL9133759M",
+          "OL13365217M",
+          "OL9329018M",
+          "OL13232259M",
+          "OL13153545M",
+          "OL13276203M",
+          "OL13156395M",
+          "OL17523071M",
+          "OL15027916M",
+          "OL5670153M",
+          "OL21485853M",
+          "OL7355032M",
+          "OL25671758M",
+          "OL21256878M",
+          "OL6706553M",
+          "OL13987199M"
+        ],
+        "ia": [
+          "elingeniosohidal00cervrs",
+          "firstpartofdelig00cervuoft",
+          "historyofdonquix00cerv_0",
+          "elingeniosedcrit04cerv",
+          "nybc205230",
+          "densindrigeadels03cerv",
+          "histoirededonqui02cerv",
+          "histoirededonqui02cerv",
+          "histoirededonqui02cerv",
+          "donquijotedelam00cerv",
+          "elingeniosohidal26cerv",
+          "elingeniosohida03cerv",
+          "elingeniosoh00cerv",
+          "adventuresofinge00cerv",
+          "adventuresofdonq1921cerv",
+          "nybc209000",
+          "histoiredeladmir01cerv",
+          "doncocht00cerv",
+          "elingeniosohidal07cerv",
+          "ingeniousgentlem03cerv",
+          "elingeniosohidal02cerv_0",
+          "elingeniosohidal11cerv",
+          "donquichottedela00cerv",
+          "cu31924008863924",
+          "elingeniosohidal00cerv",
+          "cu31924027656978",
+          "donquixotedelama02cervuoft",
+          "elingeniosohid00cervuoft",
+          "ingeniousgentlem01cervuoft",
+          "p4elingeniosohid02cerv",
+          "donquixotedelama00cerviala",
+          "historyofvalorou03cerviala",
+          "cu31924027657075",
+          "ingeniousgentlem04cervuoft",
+          "p1elingeniosohid03cerv",
+          "donquixoteoflama00cerv_0",
+          "donquijotedelama04cerv",
+          "c2elingeniosohid02cerv",
+          "elingeniosohidal1876cerv",
+          "donquichottedela01cervuoft",
+          "densindrigeadels01cerv",
+          "quijotedelcenten01cervuoft",
+          "denverstandigenv00cerv",
+          "elingeniosohidal02cerv_4",
+          "elingeniosohidal00cerv_3",
+          "elingeniosohida02cerv",
+          "elingeniosohida01cerv",
+          "elingeniosohidal0000cerv_j6r5",
+          "elingenios01cerv",
+          "elingeniosohid00cerv",
+          "desscharfsinnige00cerv",
+          "vidayhechosdeli04cerv",
+          "dersinnreichejun02cerv",
+          "donquichottedela06cerv",
+          "donquijote02cerv",
+          "elingeni02cerv",
+          "elquijotedelajuv00cerv",
+          "ingeniousgentle01cerv",
+          "elingenio01cerv",
+          "historyofvalorou02cerviala",
+          "historyofdonquix00cerv_1",
+          "ingeniousgentlem01cerv_0",
+          "donquixoteofmanc00cerv_0",
+          "donquixotedelama02cerv_0",
+          "lebenundthatende01cerv",
+          "cihm_80333",
+          "donquixotevonlam00cerv",
+          "hidalgodonquix01cerv",
+          "historyofingeni04cerv",
+          "historyofvalorou02cerv",
+          "historyofdonquix00cerv",
+          "donquixotedelama02cerv",
+          "donquixotedelama02cerv",
+          "ingeniousgentle02cerv",
+          "ingeniosohidalgo01cerv",
+          "lifeexploitsofin04cerv",
+          "elingenioso01cerv",
+          "ingeniousgentle03cerv",
+          "elingeniosohi00cerv",
+          "historyofingeni02cerv",
+          "adventuresofdo00cerv",
+          "donquijotedelama0000unse",
+          "lifeexploitsofin01cervuoft",
+          "ingeniousgentlem01cerv",
+          "donquijote00cervuoft",
+          "elingeniosohidal00cervuoft",
+          "donquixotedelama01cervuoft",
+          "historyadventure00cerv",
+          "lingnieuxcheva00cerv",
+          "historyofdonquix00cervuoft",
+          "ingeniousgentlem0195cerv",
+          "adventuresofdonq00cerv_5",
+          "donquixoteofmanc0000migu_n6c3",
+          "p2elingeniosohid05cerv",
+          "estudiohistricot01madr",
+          "elingeniosohidal01cervuoft",
+          "historyofingenio01cerv",
+          "elingeniosodon02cerv",
+          "ingeniousgentlem00cerv",
+          "lifeexploitsofin02cerviala",
+          "lifeexploitsofi03cervuoft",
+          "donquixotedelama03cervuoft",
+          "cu31924096224518",
+          "donquixotedelama00cerv",
+          "nybc203136",
+          "historyofingenio00cerv",
+          "geshikhefundonik01cervuoft",
+          "historyofingenio01cerviala",
+          "elingeniosoh01cerv",
+          "lifeexploitsofin01cerv",
+          "aventurasdedonqu00cerv",
+          "1896elingeniosohid02cerv",
+          "vidayhechosdelin03cervuoft",
+          "cu31924027657174",
+          "lifeachievements00cervuoft",
+          "cu31924027658172",
+          "adventuresofdonq00cerv",
+          "vidayhechosdelin01cerv",
+          "lifeofdonquixote0000unse_1927",
+          "histoiredeladmi00saavgoog",
+          "elingeniosohida14saavgoog",
+          "firstpartdeligh00shelgoog",
+          "elingeniosohida01goog",
+          "elingeniosohida00ormsgoog",
+          "dersinnreicheju00saavgoog",
+          "historyingeniou08mottgoog",
+          "historyingeniou02saavgoog",
+          "elingeniosohida00goog",
+          "elingeniosohida00amergoog",
+          "elingeniosohida00selmgoog",
+          "dersinnreicheju01saavgoog",
+          "ingeniousgentle00conggoog",
+          "lifeandexploits01jarvgoog",
+          "donquixotedelam03saavgoog",
+          "historydonquixo00cogoog",
+          "lifeandexploits01saavgoog",
+          "elingeniosohida00puiggoog",
+          "elingeniosohida10saavgoog",
+          "historyvalorous01goog",
+          "historyandadven00unkngoog",
+          "historyvalorous00brangoog",
+          "elingeniosohida01castgoog",
+          "elingeniosohida21saavgoog",
+          "elingeniosohida30saavgoog",
+          "elingeniosohida29saavgoog",
+          "romancerodeelin00albogoog",
+          "ingeniousknight00saavgoog",
+          "elingeniosohida04saavgoog",
+          "elingeniosohida12saavgoog",
+          "dersinnreicheju00saargoog",
+          "histoiredeladir00mancgoog",
+          "histoiredeladmi00mancgoog",
+          "elingeniosohida00rogoog",
+          "elingeniosohida00dorgoog",
+          "elingeniosohida00barrgoog",
+          "histoirededonqu00gebhgoog",
+          "histoirededonqu00mrgoog",
+          "elingeniosohida00ochogoog",
+          "ingeniousgentle11saavgoog",
+          "vidayhechosdeli01siscgoog",
+          "elingeniosohida19saavgoog",
+          "adventuresdonqu00gilbgoog",
+          "vidayhechosdeli00siscgoog",
+          "elingeniosohida00quixgoog",
+          "historyandadven01smolgoog",
+          "historyingeniou00lalagoog",
+          "donquichottedel02florgoog",
+          "lifeandexploits00jarvgoog",
+          "historyingeniou03unkngoog",
+          "elingeniosohida00navagoog",
+          "donquixotedelam02saavgoog",
+          "adventuresdonqu00jarvgoog",
+          "elingeniosohida28saavgoog",
+          "elingeniosohida01saavgoog",
+          "historydonquixo04saavgoog",
+          "lingnieuxcheval00rouxgoog",
+          "historyingeniou00mottgoog",
+          "elingeniosohida00castgoog",
+          "elingeniosohida27saavgoog",
+          "lifeandachievem00saavgoog",
+          "lifeandexploits01johgoog",
+          "historydonquixo02saavgoog",
+          "historyingeniou00lockgoog",
+          "adventuresrenow00smolgoog",
+          "ingeniousgentlem0000cerv_n0b8",
+          "donquixote0000will",
+          "firstpartofdelig14cerv",
+          "donquijotedelama0000cerv",
+          "isbn_8479690631",
+          "donquixotecorecl00",
+          "firstpartofdelig00cerv",
+          "elingeniosohidal0000cerv_h9s9",
+          "hitroumnyyidalgo00serv",
+          "donquijotedelama0000cerv_d8i0",
+          "historyofthating0000cerv",
+          "bwb_P8-AHF-634",
+          "adventuresofdon00cerv",
+          "adventuresofdon00cerv",
+          "adventuresofdon00cerv",
+          "donquijotedelama00cerv",
+          "aventurasdedonqu0000garc",
+          "ingeniousgentle00cerv",
+          "donquijote0000cerv",
+          "donquixoteoflama0000unse",
+          "adventuresofdonq00cerv_0",
+          "isbn_9780393972818",
+          "elingeniosohidal0000cerv_a7q5",
+          "elhidalgodelaman00cerv",
+          "elingeniosohida000cerv",
+          "lingenieuxhidalg0000cerv",
+          "donquichottedela0000cerv",
+          "elingeniosohidal0002cerv",
+          "tangjihededonqui0000cerv",
+          "ingeniousgentlem0000cerv_j3e8",
+          "ingeniousgentlem0000cerv",
+          "donquixotebymigu00mig_ghh",
+          "donquixoteoflama00cerv",
+          "adventuresofdon00cerv",
+          "donquixote0000cerv_i5q1",
+          "adventofdonquixo00cerv",
+          "historyadventure0000cerv",
+          "adventuresofdonq00cerv_3",
+          "historyofdonquix0000cerv_p7l4",
+          "donquixotemanofl00cerv",
+          "donquijotedelama0000cerv_j2i5",
+          "ingenioushidalgo0000cerv",
+          "cervantessdonqui00bloo",
+          "donquixotefourth0000cerv",
+          "donquixotedelama00migu",
+          "donquijotedelama0000cerv_t9x4",
+          "donquixotedelama0001cerv",
+          "donquixoteofmanc00cerv",
+          "donquixote0000prue",
+          "ingeniousgentlem0000cerv_a8e1",
+          "historyadventure0000cerv_o4k6",
+          "isbn_9780060188702",
+          "isbn_9788496412156",
+          "elingeniosohida00cerv",
+          "isbn_9780812972108",
+          "donquixotedelama0000cerv_v6n2",
+          "donquixote00sign",
+          "donquixote0000cerv",
+          "donquixotedelama0000cerv",
+          "donquixote0000cerv_z7f3",
+          "isbn_5020116874"
+        ],
+        "key": "/works/OL503666W",
+        "language": [
+          "mar",
+          "spa",
+          "baq",
+          "hin",
+          "vie",
+          "dan",
+          "yid",
+          "srp",
+          "heb",
+          "dut",
+          "swe",
+          "gre",
+          "tel",
+          "ita",
+          "por",
+          "ger",
+          "ori",
+          "eng",
+          "fre",
+          "chi",
+          "ara",
+          "lat",
+          "gle",
+          "hrv",
+          "glg",
+          "und",
+          "jpn",
+          "rus",
+          "alb"
+        ],
+        "title": "Don Quijote de la Mancha",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2695389M",
+              "title": "Dôna Kvikjhoṭa",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vasanta Vasanta Limaye"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30425575M"
+        ],
+        "key": "/works/OL22344140W",
+        "language": [
+          "mar"
+        ],
+        "title": "Lôka Griphina",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30425575M",
+              "title": "Lôka Griphina",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9789380092270",
+                "938009227X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rājū Nāyaka"
+        ],
+        "ddc": [
+          "363.73"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25271180M"
+        ],
+        "key": "/works/OL16586264W",
+        "language": [
+          "mar"
+        ],
+        "title": "Aṅgāra",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25271180M",
+              "title": "Aṅgāra",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788186177662",
+                "8186177663"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sumitra Bhave"
+        ],
+        "ddc": [
+          "305.40954792"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL1828317M"
+        ],
+        "key": "/works/OL3436021W",
+        "language": [
+          "eng",
+          "mar"
+        ],
+        "title": "Pan on fire",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1828317M",
+              "title": "Pan on fire",
+              "language": [
+                "eng",
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Mādhurī Śānabhāga"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44510293M"
+        ],
+        "key": "/works/OL32694162W",
+        "language": [
+          "mar"
+        ],
+        "title": "Āyushyācyā laḍhāīvaratī bolū kāhī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44510293M",
+              "title": "Āyushyācyā laḍhāīvaratī bolū kāhī",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9789383466757",
+                "9383466758"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Bādarāyaṇa."
+        ],
+        "cover_i": 13709222,
+        "ddc": [
+          "181.48"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL1835078M",
+          "OL4740M",
+          "OL159664M",
+          "OL4862089M",
+          "OL3590362M",
+          "OL3588168M",
+          "OL5410M",
+          "OL8068M",
+          "OL5745114M",
+          "OL2696193M",
+          "OL9923M",
+          "OL2696211M",
+          "OL3975003M",
+          "OL4247231M",
+          "OL3586990M",
+          "OL273429M",
+          "OL4248744M",
+          "OL2696230M",
+          "OL1688241M",
+          "OL15759M",
+          "OL2010298M",
+          "OL642253M",
+          "OL4254592M",
+          "OL1254848M",
+          "OL2694096M",
+          "OL2983200M",
+          "OL3975508M",
+          "OL953633M",
+          "OL323864M",
+          "OL1253159M",
+          "OL5412646M",
+          "OL516852M",
+          "OL3709941M",
+          "OL5178127M",
+          "OL4246540M",
+          "OL1679668M",
+          "OL3146089M",
+          "OL162670M"
+        ],
+        "ia": [
+          "brahmasutraphilo0000bada_a3h7"
+        ],
+        "key": "/works/OL324580W",
+        "language": [
+          "mar",
+          "nep",
+          "hin",
+          "san",
+          "eng",
+          "fre"
+        ],
+        "title": "Brahmasūtra",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL642253M",
+              "title": "Śāṅkarabhāṣyānusāra subodha Brahmasūtra, kĩvā, Vedāntadarśana",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rāmacandra Nalāvaḍe"
+        ],
+        "ddc": [
+          "891.46372"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30404987M"
+        ],
+        "key": "/works/OL22324987W",
+        "language": [
+          "mar"
+        ],
+        "title": "Khota",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30404987M",
+              "title": "Khota",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9789351170181",
+                "9351170187"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vijayā Brāhmaṇakara"
+        ],
+        "ddc": [
+          "891.46372"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30812013M"
+        ],
+        "key": "/works/OL22899338W",
+        "language": [
+          "mar"
+        ],
+        "title": "Sonerī sāñja",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30812013M",
+              "title": "Sonerī sāñja",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Milinda Jośī"
+        ],
+        "ddc": [
+          "510.92"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24100452M"
+        ],
+        "key": "/works/OL18652218W",
+        "language": [
+          "mar"
+        ],
+        "title": "Śikshaṇātīla ānandayātrī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24100452M",
+              "title": "Śikshaṇātīla ānandayātrī",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Edward Osborne Wilson",
+          "Mādhurī Śānabhāga"
+        ],
+        "ddc": [
+          "570.92"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL61093615M"
+        ],
+        "key": "/works/OL44741325W",
+        "language": [
+          "mar"
+        ],
+        "title": "Leṭarsa ṭu a yaṅga sāyaṇṭisṭa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL61093615M",
+              "title": "Leṭarsa ṭu a yaṅga sāyaṇṭisṭa",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788174348722",
+                "8174348727"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Pra. Śã Jośī"
+        ],
+        "ddc": [
+          "891.21"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25300162M"
+        ],
+        "key": "/works/OL16618772W",
+        "language": [
+          "san",
+          "mar"
+        ],
+        "title": "Bhīmāyanam",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25300162M",
+              "title": "Bhīmāyanam",
+              "language": [
+                "mar",
+                "san"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Dīpaka Caitanya"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44386332M"
+        ],
+        "key": "/works/OL32577123W",
+        "language": [
+          "mar"
+        ],
+        "title": "Bimba pratibimba",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44386332M",
+              "title": "Bimba pratibimba",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Salīla Kulakarṇī"
+        ],
+        "ddc": [
+          "891.46472"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25271196M"
+        ],
+        "key": "/works/OL16586280W",
+        "language": [
+          "mar"
+        ],
+        "title": "Lapavalelyā kācā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25271196M",
+              "title": "Lapavalelyā kācā",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788174210166",
+                "8174210164"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Āśā Bage"
+        ],
+        "ddc": [
+          "891.46371"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44388022M"
+        ],
+        "key": "/works/OL32578682W",
+        "language": [
+          "mar"
+        ],
+        "title": "Anuvāda",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44388022M",
+              "title": "Anuvāda",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9789350911112",
+                "9350911116"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Narendra Jadhav"
+        ],
+        "cover_i": 474745,
+        "ddc": [
+          "305.5688092"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL7712432M",
+          "OL1064386M",
+          "OL17579014M",
+          "OL7948323M",
+          "OL16864040M",
+          "OL61937128M"
+        ],
+        "ia": [
+          "untouchablesmyfa0000jadh_z1j0",
+          "untouchablesmyfa0000jadh"
+        ],
+        "key": "/works/OL3438000W",
+        "language": [
+          "mar",
+          "eng"
+        ],
+        "title": "Āmacā bāpa ān āmhī",
+        "editions": {
+          "numFound": 3,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1064386M",
+              "title": "Āmacā bāpa ān āmhī",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rāmapaṇḍita"
+        ],
+        "ddc": [
+          "891.4613"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4704052M"
+        ],
+        "key": "/works/OL22583716W",
+        "language": [
+          "mar"
+        ],
+        "title": "Srityāgarājamāhātmya",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4704052M",
+              "title": "Srityāgarājamāhātmya",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "J. T. Molesworth"
+        ],
+        "cover_i": 5903275,
+        "ddc": [
+          "491.46321"
+        ],
+        "ebook_access": "public",
+        "edition_key": [
+          "OL53101548M",
+          "OL49896506M",
+          "OL7061130M",
+          "OL4534071M"
+        ],
+        "ia": [
+          "compendiumofmole00mole"
+        ],
+        "key": "/works/OL96596W",
+        "language": [
+          "mar",
+          "eng"
+        ],
+        "title": "A compendium of Molesworth's Marathi and English dictionary",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL53101548M",
+              "title": "A compendium of Molesworth's Marathi and English dictionary",
+              "language": [
+                "eng",
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vidura Mahājana"
+        ],
+        "ddc": [
+          "787.82092"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31124313M"
+        ],
+        "key": "/works/OL23280092W",
+        "language": [
+          "mar"
+        ],
+        "title": "Śodhayātrā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31124313M",
+              "title": "Śodhayātrā",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Tukdoji Maharaj"
+        ],
+        "ddc": [
+          "891.46171"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24470684M"
+        ],
+        "key": "/works/OL15510047W",
+        "language": [
+          "mar"
+        ],
+        "title": "Rāshṭrasanta Tukaḍojī Mahārāja gaurava grantha",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24470684M",
+              "title": "Rāshṭrasanta Tukaḍojī Mahārāja gaurava grantha",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Samīraṇa Vāḷavekara"
+        ],
+        "ddc": [
+          "891.46372"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31125813M"
+        ],
+        "key": "/works/OL23281329W",
+        "language": [
+          "mar"
+        ],
+        "title": "Cênala 4 live",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31125813M",
+              "title": "Cênala 4 live",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9789380092799",
+                "9380092792"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vāgbhaṭa"
+        ],
+        "ddc": [
+          "615.53"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL21041614M",
+          "OL17411296M",
+          "OL2358961M",
+          "OL27884M",
+          "OL21894966M",
+          "OL17999443M",
+          "OL1255304M",
+          "OL1371120M",
+          "OL3931508M",
+          "OL5176870M",
+          "OL5176872M",
+          "OL18484M",
+          "OL16635881M",
+          "OL3931513M",
+          "OL2825119M",
+          "OL16695822M",
+          "OL3152816M"
+        ],
+        "key": "/works/OL297886W",
+        "language": [
+          "eng",
+          "mal",
+          "tib",
+          "mar",
+          "san",
+          "ara"
+        ],
+        "title": "Aṣṭāṅgahr̥daya",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2825119M",
+              "title": "Aṣṭāṅgahr̥dayam",
+              "language": [
+                "san",
+                "eng",
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Parena Śivarāma Jāmbhaḷe"
+        ],
+        "ddc": [
+          "891.4617"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4249371M"
+        ],
+        "key": "/works/OL3884116W",
+        "language": [
+          "mar"
+        ],
+        "title": "Ātmabhora",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4249371M",
+              "title": "Ātmabhora",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rājendra Kulakarṇī"
+        ],
+        "ddc": [
+          "891.464"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31103465M"
+        ],
+        "key": "/works/OL23263290W",
+        "language": [
+          "mar"
+        ],
+        "title": "Vyakta-avyakta",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31103465M",
+              "title": "Vyakta-avyakta",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Anitā Pādhye"
+        ],
+        "ddc": [
+          "791.430280922"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25006856M"
+        ],
+        "key": "/works/OL16119158W",
+        "language": [
+          "mar"
+        ],
+        "title": "Yahī hai raṅgarūpa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25006856M",
+              "title": "Yahī hai raṅgarūpa",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Raśmī Kaśeḷakara"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44540238M"
+        ],
+        "key": "/works/OL32722090W",
+        "language": [
+          "mar"
+        ],
+        "title": "Bhuīriṅgaṇa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44540238M",
+              "title": "Bhuīriṅgaṇa",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "S. S. More"
+        ],
+        "ddc": [
+          "954.035092"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31124308M"
+        ],
+        "key": "/works/OL23280087W",
+        "language": [
+          "mar"
+        ],
+        "title": "Karmayogī Lokamānya",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31124308M",
+              "title": "Karmayogī Lokamānya",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Harshada Sarapotadāra"
+        ],
+        "ddc": [
+          "954.020 092"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23936829M"
+        ],
+        "key": "/works/OL18810167W",
+        "language": [
+          "mar"
+        ],
+        "title": "Mantaralelā itihāsa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23936829M",
+              "title": "Mantaralelā itihāsa",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Prajñā Lokhaṇḍe"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25382327M"
+        ],
+        "key": "/works/OL16712344W",
+        "language": [
+          "mar"
+        ],
+        "title": "Aphavā kharī ṭharāvī mhaṇūna--",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25382327M",
+              "title": "Aphavā kharī ṭharāvī mhaṇūna--",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Milinda Jośī"
+        ],
+        "ddc": [
+          "510.92"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24525925M"
+        ],
+        "key": "/works/OL15573408W",
+        "language": [
+          "mar"
+        ],
+        "title": "Śikshaṇātīla ānandayātrī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24525925M",
+              "title": "Śikshaṇātīla ānandayātrī",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Bhānū Kāḷe"
+        ],
+        "ddc": [
+          "954.04"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24525952M"
+        ],
+        "key": "/works/OL15573435W",
+        "language": [
+          "mar"
+        ],
+        "title": "Antarīce dhāve-",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24525952M",
+              "title": "Antarīce dhāve-",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788174868435",
+                "8174868437"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Girīśa Dābake"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30405261M"
+        ],
+        "key": "/works/OL22325238W",
+        "language": [
+          "mar"
+        ],
+        "title": "Kshaṇa kshaṇa saṅgharshācā...",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30405261M",
+              "title": "Kshaṇa kshaṇa saṅgharshācā...",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788192425061",
+                "8192425061"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Karve, Irawati Karmarkar"
+        ],
+        "cover_i": 8332744,
+        "ddc": [
+          "294.5923"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL57696229M",
+          "OL13988205M",
+          "OL22203374M",
+          "OL8311469M",
+          "OL9718998M",
+          "OL17508734M",
+          "OL21143873M",
+          "OL26645468M",
+          "OL15679M",
+          "OL16593395M"
+        ],
+        "ia": [
+          "isbn_9788125014249"
+        ],
+        "key": "/works/OL313101W",
+        "language": [
+          "mar",
+          "und",
+          "eng"
+        ],
+        "title": "Yuganta",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL15679M",
+              "title": "Yugānta",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Nīrajā"
+        ],
+        "ddc": [
+          "891.461"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24568829M"
+        ],
+        "key": "/works/OL15618608W",
+        "language": [
+          "mar"
+        ],
+        "title": "Veṇā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24568829M",
+              "title": "Veṇā",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788190785662",
+                "8190785664"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rūthābāī Hivāḷe"
+        ],
+        "ddc": [
+          "370.924"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2695976M"
+        ],
+        "key": "/works/OL5249548W",
+        "language": [
+          "eng",
+          "mar"
+        ],
+        "title": "The wings of the morning",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2695976M",
+              "title": "The wings of the morning",
+              "language": [
+                "eng",
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vasudhā Māne"
+        ],
+        "ddc": [
+          "891.468709"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30811903M"
+        ],
+        "key": "/works/OL22899198W",
+        "language": [
+          "mar"
+        ],
+        "title": "Unmukta",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30811903M",
+              "title": "Unmukta",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9879380572963"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Maṅgalā Goḍabole"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24976934M"
+        ],
+        "key": "/works/OL16080409W",
+        "language": [
+          "mar"
+        ],
+        "title": "Praveśa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24976934M",
+              "title": "Praveśa",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Church of England",
+          "J. A. Maurault"
+        ],
+        "cover_i": 5720552,
+        "ddc": [
+          "264.036",
+          "264.032",
+          "970.00497",
+          "264.03",
+          "783.2",
+          "200.8 s"
+        ],
+        "ebook_access": "public",
+        "edition_key": [
+          "OL28400310M",
+          "OL7838944M",
+          "OL7838943M",
+          "OL24233114M",
+          "OL8478369M",
+          "OL14274611M",
+          "OL13440630M",
+          "OL15410732M",
+          "OL16507545M",
+          "OL16786368M",
+          "OL17095786M",
+          "OL17351593M",
+          "OL18150598M",
+          "OL19234633M",
+          "OL18028249M",
+          "OL20877181M",
+          "OL18039108M",
+          "OL7060129M",
+          "OL13473963M",
+          "OL15438230M",
+          "OL17095501M",
+          "OL17967213M",
+          "OL19413710M",
+          "OL19698043M",
+          "OL15043097M",
+          "OL13468748M",
+          "OL16700945M",
+          "OL17095548M",
+          "OL14391569M",
+          "OL16706074M",
+          "OL16913687M",
+          "OL23277899M",
+          "OL18031188M",
+          "OL3471806M",
+          "OL13471187M",
+          "OL20182936M",
+          "OL16695871M",
+          "OL14789849M",
+          "OL15193294M",
+          "OL16923997M",
+          "OL13459836M",
+          "OL15477755M",
+          "OL18027313M",
+          "OL13996863M",
+          "OL14337287M",
+          "OL15190881M",
+          "OL18145483M",
+          "OL15036421M",
+          "OL18395668M",
+          "OL13473852M",
+          "OL16222710M",
+          "OL14389608M",
+          "OL20855191M",
+          "OL4291592M",
+          "OL16786250M",
+          "OL17095758M",
+          "OL19413714M",
+          "OL17813805M",
+          "OL19184387M",
+          "OL23530430M",
+          "OL15036423M",
+          "OL17810784M",
+          "OL17813743M",
+          "OL22452355M",
+          "OL18132087M",
+          "OL14054416M",
+          "OL18039053M",
+          "OL19413702M",
+          "OL13472814M",
+          "OL13445712M",
+          "OL15400641M",
+          "OL17095959M",
+          "OL17813437M",
+          "OL19335706M",
+          "OL22884719M",
+          "OL17095946M",
+          "OL13468551M",
+          "OL18563402M",
+          "OL18029568M",
+          "OL4477439M",
+          "OL5230323M",
+          "OL6908818M",
+          "OL13462072M",
+          "OL13467516M",
+          "OL6967853M",
+          "OL7215838M",
+          "OL13471185M",
+          "OL17168579M",
+          "OL18746318M",
+          "OL16918906M",
+          "OL14425445M",
+          "OL17812249M",
+          "OL18150988M",
+          "OL13467515M",
+          "OL17259263M",
+          "OL18132082M",
+          "OL13473711M",
+          "OL16492236M",
+          "OL13468880M",
+          "OL7087987M",
+          "OL17812889M",
+          "OL16783954M",
+          "OL17812888M",
+          "OL18563531M",
+          "OL20754246M",
+          "OL13467513M",
+          "OL15412490M",
+          "OL13470374M",
+          "OL13467510M",
+          "OL14798662M",
+          "OL15536908M",
+          "OL16526003M",
+          "OL18743600M",
+          "OL13471248M",
+          "OL22010970M",
+          "OL13467521M",
+          "OL16794651M",
+          "OL17297865M",
+          "OL13473679M",
+          "OL18920105M",
+          "OL20855258M",
+          "OL15421770M",
+          "OL13471191M",
+          "OL16733193M",
+          "OL19343576M",
+          "OL22010971M",
+          "OL18743886M",
+          "OL16923956M",
+          "OL18563734M",
+          "OL19521519M",
+          "OL15409372M",
+          "OL21450883M",
+          "OL18203689M",
+          "OL22884722M",
+          "OL13990604M",
+          "OL6388124M",
+          "OL13471190M",
+          "OL17271150M",
+          "OL17813787M",
+          "OL20846259M",
+          "OL18039049M",
+          "OL19026008M",
+          "OL13471183M",
+          "OL5843526M",
+          "OL23666023M",
+          "OL17203949M",
+          "OL18147680M",
+          "OL21226781M",
+          "OL16728989M",
+          "OL17810407M",
+          "OL18857427M",
+          "OL17812873M",
+          "OL13474047M",
+          "OL15430669M",
+          "OL17095557M",
+          "OL16719819M",
+          "OL17114495M",
+          "OL13456710M",
+          "OL17095553M",
+          "OL14232198M",
+          "OL20885392M",
+          "OL18337020M",
+          "OL13465552M",
+          "OL15102820M",
+          "OL13467633M",
+          "OL13465600M",
+          "OL22455341M",
+          "OL16446924M",
+          "OL21825155M",
+          "OL22783195M",
+          "OL15426267M",
+          "OL14613049M",
+          "OL15406927M",
+          "OL18744587M",
+          "OL19413705M",
+          "OL13467517M",
+          "OL7132190M",
+          "OL13471186M",
+          "OL15408070M",
+          "OL17810770M",
+          "OL18028253M",
+          "OL13467178M",
+          "OL14292144M",
+          "OL13460768M",
+          "OL15188193M",
+          "OL15536906M",
+          "OL19497403M",
+          "OL16913631M",
+          "OL18146617M",
+          "OL18144484M",
+          "OL22010653M",
+          "OL18611149M",
+          "OL19413709M",
+          "OL21701665M",
+          "OL13471222M",
+          "OL14425440M",
+          "OL14783571M",
+          "OL16918548M",
+          "OL14290550M",
+          "OL3471707M",
+          "OL16735154M",
+          "OL16839933M",
+          "OL16490469M",
+          "OL16771821M",
+          "OL17275265M",
+          "OL21542139M",
+          "OL19027151M",
+          "OL7097994M",
+          "OL13467523M",
+          "OL17812268M",
+          "OL22469554M",
+          "OL19125357M",
+          "OL7091184M",
+          "OL6669862M",
+          "OL15043095M",
+          "OL14783849M",
+          "OL13458195M",
+          "OL17095955M",
+          "OL16718937M",
+          "OL18147182M",
+          "OL17261312M",
+          "OL7238822M",
+          "OL3547408M",
+          "OL17812882M",
+          "OL13449899M",
+          "OL16876320M",
+          "OL16914187M",
+          "OL17812877M",
+          "OL22010980M",
+          "OL24182363M",
+          "OL22581409M",
+          "OL16923607M",
+          "OL15069716M",
+          "OL15415467M",
+          "OL18145758M",
+          "OL20075986M",
+          "OL21864879M",
+          "OL22010725M",
+          "OL13996864M",
+          "OL13448633M",
+          "OL18705498M",
+          "OL19022251M",
+          "OL18148000M",
+          "OL22460084M",
+          "OL18146903M",
+          "OL21526978M",
+          "OL17305392M",
+          "OL19174132M",
+          "OL16920069M",
+          "OL17504750M",
+          "OL7210135M",
+          "OL17771408M",
+          "OL18705163M",
+          "OL3547422M",
+          "OL15185900M",
+          "OL16158718M",
+          "OL17095805M",
+          "OL17351567M",
+          "OL7175273M",
+          "OL17095857M",
+          "OL13468533M",
+          "OL13473657M",
+          "OL18145485M",
+          "OL17095792M",
+          "OL13472541M",
+          "OL14391566M",
+          "OL17812885M",
+          "OL19208965M",
+          "OL14783825M",
+          "OL20649650M",
+          "OL16715806M",
+          "OL18674370M",
+          "OL15416204M",
+          "OL17095694M",
+          "OL20855277M",
+          "OL18634778M",
+          "OL19115985M",
+          "OL19885518M",
+          "OL6912610M",
+          "OL19896586M",
+          "OL17812318M",
+          "OL13467514M",
+          "OL22746985M",
+          "OL16780355M",
+          "OL17413997M",
+          "OL7189333M",
+          "OL13468901M",
+          "OL15190374M",
+          "OL15146710M",
+          "OL15412510M",
+          "OL15188016M",
+          "OL15435895M",
+          "OL15497936M",
+          "OL19885517M",
+          "OL16672138M",
+          "OL17321099M",
+          "OL13465730M",
+          "OL19588289M",
+          "OL18473972M",
+          "OL21974584M",
+          "OL17978836M",
+          "OL22027772M",
+          "OL14546691M",
+          "OL17812265M",
+          "OL19896447M",
+          "OL20984252M",
+          "OL15435285M",
+          "OL17395917M",
+          "OL17499784M",
+          "OL18856373M",
+          "OL16913951M",
+          "OL17095551M",
+          "OL22839965M",
+          "OL18744865M",
+          "OL21438117M",
+          "OL17001697M",
+          "OL17095555M",
+          "OL20885394M",
+          "OL15417943M",
+          "OL18856088M",
+          "OL14702130M",
+          "OL16924000M",
+          "OL22836188M",
+          "OL18611766M",
+          "OL21035928M",
+          "OL14613053M",
+          "OL15190917M",
+          "OL17689378M",
+          "OL17095545M",
+          "OL17738497M",
+          "OL18474378M",
+          "OL21701667M",
+          "OL15043194M",
+          "OL20877162M",
+          "OL15027773M",
+          "OL15190383M",
+          "OL15438539M",
+          "OL17351490M",
+          "OL23282153M",
+          "OL15405698M",
+          "OL18146179M",
+          "OL18145545M",
+          "OL18149659M",
+          "OL19413712M",
+          "OL20855211M",
+          "OL22731900M",
+          "OL13457864M",
+          "OL13993504M",
+          "OL16700860M",
+          "OL18029332M",
+          "OL13996873M",
+          "OL4479088M",
+          "OL15402204M",
+          "OL22024941M",
+          "OL620576M",
+          "OL23295388M",
+          "OL15418877M",
+          "OL14572459M",
+          "OL16776886M",
+          "OL17411405M",
+          "OL22099001M",
+          "OL15190884M",
+          "OL17095891M",
+          "OL17995049M",
+          "OL2943757M",
+          "OL13468401M",
+          "OL13458334M",
+          "OL13459838M",
+          "OL15414181M",
+          "OL16718824M",
+          "OL16490520M",
+          "OL19073964M",
+          "OL19371394M",
+          "OL20754320M",
+          "OL16752740M",
+          "OL13474056M",
+          "OL17305552M",
+          "OL18815533M",
+          "OL7122232M",
+          "OL628234M",
+          "OL15437513M",
+          "OL13472972M",
+          "OL14644579M",
+          "OL15421783M",
+          "OL454426M",
+          "OL13491219M",
+          "OL14756076M",
+          "OL18150494M",
+          "OL23351500M",
+          "OL13471225M",
+          "OL14933505M",
+          "OL15018406M",
+          "OL17095888M",
+          "OL18024934M",
+          "OL19414558M",
+          "OL21828511M",
+          "OL22460431M",
+          "OL2450341M",
+          "OL13471178M",
+          "OL13468749M",
+          "OL14195330M",
+          "OL6292127M",
+          "OL15407186M",
+          "OL14169724M",
+          "OL17095969M",
+          "OL16913680M",
+          "OL18145981M",
+          "OL19115981M",
+          "OL19413715M",
+          "OL16913671M",
+          "OL13459787M",
+          "OL16003086M",
+          "OL17813198M",
+          "OL17811233M",
+          "OL18192322M",
+          "OL15319620M",
+          "OL17810788M",
+          "OL22234612M",
+          "OL4479089M",
+          "OL6471662M",
+          "OL945496M",
+          "OL13471192M",
+          "OL13467524M",
+          "OL13465551M",
+          "OL14044870M",
+          "OL15193295M",
+          "OL17812868M",
+          "OL16794751M",
+          "OL18025072M",
+          "OL18698651M",
+          "OL14384751M",
+          "OL13449655M",
+          "OL13465550M",
+          "OL13461204M",
+          "OL13465547M",
+          "OL15190911M",
+          "OL15192283M",
+          "OL18108731M",
+          "OL18860271M",
+          "OL19761694M",
+          "OL4409339M",
+          "OL15188014M",
+          "OL15406925M",
+          "OL17095505M",
+          "OL19413707M",
+          "OL16732866M",
+          "OL16784265M",
+          "OL19496093M",
+          "OL22010978M",
+          "OL5470912M",
+          "OL6590051M",
+          "OL13465553M",
+          "OL13471189M",
+          "OL7092966M",
+          "OL14391570M",
+          "OL13471184M",
+          "OL16868290M",
+          "OL17168578M",
+          "OL18166791M",
+          "OL15432681M",
+          "OL13459837M",
+          "OL16708992M",
+          "OL18103009M",
+          "OL7170026M",
+          "OL13462656M",
+          "OL18178211M",
+          "OL16169506M",
+          "OL19885311M",
+          "OL20562197M",
+          "OL14974399M",
+          "OL15190367M",
+          "OL13473737M",
+          "OL22234627M",
+          "OL16754727M",
+          "OL18031162M",
+          "OL18508588M",
+          "OL22737536M",
+          "OL19067228M",
+          "OL16616325M",
+          "OL16874385M",
+          "OL18036864M",
+          "OL20855237M",
+          "OL21662544M",
+          "OL15036639M",
+          "OL19413696M",
+          "OL13458495M",
+          "OL16490735M",
+          "OL16959050M",
+          "OL17811243M",
+          "OL17813186M",
+          "OL18005353M",
+          "OL18874151M",
+          "OL19165692M",
+          "OL21824796M",
+          "OL22452358M",
+          "OL16913691M",
+          "OL17812306M",
+          "OL18203697M",
+          "OL16913612M",
+          "OL17095692M",
+          "OL21022745M",
+          "OL13465548M",
+          "OL16414342M",
+          "OL16773094M",
+          "OL18512032M",
+          "OL6734811M",
+          "OL13467512M",
+          "OL13470729M",
+          "OL14946089M",
+          "OL15954850M",
+          "OL17810759M",
+          "OL13459698M",
+          "OL17095813M",
+          "OL17439818M",
+          "OL1744250M",
+          "OL18476056M",
+          "OL19495194M",
+          "OL20855083M",
+          "OL4292250M",
+          "OL13473678M",
+          "OL17813445M",
+          "OL18147836M",
+          "OL19343559M",
+          "OL19555363M",
+          "OL13467361M",
+          "OL13467511M",
+          "OL13470375M",
+          "OL17097080M",
+          "OL20250001M",
+          "OL21426040M",
+          "OL22205434M",
+          "OL23384809M",
+          "OL13473948M",
+          "OL13459786M",
+          "OL13471087M",
+          "OL14391657M",
+          "OL13472841M",
+          "OL14002724M",
+          "OL16918542M",
+          "OL17813804M",
+          "OL19637738M",
+          "OL7222908M",
+          "OL15419635M",
+          "OL17812253M",
+          "OL20855108M"
+        ],
+        "ia": [
+          "bookofcommonpray0000chur",
+          "cihm_29555",
+          "firstprayerbooko00churiala",
+          "leabharnahurnuig00chur",
+          "annotatedbookof00chur",
+          "bookofcommonpr00churuoft",
+          "bookofcommonpray00inchur",
+          "annotatedbookofc00chur",
+          "leabharnahurnuig02chur",
+          "hanhannaquaishta00chur",
+          "thefirstandsecon00unknuoft",
+          "thebookofcommonp00churiala",
+          "commonprayeradmi00chur",
+          "leabharnanornaig00chur",
+          "a556801800unknuoft",
+          "duiammkkit00chur",
+          "bookofcommonpray00churiala",
+          "bookofcommonpray00churuoft",
+          "thebookofcommonp00creeuoft",
+          "firstsecondpraye00churuoft",
+          "cu31924029446295",
+          "bookofcommonpray00chur",
+          "firstprayerbooko00chur",
+          "cihm_54329",
+          "prayerbookofquee00churiala",
+          "prayerbookofquee00churuoft",
+          "theteacherspraye00unknuoft",
+          "cihm_00262",
+          "pictorialedition00churrich",
+          "orderformorninge00chur",
+          "bookofcommonp00churuoft",
+          "annotatedbookofc00churrich",
+          "bookofcommonprayer00chur",
+          "dievollstndige00churuoft",
+          "neyakaweayondere00chur",
+          "cihm_00640",
+          "prayerbookkinged00churiala",
+          "liturgiaebritann00chur",
+          "cihm_07216",
+          "comm00chur",
+          "test_cihm_00262",
+          "thecathedralpara00unknuoft",
+          "commonprayer00churiala",
+          "shahguhnahsheahn00chur",
+          "annotatedbookofc01chur",
+          "thebookofcommonp00chur",
+          "dasallgemeinegeb00churuoft",
+          "secondprayerbook00churiala",
+          "clerksbook00englgoog",
+          "bookcommonpraye00stepgoog",
+          "durhambook0000chur",
+          "englishritebeing0000brig"
+        ],
+        "key": "/works/OL769120W",
+        "language": [
+          "eng",
+          "tsi",
+          "gla",
+          "grc",
+          "moh",
+          "spa",
+          "tur",
+          "iku",
+          "urd",
+          "nai",
+          "ita",
+          "fre",
+          "cpe",
+          "ger",
+          "gle",
+          "und",
+          "mul",
+          "lat",
+          "mar",
+          "gre",
+          "wel",
+          "oji",
+          "ara",
+          "swa",
+          "dak",
+          "cre"
+        ],
+        "title": "Book of common prayer",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL945496M",
+              "title": "Iṅglīśa Khristī maṇḍaḷīcī bhajanapaddhati",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Nandikeśvara"
+        ],
+        "ddc": [
+          "792.809"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23211673M"
+        ],
+        "key": "/works/OL18758988W",
+        "language": [
+          "mar"
+        ],
+        "title": "Darpaṇī pāhatā--",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23211673M",
+              "title": "Darpaṇī pāhatā--",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788174344137",
+                "8174344136"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kauṭalya."
+        ],
+        "cover_i": 14999026,
+        "ddc": [
+          "320.1",
+          "320.0934"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL4671576M",
+          "OL3006635M",
+          "OL2696525M",
+          "OL2003316M",
+          "OL167316M",
+          "OL4387374M",
+          "OL22348049M",
+          "OL279906M",
+          "OL1686510M",
+          "OL5280720M",
+          "OL3709880M",
+          "OL328891M",
+          "OL516108M",
+          "OL3007235M",
+          "OL327269M",
+          "OL3151287M",
+          "OL1830616M",
+          "OL19429414M",
+          "OL20637659M",
+          "OL4785401M",
+          "OL16595788M",
+          "OL4707151M",
+          "OL54575135M",
+          "OL53976870M",
+          "OL56416793M",
+          "OL39591596M",
+          "OL39652640M",
+          "OL41905623M",
+          "OL48263337M",
+          "OL49331905M",
+          "OL51347618M",
+          "OL32841016M",
+          "OL40609774M",
+          "OL31703561M",
+          "OL27759148M",
+          "OL24626222M",
+          "OL8818023M",
+          "OL13266185M",
+          "OL946361M"
+        ],
+        "ia": [
+          "arthashastra0000kaut",
+          "arthashastra0000kaut_y3y7"
+        ],
+        "key": "/works/OL319529W",
+        "language": [
+          "tel",
+          "spa",
+          "kan",
+          "mar",
+          "hin",
+          "tam",
+          "san",
+          "eng",
+          "asm",
+          "nep",
+          "ger",
+          "guj"
+        ],
+        "title": "The Arthashastra",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL327269M",
+              "title": "Kauṭilīya-arthaśāstra",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Bertrand Russell"
+        ],
+        "cover_i": 8242875,
+        "ddc": [
+          "301.1552",
+          "306.01",
+          "301.113",
+          "302.54",
+          "301",
+          "320.01",
+          "304"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL16521883M",
+          "OL21553854M",
+          "OL16541331M",
+          "OL21553852M",
+          "OL13673971M",
+          "OL19867930M",
+          "OL5628823M",
+          "OL23314312M",
+          "OL23797830M",
+          "OL16241207M",
+          "OL21553922M",
+          "OL6018989M",
+          "OL21553910M",
+          "OL23606343M",
+          "OL20154813M",
+          "OL21285766M",
+          "OL16522151M",
+          "OL9227848M",
+          "OL23797841M",
+          "OL21553926M",
+          "OL16522148M",
+          "OL21553914M",
+          "OL8409538M",
+          "OL16541347M",
+          "OL21553858M",
+          "OL21261855M",
+          "OL21553928M",
+          "OL16541338M",
+          "OL7483308M",
+          "OL16521907M",
+          "OL20972961M",
+          "OL6051211M",
+          "OL16241227M",
+          "OL258796M",
+          "OL16521873M",
+          "OL16521914M",
+          "OL22564589M",
+          "OL24060880M",
+          "OL16521900M",
+          "OL7273136M",
+          "OL23797851M",
+          "OL21518027M",
+          "OL16522158M",
+          "OL20934957M",
+          "OL581930M",
+          "OL26572559M",
+          "OL16541341M",
+          "OL16541355M",
+          "OL21553913M",
+          "OL15191765M",
+          "OL16541358M",
+          "OL6108452M",
+          "OL13115373M",
+          "OL21553933M",
+          "OL22094767M",
+          "OL13540404M",
+          "OL23575485M",
+          "OL18030623M",
+          "OL16241240M",
+          "OL21553918M",
+          "OL26983048M",
+          "OL9946434M",
+          "OL20838546M"
+        ],
+        "ia": [
+          "authorityindivid00bert",
+          "authorityindivid0000russ_f0t3"
+        ],
+        "key": "/works/OL1088583W",
+        "language": [
+          "hin",
+          "mar",
+          "chi",
+          "ger",
+          "swe",
+          "heb",
+          "eng",
+          "per",
+          "tur",
+          "ita",
+          "cat",
+          "spa"
+        ],
+        "title": "Authority and the Individual",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL16541331M",
+              "title": "Śāsana Sãsthā āni vyakti.",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Uma Vaidya"
+        ],
+        "ddc": [
+          "294.5921046"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44388068M"
+        ],
+        "key": "/works/OL32578726W",
+        "language": [
+          "eng",
+          "mar",
+          "san"
+        ],
+        "title": "Research - rosary",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44388068M",
+              "title": "Research - rosary",
+              "language": [
+                "eng",
+                "mar",
+                "san"
+              ],
+              "isbn": [
+                "9788183153218",
+                "8183153216"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vithal Trimbak Gune"
+        ],
+        "cover_i": 14995013,
+        "ddc": [
+          "345.479207009",
+          "347.54792009"
+        ],
+        "ebook_access": "public",
+        "edition_key": [
+          "OL36421477M",
+          "OL645719M",
+          "OL4249087M",
+          "OL46185627M"
+        ],
+        "ia": [
+          "judicialsystemof029313mbp"
+        ],
+        "key": "/works/OL331016W",
+        "language": [
+          "mar",
+          "eng"
+        ],
+        "title": "The judicial system of the Marathas",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4249087M",
+              "title": "The judicial system of the Marathas",
+              "language": [
+                "eng",
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Prabha Srinivasulu"
+        ],
+        "ddc": [
+          "954.3"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL641222M",
+          "OL9079459M"
+        ],
+        "key": "/works/OL2603066W",
+        "language": [
+          "hin",
+          "eng",
+          "mar"
+        ],
+        "title": "Malwa under the Marathas",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL641222M",
+              "title": "Malwa under the Marathas",
+              "language": [
+                "eng",
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Suhāsa Kulakarṇī",
+          "Manohara Sonavaṇe"
+        ],
+        "ddc": [
+          "294.535095479"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30428020M"
+        ],
+        "key": "/works/OL22346415W",
+        "language": [
+          "mar"
+        ],
+        "title": "Devācyā nāvānã...",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30428020M",
+              "title": "Devācyā nāvānã...",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Maheśa Keḷusakara"
+        ],
+        "ddc": [
+          "891.46809"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24426124M"
+        ],
+        "key": "/works/OL15459426W",
+        "language": [
+          "mar"
+        ],
+        "title": "Gheū candra uśālā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24426124M",
+              "title": "Gheū candra uśālā",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sañjaya Ḍhole"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44059848M"
+        ],
+        "key": "/works/OL32310160W",
+        "language": [
+          "mar"
+        ],
+        "title": "Ḍimbhaka",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44059848M",
+              "title": "Ḍimbhaka",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9789353172039",
+                "9789353172046",
+                "9353172039",
+                "9353172047"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ānanda Pāḷande"
+        ],
+        "ddc": [
+          "915.479"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24521766M"
+        ],
+        "key": "/works/OL15569257W",
+        "language": [
+          "mar"
+        ],
+        "title": "Caḍhāī-utarāī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24521766M",
+              "title": "Caḍhāī-utarāī",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "8174251545",
+                "9788174251541"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Nandakiśora Bhoḷe"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44057467M"
+        ],
+        "key": "/works/OL32307883W",
+        "language": [
+          "mar"
+        ],
+        "title": "Anubandha",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44057467M",
+              "title": "Anubandha",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788193798898",
+                "8193798899"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "M. R. Desai"
+        ],
+        "ddc": [
+          "294.59212"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL1253501M"
+        ],
+        "key": "/works/OL23568907W",
+        "language": [
+          "mar",
+          "san",
+          "hin",
+          "eng"
+        ],
+        "title": "The Vr̥ishā kapi sūkta",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1253501M",
+              "title": "The Vr̥ishā kapi sūkta",
+              "language": [
+                "eng",
+                "hin",
+                "mar",
+                "san"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "S. S. Sunthankar"
+        ],
+        "ddc": [
+          "294.5211"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL19794787M",
+          "OL5178888M"
+        ],
+        "key": "/works/OL6789213W",
+        "language": [
+          "mar"
+        ],
+        "title": "Asā āhe Śrīviththala",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL19794787M",
+              "title": "Asā āhe Śrīviththala",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rekhā Baijala"
+        ],
+        "ddc": [
+          "891.464"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24409830M"
+        ],
+        "key": "/works/OL15442276W",
+        "language": [
+          "mar"
+        ],
+        "title": "Prakāśa śalākā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24409830M",
+              "title": "Prakāśa śalākā",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "8174922334",
+                "9788174922335"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Gaṅgārāma Gavāṇakara"
+        ],
+        "ddc": [
+          "891.462"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23217081M"
+        ],
+        "key": "/works/OL13779899W",
+        "language": [
+          "mar"
+        ],
+        "title": "Vhāyā-- vastraharaṇa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23217081M",
+              "title": "Vhāyā-- vastraharaṇa",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Tānājīrāva Corage"
+        ],
+        "ddc": [
+          "891.46371"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44398101M"
+        ],
+        "key": "/works/OL32588318W",
+        "language": [
+          "mar"
+        ],
+        "title": "Gārapīṭa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44398101M",
+              "title": "Gārapīṭa",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9789351171164",
+                "9351171167"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Bāḷa Phoṇḍake"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24795865M"
+        ],
+        "key": "/works/OL15888013W",
+        "language": [
+          "mar"
+        ],
+        "title": "Sāyabara kêphe",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24795865M",
+              "title": "Sāyabara kêphe",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "T. V. Parvate"
+        ],
+        "ddc": [
+          "891.468509"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL19431815M",
+          "OL47977392M"
+        ],
+        "key": "/works/OL1623186W",
+        "language": [
+          "mar"
+        ],
+        "title": "Narasiṃha Cintāmaṇa",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL19431815M",
+              "title": "Narasiṃha Cintāmaṇa",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Līnā Mehendale"
+        ],
+        "ddc": [
+          "306.0954792"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24817318M"
+        ],
+        "key": "/works/OL15910929W",
+        "language": [
+          "mar"
+        ],
+        "title": "Samājamanātīla bimba",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24817318M",
+              "title": "Samājamanātīla bimba",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788174869173",
+                "8174869174"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vijaya Vi Devadhara"
+        ],
+        "ddc": [
+          "891.46371"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44398149M"
+        ],
+        "key": "/works/OL32588366W",
+        "language": [
+          "mar"
+        ],
+        "title": "Kāvā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44398149M",
+              "title": "Kāvā",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rajaram Vyankatesh Nadkarnia"
+        ],
+        "ddc": [
+          "954.025"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL12017M"
+        ],
+        "key": "/works/OL355224W",
+        "language": [
+          "mar",
+          "eng"
+        ],
+        "title": "The rise and fall of the Maratha Empire",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL12017M",
+              "title": "The rise and fall of the Maratha Empire",
+              "language": [
+                "eng",
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Aruṇa Śevate"
+        ],
+        "ddc": [
+          "305.409"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23576743M"
+        ],
+        "key": "/works/OL18703972W",
+        "language": [
+          "mar"
+        ],
+        "title": "Maḷā umagalelī strī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23576743M",
+              "title": "Maḷā umagalelī strī",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vijayaraje Scindia"
+        ],
+        "cover_i": 4666943,
+        "ddc": [
+          "954.040924"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2165806M",
+          "OL7793645M",
+          "OL2775552M"
+        ],
+        "key": "/works/OL2310957W",
+        "language": [
+          "eng",
+          "mar"
+        ],
+        "title": "Princess",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2165806M",
+              "title": "Rājamātā Vijayārāje Śinde yāñce ātmakathana",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sophocles"
+        ],
+        "ddc": [
+          "882.01"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL19620046M",
+          "OL19301288M",
+          "OL6186798M",
+          "OL16406566M",
+          "OL21497M"
+        ],
+        "key": "/works/OL43835W",
+        "language": [
+          "wel",
+          "ger",
+          "mar"
+        ],
+        "title": "König Ödipus",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL21497M",
+              "title": "Jayaketu",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "ddc": [
+          "891.46371"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44047204M"
+        ],
+        "key": "/works/OL32298069W",
+        "language": [
+          "mar"
+        ],
+        "title": "Reḍa ṭepa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44047204M",
+              "title": "Reḍa ṭepa",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9789353170233",
+                "9789353170240",
+                "9353170230",
+                "9353170249"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Bhagavāna Pāṇḍuraṅga Cile"
+        ],
+        "ddc": [
+          "355.709",
+          "547"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23201452M"
+        ],
+        "key": "/works/OL13774815W",
+        "language": [
+          "mar"
+        ],
+        "title": "Vedha jaladurgāñcā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23201452M",
+              "title": "Vedha jaladurgāñcā",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ūrmilā Rāghavendra Cākūrakara"
+        ],
+        "ddc": [
+          "891.46471"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44509795M"
+        ],
+        "key": "/works/OL32693697W",
+        "language": [
+          "mar"
+        ],
+        "title": "Kāḷokhakaśidā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44509795M",
+              "title": "Kāḷokhakaśidā",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ignazio Silone"
+        ],
+        "cover_i": 456930,
+        "ddc": [
+          "853.91",
+          "833",
+          "458.642",
+          "458.6421",
+          "853.912"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL14848874M",
+          "OL5443960M",
+          "OL5153690M",
+          "OL950368M",
+          "OL14965795M",
+          "OL21272305M",
+          "OL13709111M",
+          "OL9042419M",
+          "OL17405412M",
+          "OL6077872M",
+          "OL514635M",
+          "OL16823404M",
+          "OL15362227M",
+          "OL1995651M",
+          "OL6310310M",
+          "OL13744907M",
+          "OL21221131M",
+          "OL8886580M",
+          "OL13900787M",
+          "OL18692843M",
+          "OL20403424M",
+          "OL22443554M",
+          "OL21325360M",
+          "OL20045043M",
+          "OL14586837M",
+          "OL13982812M",
+          "OL22783636M",
+          "OL15051078M",
+          "OL14898557M",
+          "OL5795788M",
+          "OL19854752M",
+          "OL18073947M",
+          "OL21374911M",
+          "OL24325089M",
+          "OL4285986M",
+          "OL16543474M",
+          "OL20770285M",
+          "OL6520204M",
+          "OL18315656M",
+          "OL21370102M",
+          "OL13735014M",
+          "OL3793135M",
+          "OL19849395M"
+        ],
+        "ia": [
+          "fontamara00silo"
+        ],
+        "key": "/works/OL1238073W",
+        "language": [
+          "roh",
+          "pan",
+          "eng",
+          "mar",
+          "ita",
+          "ger"
+        ],
+        "title": "Fontamara",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL950368M",
+              "title": "Śrāvaṇāntīla kheḍẽ",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ravīndra Śobhaṇe"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44396083M"
+        ],
+        "key": "/works/OL32586386W",
+        "language": [
+          "mar"
+        ],
+        "title": "Pāṇḍhare hattī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44396083M",
+              "title": "Pāṇḍhare hattī",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788174981967",
+                "8174981969"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Napoleon Hill"
+        ],
+        "cover_i": 14542536,
+        "ddc": [
+          "158.1",
+          "650.1",
+          "174",
+          "170",
+          "650.12"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL61521466M",
+          "OL61061302M",
+          "OL38482512M",
+          "OL38558137M",
+          "OL26491540M",
+          "OL54589203M",
+          "OL54464709M",
+          "OL55075992M",
+          "OL49631301M",
+          "OL47477323M",
+          "OL47477322M",
+          "OL9119140M",
+          "OL46397564M",
+          "OL40558804M",
+          "OL41066267M",
+          "OL13187893M",
+          "OL40095151M",
+          "OL40098857M",
+          "OL39854612M",
+          "OL32226464M",
+          "OL31964855M",
+          "OL13057542M",
+          "OL45064545M",
+          "OL35663954M",
+          "OL40684316M",
+          "OL35698473M",
+          "OL31998830M",
+          "OL31998829M",
+          "OL12605878M",
+          "OL45877951M",
+          "OL52331192M",
+          "OL51939035M",
+          "OL51699912M",
+          "OL51585528M",
+          "OL51012212M",
+          "OL50567088M",
+          "OL50065694M",
+          "OL49816062M",
+          "OL49719614M",
+          "OL49356517M",
+          "OL49327915M",
+          "OL49219023M",
+          "OL49833600M",
+          "OL49129374M",
+          "OL48798511M",
+          "OL48809163M",
+          "OL49127901M",
+          "OL48277481M",
+          "OL47427167M",
+          "OL47103143M",
+          "OL47047121M",
+          "OL49317123M",
+          "OL49329201M",
+          "OL49330601M",
+          "OL49330614M",
+          "OL49331864M",
+          "OL46924912M",
+          "OL46760612M",
+          "OL46966682M",
+          "OL46987928M",
+          "OL47031786M",
+          "OL47146109M",
+          "OL47251039M",
+          "OL47768179M",
+          "OL48102780M",
+          "OL48107806M",
+          "OL48137269M",
+          "OL48196796M",
+          "OL46465233M",
+          "OL46374106M",
+          "OL43662806M",
+          "OL43122572M",
+          "OL49833594M",
+          "OL49833595M",
+          "OL43040318M",
+          "OL43081341M",
+          "OL44175815M",
+          "OL44245176M",
+          "OL44273845M",
+          "OL44784357M",
+          "OL44890221M",
+          "OL45318133M",
+          "OL45619332M",
+          "OL46167222M",
+          "OL46245135M",
+          "OL42892802M",
+          "OL49833589M",
+          "OL49833596M",
+          "OL49833597M",
+          "OL49833599M",
+          "OL49833602M",
+          "OL49833603M",
+          "OL49833604M",
+          "OL42860254M",
+          "OL40578218M",
+          "OL47029548M",
+          "OL40002147M",
+          "OL40019499M",
+          "OL40112300M",
+          "OL40119741M",
+          "OL40136392M",
+          "OL40209639M",
+          "OL39485489M",
+          "OL38580559M",
+          "OL38280923M",
+          "OL38355165M",
+          "OL38390594M",
+          "OL38399835M",
+          "OL38399956M",
+          "OL38439823M",
+          "OL38498321M",
+          "OL39056511M",
+          "OL39302995M",
+          "OL39443745M",
+          "OL39752383M",
+          "OL39856371M",
+          "OL39862716M",
+          "OL39920535M",
+          "OL24228852M",
+          "OL38209694M",
+          "OL37754959M",
+          "OL37684762M",
+          "OL36645561M",
+          "OL36639549M",
+          "OL36358763M",
+          "OL36651550M",
+          "OL36811999M",
+          "OL36815851M",
+          "OL36816656M",
+          "OL36961029M",
+          "OL37370614M",
+          "OL37786682M",
+          "OL37845502M",
+          "OL37993496M",
+          "OL38049400M",
+          "OL8582934M",
+          "OL49833608M",
+          "OL40230722M",
+          "OL35255597M",
+          "OL35078038M",
+          "OL35667119M",
+          "OL36012763M",
+          "OL34759013M",
+          "OL34355221M",
+          "OL33404346M",
+          "OL33988318M",
+          "OL34018014M",
+          "OL34089760M",
+          "OL34443826M",
+          "OL34756592M",
+          "OL34850152M",
+          "OL34865259M",
+          "OL33049196M",
+          "OL32880752M",
+          "OL32774033M",
+          "OL32189399M",
+          "OL37073848M",
+          "OL37751944M",
+          "OL39210048M",
+          "OL40221889M",
+          "OL40296894M",
+          "OL31999452M",
+          "OL32006289M",
+          "OL32447759M",
+          "OL32705533M",
+          "OL32735798M",
+          "OL32856553M",
+          "OL32903092M",
+          "OL32913897M",
+          "OL31982133M",
+          "OL31147731M",
+          "OL27724717M",
+          "OL27139098M",
+          "OL30659847M",
+          "OL26085100M",
+          "OL8421087M",
+          "OL40227330M",
+          "OL40293722M",
+          "OL40763705M",
+          "OL40814320M",
+          "OL40867000M",
+          "OL42475895M",
+          "OL42863204M",
+          "OL43011465M",
+          "OL49833607M",
+          "OL49833601M",
+          "OL49833592M",
+          "OL8816555M",
+          "OL32721630M",
+          "OL32147092M",
+          "OL31815823M",
+          "OL28572396M",
+          "OL27779625M",
+          "OL27429989M",
+          "OL27812146M",
+          "OL27330780M",
+          "OL8809012M",
+          "OL29062382M",
+          "OL29047162M",
+          "OL24264989M",
+          "OL28346706M",
+          "OL27429567M",
+          "OL27336897M",
+          "OL27060190M",
+          "OL28619284M",
+          "OL29550076M",
+          "OL27511443M",
+          "OL28429645M",
+          "OL28171791M",
+          "OL24850101M",
+          "OL27730696M",
+          "OL27997665M",
+          "OL27768620M",
+          "OL27804505M",
+          "OL29061915M",
+          "OL27982689M",
+          "OL27704376M",
+          "OL27440529M",
+          "OL27759982M",
+          "OL27804419M",
+          "OL27639725M",
+          "OL29809420M",
+          "OL27638199M",
+          "OL28894761M",
+          "OL24998837M",
+          "OL29961697M",
+          "OL12443062M",
+          "OL26975241M",
+          "OL13299293M",
+          "OL27115093M",
+          "OL8868525M",
+          "OL27918115M",
+          "OL30185349M",
+          "OL11840519M",
+          "OL13057455M",
+          "OL30727459M",
+          "OL29976937M",
+          "OL26992972M",
+          "OL9321003M",
+          "OL12558326M",
+          "OL27494765M",
+          "OL11690327M",
+          "OL11802327M",
+          "OL27371750M",
+          "OL30941040M",
+          "OL13057466M",
+          "OL27442702M",
+          "OL28714250M",
+          "OL24907110M",
+          "OL30620529M",
+          "OL27500077M",
+          "OL12558318M",
+          "OL9350097M",
+          "OL9418002M",
+          "OL27091977M",
+          "OL8833152M",
+          "OL27429568M",
+          "OL9149585M",
+          "OL27634057M",
+          "OL28127858M",
+          "OL13263978M",
+          "OL24256499M",
+          "OL22935189M",
+          "OL8780980M",
+          "OL3555405M",
+          "OL384220M",
+          "OL11134629M",
+          "OL7567307M",
+          "OL13057540M",
+          "OL13057526M",
+          "OL11332781M",
+          "OL12502465M",
+          "OL22693675M",
+          "OL9178184M",
+          "OL3316062M",
+          "OL22646323M",
+          "OL7569075M",
+          "OL5984145M",
+          "OL18311251M",
+          "OL19086994M",
+          "OL7565480M",
+          "OL8902449M",
+          "OL7566237M",
+          "OL22935270M",
+          "OL20509898M",
+          "OL23041573M",
+          "OL24267295M",
+          "OL11831378M",
+          "OL8833153M",
+          "OL9363875M",
+          "OL11074815M",
+          "OL17905902M",
+          "OL13057463M",
+          "OL22623203M",
+          "OL24299125M",
+          "OL23036869M",
+          "OL9828219M",
+          "OL24257635M",
+          "OL16887999M",
+          "OL56310M",
+          "OL7844626M",
+          "OL22943304M",
+          "OL13057443M",
+          "OL13166112M",
+          "OL23053987M",
+          "OL8809015M",
+          "OL12294098M",
+          "OL9465813M",
+          "OL12332847M"
+        ],
+        "ia": [
+          "quempensaenrique0000_",
+          "rflchissezetdeve0000napo",
+          "thinkgrowrich1940000napo",
+          "thinkgrowrichtea0000napo",
+          "denkenachundwerd0000hill",
+          "isbn_9781607381716",
+          "pienseyhgaserico0000napo",
+          "thinkgrowrich0000napo_q8p9",
+          "thinkgrowrich0000unse_z9j7",
+          "thinkgrowrich0000napo_k8s2",
+          "isbn_9781463538002",
+          "thinkgrowrich0000napo_r7b6",
+          "thinkgrowrich0000napo_i1q6",
+          "thinkgrowrichbyn00hill",
+          "thinkgrowrich0000unse_x4h7",
+          "thinkgrowrich0000unse_j8c6",
+          "thinkgrowrichhow0000napo",
+          "thinkgrowrich00hill",
+          "thinkgrowrich0000napo",
+          "thinkgrowrich0000napo_c8v2",
+          "thinkgrowrich0000napo_p2x8",
+          "thinkgrowrich0000napo_i8t1",
+          "thinkgrowrich0000unse_x5f2",
+          "sociyeauraamirab0000hill",
+          "isbn_9780974571720",
+          "isbn_9781936041602",
+          "pienseyhagaseric0000hill_x0n1",
+          "thinkgrowrichori0000napo",
+          "thinkgrowrich0000hill_q2s7",
+          "thinkgrowrichori0000hill",
+          "thinkgrowrich0000hill_w0e1",
+          "thinkgrowrich0000hill_r6d9",
+          "thinkgrowrichsec0000hill",
+          "pienseyhagaseric0000hill_n8p1",
+          "sikaozhifuthinkg0000hill",
+          "pienseyhagaseric0000hill",
+          "pienseyhagaseric0000hill_n6w7",
+          "thinkgrowrich0000hill_h9m0",
+          "thinkgrowrich0000napo_c7h0",
+          "thinkgrowrich0000hill_p9a1",
+          "thinkgrowrich00hill_3",
+          "thinkgrowrichthe00hill",
+          "thinkgrowrich0000hill_i2s5",
+          "thinkgrowrich0000hill",
+          "thinkgrowric00hill",
+          "thinkgrowrich0000hill_y8b5",
+          "thinkgrowrich21s0000napo",
+          "thinkgrowrich0000hill_l6f4",
+          "thinkgrowrichori0000hill_w5i6",
+          "thinkgrowrichori0000napo_a1y5",
+          "thinkgrowrich0000unse_i3k4",
+          "thinkgrowrich00napo",
+          "thinkgrowrich0000unse",
+          "thinkgrowrich000hill",
+          "thinkgrowrich0000hill_u0s1"
+        ],
+        "key": "/works/OL527464W",
+        "language": [
+          "fre",
+          "spa",
+          "hin",
+          "tam",
+          "ben",
+          "arm",
+          "kor",
+          "ger",
+          "mar",
+          "chi",
+          "eng",
+          "por"
+        ],
+        "title": "Think and Grow Rich",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL49330601M",
+              "title": "Think and Grow Rich",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9789354406782",
+                "9354406785"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Maheśa Keḷusakara"
+        ],
+        "ddc": [
+          "891.46809"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24496875M"
+        ],
+        "key": "/works/OL15540381W",
+        "language": [
+          "mar"
+        ],
+        "title": "Gheū candra uśālā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24496875M",
+              "title": "Gheū candra uśālā",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rāmadāsa"
+        ],
+        "ddc": [
+          "294.5218",
+          "294.54"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL325262M",
+          "OL171066M",
+          "OL5401051M",
+          "OL1374999M",
+          "OL643030M",
+          "OL1141333M",
+          "OL1375976M",
+          "OL16968579M",
+          "OL5403875M"
+        ],
+        "key": "/works/OL327663W",
+        "language": [
+          "eng",
+          "mar",
+          "san"
+        ],
+        "title": "Dāsabodha",
+        "editions": {
+          "numFound": 4,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL171066M",
+              "title": "Dainandina Dāsabodha",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Isādāsa Bhaḍake"
+        ],
+        "ddc": [
+          "891.463"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30425086M"
+        ],
+        "key": "/works/OL22343662W",
+        "language": [
+          "mar"
+        ],
+        "title": "Gana-gana bhovarī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30425086M",
+              "title": "Gana-gana bhovarī",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9789380700588",
+                "938070058X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Mukunda Saṅgorāma"
+        ],
+        "ddc": [
+          "780.92"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24380315M"
+        ],
+        "key": "/works/OL15410038W",
+        "language": [
+          "mar"
+        ],
+        "title": "Khyāliyā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24380315M",
+              "title": "Khyāliyā",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788190727464",
+                "819072746X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "ddc": [
+          "305.42"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24055327M"
+        ],
+        "key": "/works/OL18726379W",
+        "language": [
+          "mar"
+        ],
+        "title": "Strīvāda",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24055327M",
+              "title": "Strīvāda",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788190585705",
+                "8190585703"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rāma Deśapāṇḍe"
+        ],
+        "ddc": [
+          "891.468709"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25283700M"
+        ],
+        "key": "/works/OL16600327W",
+        "language": [
+          "mar"
+        ],
+        "title": "Āṭhavaṇītale Śevāḷakara",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25283700M",
+              "title": "Āṭhavaṇītale Śevāḷakara",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vijayā Rājādhyaksha"
+        ],
+        "ddc": [
+          "891.4637"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30425221M"
+        ],
+        "key": "/works/OL22343795W",
+        "language": [
+          "mar"
+        ],
+        "title": "Paścima",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30425221M",
+              "title": "Paścima",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788174869944",
+                "8174869948"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Bahiṇī"
+        ],
+        "ddc": [
+          "891.4613"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2691257M",
+          "OL6286300M"
+        ],
+        "key": "/works/OL96290W",
+        "language": [
+          "eng",
+          "mar"
+        ],
+        "title": "Bahiņā Bāī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL6286300M",
+              "title": "Bahiņā Bāī",
+              "language": [
+                "eng",
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Cakradhara"
+        ],
+        "ddc": [
+          "294.595"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2360773M"
+        ],
+        "key": "/works/OL4948024W",
+        "language": [
+          "eng",
+          "mar"
+        ],
+        "title": "Brahm vidya",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2360773M",
+              "title": "Brahm vidya",
+              "language": [
+                "eng",
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vijaya Kuvaḷekara"
+        ],
+        "ddc": [
+          "891.464"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23946017M"
+        ],
+        "key": "/works/OL18732267W",
+        "language": [
+          "mar"
+        ],
+        "title": "Jhumbara",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23946017M",
+              "title": "Jhumbara",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vāmana Malhāra Jośī",
+          "Vilāsa Khole"
+        ],
+        "ddc": [
+          "891.468509"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2829936M"
+        ],
+        "key": "/works/OL22819939W",
+        "language": [
+          "mar"
+        ],
+        "title": "Vā.Ma. Jośī, jīvanadr̥shṭī sāhityavicāra",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2829936M",
+              "title": "Vā.Ma. Jośī, jīvanadr̥shṭī sāhityavicāra",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Bhūshaṇa Kaṭakakara"
+        ],
+        "ddc": [
+          "891.468"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24425769M"
+        ],
+        "key": "/works/OL15459052W",
+        "language": [
+          "mar"
+        ],
+        "title": "Hasalāta tara kaḷavā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24425769M",
+              "title": "Hasalāta tara kaḷavā",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "818963478X",
+                "9788189634780"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "William Saroyan"
+        ],
+        "cover_i": 7412101,
+        "ddc": [
+          "813.52",
+          "812",
+          "813.54"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL47865118M",
+          "OL35644443M",
+          "OL12513546M",
+          "OL58874914M",
+          "OL58874916M",
+          "OL58696689M",
+          "OL52773733M",
+          "OL52753410M",
+          "OL49820610M",
+          "OL50545482M",
+          "OL52523935M",
+          "OL47781094M",
+          "OL47727117M",
+          "OL45954366M",
+          "OL45808823M",
+          "OL47009730M",
+          "OL45148346M",
+          "OL43978156M",
+          "OL43072997M",
+          "OL43166729M",
+          "OL45645033M",
+          "OL39479066M",
+          "OL27538292M",
+          "OL35462820M",
+          "OL35464000M",
+          "OL41985600M",
+          "OL27537799M",
+          "OL26463194M",
+          "OL24609364M",
+          "OL24210225M",
+          "OL22602509M",
+          "OL19219983M",
+          "OL22352958M",
+          "OL15984820M",
+          "OL22200298M",
+          "OL14560721M",
+          "OL13425800M",
+          "OL32929538M",
+          "OL14419379M",
+          "OL23266343M",
+          "OL19362649M",
+          "OL23574128M",
+          "OL7973774M",
+          "OL14976903M",
+          "OL13648962M",
+          "OL6462537M",
+          "OL20719703M",
+          "OL7520497M",
+          "OL6465597M",
+          "OL21494861M",
+          "OL13537470M",
+          "OL950375M",
+          "OL13765402M",
+          "OL20377975M",
+          "OL22912878M",
+          "OL14619571M",
+          "OL2210285M"
+        ],
+        "ia": [
+          "unecomediehumain0000wsar",
+          "humancomedy0000will_k5f6",
+          "humancomedy0000will_l9o7",
+          "bwb_S0-BAR-277",
+          "bwb_W9-CSI-652",
+          "humancomedyrevis0000will",
+          "humancomedy0000will_e5c3",
+          "insanitamasha0000saro",
+          "humancomedy0000will_o5j4",
+          "comediahumana00saro",
+          "humancomedy0000saro",
+          "hyumankomedi0000saro",
+          "humancomedy00saro"
+        ],
+        "key": "/works/OL1442158W",
+        "language": [
+          "eng",
+          "jpn",
+          "ger",
+          "heb",
+          "por",
+          "ita",
+          "rus",
+          "arm",
+          "mar",
+          "urd",
+          "chi",
+          "fre",
+          "per"
+        ],
+        "title": "The human comedy",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL950375M",
+              "title": "Jīvana saṅgīta",
+              "language": [
+                "mar"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Karl Marx",
+          "Friedrich Engels"
+        ],
+        "cover_i": 13525032,
+        "ddc": [
+          "335.422"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL44136565M",
+          "OL49677728M",
+          "OL40142980M",
+          "OL55136300M",
+          "OL48643105M",
+          "OL41619479M",
+          "OL48237553M",
+          "OL54800716M",
+          "OL41137612M",
+          "OL42370727M",
+          "OL42266623M",
+          "OL46743854M",
+          "OL47327354M",
+          "OL42738568M",
+          "OL47269187M",
+          "OL49287258M",
+          "OL52009777M",
+          "OL42795907M",
+          "OL40871514M",
+          "OL47112971M",
+          "OL48251624M",
+          "OL46519119M",
+          "OL49287304M",
+          "OL58115309M",
+          "OL46271583M",
+          "OL40816534M",
+          "OL41460867M",
+          "OL47449941M",
+          "OL45696483M",
+          "OL42832936M",
+          "OL46785895M",
+          "OL50644299M",
+          "OL47143643M",
+          "OL41054110M",
+          "OL47449942M",
+          "OL47332061M",
+          "OL42432699M",
+          "OL49288123M",
+          "OL40627273M",
+          "OL45735734M",
+          "OL42288647M",
+          "OL51965317M",
+          "OL46349543M",
+          "OL44247279M",
+          "OL48127793M",
+          "OL40225435M",
+          "OL49286705M",
+          "OL49327961M",
+          "OL42688934M",
+          "OL40658639M",
+          "OL49287375M",
+          "OL42708300M",
+          "OL49779000M",
+          "OL39854617M",
+          "OL41994942M",
+          "OL42268218M",
+          "OL49288219M",
+          "OL46617079M",
+          "OL42602760M",
+          "OL41557550M",
+          "OL56168773M",
+          "OL51607540M",
+          "OL59622734M",
+          "OL42141663M",
+          "OL40697928M",
+          "OL42194238M",
+          "OL51468852M",
+          "OL47130910M",
+          "OL41083037M",
+          "OL55037786M",
+          "OL40435640M",
+          "OL40109109M",
+          "OL40225671M",
+          "OL46286208M",
+          "OL48350598M",
+          "OL57381286M",
+          "OL41782890M",
+          "OL49333254M",
+          "OL40947568M",
+          "OL42753386M",
+          "OL46800516M",
+          "OL39914797M",
+          "OL41022907M",
+          "OL40599446M",
+          "OL42219058M",
+          "OL42253195M",
+          "OL47106476M",
+          "OL40355408M",
+          "OL46622540M",
+          "OL47300966M",
+          "OL40825504M",
+          "OL41054453M",
+          "OL47018352M",
+          "OL44186224M",
+          "OL40665491M",
+          "OL47439500M",
+          "OL41921395M",
+          "OL40847799M",
+          "OL49325402M",
+          "OL41226467M",
+          "OL46167968M",
+          "OL48425203M",
+          "OL42793691M",
+          "OL45018113M",
+          "OL41359260M",
+          "OL43257123M",
+          "OL49329221M",
+          "OL40570999M",
+          "OL47502615M",
+          "OL41920801M",
+          "OL41598799M",
+          "OL47106478M",
+          "OL40601940M",
+          "OL41246663M",
+          "OL41697287M",
+          "OL46858537M",
+          "OL42640136M",
+          "OL43551665M",
+          "OL48238254M",
+          "OL40485534M",
+          "OL47502616M",
+          "OL47356243M",
+          "OL46769216M",
+          "OL48643075M",
+          "OL41077770M",
+          "OL40610439M",
+          "OL40224940M",
+          "OL47439501M",
+          "OL51879718M",
+          "OL40813106M",
+          "OL40599666M",
+          "OL40766269M",
+          "OL40762598M",
+          "OL43417076M",
+          "OL46121277M",
+          "OL41002534M",
+          "OL41029286M",
+          "OL40094193M",
+          "OL40931086M",
+          "OL40802441M",
+          "OL54998295M",
+          "OL41055221M",
+          "OL46789466M",
+          "OL47203777M",
+          "OL54852297M",
+          "OL41731016M",
+          "OL40883689M",
+          "OL39886836M",
+          "OL51877645M",
+          "OL41252451M",
+          "OL40611402M",
+          "OL41657891M",
+          "OL42645004M",
+          "OL52009767M",
+          "OL45623840M",
+          "OL47262525M",
+          "OL46516030M"
+        ],
+        "ia": [
+          "communistmanifes0000karl_q5j3"
+        ],
+        "key": "/works/OL28992472W",
+        "language": [
+          "spa",
+          "mal",
+          "eng",
+          "por",
+          "tel",
+          "mar",
+          "ita",
+          "fre",
+          "hin",
+          "ger",
+          "dut"
+        ],
+        "title": "Manifest der Kommunistischen Partei",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL49327961M",
+              "title": "Communist Manifesto",
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9789354401503",
+                "9354401503"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "D. N. Dhanagre"
+        ],
+        "cover_i": 13908969,
+        "ddc": [
+          "305.800954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24387008M"
+        ],
+        "key": "/works/OL15418045W",
+        "language": [
+          "mar"
+        ],
+        "title": "Hirave anubandha",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24387008M",
+              "title": "Hirave anubandha",
+              "cover_i": 13908969,
+              "language": [
+                "mar"
+              ],
+              "isbn": [
+                "9788174868473",
+                "817486847X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

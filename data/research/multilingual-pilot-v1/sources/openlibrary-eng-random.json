@@ -1,0 +1,3877 @@
+{
+  "language": "eng",
+  "url": "https://openlibrary.org/search.json?q=language%3Aeng+AND+ddc%3A%5B000+TO+999%5D&offset=0&limit=100&fields=key%2Ctitle%2Cddc%2Cauthor_name%2Clanguage%2Cedition_key%2Ccover_i%2Cebook_access%2Cia%2Ceditions%2Ceditions.key%2Ceditions.title%2Ceditions.language%2Ceditions.ddc%2Ceditions.isbn%2Ceditions.cover_i%2Ceditions.ebook_access&sort=random",
+  "retrieved_at": "2026-10-03T02:43:23.602737+00:00",
+  "payload_sha256": "f8da25a414c90a9ffbccdb0483e83f1aa27a935fdb8b6f399095d128fa49a6c5",
+  "response": {
+    "numFound": 4450034,
+    "start": 0,
+    "numFoundExact": true,
+    "num_found": 4450034,
+    "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+    "q": "language:eng AND ddc:[000 TO 999]",
+    "offset": 0,
+    "docs": [
+      {
+        "author_name": [
+          "Michael L. Hoel"
+        ],
+        "cover_i": 4072799,
+        "ddc": [
+          "508.74"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL2090767M"
+        ],
+        "ia": [
+          "landsedgenatural0000hoel"
+        ],
+        "key": "/works/OL4682923W",
+        "language": [
+          "eng"
+        ],
+        "title": "Land's edge",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2090767M",
+              "title": "Land's edge",
+              "cover_i": 4072799,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0961608005",
+                "9780961608002"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Virginia. General Assembly. House of Delegates. Special Subcommittee Studying Child Labor Laws."
+        ],
+        "ddc": [
+          "344.7550131",
+          "347.5504131"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL1669856M"
+        ],
+        "key": "/works/OL4245154W",
+        "language": [
+          "eng"
+        ],
+        "title": "Report of the Special Subcommittee Studying Child Labor Laws to the Governor and the General Assembly of Virginia",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1669856M",
+              "title": "Report of the Special Subcommittee Studying Child Labor Laws to the Governor and the General Assembly of Virginia.",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Michael J. Buckley"
+        ],
+        "ddc": [
+          "241.66",
+          "301.424"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL42960854M",
+          "OL22825978M",
+          "OL45789043M",
+          "OL43103053M",
+          "OL40251264M",
+          "OL18268487M",
+          "OL5776321M",
+          "OL18629549M"
+        ],
+        "key": "/works/OL1866393W",
+        "language": [
+          "eng"
+        ],
+        "title": "Morality and the homosexual",
+        "editions": {
+          "numFound": 5,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL22825978M",
+              "title": "Morality and the homosexual",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Lorelei James"
+        ],
+        "ddc": [
+          "813.6"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30818242M"
+        ],
+        "key": "/works/OL22907432W",
+        "language": [
+          "eng"
+        ],
+        "title": "Roped in",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30818242M",
+              "title": "Roped in",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781940887173",
+                "1940887178"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Lloyd Morris"
+        ],
+        "ddc": [
+          "191"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL17515306M"
+        ],
+        "key": "/works/OL8815822W",
+        "language": [
+          "eng"
+        ],
+        "title": "William James",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL17515306M",
+              "title": "William James",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Steve Jelly"
+        ],
+        "cover_i": 12878341,
+        "ddc": [
+          "621.38416"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL39475725M"
+        ],
+        "ia": [
+          "yourfirstpackets0000jell"
+        ],
+        "key": "/works/OL28763176W",
+        "language": [
+          "eng"
+        ],
+        "title": "Your first packet station",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL39475725M",
+              "title": "Your first packet station",
+              "cover_i": 12878341,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781872309385",
+                "1872309380"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "J. E. R. Staddon"
+        ],
+        "cover_i": 4224112,
+        "ddc": [
+          "591.51"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL40786965M",
+          "OL28580919M",
+          "OL28580905M",
+          "OL3163350M",
+          "OL34556024M"
+        ],
+        "key": "/works/OL4659698W",
+        "language": [
+          "eng"
+        ],
+        "title": "Adaptive behavior and learning",
+        "editions": {
+          "numFound": 5,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3163350M",
+              "title": "Adaptive behavior and learning",
+              "cover_i": 4224112,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0521256992",
+                "0521276586",
+                "9780521256995",
+                "9780521276580"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Reagen"
+        ],
+        "cover_i": 10253540,
+        "ddc": [
+          "365.66"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL11320266M",
+          "OL5211502M"
+        ],
+        "ia": [
+          "schoolbehindbars0000unse"
+        ],
+        "key": "/works/OL9599631W",
+        "language": [
+          "eng"
+        ],
+        "title": "School Behind Bars",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL11320266M",
+              "title": "School Behind Bars",
+              "cover_i": 10253540,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9780810808911",
+                "0810808919"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "United States. Congress. Senate. Committee on Small Business."
+        ],
+        "ddc": [
+          "382.6"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2817073M"
+        ],
+        "key": "/works/OL588721W",
+        "language": [
+          "eng"
+        ],
+        "title": "Obstacles to exporting faced by small businesses",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2817073M",
+              "title": "Obstacles to exporting faced by small businesses",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "National Cancer Institute (U.S.). Leukemia, Lymphoma, and Myeloma Progress Review Group"
+        ],
+        "ddc": [
+          "616.9940072073"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31496992M"
+        ],
+        "key": "/works/OL23758092W",
+        "language": [
+          "eng"
+        ],
+        "title": "Report of the Leukemia, Lymphoma, and Myeloma Progress Review Group",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31496992M",
+              "title": "Report of the Leukemia, Lymphoma, and Myeloma Progress Review Group",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "John Bennett"
+        ],
+        "ddc": [
+          "388.3220942547"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL15208355M"
+        ],
+        "key": "/works/OL11451959W",
+        "language": [
+          "eng"
+        ],
+        "title": "The Loughborough Road Car Company Limited",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL15208355M",
+              "title": "The Loughborough Road Car Company Limited",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "187286306X",
+                "9781872863061"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Margaret Friskey"
+        ],
+        "ddc": [
+          "629.454"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4913445M"
+        ],
+        "key": "/works/OL4470192W",
+        "language": [
+          "eng"
+        ],
+        "title": "The true book of the moonwalk adventure",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4913445M",
+              "title": "The true book of the moonwalk adventure.",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "051601143X",
+                "9780516011431"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Barbara Bleiman",
+          "Jane Ogborn",
+          "Barbara Bleiman",
+          "Lucy Webster"
+        ],
+        "ddc": [
+          "823.009"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL11374594M",
+          "OL23133948M"
+        ],
+        "key": "/works/OL13756182W",
+        "language": [
+          "eng"
+        ],
+        "title": "The modern novel",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23133948M",
+              "title": "The modern novel",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0907016715",
+                "9780907016717"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Alison Keith"
+        ],
+        "ddc": [
+          "871.010923"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30511877M"
+        ],
+        "key": "/works/OL22422638W",
+        "language": [
+          "eng"
+        ],
+        "title": "Latin elegy and hellenistic epigram",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30511877M",
+              "title": "Latin elegy and hellenistic epigram",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781443826785",
+                "1443826782"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ira Edgar Odom"
+        ],
+        "cover_i": 7234426,
+        "ddc": [
+          "550.8 s"
+        ],
+        "ebook_access": "public",
+        "edition_key": [
+          "OL5739838M"
+        ],
+        "ia": [
+          "petrographyofpen429odom"
+        ],
+        "key": "/works/OL7324724W",
+        "language": [
+          "eng"
+        ],
+        "title": "Petrography of Pennsylvanian underclays in Illinois and their application to some mineral industries",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL5739838M",
+              "title": "Petrography of Pennsylvanian underclays in Illinois and their application to some mineral industries",
+              "cover_i": 7234426,
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "public"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Center for Professional Responsibility (American Bar Association)"
+        ],
+        "cover_i": 3701420,
+        "ddc": [
+          "174.30973"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL58205M"
+        ],
+        "ia": [
+          "annotatedmodelru0000unse"
+        ],
+        "key": "/works/OL19240785W",
+        "language": [
+          "eng"
+        ],
+        "title": "Annotated Model rules of professional conduct",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL58205M",
+              "title": "Annotated Model rules of professional conduct.",
+              "cover_i": 3701420,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "157073755X",
+                "9781570737558"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Symposium on Graph Drawing (1996 Berkeley, Calif.)"
+        ],
+        "cover_i": 2227082,
+        "ddc": [
+          "511.5"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL1013173M"
+        ],
+        "key": "/works/OL3359928W",
+        "language": [
+          "eng"
+        ],
+        "title": "Graph drawing",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1013173M",
+              "title": "Graph drawing",
+              "cover_i": 2227082,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "3540624953",
+                "9783540624950"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "William Hopkinson"
+        ],
+        "ddc": [
+          "355.031091821"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL19786418M",
+          "OL18698773M"
+        ],
+        "key": "/works/OL12503250W",
+        "language": [
+          "eng"
+        ],
+        "title": "Whither NATO?",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL19786418M",
+              "title": "Whither NATO?",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "1862030995",
+                "9781862030992"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kia Asamiya"
+        ],
+        "cover_i": 798774,
+        "ddc": [
+          "741.5952"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23070888M",
+          "OL8645457M"
+        ],
+        "key": "/works/OL6018260W",
+        "language": [
+          "eng"
+        ],
+        "title": "Batman",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL8645457M",
+              "title": "Batman",
+              "cover_i": 798774,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781563899072",
+                "1563899078"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Margaret Doerkson"
+        ],
+        "cover_i": 9867725,
+        "ddc": [
+          "813.54"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL21387651M",
+          "OL20307700M",
+          "OL18646711M"
+        ],
+        "ia": [
+          "jazzy0000doer"
+        ],
+        "key": "/works/OL12485474W",
+        "language": [
+          "fre",
+          "eng"
+        ],
+        "title": "Jazzy",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL20307700M",
+              "title": "Jazzy",
+              "cover_i": 9867725,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0773600906",
+                "9780773600904"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Davies, Mark",
+          "Mark Davies",
+          "Ana Maria Preto-bay"
+        ],
+        "cover_i": 5043211,
+        "ddc": [
+          "469.3"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL17976245M",
+          "OL10205672M"
+        ],
+        "key": "/works/OL4797811W",
+        "language": [
+          "eng",
+          "por"
+        ],
+        "title": "A frequency dictionary of Portuguese: core vocabulary for learners",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL10205672M",
+              "title": "A Frequency Dictionary of Portuguese (Routledge Frequency Dictionaries)",
+              "cover_i": 5043211,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9780415419963",
+                "0415419964"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Abigail Krasner Balbale"
+        ],
+        "ddc": [
+          "946.8088297"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL57549003M",
+          "OL37989299M"
+        ],
+        "key": "/works/OL27807152W",
+        "language": [
+          "eng"
+        ],
+        "title": "Wolf King",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL57549003M",
+              "title": "Wolf King",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781501781384",
+                "1501781383"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Jeremy N. White"
+        ],
+        "ddc": [
+          "658.4012"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL54040794M"
+        ],
+        "key": "/works/OL39667919W",
+        "language": [
+          "eng"
+        ],
+        "title": "Make Better Strategic Decisions",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL54040794M",
+              "title": "Make Better Strategic Decisions",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781032600611",
+                "1032600616"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Terence Reese"
+        ],
+        "ddc": [
+          "795.415"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL5428444M"
+        ],
+        "key": "/works/OL1692762W",
+        "language": [
+          "eng"
+        ],
+        "title": "Your book of contract bridge",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL5428444M",
+              "title": "Your book of contract bridge.",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rema Reynolds Vassar",
+          "Judy Alston",
+          "Clyde Barnett III"
+        ],
+        "ddc": [
+          "370"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL60831269M",
+          "OL60826082M",
+          "OL60851021M",
+          "OL60846038M"
+        ],
+        "key": "/works/OL44543820W",
+        "language": [
+          "eng"
+        ],
+        "title": "Leading with Soul",
+        "editions": {
+          "numFound": 4,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL60831269M",
+              "title": "Leading with Soul",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781805925064",
+                "1805925067"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kenneth Steven",
+          "Iain Sarjeant"
+        ],
+        "ddc": [
+          "941.42"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL53921456M",
+          "OL57609282M"
+        ],
+        "key": "/works/OL39636711W",
+        "language": [
+          "eng"
+        ],
+        "title": "Iona",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL53921456M",
+              "title": "Iona",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9780861538300",
+                "0861538307"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Smith, Ronald Edward"
+        ],
+        "cover_i": 12509810,
+        "ddc": [
+          "796.019"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL25331078M"
+        ],
+        "ia": [
+          "sportpsychologyf0000smit"
+        ],
+        "key": "/works/OL16654329W",
+        "language": [
+          "eng"
+        ],
+        "title": "Sport psychology for youth coaches",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25331078M",
+              "title": "Sport psychology for youth coaches",
+              "cover_i": 12509810,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781442217157",
+                "9781442217164",
+                "1442217154",
+                "1442217162"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Victoria and Albert Museum, London"
+        ],
+        "ddc": [
+          "391.00942"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL19867037M",
+          "OL14062974M"
+        ],
+        "key": "/works/OL133999W",
+        "language": [
+          "eng"
+        ],
+        "title": "Old English costumes selected from the collection formed by Mr. Talbot Hughes",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL19867037M",
+              "title": "Old English costumes,selected from the collection formed by Mr Talbot Hughes",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "William E Barry"
+        ],
+        "cover_i": 13051229,
+        "ddc": [
+          "974.195"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL1414753M"
+        ],
+        "ia": [
+          "nassonseventyyea0000pros"
+        ],
+        "key": "/works/OL3930749W",
+        "language": [
+          "eng"
+        ],
+        "title": "William E. Barry's Sketch of an old river",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1414753M",
+              "title": "William E. Barry's Sketch of an old river",
+              "cover_i": 13051229,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0914659642",
+                "9780914659648"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Alonzo L. Gaskill"
+        ],
+        "ddc": [
+          "289.322"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30397305M"
+        ],
+        "key": "/works/OL22318643W",
+        "language": [
+          "eng"
+        ],
+        "title": "Miracles of The Book of Mormon",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30397305M",
+              "title": "Miracles of The Book of Mormon",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781462116850",
+                "146211685X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "ddc": [
+          "929.20973"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL3261385M"
+        ],
+        "key": "/works/OL22805661W",
+        "language": [
+          "eng"
+        ],
+        "title": "A Partial history of the Crössmann-Kressman-Cressman-Crissman-Crisman family",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3261385M",
+              "title": "A Partial history of the Crössmann-Kressman-Cressman-Crissman-Crisman family",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Dennis J. Frost"
+        ],
+        "ddc": [
+          "796.0952"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25030413M"
+        ],
+        "key": "/works/OL16148940W",
+        "language": [
+          "eng"
+        ],
+        "title": "Seeing stars",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25030413M",
+              "title": "Seeing stars",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9780674056107",
+                "0674056108"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ronn Elmore"
+        ],
+        "cover_i": 1235019,
+        "ddc": [
+          "158.2"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL40479255M",
+          "OL24261219M",
+          "OL40498431M",
+          "OL7538093M",
+          "OL40492127M",
+          "OL40493200M",
+          "OL684500M",
+          "OL40479279M",
+          "OL40459999M"
+        ],
+        "key": "/works/OL2704836W",
+        "language": [
+          "eng"
+        ],
+        "title": "How to Love a Black Woman",
+        "editions": {
+          "numFound": 9,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24261219M",
+              "title": "How to Love a Black Woman",
+              "cover_i": 6409415,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9780759520882",
+                "0759520887"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "ddc": [
+          "629.28722"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL17462918M"
+        ],
+        "key": "/works/OL18828888W",
+        "language": [
+          "eng"
+        ],
+        "title": "Triumph TR71975-82",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL17462918M",
+              "title": "Triumph TR71975-82",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0851462243",
+                "9780851462240"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kent D. Miller"
+        ],
+        "cover_i": 1439850,
+        "ddc": [
+          "940.544973"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL3572651M"
+        ],
+        "key": "/works/OL5964955W",
+        "language": [
+          "eng"
+        ],
+        "title": "The 363rd Fighter Group in World War II",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3572651M",
+              "title": "The 363rd Fighter Group in World War II",
+              "cover_i": 1439850,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "076431629X",
+                "9780764316296"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Jenny Munro"
+        ],
+        "cover_i": 13810967,
+        "ddc": [
+          "305.80099516"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL53255990M",
+          "OL35525374M"
+        ],
+        "key": "/works/OL26329023W",
+        "language": [
+          "eng"
+        ],
+        "title": "Dreams Made Small",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL35525374M",
+              "title": "Dreams Made Small",
+              "cover_i": 13810967,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781785336843",
+                "1785336843"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Norman Robinson"
+        ],
+        "ddc": [
+          "372.1"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL20628619M"
+        ],
+        "key": "/works/OL9687075W",
+        "language": [
+          "eng"
+        ],
+        "title": "The Okanagan staff utilization project",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL20628619M",
+              "title": "The Okanagan staff utilization project",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Arnold Adoff"
+        ],
+        "cover_i": 8161313,
+        "ddc": [
+          "811.54"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL4718746M"
+        ],
+        "ia": [
+          "underearlymornin0000adof"
+        ],
+        "key": "/works/OL15002465W",
+        "language": [
+          "eng"
+        ],
+        "title": "Under the early morning trees",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4718746M",
+              "title": "Under the early morning trees",
+              "cover_i": 8161313,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0525418601",
+                "9780525418603"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Geneva Bailey Seymour"
+        ],
+        "ddc": [
+          "929.20973"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL3885870M"
+        ],
+        "key": "/works/OL4710841W",
+        "language": [
+          "eng"
+        ],
+        "title": "Romero, some Romero descendants",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3885870M",
+              "title": "Romero, some Romero descendants",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Edith Pinero Green"
+        ],
+        "cover_i": 10673177,
+        "ddc": [
+          "813.54"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL4400444M",
+          "OL7501322M"
+        ],
+        "ia": [
+          "sneaks0000gree_s3u9",
+          "sneaks0000gree"
+        ],
+        "key": "/works/OL6552967W",
+        "language": [
+          "eng"
+        ],
+        "title": "Sneaks",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4400444M",
+              "title": "Sneaks",
+              "cover_i": 10673177,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0525206329",
+                "9780525206323"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "United Nations. Department of International Economic and Social Affairs"
+        ],
+        "ddc": [
+          "304.62021"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2621237M"
+        ],
+        "key": "/works/OL22874432W",
+        "language": [
+          "eng"
+        ],
+        "title": "Estimates and projections of urban, rural, and city populations, 1950-2025",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2621237M",
+              "title": "Estimates and projections of urban, rural, and city populations, 1950-2025",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Betsy St. Amant"
+        ],
+        "cover_i": 8189375,
+        "ddc": [
+          "813.6"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL29186979M",
+          "OL26459926M"
+        ],
+        "ia": [
+          "allsfairinlovecu0000stam_c8q3"
+        ],
+        "key": "/works/OL17879956W",
+        "language": [
+          "eng"
+        ],
+        "title": "All's fair in love and cupcakes",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL26459926M",
+              "title": "All's fair in love and cupcakes",
+              "cover_i": 8189375,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781410475244",
+                "1410475247"
+              ],
+              "ebook_access": "printdisabled"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "William Seale"
+        ],
+        "ddc": [
+          "976.4"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL5953883M"
+        ],
+        "key": "/works/OL2975014W",
+        "language": [
+          "eng"
+        ],
+        "title": "Texas riverman",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL5953883M",
+              "title": "Texas riverman",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Miriam Butt",
+          "Tracy Holloway King",
+          "Gillian Ramchand"
+        ],
+        "cover_i": 3882280,
+        "ddc": [
+          "491.1"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL1103604M"
+        ],
+        "key": "/works/OL18326667W",
+        "language": [
+          "eng"
+        ],
+        "title": "Theoretical perspectives on word order in South Asian languages",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1103604M",
+              "title": "Theoretical perspectives on word order in South Asian languages",
+              "cover_i": 3882280,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "188152650X",
+                "1881526496",
+                "9781881526506",
+                "9781881526490"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "David I. Fisher"
+        ],
+        "cover_i": 5211743,
+        "ddc": [
+          "341.481"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL22083187M"
+        ],
+        "key": "/works/OL4442430W",
+        "language": [
+          "eng"
+        ],
+        "title": "Defamation via satellite",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL22083187M",
+              "title": "Defamation via satellite",
+              "cover_i": 5211743,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9041105360",
+                "9789041105363"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Philip G. Altbach"
+        ],
+        "cover_i": 4361449,
+        "ddc": [
+          "070.5091724"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4105471M"
+        ],
+        "key": "/works/OL393625W",
+        "language": [
+          "eng"
+        ],
+        "title": "Publishing in the Third World",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4105471M",
+              "title": "Publishing in the Third World",
+              "cover_i": 4361449,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0030559316",
+                "9780030559310"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Pattie McCarthy"
+        ],
+        "ddc": [
+          "813.6"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL43223524M"
+        ],
+        "key": "/works/OL31555116W",
+        "language": [
+          "eng"
+        ],
+        "title": "Nulls",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL43223524M",
+              "title": "Nulls",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9780982989678",
+                "0982989679"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Amal Kumar Das"
+        ],
+        "ddc": [
+          "305.80095414"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2004499M"
+        ],
+        "key": "/works/OL335255W",
+        "language": [
+          "eng"
+        ],
+        "title": "Tribal situation in West Bengal",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2004499M",
+              "title": "Tribal situation in West Bengal",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Dave Kaufman"
+        ],
+        "ddc": [
+          "791.450973"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL5549335M"
+        ],
+        "key": "/works/OL5717656W",
+        "language": [
+          "eng"
+        ],
+        "title": "TV 70",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL5549335M",
+              "title": "TV 70.",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Norah Lofts"
+        ],
+        "cover_i": 1407651,
+        "ddc": [
+          "823.912"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL17372427M",
+          "OL5323616M",
+          "OL15060989M",
+          "OL17079692M",
+          "OL5640700M",
+          "OL14419440M",
+          "OL9780332M",
+          "OL24404834M"
+        ],
+        "ia": [
+          "hesterroon0000loft",
+          "hesterroon00loft"
+        ],
+        "key": "/works/OL5096777W",
+        "language": [
+          "eng"
+        ],
+        "title": "Hester Roon",
+        "editions": {
+          "numFound": 8,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL9780332M",
+              "title": "Hester Roon",
+              "cover_i": 1407651,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9780753177358",
+                "0753177358"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Johann Wolfgang von Goethe"
+        ],
+        "cover_i": 9711251,
+        "ddc": [
+          "831.6"
+        ],
+        "ebook_access": "public",
+        "edition_key": [
+          "OL25496239M"
+        ],
+        "ia": [
+          "cihm_66520"
+        ],
+        "key": "/works/OL16873501W",
+        "language": [
+          "eng"
+        ],
+        "title": "Faust",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25496239M",
+              "title": "Faust",
+              "cover_i": 9711251,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0665665202",
+                "9780665665202"
+              ],
+              "ebook_access": "public"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Laurent de Brunhoff"
+        ],
+        "cover_i": 596024,
+        "ddc": [
+          "613.7046083"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL25915260M",
+          "OL7998106M",
+          "OL3955632M"
+        ],
+        "ia": [
+          "babarsyogaforele0000brun"
+        ],
+        "key": "/works/OL3561807W",
+        "language": [
+          "eng",
+          "fre"
+        ],
+        "title": "Babar's yoga for elephants",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3955632M",
+              "title": "Babar's yoga for elephants",
+              "cover_i": 596024,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0810910217",
+                "9780810910218"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "ddc": [
+          "621.4835"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4601934M"
+        ],
+        "key": "/works/OL22571698W",
+        "language": [
+          "eng"
+        ],
+        "title": "Practical applications of R & D in the field of safeguards",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4601934M",
+              "title": "Practical applications of R & D in the field of safeguards",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kālidāsa"
+        ],
+        "ddc": [
+          "891.22"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL18628507M",
+          "OL19431745M",
+          "OL23392713M",
+          "OL23533912M",
+          "OL24060269M",
+          "OL4623441M",
+          "OL158118M",
+          "OL644728M",
+          "OL1316934M",
+          "OL2698186M",
+          "OL7014M",
+          "OL504571M",
+          "OL264257M",
+          "OL264252M",
+          "OL16251129M",
+          "OL1684131M",
+          "OL4080950M",
+          "OL5175078M",
+          "OL642445M",
+          "OL3285975M",
+          "OL264247M",
+          "OL329844M",
+          "OL264258M",
+          "OL951274M",
+          "OL328884M",
+          "OL6294507M",
+          "OL329845M",
+          "OL1682977M",
+          "OL17181891M",
+          "OL328277M"
+        ],
+        "key": "/works/OL293386W",
+        "language": [
+          "tel",
+          "dut",
+          "mar",
+          "dan",
+          "hin",
+          "ger",
+          "slv",
+          "san",
+          "eng"
+        ],
+        "title": "Mālavikāgnimitra",
+        "editions": {
+          "numFound": 10,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23392713M",
+              "title": "Malavika and Agnimitra",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9780814787021",
+                "0814787029"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Edward A. Feigenbaum"
+        ],
+        "cover_i": 6902384,
+        "ddc": [
+          "006",
+          "001.535"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL5885375M",
+          "OL4114329M",
+          "OL19704322M"
+        ],
+        "ia": [
+          "computersthought00feig"
+        ],
+        "key": "/works/OL2998831W",
+        "language": [
+          "eng"
+        ],
+        "title": "Computers and thought",
+        "editions": {
+          "numFound": 3,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL5885375M",
+              "title": "Computers and thought",
+              "cover_i": 6902384,
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Interagency Floodplain Management Review Committee (U.S.)"
+        ],
+        "cover_i": 9717184,
+        "ddc": [
+          "363.349360973"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL22232545M",
+          "OL17683060M",
+          "OL1199868M",
+          "OL17790263M",
+          "OL14454827M"
+        ],
+        "ia": [
+          "sharingchallenge0000inte"
+        ],
+        "key": "/works/OL3651625W",
+        "language": [
+          "eng"
+        ],
+        "title": "Sharing the challenge",
+        "editions": {
+          "numFound": 5,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1199868M",
+              "title": "Sharing the challenge",
+              "cover_i": 9717184,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0160450780",
+                "9780160450785"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Katheryn Russell-Brown"
+        ],
+        "ddc": [
+          "788.93165092"
+        ],
+        "ebook_access": "public",
+        "edition_key": [
+          "OL27161819M"
+        ],
+        "ia": [
+          "littlemelbaherbigtromb000brow_1"
+        ],
+        "key": "/works/OL19981682W",
+        "language": [
+          "eng"
+        ],
+        "title": "Little Melba and her big trombone",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL27161819M",
+              "title": "Little Melba and her big trombone",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781600608988",
+                "1600608981"
+              ],
+              "ebook_access": "public"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Romain Rolland"
+        ],
+        "ddc": [
+          "780.4"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL13541641M",
+          "OL19208243M",
+          "OL6027203M"
+        ],
+        "key": "/works/OL68081W",
+        "language": [
+          "eng"
+        ],
+        "title": "Essays on music",
+        "editions": {
+          "numFound": 3,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL13541641M",
+              "title": "Essays on music.",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Lorne Bregitzer"
+        ],
+        "cover_i": 8717979,
+        "ddc": [
+          "781.49"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL22552259M"
+        ],
+        "key": "/works/OL13617798W",
+        "language": [
+          "eng"
+        ],
+        "title": "Secrets of recording",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL22552259M",
+              "title": "Secrets of recording",
+              "cover_i": 8717979,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9780240811277",
+                "0240811275"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Indonesia. Badan Koordinasi Penanaman Modal"
+        ],
+        "ddc": [
+          "345.98067",
+          "346.59807"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL3155897M"
+        ],
+        "key": "/works/OL22777260W",
+        "language": [
+          "eng"
+        ],
+        "title": "Investment law and regulation",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3155897M",
+              "title": "Investment law and regulation.",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Zhongshu Wang"
+        ],
+        "cover_i": 10356890,
+        "ddc": [
+          "931.04"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL21240836M"
+        ],
+        "ia": [
+          "hancivilization0000wang"
+        ],
+        "key": "/works/OL11697432W",
+        "language": [
+          "eng"
+        ],
+        "title": "Han civilization",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL21240836M",
+              "title": "Han civilization",
+              "cover_i": 10356890,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0300027230",
+                "9780300027235"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Maria José Botelho"
+        ],
+        "cover_i": 9756257,
+        "ddc": [
+          "809.89282"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL22569690M"
+        ],
+        "key": "/works/OL13623511W",
+        "language": [
+          "eng"
+        ],
+        "title": "Critical multicultural analysis of children's literature",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL22569690M",
+              "title": "Critical multicultural analysis of children's literature",
+              "cover_i": 9756257,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9780415996662",
+                "9780805837117",
+                "9780203885208",
+                "041599666X",
+                "0805837116",
+                "0203885201"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "ddc": [
+          "971.367"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL17278494M"
+        ],
+        "key": "/works/OL17278494M",
+        "language": [
+          "eng"
+        ],
+        "title": "Peterborough",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL17278494M",
+              "title": "Peterborough",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Arthur Pearcy"
+        ],
+        "ddc": [
+          "940.544941"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL630529M"
+        ],
+        "key": "/works/OL2420233W",
+        "language": [
+          "eng"
+        ],
+        "title": "Lend-lease aircraft in World War II",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL630529M",
+              "title": "Lend-lease aircraft in World War II",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "1853104434",
+                "9781853104435"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Richard A. Matula"
+        ],
+        "ddc": [
+          "629.252"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4852383M"
+        ],
+        "key": "/works/OL6887116W",
+        "language": [
+          "eng"
+        ],
+        "title": "Consultant report to the Committee on Motor Vehicle Emissions, Commission on Sociotechnical Systems, National Research Council on emissions and fuel-economy test methods and procedures",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4852383M",
+              "title": "Consultant report to the Committee on Motor Vehicle Emissions, Commission on Sociotechnical Systems, National Research Council on emissions and fuel-economy test methods and procedures",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "K. M. Letherman"
+        ],
+        "cover_i": 9911727,
+        "ddc": [
+          "697"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL40423910M",
+          "OL4116791M"
+        ],
+        "ia": [
+          "automaticcontrol0000leth"
+        ],
+        "key": "/works/OL6339929W",
+        "language": [
+          "eng"
+        ],
+        "title": "Automatic controls for heating and air conditioning",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4116791M",
+              "title": "Automatic controls for heating and air conditioning",
+              "cover_i": 9911727,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0080232221",
+                "9780080232225"
+              ],
+              "ebook_access": "printdisabled"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ernst R. Zivier"
+        ],
+        "ddc": [
+          "341.290943155"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL3133273M"
+        ],
+        "key": "/works/OL3390169W",
+        "language": [
+          "ger",
+          "eng"
+        ],
+        "title": "The legal status of the land Berlin",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3133273M",
+              "title": "The legal status of the land Berlin",
+              "language": [
+                "eng",
+                "ger"
+              ],
+              "isbn": [
+                "3870611502",
+                "9783870611507"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "J. M. DeMatteis"
+        ],
+        "ddc": [
+          "741.5973"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23018604M"
+        ],
+        "key": "/works/OL1650948W",
+        "language": [
+          "eng"
+        ],
+        "title": "Justice League",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23018604M",
+              "title": "Justice League",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0930289404",
+                "1413189601",
+                "9780930289409",
+                "9781413189605"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "cover_i": 10300887,
+        "ddc": [
+          "813.010806"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL28361077M"
+        ],
+        "ia": [
+          "5minutetreasury0000unse"
+        ],
+        "key": "/works/OL20933961W",
+        "language": [
+          "eng"
+        ],
+        "title": "5-minute treasury",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL28361077M",
+              "title": "5-minute treasury",
+              "cover_i": 10300887,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781474844598",
+                "9781472382313",
+                "9781472382320",
+                "9781474844581",
+                "1474844596",
+                "1472382315",
+                "1472382323",
+                "1474844588"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Stephen Vincent Benét"
+        ],
+        "cover_i": 9677364,
+        "ddc": [
+          "811.5"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL15488121M",
+          "OL14171092M"
+        ],
+        "key": "/works/OL24170W",
+        "language": [
+          "eng"
+        ],
+        "title": "Nightmare at noon",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL14171092M",
+              "title": "Nightmare at noon",
+              "cover_i": 9677364,
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "George Philip Baker"
+        ],
+        "cover_i": 10810973,
+        "ddc": [
+          "937.050924"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL5532825M"
+        ],
+        "ia": [
+          "sullafortunate0000unse"
+        ],
+        "key": "/works/OL7242698W",
+        "language": [
+          "eng"
+        ],
+        "title": "Sulla the fortunate",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL5532825M",
+              "title": "Sulla the fortunate",
+              "cover_i": 10810973,
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ronald Frederick Michaelis"
+        ],
+        "ddc": [
+          "739.5330941"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL21292885M"
+        ],
+        "key": "/works/OL13348605W",
+        "language": [
+          "eng"
+        ],
+        "title": "Antique pewter of the British Isles",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL21292885M",
+              "title": "Antique pewter of the British Isles",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Talbot Smith"
+        ],
+        "ddc": [
+          "340.069"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL9930843M",
+          "OL5820153M"
+        ],
+        "key": "/works/OL181160W",
+        "language": [
+          "eng"
+        ],
+        "title": "Lawyer",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL5820153M",
+              "title": "Lawyer",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "United States. Congressional Budget Office."
+        ],
+        "ddc": [
+          "331.281353"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4689636M"
+        ],
+        "key": "/works/OL2162145W",
+        "language": [
+          "eng"
+        ],
+        "title": "Executive compensation in the Federal government",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4689636M",
+              "title": "Executive compensation in the Federal government",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "California. Legislature. Assembly. Subcommittee on Toxic Substances."
+        ],
+        "ddc": [
+          "353.97940082323"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL3924327M"
+        ],
+        "key": "/works/OL6201571W",
+        "language": [
+          "eng"
+        ],
+        "title": "Orientation hearing with state agencies regulating toxic substances",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3924327M",
+              "title": "Orientation hearing with state agencies regulating toxic substances",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "A. Edward Newton"
+        ],
+        "cover_i": 9467150,
+        "ddc": [
+          "823.8"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL5706360M",
+          "OL6739960M",
+          "OL4898681M",
+          "OL4546937M"
+        ],
+        "ia": [
+          "thomashardynovel0000newt_t8r8"
+        ],
+        "key": "/works/OL1514428W",
+        "language": [
+          "eng"
+        ],
+        "title": "Thomas Hardy, novelist or poet?",
+        "editions": {
+          "numFound": 4,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL5706360M",
+              "title": "Thomas Hardy, novelist or poet?",
+              "cover_i": 9467150,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0838312985",
+                "9780838312988"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Marc Kessler",
+          "Stephen E. Goldston"
+        ],
+        "cover_i": 4800416,
+        "ddc": [
+          "362.20973",
+          "616.89 s"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL2739395M"
+        ],
+        "ia": [
+          "decadeofprogress0000unse"
+        ],
+        "key": "/works/OL19386651W",
+        "language": [
+          "eng"
+        ],
+        "title": "A Decade of progress in primary prevention",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2739395M",
+              "title": "A Decade of progress in primary prevention",
+              "cover_i": 4800416,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0874513774",
+                "0874513782",
+                "9780874513776",
+                "9780874513783"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Barbara Luke"
+        ],
+        "cover_i": 4008431,
+        "ddc": [
+          "618.24"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL1741939M"
+        ],
+        "ia": [
+          "clinicalmaternal0000luke"
+        ],
+        "key": "/works/OL1938059W",
+        "language": [
+          "eng"
+        ],
+        "title": "Clinical maternal-fetal nutrition",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1741939M",
+              "title": "Clinical maternal-fetal nutrition",
+              "cover_i": 4008431,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0316536148",
+                "9780316536141"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Matt Scheff"
+        ],
+        "ddc": [
+          "796.334"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL53351915M"
+        ],
+        "key": "/works/OL39188317W",
+        "language": [
+          "eng"
+        ],
+        "title": "World Cup",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL53351915M",
+              "title": "World Cup",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9798855119442"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Eddie Braben"
+        ],
+        "cover_i": 13596415,
+        "ddc": [
+          "791.457"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL39842043M",
+          "OL5247836M",
+          "OL9770372M"
+        ],
+        "ia": [
+          "bestofmorecambew0000brab"
+        ],
+        "key": "/works/OL7114907W",
+        "language": [
+          "eng"
+        ],
+        "title": "The Best of Morecambe and Wise",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL39842043M",
+              "title": "Best of Morecambe and Wise",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9780860072447",
+                "0860072444"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Carol Barach"
+        ],
+        "cover_i": 4232942,
+        "ddc": [
+          "618.92855"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL23257355M",
+          "OL3186498M",
+          "OL2844846M"
+        ],
+        "ia": [
+          "helpmesayit0000bara"
+        ],
+        "key": "/works/OL5357381W",
+        "language": [
+          "eng"
+        ],
+        "title": "Help me say it",
+        "editions": {
+          "numFound": 3,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2844846M",
+              "title": "Help me say it",
+              "cover_i": 11643335,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0452256232",
+                "9780452256231"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Imperial Chemical Industries."
+        ],
+        "ddc": [
+          "660.20722"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL14058961M"
+        ],
+        "key": "/works/OL10735286W",
+        "language": [
+          "eng"
+        ],
+        "title": "Case-studies in chemical engineering",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL14058961M",
+              "title": "Case-studies in chemical engineering.",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Norman Austin"
+        ],
+        "cover_i": 12132497,
+        "ddc": [
+          "883.01"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL5443824M",
+          "OL7708819M"
+        ],
+        "ia": [
+          "archeryatdarkofm0000aust",
+          "archeryatdarkofm0000aust_h4d7"
+        ],
+        "key": "/works/OL3953924W",
+        "language": [
+          "eng"
+        ],
+        "title": "Archery at the Dark of the Moon",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL5443824M",
+              "title": "Archery at the dark of the moon",
+              "cover_i": 12132497,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0520027132",
+                "9780520027138"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Friedhelm Jacob"
+        ],
+        "ddc": [
+          "341.4844026643073"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL1594846M"
+        ],
+        "key": "/works/OL3821131W",
+        "language": [
+          "eng",
+          "ger"
+        ],
+        "title": "Handbook on the 1989 double taxation convention between the Federal Republic of Germany and the United States of America (a continuation of the Debatin/Walter Handbook on the United States-German Tax Convention)",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1594846M",
+              "title": "Handbook on the 1989 double taxation convention between the Federal Republic of Germany and the United States of America (a continuation of the Debatin/Walter Handbook on the United States-German Tax Convention)",
+              "language": [
+                "eng",
+                "ger"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Efraim Inbar"
+        ],
+        "cover_i": 1220548,
+        "ddc": [
+          "327.5694"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL19567167M",
+          "OL7494789M"
+        ],
+        "key": "/works/OL18527679W",
+        "language": [
+          "eng"
+        ],
+        "title": "Israel's strategic agenda",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL7494789M",
+              "title": "ISRAELS STRATEGIC AGENDA",
+              "cover_i": 1220548,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9780415413602",
+                "0415413605"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kelly Younger"
+        ],
+        "ddc": [
+          "813.54"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL31119016M"
+        ],
+        "ia": [
+          "henleyinhour0000youn"
+        ],
+        "key": "/works/OL23275628W",
+        "language": [
+          "eng"
+        ],
+        "title": "Henley in an hour",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31119016M",
+              "title": "Henley in an hour",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781936232888",
+                "193623288X"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Peter W. Weigand"
+        ],
+        "ddc": [
+          "552.26"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2616319M"
+        ],
+        "key": "/works/OL5176521W",
+        "language": [
+          "eng"
+        ],
+        "title": "Geochemistry of the Oslo basaltic rocks",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2616319M",
+              "title": "Geochemistry of the Oslo basaltic rocks",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "8200014355",
+                "9788200014355"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Open University. Management in Education Course Team"
+        ],
+        "cover_i": 12651065,
+        "ddc": [
+          "371"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL37736249M"
+        ],
+        "ia": [
+          "managementineduc0000open"
+        ],
+        "key": "/works/OL27675988W",
+        "language": [
+          "eng"
+        ],
+        "title": "Management in education",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL37736249M",
+              "title": "Management in education",
+              "cover_i": 12651065,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9780706234701",
+                "9780706234718",
+                "0706234707",
+                "0706234715"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Jeremy D. Popkin"
+        ],
+        "cover_i": 91380,
+        "ddc": [
+          "944.04",
+          "364.973"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL33639902M",
+          "OL29347811M",
+          "OL1110061M",
+          "OL29440592M",
+          "OL29440603M",
+          "OL666290M",
+          "OL33661526M",
+          "OL29206256M",
+          "OL33651756M",
+          "OL29440723M",
+          "OL17190148M",
+          "OL29440610M",
+          "OL23017588M",
+          "OL7343356M",
+          "OL9287197M",
+          "OL9298009M",
+          "OL21929948M",
+          "OL29440413M",
+          "OL31028779M",
+          "OL34648259M",
+          "OL7332547M",
+          "OL4904823M"
+        ],
+        "ia": [
+          "criminaljusticep0000unse_y4q5",
+          "shorthistoryoffr0000popk",
+          "shorthistoryoffr0000popk_r3p3"
+        ],
+        "key": "/works/OL2652300W",
+        "language": [
+          "eng"
+        ],
+        "title": "Short History of the French Revolution, A",
+        "editions": {
+          "numFound": 22,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL17190148M",
+              "title": "A short history of the French Revolution",
+              "cover_i": 11612493,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0131930370",
+                "9780131930377"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Melissa Gish"
+        ],
+        "cover_i": 13064313,
+        "ddc": [
+          "599.789"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL24422591M"
+        ],
+        "ia": [
+          "pandas0000gish"
+        ],
+        "key": "/works/OL15455521W",
+        "language": [
+          "eng"
+        ],
+        "title": "Pandas",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24422591M",
+              "title": "Pandas",
+              "cover_i": 13064313,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781608180820",
+                "1608180824"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Yung-Teh Chow",
+          "Lee Rainwater"
+        ],
+        "cover_i": 13444799,
+        "ddc": [
+          "361.973"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL35539960M",
+          "OL54011389M",
+          "OL28928923M",
+          "OL53976953M",
+          "OL35529112M"
+        ],
+        "key": "/works/OL21357276W",
+        "language": [
+          "eng"
+        ],
+        "title": "Social Policy and Public Policy",
+        "editions": {
+          "numFound": 5,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL28928923M",
+              "title": "Social Policy and Public Policy",
+              "cover_i": 13444799,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781138532878",
+                "1138532878"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Gowans, Alan.",
+          "Alan Gowans"
+        ],
+        "cover_i": 6766507,
+        "ddc": [
+          "720.973"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL5885437M",
+          "OL23233157M"
+        ],
+        "ia": [
+          "imagesofamerican00gowa"
+        ],
+        "key": "/works/OL3669146W",
+        "language": [
+          "eng"
+        ],
+        "title": "Images of American living",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL5885437M",
+              "title": "Images of American living",
+              "cover_i": 6766507,
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ed McGaffigan"
+        ],
+        "ddc": [
+          "338.4760952"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4478252M"
+        ],
+        "key": "/works/OL6621991W",
+        "language": [
+          "eng"
+        ],
+        "title": "Science and technology in Japan",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4478252M",
+              "title": "Science and technology in Japan",
+              "language": [
+                "eng"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Margaret Elizabeth Lawrie"
+        ],
+        "cover_i": 13155680,
+        "ddc": [
+          "398.2209943"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL5275058M",
+          "OL5460698M"
+        ],
+        "ia": [
+          "mythslegendsofto0000lawr"
+        ],
+        "key": "/works/OL7129068W",
+        "language": [
+          "eng"
+        ],
+        "title": "Myths and legends of Torres Strait",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL5460698M",
+              "title": "Myths and legends of Torres Strait",
+              "cover_i": 13155680,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0800854640",
+                "9780800854645"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Adalbert Stifter"
+        ],
+        "ddc": [
+          "833.7"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL5766578M"
+        ],
+        "key": "/works/OL1228764W",
+        "language": [
+          "eng",
+          "ger"
+        ],
+        "title": "The Recluse",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL5766578M",
+              "title": "The Recluse",
+              "language": [
+                "eng",
+                "ger"
+              ],
+              "isbn": [
+                "0224615548",
+                "9780224615549"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Andrew Lynch"
+        ],
+        "ddc": [
+          "347.94014"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL40624834M",
+          "OL57734906M"
+        ],
+        "key": "/works/OL29515969W",
+        "language": [
+          "eng"
+        ],
+        "title": "Great Australian Dissents",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL40624834M",
+              "title": "Great Australian Dissents",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781108133760",
+                "1108133762"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Fiona Waters"
+        ],
+        "cover_i": 10366645,
+        "ddc": [
+          "398.2452",
+          "398.2"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL28953803M"
+        ],
+        "ia": [
+          "aesopsfables0000wate"
+        ],
+        "key": "/works/OL21379108W",
+        "language": [
+          "eng"
+        ],
+        "title": "Aesop's fables",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL28953803M",
+              "title": "Aesop's fables",
+              "cover_i": 10366645,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "9781849390491",
+                "1849390495"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Charles Golding"
+        ],
+        "cover_i": 10560761,
+        "ddc": [
+          "599.3233"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL21238544M",
+          "OL10315798M"
+        ],
+        "ia": [
+          "ratsnewplague0000gold"
+        ],
+        "key": "/works/OL202612W",
+        "language": [
+          "eng"
+        ],
+        "title": "Rats",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL21238544M",
+              "title": "Rats",
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0297810820",
+                "9780297810827"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sally W. Stoecker"
+        ],
+        "cover_i": 1539980,
+        "ddc": [
+          "355.0094709041"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL54021667M",
+          "OL53981985M",
+          "OL36735448M",
+          "OL36735442M",
+          "OL351292M"
+        ],
+        "ia": [
+          "forgingstalinsar0000stoe"
+        ],
+        "key": "/works/OL1842248W",
+        "language": [
+          "eng"
+        ],
+        "title": "Forging Stalin's Army",
+        "editions": {
+          "numFound": 5,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL351292M",
+              "title": "Forging Stalin's Army",
+              "cover_i": 1539980,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "0813334101",
+                "9780813334103"
+              ],
+              "ebook_access": "printdisabled"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Dan Ramsey"
+        ],
+        "cover_i": 1897830,
+        "ddc": [
+          "658.041"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL998899M",
+          "OL6795290M"
+        ],
+        "ia": [
+          "101besthomebusin00rams_0"
+        ],
+        "key": "/works/OL2454479W",
+        "language": [
+          "eng"
+        ],
+        "title": "101 best home businesses",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL998899M",
+              "title": "101 best home businesses",
+              "cover_i": 799577,
+              "language": [
+                "eng"
+              ],
+              "isbn": [
+                "1564142639",
+                "9781564142634"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source_url": "https://openlibrary.org/search.json?title=Neminatam&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "final_url": "https://openlibrary.org/search.json?title=Neminatam&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "retrieved_at": "2026-10-04T03:37:15.765381+00:00",
+  "bytes": 480,
+  "sha256": "92c0e3f4cec7453fcab73d39caa1df3961fa434ab276b14e7a209cef6a3473b0",
+  "content_type": "application/json",
+  "file": "data/research/multilingual-pilot-v1/review-v3/sources/pm-work-101-catalog-authorless.json"
+}

@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "raw_photo_and_text_preserved": true,
+  "title_recovered": true,
+  "author_recovered": true,
+  "background_text_removed": true,
+  "classifier_calls": 1,
+  "quality": {
+    "ocr_confidence": 100.0,
+    "low_confidence_fraction": 0.0,
+    "word_count": 34,
+    "median_character_height": 76.5,
+    "sharpness": 89.12021606445313,
+    "script": null,
+    "script_mismatch": false,
+    "suggested_languages": [],
+    "engine": "apple-vision-accurate",
+    "confidence_source": "line recognizer; uncalibrated",
+    "capture": {
+      "page_detected": true,
+      "method": "central-quadrilateral-text-filter",
+      "polygon": [
+        [
+          219.99998474121094,
+          303.33331298828125
+        ],
+        [
+          1596.6666259765625,
+          233.3333282470703
+        ],
+        [
+          1736.6666259765625,
+          2280.0
+        ],
+        [
+          280.0,
+          2360.0
+        ]
+      ],
+      "processed_size": [
+        1920,
+        2560
+      ]
+    },
+    "region": {
+      "left": 219,
+      "top": 233,
+      "width": 1516,
+      "height": 2126,
+      "image_width": 1920,
+      "image_height": 2560
+    }
+  },
+  "suggested_path": [
+    "900",
+    "910",
+    "914"
+  ],
+  "next_action": "request_page"
+}

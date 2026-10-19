@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "checked_at": "2026-10-04T09:01:39.962Z",
+  "title_recovered": true,
+  "author_recovered": true,
+  "background_text_removed": true,
+  "three_ddc_levels_visible": true,
+  "saved_photo_reread_works": true,
+  "one_repair_limit_enforced": true,
+  "physical_phone_test": false,
+  "real_phone_source_image": true,
+  "page_errors": []
+}

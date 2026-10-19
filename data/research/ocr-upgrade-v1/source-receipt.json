@@ -1,0 +1,10 @@
+{
+  "source": "User-provided physical-phone photo, preserved from local capture database",
+  "reference_title": "The Kite Runner",
+  "reference_author": "Khaled Hosseini",
+  "reference_method": "Assistant visual review; not a complete manually checked transcription",
+  "reference_is_ddc_ground_truth": false,
+  "fixture_sha256": "b1a0eaf9040fee2cc13373d13e7b35306374e6bd9d7141a7b06443cb7b1aef96",
+  "redistribution_status": "not established; private research fixture",
+  "development_case": true
+}

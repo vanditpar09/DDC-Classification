@@ -1,0 +1,15 @@
+{
+  "C": 10.0,
+  "min_groups": 5,
+  "native_group_weight": 10.0,
+  "encoder": "intfloat/multilingual-e5-small",
+  "encoder_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "selection": "Single predeclared configuration; no search on development or locked test",
+  "calibration": "None; manual review always required",
+  "native_test_locked": true,
+  "dataset_sha256": "fd3ef6383eff62780a4ba953ac7349dccd7688abb305583b8fae86512d5ead58",
+  "baseline_sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b",
+  "original_catalog_train": 3061,
+  "native_train_editions": 54,
+  "native_development_editions": 14
+}

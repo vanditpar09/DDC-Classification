@@ -1,0 +1,122 @@
+[
+  {
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=226&pageno=2",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=226&pageno=2",
+      "retrieved_at": "2026-10-04T02:34:47.305350+00:00",
+      "bytes": 813313,
+      "sha256": "49e120c4d2d2001e748fc67c01e495d37ad0c4908ed5ae88fbe5c1070bb3e264",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-226-2.query.html"
+    }
+  },
+  {
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=226&pageno=5",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=226&pageno=5",
+      "retrieved_at": "2026-10-04T02:34:47.990125+00:00",
+      "bytes": 709276,
+      "sha256": "5722ea11d7470dc19d17288b2853d6c266aabdab37ee905d376441de4164a7c7",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-226-5.query.html"
+    }
+  },
+  {
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=2",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=2",
+      "retrieved_at": "2026-10-04T02:34:48.383737+00:00",
+      "bytes": 63868,
+      "sha256": "ede121407ce4ece34796608bae4f48e4ea2a60c63af6cbeb34f1f003d8b3f335",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-2.query.html"
+    }
+  },
+  {
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=12",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=12",
+      "retrieved_at": "2026-10-04T02:34:48.921580+00:00",
+      "bytes": 96959,
+      "sha256": "ef3d1921a5454a1cb763c04618f3c4f778b77fd662bba6f057a6b884b4258013",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-12.query.html"
+    }
+  },
+  {
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=16",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=16",
+      "retrieved_at": "2026-10-04T02:34:49.332558+00:00",
+      "bytes": 43305,
+      "sha256": "0524b27fab918b5154f1c0719cc19ca59f7c6802761f801533a8fcfa90b6cf0b",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-16.query.html"
+    }
+  },
+  {
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=259&pageno=7",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=259&pageno=7",
+      "retrieved_at": "2026-10-04T02:34:49.864988+00:00",
+      "bytes": 131873,
+      "sha256": "6dced9f1b6b3380fd42498ca18a2d509372dfa9ad5fa2222b150a0232c2eac5a",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-7.query.html"
+    }
+  },
+  {
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=259&pageno=8",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=259&pageno=8",
+      "retrieved_at": "2026-10-04T02:34:50.383230+00:00",
+      "bytes": 156450,
+      "sha256": "2865feb378661d8ffa2e21300146eaad92bee79e3fada96c98f58d887bbd6a58",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-8.query.html"
+    }
+  },
+  {
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=4",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=4",
+      "retrieved_at": "2026-10-04T02:34:50.898191+00:00",
+      "bytes": 132711,
+      "sha256": "a70d9862b2a02625d4a5de0ee41b4f07203451890dd99d78312947a1efc6c973",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-4.query.html"
+    }
+  },
+  {
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=6",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=6",
+      "retrieved_at": "2026-10-04T02:34:51.345713+00:00",
+      "bytes": 115962,
+      "sha256": "bf88c5375be4746cd141f07b7cc75c2341622f3ca4024d2e5eaad1d6e482ad70",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-6.query.html"
+    }
+  },
+  {
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=7",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=7",
+      "retrieved_at": "2026-10-04T02:34:51.806138+00:00",
+      "bytes": 110725,
+      "sha256": "d296089bc2cead3cf358d5673c539fa95742195379d76a0f401d1e08e147712a",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-7.query.html"
+    }
+  }
+]

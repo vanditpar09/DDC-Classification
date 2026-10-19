@@ -1,0 +1,901 @@
+{
+  "fixtures": "Synthetic English typography images and hand-written Unicode phrases; not a real-book accuracy benchmark.",
+  "results": [
+    {
+      "scenario": "Readable ambiguous cover",
+      "expected": "request_page",
+      "actual": "request_page",
+      "passed": true,
+      "prediction": {
+        "label": "500",
+        "score": 0.20183324909422137,
+        "margin": 0.04448728932471693,
+        "entropy": 0.9319968298953639,
+        "top3": [
+          {
+            "label": "500",
+            "name": "Science",
+            "score": 0.20183324909422137
+          },
+          {
+            "label": "100",
+            "name": "Philosophy & psychology",
+            "score": 0.15734595976950444
+          },
+          {
+            "label": "600",
+            "name": "Technology",
+            "score": 0.14340248239050812
+          }
+        ],
+        "token_count": 7,
+        "truncated": false,
+        "hierarchy": {
+          "path": [
+            {
+              "level": 1,
+              "label": "500",
+              "score": 0.20183324909422137,
+              "margin": 0.04448728932471693,
+              "supported": true,
+              "review_ready": false,
+              "path_score": 0.20183324909422137,
+              "top3": [
+                {
+                  "label": "500",
+                  "score": 0.20183324909422137
+                },
+                {
+                  "label": "100",
+                  "score": 0.15734595976950444
+                },
+                {
+                  "label": "600",
+                  "score": 0.14340248239050812
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "parent": "500",
+              "label": "590",
+              "supported": true,
+              "score": 0.2990993638006005,
+              "margin": 0.08095245461407699,
+              "path_score": 0.060368196397889734,
+              "review_ready": false,
+              "training_groups": 122,
+              "top3": [
+                {
+                  "label": "590",
+                  "score": 0.2990993638006005
+                },
+                {
+                  "label": "530",
+                  "score": 0.2181469091865235
+                },
+                {
+                  "label": "550",
+                  "score": 0.18750391343802272
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            },
+            {
+              "level": 3,
+              "parent": "590",
+              "label": "599",
+              "supported": true,
+              "score": 0.660534204113252,
+              "margin": 0.5142149858929195,
+              "path_score": 0.039875258561432585,
+              "review_ready": false,
+              "training_groups": 54,
+              "top3": [
+                {
+                  "label": "599",
+                  "score": 0.660534204113252
+                },
+                {
+                  "label": "591",
+                  "score": 0.14631921822033253
+                },
+                {
+                  "label": "595",
+                  "score": 0.053555151575983444
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            }
+          ],
+          "review_level": 0,
+          "target_level": 3,
+          "needs_finer_evidence": true,
+          "score_note": "L2/L3 scores are conditional on the displayed parent. Thresholds are experimental."
+        },
+        "inference_seconds": 2.417117042,
+        "model_version": {
+          "name": "hierarchy_v1",
+          "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+        }
+      },
+      "work": {
+        "ocr_passes": 1,
+        "pixels": 1540000,
+        "seconds": 0.09126779200000001,
+        "classifier_calls": 1,
+        "duplicate_uploads": 0
+      },
+      "quality": {
+        "ocr_confidence": 96.0,
+        "word_count": 1,
+        "median_character_height": 77.0,
+        "sharpness": 2364.6894493941804,
+        "script": null,
+        "script_mismatch": false,
+        "suggested_languages": [],
+        "region": {
+          "left": 125,
+          "top": 310,
+          "width": 613,
+          "height": 117,
+          "image_width": 1100,
+          "image_height": 1400
+        }
+      },
+      "reason": "The available text is readable, but subject evidence is insufficient or ambiguous. A new page is more useful than repeating OCR on the same text."
+    },
+    {
+      "scenario": "Extra description remains ambiguous; request contents",
+      "expected": "request_page",
+      "actual": "request_page",
+      "passed": true,
+      "prediction": {
+        "label": "000",
+        "score": 0.37279345493044613,
+        "margin": 0.0761362621944307,
+        "entropy": 0.6589737771418996,
+        "top3": [
+          {
+            "label": "000",
+            "name": "Computing & general works",
+            "score": 0.37279345493044613
+          },
+          {
+            "label": "500",
+            "name": "Science",
+            "score": 0.29665719273601543
+          },
+          {
+            "label": "400",
+            "name": "Language",
+            "score": 0.1757065635463566
+          }
+        ],
+        "token_count": 52,
+        "truncated": false,
+        "hierarchy": {
+          "path": [
+            {
+              "level": 1,
+              "label": "000",
+              "score": 0.37279345493044613,
+              "margin": 0.0761362621944307,
+              "supported": true,
+              "review_ready": false,
+              "path_score": 0.37279345493044613,
+              "top3": [
+                {
+                  "label": "000",
+                  "score": 0.37279345493044613
+                },
+                {
+                  "label": "500",
+                  "score": 0.29665719273601543
+                },
+                {
+                  "label": "400",
+                  "score": 0.1757065635463566
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "parent": "000",
+              "label": "000",
+              "supported": true,
+              "score": 0.9883374923766592,
+              "margin": 0.9801616798996758,
+              "path_score": 0.36844574842038824,
+              "review_ready": false,
+              "training_groups": 225,
+              "top3": [
+                {
+                  "label": "000",
+                  "score": 0.9883374923766592
+                },
+                {
+                  "label": "020",
+                  "score": 0.008175812476983395
+                },
+                {
+                  "label": null,
+                  "score": 0.0017893590856362766
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            },
+            {
+              "level": 3,
+              "parent": "000",
+              "label": "005",
+              "supported": true,
+              "score": 0.5780176831570962,
+              "margin": 0.36001098920831875,
+              "path_score": 0.21296815787103515,
+              "review_ready": false,
+              "training_groups": 70,
+              "top3": [
+                {
+                  "label": "005",
+                  "score": 0.5780176831570962
+                },
+                {
+                  "label": "006",
+                  "score": 0.21800669394877745
+                },
+                {
+                  "label": "004",
+                  "score": 0.17790640567228155
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            }
+          ],
+          "review_level": 0,
+          "target_level": 3,
+          "needs_finer_evidence": true,
+          "score_note": "L2/L3 scores are conditional on the displayed parent. Thresholds are experimental."
+        },
+        "inference_seconds": 0.018727999999999856,
+        "model_version": {
+          "name": "hierarchy_v1",
+          "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+        }
+      },
+      "work": {
+        "ocr_passes": 3,
+        "pixels": 4620000,
+        "seconds": 0.45877966699999995,
+        "classifier_calls": 2,
+        "duplicate_uploads": 0
+      },
+      "quality": {
+        "ocr_confidence": 95.78571428571429,
+        "word_count": 28,
+        "median_character_height": 27.0,
+        "sharpness": 4071.463120208059,
+        "script": "Latin",
+        "script_mismatch": false,
+        "suggested_languages": [],
+        "region": {
+          "left": 65,
+          "top": 237,
+          "width": 834,
+          "height": 355,
+          "image_width": 1100,
+          "image_height": 1400
+        }
+      },
+      "reason": "The available text is readable, but subject evidence is insufficient or ambiguous. A new page is more useful than repeating OCR on the same text."
+    },
+    {
+      "scenario": "Additional evidence improves ranking without forcing acceptance",
+      "passed": true
+    },
+    {
+      "scenario": "Duplicate photo avoids processing",
+      "passed": true
+    },
+    {
+      "scenario": "blurred_page.png",
+      "expected": "recapture_region",
+      "actual": "recapture_region",
+      "passed": true,
+      "prediction": null,
+      "work": {
+        "ocr_passes": 1,
+        "pixels": 1540000,
+        "seconds": 0.0768964160000003,
+        "classifier_calls": 0,
+        "duplicate_uploads": 0
+      },
+      "quality": {
+        "ocr_confidence": 0,
+        "word_count": 0,
+        "median_character_height": 0,
+        "sharpness": 0.24173896103896103,
+        "script": null,
+        "script_mismatch": false,
+        "suggested_languages": [],
+        "region": {
+          "left": 0,
+          "top": 0,
+          "width": 1100,
+          "height": 1400,
+          "image_width": 1100,
+          "image_height": 1400
+        }
+      },
+      "reason": "The latest page is not reliable enough to classify. Improve focus, lighting and framing in the highlighted region; a different subject page would not fix this recognition problem."
+    },
+    {
+      "scenario": "blank.png",
+      "expected": "recapture_region",
+      "actual": "recapture_region",
+      "passed": true,
+      "prediction": null,
+      "work": {
+        "ocr_passes": 1,
+        "pixels": 800000,
+        "seconds": 0.06062654200000006,
+        "classifier_calls": 0,
+        "duplicate_uploads": 0
+      },
+      "quality": {
+        "ocr_confidence": 0,
+        "word_count": 0,
+        "median_character_height": 0,
+        "sharpness": 0.0,
+        "script": null,
+        "script_mismatch": false,
+        "suggested_languages": [],
+        "region": {
+          "left": 0,
+          "top": 0,
+          "width": 800,
+          "height": 1000,
+          "image_width": 800,
+          "image_height": 1000
+        }
+      },
+      "reason": "The latest page is not reliable enough to classify. Improve focus, lighting and framing in the highlighted region; a different subject page would not fix this recognition problem."
+    },
+    {
+      "scenario": "small_text.png",
+      "expected": "reprocess_region",
+      "actual": "reprocess_region",
+      "passed": true,
+      "prediction": null,
+      "work": {
+        "ocr_passes": 1,
+        "pixels": 540000,
+        "seconds": 0.06029879199999977,
+        "classifier_calls": 0,
+        "duplicate_uploads": 0
+      },
+      "quality": {
+        "ocr_confidence": 93.2,
+        "word_count": 5,
+        "median_character_height": 13.0,
+        "sharpness": 12620.14065385033,
+        "script": null,
+        "script_mismatch": false,
+        "suggested_languages": [],
+        "region": {
+          "left": 31,
+          "top": 203,
+          "width": 341,
+          "height": 54,
+          "image_width": 900,
+          "image_height": 600
+        }
+      },
+      "reason": "Text was detected, but its recognition quality is insufficient. Try one bounded contrast/upscale pass before requesting another capture."
+    },
+    {
+      "scenario": "Small print after repair",
+      "expected": "request_page",
+      "actual": "request_page",
+      "passed": true,
+      "prediction": {
+        "label": "000",
+        "score": 0.6679762113209129,
+        "margin": 0.5441067783310882,
+        "entropy": 0.5025206399639729,
+        "top3": [
+          {
+            "label": "000",
+            "name": "Computing & general works",
+            "score": 0.6679762113209129
+          },
+          {
+            "label": "600",
+            "name": "Technology",
+            "score": 0.12386943298982463
+          },
+          {
+            "label": "100",
+            "name": "Philosophy & psychology",
+            "score": 0.09055799362046635
+          }
+        ],
+        "token_count": 12,
+        "truncated": false,
+        "hierarchy": {
+          "path": [
+            {
+              "level": 1,
+              "label": "000",
+              "score": 0.6679762113209129,
+              "margin": 0.5441067783310882,
+              "supported": true,
+              "review_ready": true,
+              "path_score": 0.6679762113209129,
+              "top3": [
+                {
+                  "label": "000",
+                  "score": 0.6679762113209129
+                },
+                {
+                  "label": "600",
+                  "score": 0.12386943298982463
+                },
+                {
+                  "label": "100",
+                  "score": 0.09055799362046635
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "parent": "000",
+              "label": "000",
+              "supported": true,
+              "score": 0.9960607496385255,
+              "margin": 0.9940046395687929,
+              "path_score": 0.6653448857890106,
+              "review_ready": true,
+              "training_groups": 225,
+              "top3": [
+                {
+                  "label": "000",
+                  "score": 0.9960607496385255
+                },
+                {
+                  "label": "020",
+                  "score": 0.002056110069732594
+                },
+                {
+                  "label": "070",
+                  "score": 0.0008117024946886185
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            },
+            {
+              "level": 3,
+              "parent": "000",
+              "label": "005",
+              "supported": true,
+              "score": 0.4787595905114174,
+              "margin": 0.07711502341273696,
+              "path_score": 0.3185402450692125,
+              "review_ready": false,
+              "training_groups": 70,
+              "top3": [
+                {
+                  "label": "005",
+                  "score": 0.4787595905114174
+                },
+                {
+                  "label": "006",
+                  "score": 0.40164456709868046
+                },
+                {
+                  "label": "004",
+                  "score": 0.10890564447988074
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            }
+          ],
+          "review_level": 2,
+          "target_level": 3,
+          "needs_finer_evidence": true,
+          "score_note": "L2/L3 scores are conditional on the displayed parent. Thresholds are experimental."
+        },
+        "inference_seconds": 0.013847916999999654,
+        "model_version": {
+          "name": "hierarchy_v1",
+          "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+        }
+      },
+      "work": {
+        "ocr_passes": 2,
+        "pixels": 2700000,
+        "seconds": 0.14430920899999977,
+        "classifier_calls": 1,
+        "duplicate_uploads": 0
+      },
+      "quality": {
+        "ocr_confidence": 96.0,
+        "word_count": 5,
+        "median_character_height": 14.0,
+        "sharpness": 12657.25871459695,
+        "script": null,
+        "script_mismatch": false,
+        "suggested_languages": [],
+        "region": {
+          "left": 31,
+          "top": 203,
+          "width": 340,
+          "height": 54,
+          "image_width": 900,
+          "image_height": 600
+        }
+      },
+      "reason": "The suggestion is stable through level 2, but the finer classification remains uncertain. Add descriptive subject evidence instead of repeating OCR on the same text."
+    },
+    {
+      "scenario": "Readable broad result still requests finer subject evidence",
+      "passed": true
+    },
+    {
+      "scenario": "Unicode transcription: eng+hin",
+      "passed": true,
+      "prediction": {
+        "label": "000",
+        "score": 0.710570866609846,
+        "margin": 0.6139281728282006,
+        "entropy": 0.47758495207614426,
+        "top3": [
+          {
+            "label": "000",
+            "name": "Computing & general works",
+            "score": 0.710570866609846
+          },
+          {
+            "label": "400",
+            "name": "Language",
+            "score": 0.09664269378164547
+          },
+          {
+            "label": "600",
+            "name": "Technology",
+            "score": 0.061736757462228675
+          }
+        ],
+        "token_count": 10,
+        "truncated": false,
+        "hierarchy": {
+          "path": [
+            {
+              "level": 1,
+              "label": "000",
+              "score": 0.710570866609846,
+              "margin": 0.6139281728282006,
+              "supported": true,
+              "review_ready": true,
+              "path_score": 0.710570866609846,
+              "top3": [
+                {
+                  "label": "000",
+                  "score": 0.710570866609846
+                },
+                {
+                  "label": "400",
+                  "score": 0.09664269378164547
+                },
+                {
+                  "label": "600",
+                  "score": 0.061736757462228675
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "parent": "000",
+              "label": "000",
+              "supported": true,
+              "score": 0.9983838336477575,
+              "margin": 0.9978042958313379,
+              "path_score": 0.7094224658843474,
+              "review_ready": true,
+              "training_groups": 225,
+              "top3": [
+                {
+                  "label": "000",
+                  "score": 0.9983838336477575
+                },
+                {
+                  "label": "020",
+                  "score": 0.0005795378164195945
+                },
+                {
+                  "label": "070",
+                  "score": 0.0004933004016526104
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            },
+            {
+              "level": 3,
+              "parent": "000",
+              "label": "005",
+              "supported": true,
+              "score": 0.8465064180533253,
+              "margin": 0.7645927213607712,
+              "path_score": 0.6005306704823163,
+              "review_ready": true,
+              "training_groups": 70,
+              "top3": [
+                {
+                  "label": "005",
+                  "score": 0.8465064180533253
+                },
+                {
+                  "label": "006",
+                  "score": 0.0819136966925541
+                },
+                {
+                  "label": "004",
+                  "score": 0.06382861541928997
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            }
+          ],
+          "review_level": 3,
+          "target_level": 3,
+          "needs_finer_evidence": false,
+          "score_note": "L2/L3 scores are conditional on the displayed parent. Thresholds are experimental."
+        },
+        "inference_seconds": 0.011956457999999781,
+        "model_version": {
+          "name": "hierarchy_v1",
+          "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+        }
+      },
+      "action": "ready_for_review"
+    },
+    {
+      "scenario": "Unicode transcription: eng+mar",
+      "passed": true,
+      "prediction": {
+        "label": "000",
+        "score": 0.7336760739750207,
+        "margin": 0.6372588895445906,
+        "entropy": 0.4513394915446783,
+        "top3": [
+          {
+            "label": "000",
+            "name": "Computing & general works",
+            "score": 0.7336760739750207
+          },
+          {
+            "label": "400",
+            "name": "Language",
+            "score": 0.09641718443042997
+          },
+          {
+            "label": "100",
+            "name": "Philosophy & psychology",
+            "score": 0.04726582300589908
+          }
+        ],
+        "token_count": 10,
+        "truncated": false,
+        "hierarchy": {
+          "path": [
+            {
+              "level": 1,
+              "label": "000",
+              "score": 0.7336760739750207,
+              "margin": 0.6372588895445906,
+              "supported": true,
+              "review_ready": true,
+              "path_score": 0.7336760739750207,
+              "top3": [
+                {
+                  "label": "000",
+                  "score": 0.7336760739750207
+                },
+                {
+                  "label": "400",
+                  "score": 0.09641718443042997
+                },
+                {
+                  "label": "100",
+                  "score": 0.04726582300589908
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "parent": "000",
+              "label": "000",
+              "supported": true,
+              "score": 0.9954564586818243,
+              "margin": 0.9928461822334931,
+              "path_score": 0.7303425864187583,
+              "review_ready": true,
+              "training_groups": 225,
+              "top3": [
+                {
+                  "label": "000",
+                  "score": 0.9954564586818243
+                },
+                {
+                  "label": "020",
+                  "score": 0.002610276448331267
+                },
+                {
+                  "label": "070",
+                  "score": 0.0010410214337450987
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            },
+            {
+              "level": 3,
+              "parent": "000",
+              "label": "005",
+              "supported": true,
+              "score": 0.7299582218707159,
+              "margin": 0.5110853682898291,
+              "path_score": 0.5331195757386965,
+              "review_ready": true,
+              "training_groups": 70,
+              "top3": [
+                {
+                  "label": "005",
+                  "score": 0.7299582218707159
+                },
+                {
+                  "label": "006",
+                  "score": 0.2188728535808868
+                },
+                {
+                  "label": "004",
+                  "score": 0.04153723560408641
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            }
+          ],
+          "review_level": 3,
+          "target_level": 3,
+          "needs_finer_evidence": false,
+          "score_note": "L2/L3 scores are conditional on the displayed parent. Thresholds are experimental."
+        },
+        "inference_seconds": 0.012024124999999941,
+        "model_version": {
+          "name": "hierarchy_v1",
+          "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+        }
+      },
+      "action": "ready_for_review"
+    },
+    {
+      "scenario": "Unicode transcription: eng+tam",
+      "passed": true,
+      "prediction": {
+        "label": "800",
+        "score": 0.4391615944198626,
+        "margin": 0.2967870883075681,
+        "entropy": 0.7542279907100352,
+        "top3": [
+          {
+            "label": "800",
+            "name": "Literature",
+            "score": 0.4391615944198626
+          },
+          {
+            "label": "700",
+            "name": "Arts & recreation",
+            "score": 0.14237450611229446
+          },
+          {
+            "label": "400",
+            "name": "Language",
+            "score": 0.1387408764010258
+          }
+        ],
+        "token_count": 8,
+        "truncated": false,
+        "hierarchy": {
+          "path": [
+            {
+              "level": 1,
+              "label": "800",
+              "score": 0.4391615944198626,
+              "margin": 0.2967870883075681,
+              "supported": true,
+              "review_ready": false,
+              "path_score": 0.4391615944198626,
+              "top3": [
+                {
+                  "label": "800",
+                  "score": 0.4391615944198626
+                },
+                {
+                  "label": "700",
+                  "score": 0.14237450611229446
+                },
+                {
+                  "label": "400",
+                  "score": 0.1387408764010258
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "parent": "800",
+              "label": "820",
+              "supported": true,
+              "score": 0.5841079034894832,
+              "margin": 0.35582632348113885,
+              "path_score": 0.25651775820968464,
+              "review_ready": false,
+              "training_groups": 198,
+              "top3": [
+                {
+                  "label": "820",
+                  "score": 0.5841079034894832
+                },
+                {
+                  "label": "810",
+                  "score": 0.22828158000834428
+                },
+                {
+                  "label": "800",
+                  "score": 0.08389030629091306
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            },
+            {
+              "level": 3,
+              "parent": "820",
+              "label": "823",
+              "supported": true,
+              "score": 0.7226414236361549,
+              "margin": 0.5356212280868116,
+              "path_score": 0.18537035798060147,
+              "review_ready": false,
+              "training_groups": 179,
+              "top3": [
+                {
+                  "label": "823",
+                  "score": 0.7226414236361549
+                },
+                {
+                  "label": "821",
+                  "score": 0.18702019554934338
+                },
+                {
+                  "label": null,
+                  "score": 0.09033838081450167
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            }
+          ],
+          "review_level": 0,
+          "target_level": 3,
+          "needs_finer_evidence": true,
+          "score_note": "L2/L3 scores are conditional on the displayed parent. Thresholds are experimental."
+        },
+        "inference_seconds": 0.011308333000000115,
+        "model_version": {
+          "name": "hierarchy_v1",
+          "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+        }
+      },
+      "action": "request_page"
+    }
+  ],
+  "passed": 12,
+  "total": 12
+}

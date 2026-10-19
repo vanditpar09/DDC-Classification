@@ -1,0 +1,178 @@
+[
+  {
+    "text": "OVER21\nMILLION\nCOPIES\nSOLD\nWORLDWIDE\nBy the author of\nA Thousand Splendid Suns\nKHALED HOSSEINI\nThe Kite\nRunner\n'Heartbreaking'\n'Devastating'\nThe\nTimes\nDaily\nTelegraph\n'Deeply\nmoving'\n'Unforgettable'\nSunday\nExpress\nIsabel Allende\nBLOOMSBURY",
+    "top3": [
+      [
+        "900",
+        0.396
+      ],
+      [
+        "700",
+        0.26
+      ],
+      [
+        "800",
+        0.154
+      ]
+    ],
+    "path": [
+      "900",
+      "910",
+      "914"
+    ]
+  },
+  {
+    "text": "The Kite Runner",
+    "top3": [
+      [
+        "400",
+        0.356
+      ],
+      [
+        "700",
+        0.203
+      ],
+      [
+        "800",
+        0.158
+      ]
+    ],
+    "path": [
+      "400",
+      "420",
+      "428"
+    ]
+  },
+  {
+    "text": "The Kite Runner\nKhaled Hosseini",
+    "top3": [
+      [
+        "700",
+        0.262
+      ],
+      [
+        "800",
+        0.142
+      ],
+      [
+        "200",
+        0.135
+      ]
+    ],
+    "path": [
+      "700",
+      "790",
+      "796"
+    ]
+  },
+  {
+    "text": "The Kite Runner\nA novel\nKhaled Hosseini",
+    "top3": [
+      [
+        "800",
+        0.663
+      ],
+      [
+        "200",
+        0.072
+      ],
+      [
+        "700",
+        0.059
+      ]
+    ],
+    "path": [
+      "800",
+      "820",
+      "823"
+    ]
+  },
+  {
+    "text": "A Thousand Splendid Suns\nKhaled Hosseini",
+    "top3": [
+      [
+        "700",
+        0.398
+      ],
+      [
+        "200",
+        0.163
+      ],
+      [
+        "500",
+        0.103
+      ]
+    ],
+    "path": [
+      "700",
+      "790",
+      "796"
+    ]
+  },
+  {
+    "text": "Pride and Prejudice\nJane Austen",
+    "top3": [
+      [
+        "800",
+        0.765
+      ],
+      [
+        "700",
+        0.09
+      ],
+      [
+        "200",
+        0.039
+      ]
+    ],
+    "path": [
+      "800",
+      "810",
+      "813"
+    ]
+  },
+  {
+    "text": "A novel about friendship, betrayal and family in Afghanistan.",
+    "top3": [
+      [
+        "800",
+        0.916
+      ],
+      [
+        "200",
+        0.036
+      ],
+      [
+        "300",
+        0.022
+      ]
+    ],
+    "path": [
+      "800",
+      "810",
+      "813"
+    ]
+  },
+  {
+    "text": "The Kite Runner\nKhaled Hosseini\nA story of friendship and betrayal in Afghanistan.",
+    "top3": [
+      [
+        "800",
+        0.673
+      ],
+      [
+        "900",
+        0.189
+      ],
+      [
+        "200",
+        0.049
+      ]
+    ],
+    "path": [
+      "800",
+      "820",
+      "823"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "source_url": "https://openlibrary.org/search.json?title=%E0%A4%AE%E0%A5%81%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A5%80&author=%E0%A4%85%E0%A4%B0%E0%A5%81%E0%A4%A3%E0%A4%BE+%E0%A4%B8%E0%A4%AC%E0%A4%BE%E0%A4%A8%E0%A5%87&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "final_url": "https://openlibrary.org/search.json?title=%E0%A4%AE%E0%A5%81%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A5%80&author=%E0%A4%85%E0%A4%B0%E0%A5%81%E0%A4%A3%E0%A4%BE+%E0%A4%B8%E0%A4%AC%E0%A4%BE%E0%A4%A8%E0%A5%87&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "retrieved_at": "2026-10-04T03:33:50.078206+00:00",
+  "bytes": 156,
+  "sha256": "a68a51a345fbaef76433e2dc9c3af3f7f73ee9f366a07aa6e9eec27944a0f069",
+  "content_type": "application/json",
+  "file": "data/research/multilingual-pilot-v1/review-v3/sources/esahity-munni_aruna_sabane-catalog.json"
+}

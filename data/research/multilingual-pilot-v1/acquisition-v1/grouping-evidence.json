@@ -1,0 +1,18 @@
+{
+  "prema_pratigya": {
+    "source_url": "https://www.bhu.ac.in/Images/files/p60_1.pdf",
+    "source_institution": "Banaras Hindu University",
+    "indexed_evidence": "Article discusses Pratigya as a rewriting of Premchand’s early novel; indexed rendering of the earlier title is imperfect. Shared grouping is conservative pending source-page review.",
+    "group_id": "premchand-prema-pratigya-family",
+    "status": "assistant conservative grouping, not a verified edition identity"
+  },
+  "annabhau_anthology": {
+    "source_file": "books/phakiraa.pdf",
+    "visual_evidence_pages": [
+      1,
+      3
+    ],
+    "cover_title": "लोकशाहीर अण्णा भाऊ साठे निवडक वाङ्मय",
+    "status": "anthology membership unresolved; exclude from independent train/test counts"
+  }
+}

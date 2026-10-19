@@ -1,0 +1,33 @@
+{
+  "checked_at": 1791107429.339954,
+  "passed": true,
+  "regression_tests_passed": 215,
+  "regression_warnings": 3,
+  "portable_english_title_recovered": true,
+  "portable_author_recovered": true,
+  "portable_subtitle_recovered": true,
+  "keyboard_background_removed": true,
+  "measured_reader_seconds": 9.234684292,
+  "measurement_host": "macOS ARM / Python 3.9.6",
+  "windows_x64_python311_dependency_resolution": "passed; 73 packages",
+  "actual_windows_execution": "not performed",
+  "apple_vision_used_in_portable_checks": false,
+  "extracted_private_bundle_check": true,
+  "offline_four_image_smoke": "passed with socket connections disabled",
+  "physical_phone_source_image": true,
+  "new_physical_phone_test": false,
+  "classification_accuracy_validated": false,
+  "ddc_suggestion_for_novel": [
+    "900",
+    "910",
+    "914"
+  ],
+  "ddc_suggestion_for_novel_correct": false,
+  "model_retrained": false,
+  "native_phone_cover_improvement_verified": false,
+  "notes": [
+    "Title references were visually inspected development labels, not a full transcription benchmark.",
+    "No title hints, lookups or guessed-text corrections are used in inference.",
+    "Classifier emitted runtime matrix warnings in the macOS offline smoke; final scores passed finite checks. DDC correctness remains unresolved."
+  ]
+}

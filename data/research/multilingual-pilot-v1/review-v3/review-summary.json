@@ -1,0 +1,35 @@
+{
+  "reviewed_at": "2026-10-04T03:47:18.205634+00:00",
+  "titles_assessed": 61,
+  "text_statuses": {
+    "sampled source agreement; unverified full transcription": 24,
+    "needs source-fidelity investigation": 19,
+    "extraction unusable; sampled OCR will be stored separately": 4,
+    "candidate native text; source-sample concordance pending": 13,
+    "partial native source; complete-work claim rejected": 1
+  },
+  "label_statuses": {
+    "assistant subject-to-section proposal; no matched numeric catalog record": 45,
+    "494 supported by related grammar/commentary catalog; original digital edition unresolved": 1,
+    "quarantined anthology identity; no independent-work or single-label approval": 1,
+    "work-level numeric section corroborated; exact edition unresolved": 7,
+    "grammar/prosody/rhetoric boundary requires adjudication": 5,
+    "conflicting section evidence: proposed 494 versus catalog 894": 2
+  },
+  "primary_work_level_numeric_correspondences": 7,
+  "conflicting_labels": [
+    "pm-work-295",
+    "pm-work-301"
+  ],
+  "source_pages_checked": 141,
+  "sample_windows_saved": 183,
+  "priority_experimental_titles": 6,
+  "verified_training_books": 0,
+  "model_retrained": false,
+  "by_language": {
+    "tam": 27,
+    "mar": 20,
+    "hin": 14
+  },
+  "note": "Completed assistant evidence/quality review pass. Source agreement is heuristic and exact edition labels remain unresolved. No final test split or model fitting performed."
+}

@@ -1,0 +1,29 @@
+{
+  "retrieved_at": "2026-10-04T01:52:02.626426+00:00",
+  "evidence": [
+    {
+      "id": "NLI-AUSTEN-1894-IDENTITY",
+      "url": "https://catalogue.nli.ie/Record/vtls000415807",
+      "retrieval_mode": "indexed institutional record; direct fetch returned cache miss",
+      "matched_fields": [
+        "Jane Austen",
+        "George Saintsbury preface",
+        "Hugh Thomson illustrations",
+        "George Allen, London",
+        "1894"
+      ],
+      "match_scope": "base illustrated print edition bibliographic correspondence; not exact digital-file identity",
+      "local_call_number": "82374 a 9",
+      "numeric_ddc_used": null,
+      "note": "Scheme not established from the returned holdings excerpt; do not reinterpret this local call number as DDC."
+    },
+    {
+      "id": "NZ-AUSTEN-32178766-IDENTITY",
+      "url": "https://natlib.govt.nz/records/32178766",
+      "retrieval_mode": "Earlier indexed result; direct page blocked by security check",
+      "match_scope": "additional identity lead only",
+      "numeric_ddc_used": null,
+      "note": "Direct catalog contents could not be inspected. No verified classification promoted."
+    }
+  ]
+}

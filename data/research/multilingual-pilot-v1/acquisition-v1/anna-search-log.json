@@ -1,0 +1,24 @@
+{
+  "checked_at": "2026-10-04",
+  "method": "native Chrome via Computer Use",
+  "search_url": "https://annas-archive.gl/search?q=Nirmala",
+  "filter": "Hindi",
+  "selected_record": "https://annas-archive.gl/md5/5d05dd20829fce808d8b45ed7dce5e64",
+  "title": "Nirmala (Hindi)",
+  "format": "epub",
+  "author": "Munshi Premchand",
+  "provider_label": "book non-fiction (not accepted as ground truth)",
+  "outcomes": [
+    {
+      "server": "Slow Partner Server #9",
+      "status": "504 Gateway Time-out"
+    },
+    {
+      "server": "Slow Partner Server #10",
+      "status": "504 Gateway Time-out"
+    }
+  ],
+  "downloaded": false,
+  "fallback": "Hindi Samay native book-content pages; source work kept as one group",
+  "notes": "First annasarchive.io two-term search returned no results. Official alternative annas-archive.gl returned native Hindi editions. English translations also appeared under the Hindi filter; those were not selected."
+}

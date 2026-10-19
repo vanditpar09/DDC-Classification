@@ -1,0 +1,3802 @@
+{
+  "language": "hin",
+  "url": "https://openlibrary.org/search.json?q=language%3Ahin+AND+ddc%3A%5B000+TO+999%5D&offset=0&limit=100&fields=key%2Ctitle%2Cddc%2Cauthor_name%2Clanguage%2Cedition_key%2Ccover_i%2Cebook_access%2Cia%2Ceditions%2Ceditions.key%2Ceditions.title%2Ceditions.language%2Ceditions.ddc%2Ceditions.isbn%2Ceditions.cover_i%2Ceditions.ebook_access&sort=random",
+  "retrieved_at": "2026-10-03T02:43:26.220028+00:00",
+  "payload_sha256": "41b92cd53d34f125405e229a1975b3003dbaf76691b20fb3fb81c597d2cee738",
+  "response": {
+    "numFound": 6002,
+    "start": 0,
+    "numFoundExact": true,
+    "num_found": 6002,
+    "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+    "q": "language:hin AND ddc:[000 TO 999]",
+    "offset": 0,
+    "docs": [
+      {
+        "author_name": [
+          "Kālidāsa"
+        ],
+        "ddc": [
+          "891.22"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL18628507M",
+          "OL19431745M",
+          "OL23392713M",
+          "OL23533912M",
+          "OL24060269M",
+          "OL4623441M",
+          "OL158118M",
+          "OL644728M",
+          "OL1316934M",
+          "OL2698186M",
+          "OL7014M",
+          "OL504571M",
+          "OL264257M",
+          "OL264252M",
+          "OL16251129M",
+          "OL1684131M",
+          "OL4080950M",
+          "OL5175078M",
+          "OL642445M",
+          "OL3285975M",
+          "OL264247M",
+          "OL329844M",
+          "OL264258M",
+          "OL951274M",
+          "OL328884M",
+          "OL6294507M",
+          "OL329845M",
+          "OL1682977M",
+          "OL17181891M",
+          "OL328277M"
+        ],
+        "key": "/works/OL293386W",
+        "language": [
+          "tel",
+          "dut",
+          "mar",
+          "dan",
+          "hin",
+          "ger",
+          "slv",
+          "san",
+          "eng"
+        ],
+        "title": "Mālavikāgnimitra",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL19431745M",
+              "title": "Mālavikāgnimitra",
+              "language": [
+                "hin"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ramesh Chandra Shah"
+        ],
+        "ddc": [
+          "891.4387"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23219141M"
+        ],
+        "key": "/works/OL2316787W",
+        "language": [
+          "hin"
+        ],
+        "title": "Akelā melā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23219141M",
+              "title": "Akelā melā",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788190722155",
+                "8190722158"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Prema Bhāradvāja"
+        ],
+        "ddc": [
+          "891.4387109"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25362496M"
+        ],
+        "key": "/works/OL16689361W",
+        "language": [
+          "hin"
+        ],
+        "title": "Nāmavara Siṃha",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25362496M",
+              "title": "Nāmavara Siṃha",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789380458342",
+                "9380458347"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Banavārīlāla Miśrā"
+        ],
+        "ddc": [
+          "615.53"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL21862806M"
+        ],
+        "key": "/works/OL13484221W",
+        "language": [
+          "hin"
+        ],
+        "title": "Dravyaguna hastāmalaka",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL21862806M",
+              "title": "Dravyaguna hastāmalaka",
+              "language": [
+                "hin"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Govinda Miśra"
+        ],
+        "ddc": [
+          "891.43371"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL27209510M"
+        ],
+        "key": "/works/OL20029459W",
+        "language": [
+          "hin"
+        ],
+        "title": "Bhagavāna ne cāhā to ...",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL27209510M",
+              "title": "Bhagavāna ne cāhā to ...",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788173098635",
+                "8173098638"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Candūlāla Vaiśya"
+        ],
+        "ddc": [
+          "630.954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL757728M"
+        ],
+        "key": "/works/OL2862776W",
+        "language": [
+          "hin"
+        ],
+        "title": "Kr̥shi-candrikā ; varnākyūlara skūloṃ kī chaṭhī kakshā ke liye",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL757728M",
+              "title": "Kr̥shi-candrikā ; varnākyūlara skūloṃ kī chaṭhī kakshā ke liye",
+              "language": [
+                "hin"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Śaraṇakumāra Limbāḷe"
+        ],
+        "ddc": [
+          "891.4687109"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31229680M"
+        ],
+        "key": "/works/OL23375629W",
+        "language": [
+          "hin"
+        ],
+        "title": "Dalita cetanā kī pahacāna",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31229680M",
+              "title": "Dalita cetanā kī pahacāna",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789350722473",
+                "935072247X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Karuṇā Miśrā"
+        ],
+        "ddc": [
+          "954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25142247M"
+        ],
+        "key": "/works/OL16364368W",
+        "language": [
+          "hin"
+        ],
+        "title": "Gaṛhā-maṇḍala ke goṇḍa rājavaṃśa kā sāṃskr̥tika itihāsa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25142247M",
+              "title": "Gaṛhā-maṇḍala ke goṇḍa rājavaṃśa kā sāṃskr̥tika itihāsa",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788188934775",
+                "8188934771"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Anītā Siṃha"
+        ],
+        "ddc": [
+          "782.42162"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44395415M"
+        ],
+        "key": "/works/OL32585764W",
+        "language": [
+          "hin",
+          "bho"
+        ],
+        "title": "Bhojapurī ke saṃskāraparaka lokagīta",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44395415M",
+              "title": "Bhojapurī ke saṃskāraparaka lokagīta",
+              "language": [
+                "hin",
+                "bho"
+              ],
+              "isbn": [
+                "9789383625222",
+                "9383625228"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Isābelā Lakaṛā"
+        ],
+        "ddc": [
+          "894.8309"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25362486M"
+        ],
+        "key": "/works/OL16689351W",
+        "language": [
+          "hin"
+        ],
+        "title": "Kun̐ḍuk̲h̲a bhāshā aura sāhitya kā lokatātvika anuśīlana",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25362486M",
+              "title": "Kun̐ḍuk̲h̲a bhāshā aura sāhitya kā lokatātvika anuśīlana",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788188693504",
+                "8188693502"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vīnā Baṃsala"
+        ],
+        "cover_i": 12798566,
+        "ddc": [
+          "891.4337"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL38562336M"
+        ],
+        "ia": [
+          "amulyaupaharabal0000bams"
+        ],
+        "key": "/works/OL28167698W",
+        "language": [
+          "hin"
+        ],
+        "title": "Amūlya upahāra",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL38562336M",
+              "title": "Amūlya upahāra",
+              "cover_i": 12798566,
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788191070354",
+                "8191070359"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "ddc": [
+          "891.2109"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44520581M"
+        ],
+        "key": "/works/OL32703921W",
+        "language": [
+          "hin"
+        ],
+        "title": "Pramukha-Samskrta-mahakavyagata Vaidika akhyana",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44520581M",
+              "title": "Pramukha-Samskrta-mahakavyagata Vaidika akhyana",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789384783105",
+                "9384783102"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Saurabha Upādhyāya"
+        ],
+        "ddc": [
+          "331.10954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31053984M"
+        ],
+        "key": "/works/OL23218866W",
+        "language": [
+          "hin"
+        ],
+        "title": "Grāma rojagāra ke nae avasara aura mahilāem̐",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31053984M",
+              "title": "Grāma rojagāra ke nae avasara aura mahilāem̐",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788189471798",
+                "8189471791"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sañjīva"
+        ],
+        "ddc": [
+          "891.43371"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44504876M"
+        ],
+        "key": "/works/OL32689136W",
+        "language": [
+          "hin"
+        ],
+        "title": "Gairairādatana hatyā urpha mr̥tyupūrva kā iqabāliyā bayāna",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44504876M",
+              "title": "Gairairādatana hatyā urpha mr̥tyupūrva kā iqabāliyā bayāna",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789350729724",
+                "9350729725"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kusuma Khemānī"
+        ],
+        "ddc": [
+          "891.4337"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30945490M"
+        ],
+        "key": "/works/OL23102216W",
+        "language": [
+          "hin"
+        ],
+        "title": "Lāvaṇyadevī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30945490M",
+              "title": "Lāvaṇyadevī",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788126724307",
+                "8126724307"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kr̥shṇanātha"
+        ],
+        "ddc": [
+          "915.404"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23920396M",
+          "OL23910829M"
+        ],
+        "key": "/works/OL15083879W",
+        "language": [
+          "hin"
+        ],
+        "title": "Datta Digambara mājhe guru",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23920396M",
+              "title": "Datta Digambara mājhe guru",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789350000489",
+                "9350000482"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vedaprakāśa Upādhyāya"
+        ],
+        "ddc": [
+          "891.2209"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44055715M"
+        ],
+        "key": "/works/OL32306219W",
+        "language": [
+          "hin"
+        ],
+        "title": "Mahākavi Śrī Hanūmatpraṇīta Hanumannāṭakam",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44055715M",
+              "title": "Mahākavi Śrī Hanūmatpraṇīta Hanumannāṭakam",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789388019194",
+                "9388019199"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sañjaya Dvivedī"
+        ],
+        "ddc": [
+          "079.54"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31229869M"
+        ],
+        "key": "/works/OL23375800W",
+        "language": [
+          "hin"
+        ],
+        "title": "Urdū patrakāritā kā bhavishya",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31229869M",
+              "title": "Urdū patrakāritā kā bhavishya",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789381945391",
+                "938194539X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sachchidanand Dhumketu"
+        ],
+        "ddc": [
+          "891.4337"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4077306M"
+        ],
+        "key": "/works/OL6203400W",
+        "language": [
+          "hin"
+        ],
+        "title": "Jalatā registāna",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4077306M",
+              "title": "Jalatā registāna",
+              "language": [
+                "hin"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Pratibha Patil"
+        ],
+        "ddc": [
+          "954.0532"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31213865M"
+        ],
+        "key": "/works/OL23361262W",
+        "language": [
+          "hin"
+        ],
+        "title": "Bhārata jagāo!",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31213865M",
+              "title": "Bhārata jagāo!",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788177831856",
+                "9788177831863",
+                "9788177831870",
+                "9788177831887",
+                "9788177831894",
+                "9788177831900",
+                "9788177831917",
+                "8177831852",
+                "8177831860",
+                "8177831879",
+                "8177831887",
+                "8177831895",
+                "8177831909",
+                "8177831917"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vīrendra Esa Puniyā"
+        ],
+        "ddc": [
+          "331.0954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25260730M"
+        ],
+        "key": "/works/OL16573061W",
+        "language": [
+          "hin"
+        ],
+        "title": "Audyogika sambandha evaṃ sāmājika surakshā =",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25260730M",
+              "title": "Audyogika sambandha evaṃ sāmājika surakshā =",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788175553248",
+                "8175553243"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ṭhaṇḍī Lāla Mīṇā"
+        ],
+        "ddc": [
+          "891.209"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44518537M"
+        ],
+        "key": "/works/OL32701984W",
+        "language": [
+          "eng",
+          "san",
+          "hin"
+        ],
+        "title": "Ādhunika Saṃskr̥ta sāhitya ko Mahāliṅga Śāstrī kā yogadāna",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44518537M",
+              "title": "Ādhunika Saṃskr̥ta sāhitya ko Mahāliṅga Śāstrī kā yogadāna",
+              "language": [
+                "hin",
+                "san",
+                "eng"
+              ],
+              "isbn": [
+                "9789385144660",
+                "9385144669"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Maheśa Siṃha Yādava"
+        ],
+        "ddc": [
+          "891.4313"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44046188M"
+        ],
+        "key": "/works/OL32297068W",
+        "language": [
+          "hin"
+        ],
+        "title": "Santa Śiromaṇi Sundaradāsa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44046188M",
+              "title": "Santa Śiromaṇi Sundaradāsa",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788190488600",
+                "8190488600"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Em Vīrappa Moyili"
+        ],
+        "ddc": [
+          "894.81417"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23633846M",
+          "OL23538335M",
+          "OL31197481M",
+          "OL23616021M"
+        ],
+        "key": "/works/OL15276728W",
+        "language": [
+          "hin",
+          "kan"
+        ],
+        "title": "Śrīrāmāyaṇa mahānvēṣaṇaṃ",
+        "editions": {
+          "numFound": 3,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23633846M",
+              "title": "Śrī Rāmāyaṇa mahānveshaṇam",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788126716791",
+                "8126716797"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Śaśidhara Khāna"
+        ],
+        "ddc": [
+          "959.105092"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44119480M"
+        ],
+        "key": "/works/OL32365708W",
+        "language": [
+          "hin"
+        ],
+        "title": "Oṅga Sāna Sūkī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44119480M",
+              "title": "Oṅga Sāna Sūkī",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789385476648",
+                "9385476645"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Pūrṇimā Śrīvāstava"
+        ],
+        "ddc": [
+          "891.43309"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31229661M"
+        ],
+        "key": "/works/OL23375611W",
+        "language": [
+          "hin"
+        ],
+        "title": "Nirālā sāhitya meṃ mānavīya cetanā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31229661M",
+              "title": "Nirālā sāhitya meṃ mānavīya cetanā",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788175555532",
+                "817555553X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "G. D. Gulati"
+        ],
+        "ddc": [
+          "398.20954558"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30427332M"
+        ],
+        "key": "/works/OL22345760W",
+        "language": [
+          "eng",
+          "hin",
+          "urd"
+        ],
+        "title": "Mewat",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30427332M",
+              "title": "Mewat",
+              "language": [
+                "eng",
+                "urd",
+                "hin"
+              ],
+              "isbn": [
+                "9789381406267",
+                "938140626X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Jayaśrī Rāya"
+        ],
+        "cover_i": 13063643,
+        "ddc": [
+          "891.43372"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL27208359M"
+        ],
+        "ia": [
+          "dardajhavvkbeiyo0000ryaj"
+        ],
+        "key": "/works/OL20028310W",
+        "language": [
+          "hin"
+        ],
+        "title": "Dardajā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL27208359M",
+              "title": "Dardajā",
+              "cover_i": 13063643,
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789352292660",
+                "9352292669"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Manohara Lakshmaṇappā Bhaṇḍāre"
+        ],
+        "ddc": [
+          "891.433709"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31214118M"
+        ],
+        "key": "/works/OL23361478W",
+        "language": [
+          "hin"
+        ],
+        "title": "Kathākāra Mārkaṇḍeya",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31214118M",
+              "title": "Kathākāra Mārkaṇḍeya",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788188673094",
+                "8188673099"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Lindsay Camp"
+        ],
+        "cover_i": 8231100,
+        "ddc": [
+          "823.914",
+          "[Fic]",
+          "[E]"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL1738865M",
+          "OL16430951M",
+          "OL16430956M",
+          "OL15374053M",
+          "OL30149208M",
+          "OL17864565M",
+          "OL22940634M",
+          "OL17260496M",
+          "OL22164790M",
+          "OL18342628M",
+          "OL11956445M",
+          "OL14798178M",
+          "OL22940633M",
+          "OL23010692M",
+          "OL11956447M",
+          "OL23021792M",
+          "OL26609109M"
+        ],
+        "ia": [
+          "keepingupwithche0000camp",
+          "keepingupwithche0000camp_y7x4",
+          "chytheocheetahke0000camp"
+        ],
+        "key": "/works/OL58647W",
+        "language": [
+          "hin",
+          "vie",
+          "chi",
+          "guj",
+          "mul",
+          "som",
+          "eng"
+        ],
+        "title": "Keeping up with Cheetah",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30149208M",
+              "title": "Keeping up with Cheetah",
+              "cover_i": 10443316,
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9781846114489",
+                "1846114489"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Mahendra Prasāda Kuśavāhā"
+        ],
+        "ddc": [
+          "891.4337109"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44119485M"
+        ],
+        "key": "/works/OL32365713W",
+        "language": [
+          "hin"
+        ],
+        "title": "Rāmasvarūpa Caturvedī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44119485M",
+              "title": "Rāmasvarūpa Caturvedī",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788177793048",
+                "8177793047"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Mahābīra Cācāna"
+        ],
+        "ddc": [
+          "891.43872"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL43841696M"
+        ],
+        "key": "/works/OL32108237W",
+        "language": [
+          "hin"
+        ],
+        "title": "Gadhe ko kānūna kī ḍigrī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL43841696M",
+              "title": "Gadhe ko kānūna kī ḍigrī",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788193790618",
+                "8193790618"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Gaṇeśa Pāṇḍeya"
+        ],
+        "ddc": [
+          "891.4317209"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44416738M"
+        ],
+        "key": "/works/OL32606104W",
+        "language": [
+          "hin"
+        ],
+        "title": "Nayī sadī kī kavitā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44416738M",
+              "title": "Nayī sadī kī kavitā",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789352295050",
+                "9352295056"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Pushp Lata Singh"
+        ],
+        "ddc": [
+          "934"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31215925M"
+        ],
+        "key": "/works/OL23362993W",
+        "language": [
+          "hin"
+        ],
+        "title": "Vindhya-Madhyagāṅgeya kshetra kā purātattva",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31215925M",
+              "title": "Vindhya-Madhyagāṅgeya kshetra kā purātattva",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789381843055",
+                "9381843058"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Reṇu Divāna"
+        ],
+        "ddc": [
+          "305.420954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30427984M"
+        ],
+        "key": "/works/OL22346380W",
+        "language": [
+          "hin"
+        ],
+        "title": "Dalita mahilāem̐",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30427984M",
+              "title": "Dalita mahilāem̐",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789380945316",
+                "9380945310"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Surendra Mohan"
+        ],
+        "ddc": [
+          "338.954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24854463M"
+        ],
+        "key": "/works/OL15948408W",
+        "language": [
+          "hin"
+        ],
+        "title": "Vikalpa kā rāstā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24854463M",
+              "title": "Vikalpa kā rāstā",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788126719716",
+                "8126719710"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Om Prakāśa Gābā"
+        ],
+        "ddc": [
+          "491.43321"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2361305M",
+          "OL16791399M"
+        ],
+        "key": "/works/OL3430066W",
+        "language": [
+          "hin"
+        ],
+        "title": "Sandarbhamūlaka śabdakośa =",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2361305M",
+              "title": "Sandarbhamūlaka śabdakośa =",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "8170183634",
+                "9788170183631"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kanhaiyā Tripāṭhī"
+        ],
+        "ddc": [
+          "923.154"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23001070M"
+        ],
+        "key": "/works/OL13727120W",
+        "language": [
+          "hin"
+        ],
+        "title": "Bhārata ke rāshṭrapati",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23001070M",
+              "title": "Bhārata ke rāshṭrapati",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "8187775297",
+                "9788187775294"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Hīrālāla Sāhā"
+        ],
+        "ddc": [
+          "954.127"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44478629M"
+        ],
+        "key": "/works/OL32664235W",
+        "language": [
+          "hin"
+        ],
+        "title": "Śibū Sorena, Jhārakhaṇḍa āndolana kā eka sipāhī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44478629M",
+              "title": "Śibū Sorena, Jhārakhaṇḍa āndolana kā eka sipāhī",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789382695271",
+                "9382695273"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sawalia Bihari Verma",
+          "Vijaya Kumāra Siṅghalā",
+          "Śiba Kumārī Siṃha"
+        ],
+        "ddc": [
+          "338.10954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25324521M"
+        ],
+        "key": "/works/OL16646739W",
+        "language": [
+          "hin"
+        ],
+        "title": "Grāmīṇa kr̥shi vipaṇana =",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25324521M",
+              "title": "Grāmīṇa kr̥shi vipaṇana =",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788175553507",
+                "8175553502"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Brahmadatta Śarmā"
+        ],
+        "ddc": [
+          "954.035"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44448003M"
+        ],
+        "key": "/works/OL32635654W",
+        "language": [
+          "hin"
+        ],
+        "title": "Bhāratīya rājanītika cintana meṃ rāshṭavāda",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44448003M",
+              "title": "Bhāratīya rājanītika cintana meṃ rāshṭavāda",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788179105061",
+                "8179105067"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sheena Eapen"
+        ],
+        "ddc": [
+          "891.43809"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL43838989M"
+        ],
+        "key": "/works/OL32105660W",
+        "language": [
+          "hin"
+        ],
+        "title": "Yātrā, yātrī aura saṃskāra",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL43838989M",
+              "title": "Yātrā, yātrī aura saṃskāra",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789386810229",
+                "9789386810489",
+                "9386810220",
+                "9386810484"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Dīnabandhu Pāṇḍeya"
+        ],
+        "ddc": [
+          "954.2"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44053850M"
+        ],
+        "key": "/works/OL32304430W",
+        "language": [
+          "hin"
+        ],
+        "title": "Rāma-janmabhūmi mandira Ayodhyā kī prācīnatā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44053850M",
+              "title": "Rāma-janmabhūmi mandira Ayodhyā kī prācīnatā",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789385830211",
+                "938583021X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rājadeva Śarmā"
+        ],
+        "ddc": [
+          "891.4312"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31084838M"
+        ],
+        "key": "/works/OL23247902W",
+        "language": [
+          "hin"
+        ],
+        "title": "Mānasa kī gītāem̐",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31084838M",
+              "title": "Mānasa kī gītāem̐",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789381539309",
+                "9381539308"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Dharmavīra"
+        ],
+        "ddc": [
+          "891.4387109"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31129891M"
+        ],
+        "key": "/works/OL23285015W",
+        "language": [
+          "hin"
+        ],
+        "title": "Bālaka Śyaurāja",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31129891M",
+              "title": "Bālaka Śyaurāja",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789350727096",
+                "9350727099"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Lokeśa Śrīvāstava"
+        ],
+        "ddc": [
+          "307.77209543"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24075036M",
+          "OL24014968M",
+          "OL23990042M",
+          "OL24046063M"
+        ],
+        "key": "/works/OL18595649W",
+        "language": [
+          "hin"
+        ],
+        "title": "Janajātīya paridr̥śya =",
+        "editions": {
+          "numFound": 4,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24075036M",
+              "title": "Janajātīya paridr̥śya =",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788175552678",
+                "8175552670"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "ddc": [
+          "891.209"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL1681374M"
+        ],
+        "key": "/works/OL23453753W",
+        "language": [
+          "san",
+          "hin",
+          "eng"
+        ],
+        "title": "Post-independence Sanskrit literature",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1681374M",
+              "title": "Post-independence Sanskrit literature",
+              "language": [
+                "eng",
+                "hin",
+                "san"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Anitā Modī"
+        ],
+        "ddc": [
+          "307.14120954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31214029M"
+        ],
+        "key": "/works/OL23361401W",
+        "language": [
+          "hin"
+        ],
+        "title": "Grāmīṇa Bhārata",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31214029M",
+              "title": "Grāmīṇa Bhārata",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789380930831",
+                "9380930836"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sādiqā Navāba"
+        ],
+        "ddc": [
+          "891.43372"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44378455M"
+        ],
+        "key": "/works/OL32569824W",
+        "language": [
+          "hin"
+        ],
+        "title": "Jisa dina se...!",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44378455M",
+              "title": "Jisa dina se...!",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789383625338",
+                "9383625333"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Debashree Bhattacharya"
+        ],
+        "ddc": [
+          "780.954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL48046978M"
+        ],
+        "key": "/works/OL35608911W",
+        "language": [
+          "eng",
+          "san",
+          "hin"
+        ],
+        "title": "The importance of tone, tune and text in Indian music",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL48046978M",
+              "title": "The importance of tone, tune and text in Indian music",
+              "language": [
+                "eng",
+                "hin",
+                "san"
+              ],
+              "isbn": [
+                "9788174532824",
+                "817453282X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sāra Śabdānanda Swami."
+        ],
+        "ddc": [
+          "294.5448"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL3930135M"
+        ],
+        "key": "/works/OL6204654W",
+        "language": [
+          "hin"
+        ],
+        "title": "Parama Pūjya Parama Śraddheya Gurudeva Śrī Svāmī Sāra Śabdānanda Jī Mahārāja ke divya vacana",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3930135M",
+              "title": "Parama Pūjya Parama Śraddheya Gurudeva Śrī Svāmī Sāra Śabdānanda Jī Mahārāja ke divya vacana",
+              "language": [
+                "hin"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sulocanā Mānandhara"
+        ],
+        "ddc": [
+          "495.183421"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL3336539M"
+        ],
+        "key": "/works/OL2313687W",
+        "language": [
+          "chi",
+          "eng",
+          "hin"
+        ],
+        "title": "Chinese conversation & basic words",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3336539M",
+              "title": "Chinese conversation & basic words",
+              "language": [
+                "eng",
+                "chi",
+                "hin"
+              ],
+              "isbn": [
+                "9993358002",
+                "9789993358008"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Amarakānta"
+        ],
+        "ddc": [
+          "891.4337"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL27119342M"
+        ],
+        "key": "/works/OL19938808W",
+        "language": [
+          "hin"
+        ],
+        "title": "Kaṭīlī rāha ke phūla",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL27119342M",
+              "title": "Kaṭīlī rāha ke phūla",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788126716814",
+                "8126716819"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kailāśa Maṇḍalekara"
+        ],
+        "ddc": [
+          "891.43871"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24919717M"
+        ],
+        "key": "/works/OL16016181W",
+        "language": [
+          "hin"
+        ],
+        "title": "Eka adhūrī prema kahānī kā duḥkhānta",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24919717M",
+              "title": "Eka adhūrī prema kahānī kā duḥkhānta",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788126320615",
+                "8126320613"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Jayaprakāśa Caukase"
+        ],
+        "ddc": [
+          "791.430233092"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24840467M"
+        ],
+        "key": "/works/OL15934385W",
+        "language": [
+          "hin"
+        ],
+        "title": "Rājakapūra",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24840467M",
+              "title": "Rājakapūra",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788126719570",
+                "8126719575"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Gaya Charan Tripathi"
+        ],
+        "ddc": [
+          "181.044"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44442588M"
+        ],
+        "key": "/works/OL32630539W",
+        "language": [
+          "san",
+          "eng",
+          "hin"
+        ],
+        "title": "Studies in Umāsvāti and his Tattvārthasūtra",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44442588M",
+              "title": "Studies in Umāsvāti and his Tattvārthasūtra",
+              "language": [
+                "eng",
+                "hin",
+                "san"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Madhu Dhavana"
+        ],
+        "ddc": [
+          "891.4309"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25331968M"
+        ],
+        "key": "/works/OL16655219W",
+        "language": [
+          "hin"
+        ],
+        "title": "Nārī lekhana aura samakālīna samāja",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25331968M",
+              "title": "Nārī lekhana aura samakālīna samāja",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788170546023",
+                "8170546028"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Indra Bahādura Siṃha"
+        ],
+        "ddc": [
+          "891.43109"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31103498M"
+        ],
+        "key": "/works/OL23263317W",
+        "language": [
+          "hin"
+        ],
+        "title": "Hindī kavitā kā jātīya svarūpa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31103498M",
+              "title": "Hindī kavitā kā jātīya svarūpa",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788188693627",
+                "8188693626"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Bidhu Bhusan Das Gupta"
+        ],
+        "ddc": [
+          "491.43"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL17009705M"
+        ],
+        "key": "/works/OL349242W",
+        "language": [
+          "hin"
+        ],
+        "title": "Learn Hindi for English speakers",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL17009705M",
+              "title": "Learn Hindi for English speakers.",
+              "language": [
+                "hin"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vinoda Siṃha"
+        ],
+        "cover_i": 12799474,
+        "ddc": [
+          "633.30954"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL38562904M"
+        ],
+        "ia": [
+          "dalahaniphasalom0000simh"
+        ],
+        "key": "/works/OL28168140W",
+        "language": [
+          "hin"
+        ],
+        "title": "Dalahanī phasaloṃ kī unnata khetī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL38562904M",
+              "title": "Dalahanī phasaloṃ kī unnata khetī",
+              "cover_i": 12799474,
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789351302155",
+                "9351302156"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ḍī. Ena Śarmā"
+        ],
+        "ddc": [
+          "891.433509"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44520645M"
+        ],
+        "key": "/works/OL32703980W",
+        "language": [
+          "hin"
+        ],
+        "title": "Prasāda sāhitya meṃ trāsada tattva",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44520645M",
+              "title": "Prasāda sāhitya meṃ trāsada tattva",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789381531464",
+                "9381531463"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Haradarśana Sahagala"
+        ],
+        "ddc": [
+          "891.4337"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25362507M"
+        ],
+        "key": "/works/OL16689372W",
+        "language": [
+          "hin"
+        ],
+        "title": "Tīsarī kahānī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25362507M",
+              "title": "Tīsarī kahānī",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789381063088",
+                "9381063087"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Lakshmaṇa Prasāda Sinhā"
+        ],
+        "ddc": [
+          "307.772"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24908453M"
+        ],
+        "key": "/works/OL16004269W",
+        "language": [
+          "hin"
+        ],
+        "title": "Bhāratīya Ādivāsī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24908453M",
+              "title": "Bhāratīya Ādivāsī",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788189924515",
+                "8189924516"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Viśvanātha Tripāṭhī"
+        ],
+        "ddc": [
+          "891.43"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24897633M"
+        ],
+        "key": "/works/OL15993003W",
+        "language": [
+          "hin"
+        ],
+        "title": "Vyomakeśa Daraveśa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24897633M",
+              "title": "Vyomakeśa Daraveśa",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788126720507",
+                "8126720506"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rana Daggubati"
+        ],
+        "ddc": [
+          "791.4372"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL26937801M"
+        ],
+        "key": "/works/OL19724681W",
+        "language": [
+          "hin"
+        ],
+        "title": "The Ghazi attack",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL26937801M",
+              "title": "The Ghazi attack",
+              "language": [
+                "hin"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kālidāsa"
+        ],
+        "cover_i": 612105,
+        "ddc": [
+          "891.21"
+        ],
+        "ebook_access": "public",
+        "edition_key": [
+          "OL26619305M",
+          "OL18353880M",
+          "OL18524178M",
+          "OL18291367M",
+          "OL18308404M",
+          "OL18376628M",
+          "OL16738690M",
+          "OL17431245M",
+          "OL16753013M",
+          "OL8045220M",
+          "OL21086M",
+          "OL951229M",
+          "OL6294504M",
+          "OL3931478M",
+          "OL512416M",
+          "OL3710505M",
+          "OL2014211M",
+          "OL18513318M",
+          "OL644083M",
+          "OL324843M",
+          "OL1830604M",
+          "OL950732M",
+          "OL508252M",
+          "OL3591912M",
+          "OL3020914M",
+          "OL324973M",
+          "OL5758488M",
+          "OL3591510M",
+          "OL3298579M",
+          "OL638435M",
+          "OL19088420M",
+          "OL22656322M",
+          "OL512418M",
+          "OL512554M",
+          "OL2695883M",
+          "OL1829958M",
+          "OL273788M",
+          "OL643964M"
+        ],
+        "ia": [
+          "kumrasambhava03klid",
+          "kumarasambhavah01klid",
+          "originofyounggod0000klid"
+        ],
+        "key": "/works/OL293322W",
+        "language": [
+          "mar",
+          "tel",
+          "kan",
+          "hin",
+          "san",
+          "guj",
+          "eng",
+          "mal"
+        ],
+        "title": "Kumārasambhava",
+        "editions": {
+          "numFound": 3,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL18353880M",
+              "title": "Kumārasambhavaḥ",
+              "language": [
+                "hin"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vinit K. Bansal"
+        ],
+        "ddc": [
+          "891.43372"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL26951008M"
+        ],
+        "key": "/works/OL19737928W",
+        "language": [
+          "hin"
+        ],
+        "title": "Rūha se rūha taka",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL26951008M",
+              "title": "Rūha se rūha taka",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789352297375",
+                "9352297377"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vidyaniwas Misra"
+        ],
+        "ddc": [
+          "294.5"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23044246M"
+        ],
+        "key": "/works/OL351217W",
+        "language": [
+          "hin"
+        ],
+        "title": "Jasudā ke nandana",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23044246M",
+              "title": "Jasudā ke nandana",
+              "language": [
+                "hin"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Nirmal Verma"
+        ],
+        "ddc": [
+          "954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44010962M"
+        ],
+        "key": "/works/OL32264042W",
+        "language": [
+          "hin"
+        ],
+        "title": "Bhārata aura Yūropa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44010962M",
+              "title": "Bhārata aura Yūropa",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789387648777",
+                "938764877X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rākeśa Ḍhaṇḍa"
+        ],
+        "ddc": [
+          "307.141209543"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44074385M"
+        ],
+        "key": "/works/OL32323980W",
+        "language": [
+          "hin"
+        ],
+        "title": "Grāmīṇa arthavyavasthā meṃ anusūcita janajātīya gaira-kr̥shi rojagāra kā yogadāna",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44074385M",
+              "title": "Grāmīṇa arthavyavasthā meṃ anusūcita janajātīya gaira-kr̥shi rojagāra kā yogadāna",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789384081768",
+                "9384081760"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Śānti Caudharī"
+        ],
+        "ddc": [
+          "616.07"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL27208333M"
+        ],
+        "key": "/works/OL20028284W",
+        "language": [
+          "hin"
+        ],
+        "title": "Svāsthya",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL27208333M",
+              "title": "Svāsthya",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789382915447",
+                "9382915443"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Anāmitā Kumārī"
+        ],
+        "ddc": [
+          "891.28"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44465891M"
+        ],
+        "key": "/works/OL32652332W",
+        "language": [
+          "hin"
+        ],
+        "title": "Mahākavi Kālidāsa kī kr̥tiyoṃ meṃ saṅgīta",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44465891M",
+              "title": "Mahākavi Kālidāsa kī kr̥tiyoṃ meṃ saṅgīta",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788182681620",
+                "8182681626"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Āra. Āra Paṭela"
+        ],
+        "ddc": [
+          "302.230954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44426284M"
+        ],
+        "key": "/works/OL32615157W",
+        "language": [
+          "hin"
+        ],
+        "title": "Sāhityika patrikāem̐ aura sāmājika bodha",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44426284M",
+              "title": "Sāhityika patrikāem̐ aura sāmājika bodha",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789385013713",
+                "9385013718"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Aruṇa Kumāra Bhagata"
+        ],
+        "ddc": [
+          "891.4317109"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30945493M"
+        ],
+        "key": "/works/OL23102219W",
+        "language": [
+          "hin"
+        ],
+        "title": "Āpātakālīna kāvya",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30945493M",
+              "title": "Āpātakālīna kāvya",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788192487717",
+                "8192487717"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Amarasiṃha."
+        ],
+        "ddc": [
+          "491.231"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL326624M",
+          "OL1835091M",
+          "OL320104M",
+          "OL3009765M",
+          "OL1679957M",
+          "OL1061430M",
+          "OL11089M",
+          "OL3009936M",
+          "OL2691314M",
+          "OL328407M",
+          "OL301322M",
+          "OL3146506M",
+          "OL4703477M",
+          "OL1373231M",
+          "OL22554274M",
+          "OL1598421M",
+          "OL5404187M",
+          "OL3974499M",
+          "OL1684773M",
+          "OL3930380M",
+          "OL1373232M",
+          "OL1057109M"
+        ],
+        "key": "/works/OL352447W",
+        "language": [
+          "guj",
+          "mal",
+          "eng",
+          "san",
+          "tib",
+          "hin",
+          "tel",
+          "fre",
+          "bur"
+        ],
+        "title": "Amarakośa",
+        "editions": {
+          "numFound": 3,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1835091M",
+              "title": "Amarakoṣaḥ",
+              "language": [
+                "hin"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ritesh Sidhwani",
+          "Karan Johar",
+          "Farhan Akhtar",
+          "Nitya Mehra"
+        ],
+        "ddc": [
+          "791.4372"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL26928930M"
+        ],
+        "key": "/works/OL19715794W",
+        "language": [
+          "hin"
+        ],
+        "title": "Baar baar dekho",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL26928930M",
+              "title": "Baar baar dekho",
+              "language": [
+                "hin"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Navendu Maharshi"
+        ],
+        "ddc": [
+          "891.43709"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31129217M"
+        ],
+        "key": "/works/OL23284394W",
+        "language": [
+          "hin"
+        ],
+        "title": "Maiṃ Prabhudūta hūm̐",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31129217M",
+              "title": "Maiṃ Prabhudūta hūm̐",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788188178985"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Nanditā Siṃha"
+        ],
+        "ddc": [
+          "891.43509"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31232380M"
+        ],
+        "key": "/works/OL23378104W",
+        "language": [
+          "hin"
+        ],
+        "title": "Nirālā kā gadya sāhitya aura svādhīnatā kī cetanā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31232380M",
+              "title": "Nirālā kā gadya sāhitya aura svādhīnatā kī cetanā",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788180317101",
+                "8180317102"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Maitreyī Pushpā"
+        ],
+        "ddc": [
+          "891.4387109"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44099240M"
+        ],
+        "key": "/works/OL32346575W",
+        "language": [
+          "hin"
+        ],
+        "title": "Vaha saphara thā ki mukāma thā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44099240M",
+              "title": "Vaha saphara thā ki mukāma thā",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788126729661",
+                "812672966X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Śrīnārāyaṇa Samīra"
+        ],
+        "ddc": [
+          "418.02"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31231709M"
+        ],
+        "key": "/works/OL23377488W",
+        "language": [
+          "hin"
+        ],
+        "title": "Anuvāda kī prakriyā, takanīka, aura samasyāem̐",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31231709M",
+              "title": "Anuvāda kī prakriyā, takanīka, aura samasyāem̐",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788180317309",
+                "8180317307"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ganesh Shankar"
+        ],
+        "cover_i": 12797602,
+        "ddc": [
+          "613.192"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL38561820M"
+        ],
+        "ia": [
+          "svarayoga0000shan"
+        ],
+        "key": "/works/OL28167267W",
+        "language": [
+          "hin"
+        ],
+        "title": "Svarayoga",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL38561820M",
+              "title": "Svarayoga",
+              "cover_i": 12797602,
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789380190679",
+                "9380190670"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Mittara Saina Mīta"
+        ],
+        "ddc": [
+          "891.4237"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30779745M"
+        ],
+        "key": "/works/OL22840368W",
+        "language": [
+          "hin"
+        ],
+        "title": "Taftīśa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30779745M",
+              "title": "Taftīśa",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788123771144",
+                "8123771142"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rājeśa Śarmā"
+        ],
+        "cover_i": 12292000,
+        "ddc": [
+          "891.43802"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL35447828M"
+        ],
+        "ia": [
+          "sadabaharacutaku0000unse"
+        ],
+        "key": "/works/OL26285792W",
+        "language": [
+          "hin"
+        ],
+        "title": "Sadābahāra cuṭakule",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL35447828M",
+              "title": "Sadābahāra cuṭakule",
+              "cover_i": 12292000,
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788176042499",
+                "8176042498"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Śraddha Mālavīya"
+        ],
+        "ddc": [
+          "780.954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24810062M"
+        ],
+        "key": "/works/OL15902996W",
+        "language": [
+          "hin"
+        ],
+        "title": "Bhāratīya saṅgītajña evaṃ saṅgīta grantha",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24810062M",
+              "title": "Bhāratīya saṅgītajña evaṃ saṅgīta grantha",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788184572117",
+                "8184572115"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Uday Prakash"
+        ],
+        "ddc": [
+          "891.433"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31197883M"
+        ],
+        "key": "/works/OL23346581W",
+        "language": [
+          "hin"
+        ],
+        "title": "Dattātreya ke duḥkha",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31197883M",
+              "title": "Dattātreya ke duḥkha",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788170559245",
+                "8170559243"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kedāranātha Agravāla"
+        ],
+        "ddc": [
+          "891.4387109"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30779365M"
+        ],
+        "key": "/works/OL22839940W",
+        "language": [
+          "hin"
+        ],
+        "title": "Kedāranātha Agravāla racanā-sañcayana",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30779365M",
+              "title": "Kedāranātha Agravāla racanā-sañcayana",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788126045358",
+                "8126045353"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kr̥shṇanātha"
+        ],
+        "cover_i": 13702396,
+        "ddc": [
+          "934"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23678962M",
+          "OL24063422M",
+          "OL23713888M",
+          "OL23644516M"
+        ],
+        "key": "/works/OL1075653W",
+        "language": [
+          "hin"
+        ],
+        "title": "Nāgārjunakoṇḍā",
+        "editions": {
+          "numFound": 4,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24063422M",
+              "title": "Nāgārjunakoṇḍā",
+              "cover_i": 13702396,
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789350000465",
+                "9350000466"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Alpanā Miśra"
+        ],
+        "ddc": [
+          "891.433"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL27141251M"
+        ],
+        "key": "/works/OL19961014W",
+        "language": [
+          "hin"
+        ],
+        "title": "Qabra bhī qaida au' zānjīreṃ bhī",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL27141251M",
+              "title": "Qabra bhī qaida au' zānjīreṃ bhī",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788126722563",
+                "8126722568"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kailāśa Candra Bhāṭiyā"
+        ],
+        "ddc": [
+          "491.4309"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24582180M"
+        ],
+        "key": "/works/OL15635055W",
+        "language": [
+          "hin"
+        ],
+        "title": "Khaṛī bolī Hindī kā vikāsa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24582180M",
+              "title": "Khaṛī bolī Hindī kā vikāsa",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788179651681",
+                "8179651681"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Hemāṅginī A. Rānaḍe"
+        ],
+        "ddc": [
+          "891.43371"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44380774M"
+        ],
+        "key": "/works/OL32572024W",
+        "language": [
+          "hin"
+        ],
+        "title": "Eka sāla",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44380774M",
+              "title": "Eka sāla",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788181665294",
+                "8181665295"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Yogendra Sharma"
+        ],
+        "ddc": [
+          "954.3"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24470413M"
+        ],
+        "key": "/works/OL15509765W",
+        "language": [
+          "sam",
+          "hin",
+          "eng"
+        ],
+        "title": "Discovering Vidisha",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24470413M",
+              "title": "Discovering Vidisha",
+              "language": [
+                "eng",
+                "hin",
+                "sam"
+              ],
+              "isbn": [
+                "9788173053757",
+                "8173053758"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vempaṭi Kuṭumbaśāstrī"
+        ],
+        "ddc": [
+          "294.5433"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL25394620M"
+        ],
+        "key": "/works/OL16727700W",
+        "language": [
+          "hin",
+          "san",
+          "eng"
+        ],
+        "title": "Śrī Guruprapatti",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL25394620M",
+              "title": "Śrī Guruprapatti",
+              "language": [
+                "eng",
+                "san",
+                "hin"
+              ],
+              "isbn": [
+                "8172702337",
+                "9788172702335"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "ddc": [
+          "891.433"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23042249M"
+        ],
+        "key": "/works/OL18215326W",
+        "language": [
+          "hin"
+        ],
+        "title": "Yūropa kī śreshṭha kahāniyām̐",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23042249M",
+              "title": "Yūropa kī śreshṭha kahāniyām̐",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "818582892X",
+                "9788185828923"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rājeśa Māthura"
+        ],
+        "ddc": [
+          "294.5922"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31085231M"
+        ],
+        "key": "/works/OL23248284W",
+        "language": [
+          "hin"
+        ],
+        "title": "Ārsha Rāmāyaṇa meṃ mānava-utkarsha ke siddhānta",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31085231M",
+              "title": "Ārsha Rāmāyaṇa meṃ mānava-utkarsha ke siddhānta",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788170545798",
+                "817054579X"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Karuṇāśaṅkara Upādhyāya"
+        ],
+        "ddc": [
+          "891.43272"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44453495M"
+        ],
+        "key": "/works/OL32640572W",
+        "language": [
+          "hin"
+        ],
+        "title": "Blaikahola-vimarśa",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44453495M",
+              "title": "Blaikahola-vimarśa",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789383637478",
+                "9383637471"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ratna Manucha"
+        ],
+        "cover_i": 11019924,
+        "ddc": [
+          "891.433"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL32368731M"
+        ],
+        "ia": [
+          "ourjabbhediyaaag0000manu"
+        ],
+        "key": "/works/OL24438436W",
+        "language": [
+          "hin"
+        ],
+        "title": "Our jab bhediya aa gaya",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL32368731M",
+              "title": "Our jab bhediya aa gaya",
+              "cover_i": 11019924,
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789380302539",
+                "9380302533"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Aśoka Kumāra"
+        ],
+        "ddc": [
+          "324.209542"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30809113M"
+        ],
+        "key": "/works/OL22896381W",
+        "language": [
+          "hin"
+        ],
+        "title": "Bhārata meṃ dala-vyavasthā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30809113M",
+              "title": "Bhārata meṃ dala-vyavasthā",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789380820774",
+                "9380820771"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Mahipal Singh Sihag"
+        ],
+        "ddc": [
+          "333.91309544"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL30427990M"
+        ],
+        "key": "/works/OL22346386W",
+        "language": [
+          "hin"
+        ],
+        "title": "Indirā Gāndhī Nahara",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL30427990M",
+              "title": "Indirā Gāndhī Nahara",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9789381149232",
+                "9381149232"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ema Śeshan",
+          "Ema Śeshana"
+        ],
+        "ddc": [
+          "891.433009"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23946055M",
+          "OL23863575M",
+          "OL23920436M"
+        ],
+        "key": "/works/OL18553050W",
+        "language": [
+          "hin"
+        ],
+        "title": "Upanyāsakāra Vrandāvanalāla Varmā aura Kalki",
+        "editions": {
+          "numFound": 3,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23946055M",
+              "title": "Upanyāsakāra, Vr̥ndāvanalāla Varmā aura Kalki",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788190864718",
+                "8190864718"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Bhagavatīśaraṇa Miśra"
+        ],
+        "ddc": [
+          "891.433009"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL31218483M"
+        ],
+        "key": "/works/OL23365293W",
+        "language": [
+          "hin"
+        ],
+        "title": "Hindī ke carcita upanyāsakāra",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL31218483M",
+              "title": "Hindī ke carcita upanyāsakāra",
+              "language": [
+                "hin"
+              ],
+              "isbn": [
+                "9788170288046",
+                "8170288045"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

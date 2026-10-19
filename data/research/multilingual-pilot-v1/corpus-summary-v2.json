@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-10-04T03:26:45.442514+00:00",
+  "downloaded_titles": 61,
+  "by_language": {
+    "tam": 27,
+    "mar": 20,
+    "hin": 14
+  },
+  "native_text_available_unverified": 57,
+  "provisional_group_count": 60,
+  "groups_excluding_quarantined_anthology": 59,
+  "verified_training_books": 0,
+  "model_retrained": false,
+  "incomplete_sequences": [
+    {
+      "work_id": "hindisamay-v2-1232",
+      "title": "कंकाल",
+      "missing_parts": [
+        3
+      ]
+    }
+  ],
+  "candidate_sections": {
+    "494": 13,
+    "894": 12,
+    "891": 30,
+    "954": 2,
+    "914": 1,
+    "915": 2,
+    "917": 1
+  },
+  "planning_targets": {
+    "first_reviewed_pilot": [
+      60,
+      80
+    ],
+    "focused_mvp": 200
+  }
+}

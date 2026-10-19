@@ -1,0 +1,79 @@
+{
+  "model_sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b",
+  "recorded_at": "2026-10-03T15:10:21.756271+00:00",
+  "section_coverage": [
+    {
+      "section": "891",
+      "parent_division": "890",
+      "existing_catalog_training_work_groups": 3,
+      "fine_head_exists": false,
+      "section_is_active_prediction_class": false,
+      "minimum_group_rule": 5
+    },
+    {
+      "section": "894",
+      "parent_division": "890",
+      "existing_catalog_training_work_groups": 0,
+      "fine_head_exists": false,
+      "section_is_active_prediction_class": false,
+      "minimum_group_rule": 5
+    },
+    {
+      "section": "494",
+      "parent_division": "490",
+      "existing_catalog_training_work_groups": 0,
+      "fine_head_exists": true,
+      "section_is_active_prediction_class": false,
+      "minimum_group_rule": 5
+    },
+    {
+      "section": "294",
+      "parent_division": "290",
+      "existing_catalog_training_work_groups": 21,
+      "fine_head_exists": true,
+      "section_is_active_prediction_class": true,
+      "minimum_group_rule": 5
+    },
+    {
+      "section": "575",
+      "parent_division": "570",
+      "existing_catalog_training_work_groups": 1,
+      "fine_head_exists": true,
+      "section_is_active_prediction_class": false,
+      "minimum_group_rule": 5
+    },
+    {
+      "section": "576",
+      "parent_division": "570",
+      "existing_catalog_training_work_groups": 1,
+      "fine_head_exists": true,
+      "section_is_active_prediction_class": false,
+      "minimum_group_rule": 5
+    },
+    {
+      "section": "954",
+      "parent_division": "950",
+      "existing_catalog_training_work_groups": 4,
+      "fine_head_exists": true,
+      "section_is_active_prediction_class": false,
+      "minimum_group_rule": 5
+    },
+    {
+      "section": "320",
+      "parent_division": "320",
+      "existing_catalog_training_work_groups": 18,
+      "fine_head_exists": true,
+      "section_is_active_prediction_class": true,
+      "minimum_group_rule": 5
+    },
+    {
+      "section": "823",
+      "parent_division": "820",
+      "existing_catalog_training_work_groups": 179,
+      "fine_head_exists": true,
+      "section_is_active_prediction_class": true,
+      "minimum_group_rule": 5
+    }
+  ],
+  "note": "Support counts are from the existing weakly labelled catalog, not verified native-language books. A minimum support rule is not an accuracy guarantee. At least two outcomes are needed to fit a head."
+}

@@ -1,0 +1,11 @@
+{
+  "easyocr_version": "1.7.2",
+  "official_source": "https://github.com/JaidedAI/EasyOCR",
+  "files": {
+    "craft_mlt_25k.pth": "4a5efbfb48b4081100544e75e1e2b57f8de3d84f213004b14b85fd4b3748db17",
+    "devanagari.pth": "1a8d0abb2032c0ec9d06639bc078b7686c10cf3b8193fe42a6382bc6846ae4a3",
+    "english_g2.pth": "e2272681d9d67a04e2dff396b6e95077bc19001f8f6d3593c307b9852e1c29e8",
+    "tamil.pth": "1e5e3336a4d4923da6246a76338c02cf9b366cfb3d1a84182bfc3d11df7d5a4d"
+  },
+  "tamil_alphabet_fix": "https://github.com/JaidedAI/EasyOCR/pull/1333"
+}

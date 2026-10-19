@@ -1,0 +1,1442 @@
+[
+  {
+    "file": "books/fhgp1/fhgp101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhgp101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fhgp101.pdf",
+      "retrieved_at": "2026-10-04T04:01:37.056224+00:00",
+      "bytes": 1215475,
+      "sha256": "691c407f1c2e5366275de0ec238a4b88beea196540e5c341cb6a3e76a6d2d9a4",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhgp1/fhgp101.pdf"
+    }
+  },
+  {
+    "file": "books/fhgp1/fhgp105.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhgp105.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fhgp105.pdf",
+      "retrieved_at": "2026-10-04T04:01:38.045724+00:00",
+      "bytes": 2281656,
+      "sha256": "c9215282c8609cf0dd95198e3b8bac51771ef5e799c9da06a30bc7009ec2c9c7",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhgp1/fhgp105.pdf"
+    }
+  },
+  {
+    "file": "books/fhgp1/fhgp110.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhgp110.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fhgp110.pdf",
+      "retrieved_at": "2026-10-04T04:01:38.950370+00:00",
+      "bytes": 4488391,
+      "sha256": "900dcf3fb1d1cc85cf2e1fe77ff4d7caf52a82ce11701fd6148e86f95b149adb",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhgp1/fhgp110.pdf"
+    }
+  },
+  {
+    "file": "books/fhgp1/fhgp1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhgp1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fhgp1ps.pdf",
+      "retrieved_at": "2026-10-04T04:01:39.534552+00:00",
+      "bytes": 2500432,
+      "sha256": "a8c73a75f317efb4b2950c065c8fbe13be5adc9bb7cdb63cc5dc56364b2e93e6",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhgp1/fhgp1ps.pdf"
+    }
+  },
+  {
+    "file": "books/fmrgp1/fmrgp101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrgp101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fmrgp101.pdf",
+      "retrieved_at": "2026-10-04T04:01:39.530149+00:00",
+      "bytes": 1559166,
+      "sha256": "f61db24df27b59a7361d7148f9b82e99bf364b647a7b12c425da9b90482f29f8",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrgp1/fmrgp101.pdf"
+    }
+  },
+  {
+    "file": "books/fmrgp1/fmrgp105.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrgp105.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fmrgp105.pdf",
+      "retrieved_at": "2026-10-04T04:01:40.439018+00:00",
+      "bytes": 3444162,
+      "sha256": "52d380d819f9170aa36a5ff14a0e6d7c46d739fd6c98c2f6c25b720c6b201fd8",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrgp1/fmrgp105.pdf"
+    }
+  },
+  {
+    "file": "books/fmrgp1/fmrgp110.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrgp110.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fmrgp110.pdf",
+      "retrieved_at": "2026-10-04T04:01:47.999960+00:00",
+      "bytes": 8694558,
+      "sha256": "ef35d01777d2c8110972a1196efbe8fd6e710400fd1bde503a722e8917c1e733",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrgp1/fmrgp110.pdf"
+    }
+  },
+  {
+    "file": "books/fmrgp1/fmrgp1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrgp1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fmrgp1ps.pdf",
+      "retrieved_at": "2026-10-04T04:01:43.268167+00:00",
+      "bytes": 4057837,
+      "sha256": "e4a22661a59e2313811dd9d666460392bd3f502c12ebd046f6dd80704d53d149",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrgp1/fmrgp1ps.pdf"
+    }
+  },
+  {
+    "file": "books/ftmgp1/ftmgp101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmgp101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ftmgp101.pdf",
+      "retrieved_at": "2026-10-04T04:01:42.934706+00:00",
+      "bytes": 1085735,
+      "sha256": "f8975ab2e6910c5c2468a28f658e3c26de30e9bc5b492736801774a3336e40e6",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmgp1/ftmgp101.pdf"
+    }
+  },
+  {
+    "file": "books/ftmgp1/ftmgp105.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmgp105.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ftmgp105.pdf",
+      "retrieved_at": "2026-10-04T04:01:46.547488+00:00",
+      "bytes": 2138109,
+      "sha256": "fc2d791ed1b73648ab72d513df353317d1fbd65232ece43b88ca38407a66cd05",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmgp1/ftmgp105.pdf"
+    }
+  },
+  {
+    "file": "books/ftmgp1/ftmgp110.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmgp110.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ftmgp110.pdf",
+      "retrieved_at": "2026-10-04T04:01:47.573315+00:00",
+      "bytes": 3825528,
+      "sha256": "00938d7801917644e42d336ce60b26a6ab31a647c2a12979d2d487e02146f79d",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmgp1/ftmgp110.pdf"
+    }
+  },
+  {
+    "file": "books/ftmgp1/ftmgp1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmgp1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ftmgp1ps.pdf",
+      "retrieved_at": "2026-10-04T04:01:49.746657+00:00",
+      "bytes": 3020576,
+      "sha256": "f5dc4891690c3959ba9ec27333548f28c8afb63cf2ec080b8934c2d161f9e84d",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmgp1/ftmgp1ps.pdf"
+    }
+  },
+  {
+    "file": "books/fhcu1/fhcu101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhcu101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fhcu101.pdf",
+      "retrieved_at": "2026-10-04T04:01:51.707263+00:00",
+      "bytes": 3040802,
+      "sha256": "1fdf63f1eb1562fcc1feae9912bf7d4f8aeb3904e762cf5b435953f2e1dbe8d6",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhcu1/fhcu101.pdf"
+    }
+  },
+  {
+    "file": "books/fhcu1/fhcu106.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhcu106.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fhcu106.pdf",
+      "retrieved_at": "2026-10-04T04:02:10.558246+00:00",
+      "bytes": 7438368,
+      "sha256": "4ca8aa672a3012d6d084ecd9402b2f621807c2c2f5c230e7e8a1d139f3617bad",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhcu1/fhcu106.pdf"
+    }
+  },
+  {
+    "file": "books/fhcu1/fhcu112.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhcu112.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fhcu112.pdf",
+      "retrieved_at": "2026-10-04T04:01:59.831265+00:00",
+      "bytes": 8300375,
+      "sha256": "ee8d1b18e9b4a59629e780809586a5eb2e8ab2468b141d9a2a6e3052c3ade359",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhcu1/fhcu112.pdf"
+    }
+  },
+  {
+    "file": "books/fhcu1/fhcu1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhcu1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fhcu1ps.pdf",
+      "retrieved_at": "2026-10-04T04:01:59.015753+00:00",
+      "bytes": 3217821,
+      "sha256": "de18a3f0383c4a8923c8bf87d323befc9ca4d755e89df010670f3cdf37b29a46",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhcu1/fhcu1ps.pdf"
+    }
+  },
+  {
+    "file": "books/fmrcu1/fmrcu101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrcu101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fmrcu101.pdf",
+      "retrieved_at": "2026-10-04T04:02:11.369574+00:00",
+      "bytes": 9207247,
+      "sha256": "2329c820cae85619974244cc47852e251bfdd0b505a33f864a9b950142480307",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrcu1/fmrcu101.pdf"
+    }
+  },
+  {
+    "file": "books/fmrcu1/fmrcu106.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrcu106.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fmrcu106.pdf",
+      "retrieved_at": "2026-10-04T04:02:25.780722+00:00",
+      "bytes": 23378234,
+      "sha256": "be92e2fb1232f894ccf13b0bccdbc13fb8f952f37eadc0df366cb6c0d733843e",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrcu1/fmrcu106.pdf"
+    }
+  },
+  {
+    "file": "books/fmrcu1/fmrcu112.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrcu112.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fmrcu112.pdf",
+      "retrieved_at": "2026-10-04T04:02:50.656342+00:00",
+      "bytes": 26620621,
+      "sha256": "760dffff708cd1ad5bed5c758d004bc42a018010415e75999e9d37ba8cd3b286",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrcu1/fmrcu112.pdf"
+    }
+  },
+  {
+    "file": "books/fmrcu1/fmrcu1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrcu1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/fmrcu1ps.pdf",
+      "retrieved_at": "2026-10-04T04:02:43.254159+00:00",
+      "bytes": 5649622,
+      "sha256": "8fa77732780e1e8adae71b92e5003998027bf6384b490dab94c689725b70428b",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrcu1/fmrcu1ps.pdf"
+    }
+  },
+  {
+    "file": "books/ftmcu1/ftmcu101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmcu101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ftmcu101.pdf",
+      "retrieved_at": "2026-10-04T04:02:39.370117+00:00",
+      "bytes": 9154604,
+      "sha256": "b0683ce7d5fb858eca7ef4350ed680026ef026983bba7ba4ddd923e046cb65cd",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmcu1/ftmcu101.pdf"
+    }
+  },
+  {
+    "file": "books/ftmcu1/ftmcu106.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmcu106.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ftmcu106.pdf",
+      "retrieved_at": "2026-10-04T04:03:15.696434+00:00",
+      "bytes": 23073114,
+      "sha256": "0cbb649866a2783d1c396cba3dbb62a702bc9eb0fce606da74a7560e1ab9cdc7",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmcu1/ftmcu106.pdf"
+    }
+  },
+  {
+    "file": "books/ftmcu1/ftmcu112.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmcu112.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ftmcu112.pdf",
+      "retrieved_at": "2026-10-04T04:03:05.923016+00:00",
+      "bytes": 26996459,
+      "sha256": "fc07140ecabd507ef827625af2e2e15821e0952250f50d54ea46b7f9836fdc43",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmcu1/ftmcu112.pdf"
+    }
+  },
+  {
+    "file": "books/ftmcu1/ftmcu1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmcu1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ftmcu1ps.pdf",
+      "retrieved_at": "2026-10-04T04:02:59.447072+00:00",
+      "bytes": 5718444,
+      "sha256": "93369c194dd65b02f34e0d06f55d0bc46f74179e4e7e4238575924b8c6606415",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmcu1/ftmcu1ps.pdf"
+    }
+  },
+  {
+    "file": "books/ghgp1/ghgp101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghgp101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ghgp101.pdf",
+      "retrieved_at": "2026-10-04T04:03:18.192643+00:00",
+      "bytes": 9692276,
+      "sha256": "e76c95903c955a47c4443b19cb119e5478e885fe81d56aad819c1dfb397ed86d",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghgp1/ghgp101.pdf"
+    }
+  },
+  {
+    "file": "books/ghgp1/ghgp104.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghgp104.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ghgp104.pdf",
+      "retrieved_at": "2026-10-04T04:03:12.111173+00:00",
+      "bytes": 4148409,
+      "sha256": "d8bd19f09d31035fdd6a6c3d5bc71d27f249ff1dba83badbf53010076c02997b",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghgp1/ghgp104.pdf"
+    }
+  },
+  {
+    "file": "books/ghgp1/ghgp108.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghgp108.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ghgp108.pdf",
+      "retrieved_at": "2026-10-04T04:03:23.398832+00:00",
+      "bytes": 7519347,
+      "sha256": "2a8bedb7a506aa17d26683a391e1f04cdb8f87963b979955efc9588314dad5c2",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghgp1/ghgp108.pdf"
+    }
+  },
+  {
+    "file": "books/ghgp1/ghgp1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghgp1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ghgp1ps.pdf",
+      "retrieved_at": "2026-10-04T04:03:19.024990+00:00",
+      "bytes": 5455926,
+      "sha256": "c910aad560ce2eb744cdeeab77651e924be2f2e3f1dc2e4ccc3b868d2a35c229",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghgp1/ghgp1ps.pdf"
+    }
+  },
+  {
+    "file": "books/gmrgp1/gmrgp101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrgp101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gmrgp101.pdf",
+      "retrieved_at": "2026-10-04T04:03:25.874075+00:00",
+      "bytes": 9562853,
+      "sha256": "26e6703d023c66b3c64bc2a8af89bd8e24e9483e85b591b267f2dbb4732f2814",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrgp1/gmrgp101.pdf"
+    }
+  },
+  {
+    "file": "books/gmrgp1/gmrgp104.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrgp104.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gmrgp104.pdf",
+      "retrieved_at": "2026-10-04T04:03:20.534302+00:00",
+      "bytes": 3784998,
+      "sha256": "ed9a08cc6ff9d02b9f478c32e5445e56a466a1d826e886504da01bb7484bfecf",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrgp1/gmrgp104.pdf"
+    }
+  },
+  {
+    "file": "books/gmrgp1/gmrgp108.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrgp108.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gmrgp108.pdf",
+      "retrieved_at": "2026-10-04T04:03:22.700990+00:00",
+      "bytes": 5753331,
+      "sha256": "9b8b9335b2cc5733a010c0921b51f00a7948c57610638ee78771415f1fb38862",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrgp1/gmrgp108.pdf"
+    }
+  },
+  {
+    "file": "books/gmrgp1/gmrgp1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrgp1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gmrgp1ps.pdf",
+      "retrieved_at": "2026-10-04T04:03:25.534441+00:00",
+      "bytes": 4934111,
+      "sha256": "e63833371e52f5d252a889fb388c47ca85419903172958d83c5c1303bfcf1904",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrgp1/gmrgp1ps.pdf"
+    }
+  },
+  {
+    "file": "books/gtmgp1/gtmgp101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gtmgp101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gtmgp101.pdf",
+      "retrieved_at": "2026-10-04T04:03:28.974701+00:00",
+      "bytes": 8761303,
+      "sha256": "a41aab2019399078d4babf37efdc93cf7c5c544462379e005e807e1a31967368",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gtmgp1/gtmgp101.pdf"
+    }
+  },
+  {
+    "file": "books/gtmgp1/gtmgp104.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gtmgp104.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gtmgp104.pdf",
+      "retrieved_at": "2026-10-04T04:03:29.064311+00:00",
+      "bytes": 3863673,
+      "sha256": "6147ee823332ceb228181b640d5612c7e7cfe927c0dd8644767ad46dad3390c7",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gtmgp1/gtmgp104.pdf"
+    }
+  },
+  {
+    "file": "books/gtmgp1/gtmgp108.pdf",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "books/gtmgp1/gtmgp1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gtmgp1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gtmgp1ps.pdf",
+      "retrieved_at": "2026-10-04T04:03:30.020228+00:00",
+      "bytes": 4965324,
+      "sha256": "79a9b0fdeb2695621527cd93ca57548450313aa4796b1c9cf5848f4f709e83c6",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gtmgp1/gtmgp1ps.pdf"
+    }
+  },
+  {
+    "file": "books/ghcu1/ghcu101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghcu101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ghcu101.pdf",
+      "retrieved_at": "2026-10-04T04:03:30.442741+00:00",
+      "bytes": 1584307,
+      "sha256": "5b1292be16b3212da537e3ba3fb51f76a6a52537d0aa729aaa7fbe28513a6aa1",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghcu1/ghcu101.pdf"
+    }
+  },
+  {
+    "file": "books/ghcu1/ghcu106.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghcu106.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ghcu106.pdf",
+      "retrieved_at": "2026-10-04T04:03:31.524467+00:00",
+      "bytes": 4167642,
+      "sha256": "99a5781464f9c7d3a824eba2ca01d7661e696037fa45b8de3955651a8a9f6ef0",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghcu1/ghcu106.pdf"
+    }
+  },
+  {
+    "file": "books/ghcu1/ghcu112.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghcu112.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ghcu112.pdf",
+      "retrieved_at": "2026-10-04T04:03:32.956365+00:00",
+      "bytes": 5466945,
+      "sha256": "7e70fd6fd34f0af9a27b58161851cfe47fbbae2770be6aa3b14747e614ec631d",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghcu1/ghcu112.pdf"
+    }
+  },
+  {
+    "file": "books/ghcu1/ghcu1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghcu1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ghcu1ps.pdf",
+      "retrieved_at": "2026-10-04T04:03:33.574584+00:00",
+      "bytes": 4035918,
+      "sha256": "68c5024ad6963d53e60e201bd8af577c4e454cf31674c18d936170039a6afdcb",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghcu1/ghcu1ps.pdf"
+    }
+  },
+  {
+    "file": "books/gmrcu1/gmrcu101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrcu101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gmrcu101.pdf",
+      "retrieved_at": "2026-10-04T04:03:36.905541+00:00",
+      "bytes": 5732125,
+      "sha256": "115c8bc2588f8db6f1e38ad2243b40ed7b0d13f061e80a0223c989746f228449",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrcu1/gmrcu101.pdf"
+    }
+  },
+  {
+    "file": "books/gmrcu1/gmrcu106.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrcu106.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gmrcu106.pdf",
+      "retrieved_at": "2026-10-04T04:03:39.571088+00:00",
+      "bytes": 10245342,
+      "sha256": "e5d3f82071177915b97d4bbecaabcf0e75d9d68eb167cdbd5670b67f909e4d98",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrcu1/gmrcu106.pdf"
+    }
+  },
+  {
+    "file": "books/gmrcu1/gmrcu112.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrcu112.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gmrcu112.pdf",
+      "retrieved_at": "2026-10-04T04:03:47.960490+00:00",
+      "bytes": 17316181,
+      "sha256": "7e42d6ba98012135ebd88ebe52098a8dbb291f96045efb0174b11bfcc50da721",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrcu1/gmrcu112.pdf"
+    }
+  },
+  {
+    "file": "books/gmrcu1/gmrcu1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrcu1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gmrcu1ps.pdf",
+      "retrieved_at": "2026-10-04T04:03:44.883545+00:00",
+      "bytes": 10014450,
+      "sha256": "d5a9316486c18af0a73e7600a6ac2a5c309f9ccceef51f2c4c2e04953573bdb5",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrcu1/gmrcu1ps.pdf"
+    }
+  },
+  {
+    "file": "books/gtmcu1/gtmcu101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gtmcu101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gtmcu101.pdf",
+      "retrieved_at": "2026-10-04T04:03:45.686610+00:00",
+      "bytes": 5788800,
+      "sha256": "9486048adabf07ef459377160dd6412520d09a3d5a845270a4d71cc9f5c06bae",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gtmcu1/gtmcu101.pdf"
+    }
+  },
+  {
+    "file": "books/gtmcu1/gtmcu106.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gtmcu106.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gtmcu106.pdf",
+      "retrieved_at": "2026-10-04T04:03:50.823446+00:00",
+      "bytes": 10398742,
+      "sha256": "0d9aa1258f8f6b85c109c8bd9b5f0465e4b8d26acda3951117b9b1a7d789d5fe",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gtmcu1/gtmcu106.pdf"
+    }
+  },
+  {
+    "file": "books/gtmcu1/gtmcu112.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gtmcu112.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gtmcu112.pdf",
+      "retrieved_at": "2026-10-04T04:03:57.477248+00:00",
+      "bytes": 17422100,
+      "sha256": "d2a4aa6c3f4e345b287504d9a569ef0865788335a04fc0bc6f934d987564ba7d",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gtmcu1/gtmcu112.pdf"
+    }
+  },
+  {
+    "file": "books/gtmcu1/gtmcu1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/gtmcu1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/gtmcu1ps.pdf",
+      "retrieved_at": "2026-10-04T04:03:56.716028+00:00",
+      "bytes": 9959746,
+      "sha256": "6cb13fe1a3f95496875c6ce3461bbd8db69a75d8068974071c9fb4b1e370c68a",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/gtmcu1/gtmcu1ps.pdf"
+    }
+  },
+  {
+    "file": "books/hhgp1/hhgp101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhgp101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hhgp101.pdf",
+      "retrieved_at": "2026-10-04T04:03:54.176945+00:00",
+      "bytes": 2748242,
+      "sha256": "384e7107448be90581c78be73d40f9adbff2cf58e7ac424d5f9185a770936c4d",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhgp1/hhgp101.pdf"
+    }
+  },
+  {
+    "file": "books/hhgp1/hhgp103.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhgp103.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hhgp103.pdf",
+      "retrieved_at": "2026-10-04T04:04:00.195386+00:00",
+      "bytes": 8106106,
+      "sha256": "636993bae8374bb34828061a88dd81a8d8a51d3832f81ec5c965c10c9473b9c1",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhgp1/hhgp103.pdf"
+    }
+  },
+  {
+    "file": "books/hhgp1/hhgp107.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhgp107.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hhgp107.pdf",
+      "retrieved_at": "2026-10-04T04:04:00.519715+00:00",
+      "bytes": 4089471,
+      "sha256": "4a86511ef9f76d3b1cc64cf89b74f67e98f531a31f53c432b8d150929d4c5a80",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhgp1/hhgp107.pdf"
+    }
+  },
+  {
+    "file": "books/hhgp1/hhgp1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhgp1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hhgp1ps.pdf",
+      "retrieved_at": "2026-10-04T04:04:02.309814+00:00",
+      "bytes": 4948112,
+      "sha256": "6b0ac4377f6b300e3b66481f56793f0707affc0488756c90cefb25fbe7e82666",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhgp1/hhgp1ps.pdf"
+    }
+  },
+  {
+    "file": "books/hmrgp1/hmrgp101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hmrgp101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hmrgp101.pdf",
+      "retrieved_at": "2026-10-04T04:04:05.496722+00:00",
+      "bytes": 5290826,
+      "sha256": "4dbc2f305ba3e6da3f71003f80fa238b9a4cbdf8635b8888ad874d184fd2e8f3",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hmrgp1/hmrgp101.pdf"
+    }
+  },
+  {
+    "file": "books/hmrgp1/hmrgp103.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hmrgp103.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hmrgp103.pdf",
+      "retrieved_at": "2026-10-04T04:04:10.678257+00:00",
+      "bytes": 21734518,
+      "sha256": "ab988a464df62fb0eac16905d5c1da18893788ebdc54dcc7fefcdab83d8398d0",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hmrgp1/hmrgp103.pdf"
+    }
+  },
+  {
+    "file": "books/hmrgp1/hmrgp107.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hmrgp107.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hmrgp107.pdf",
+      "retrieved_at": "2026-10-04T04:04:11.083970+00:00",
+      "bytes": 6762173,
+      "sha256": "c024b442148bf853d48097f9f3041fb7e5a2c0175f2a5a21c53d1d16c4aa93e6",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hmrgp1/hmrgp107.pdf"
+    }
+  },
+  {
+    "file": "books/hmrgp1/hmrgp1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hmrgp1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hmrgp1ps.pdf",
+      "retrieved_at": "2026-10-04T04:04:13.721045+00:00",
+      "bytes": 5068688,
+      "sha256": "20817e4dc90f95061ef97342cb84cd9ff88d8efc9a7d683836f173ddccb39881",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hmrgp1/hmrgp1ps.pdf"
+    }
+  },
+  {
+    "file": "books/htmgp1/htmgp101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmgp101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/htmgp101.pdf",
+      "retrieved_at": "2026-10-04T04:04:12.802283+00:00",
+      "bytes": 5342181,
+      "sha256": "0aab92170a468eca43faa24a1553aebdce926d7b3ae85aa0816e3de062ed9950",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmgp1/htmgp101.pdf"
+    }
+  },
+  {
+    "file": "books/htmgp1/htmgp103.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmgp103.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/htmgp103.pdf",
+      "retrieved_at": "2026-10-04T04:04:19.790945+00:00",
+      "bytes": 21616819,
+      "sha256": "7ba26746f1122faa711fb4dd5d281a157f76aad56a2a002d3faeae2bfa15d017",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmgp1/htmgp103.pdf"
+    }
+  },
+  {
+    "file": "books/htmgp1/htmgp107.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmgp107.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/htmgp107.pdf",
+      "retrieved_at": "2026-10-04T04:04:19.034570+00:00",
+      "bytes": 6773110,
+      "sha256": "191d55b2700c88e2927e198518fcf942f6f1001ee3276f652e29ce4e20b51439",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmgp1/htmgp107.pdf"
+    }
+  },
+  {
+    "file": "books/htmgp1/htmgp1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmgp1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/htmgp1ps.pdf",
+      "retrieved_at": "2026-10-04T04:04:18.623474+00:00",
+      "bytes": 4767294,
+      "sha256": "9379a24d3f35ebd41dbf6f5d03f2d4f1006c1c02e6df62e384b680593c1021a6",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmgp1/htmgp1ps.pdf"
+    }
+  },
+  {
+    "file": "books/hhcu1/hhcu101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhcu101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hhcu101.pdf",
+      "retrieved_at": "2026-10-04T04:04:20.246961+00:00",
+      "bytes": 1686252,
+      "sha256": "865fcededf7c58ff98669f4e4d1691b967c791902076ca922a5932b141366b5d",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhcu1/hhcu101.pdf"
+    }
+  },
+  {
+    "file": "books/hhcu1/hhcu106.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhcu106.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hhcu106.pdf",
+      "retrieved_at": "2026-10-04T04:04:28.094943+00:00",
+      "bytes": 4516876,
+      "sha256": "3c40ba693224eb664a7f8d47121bb9592cf1ec9c66af596391d868adf4ce8014",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhcu1/hhcu106.pdf"
+    }
+  },
+  {
+    "file": "books/hhcu1/hhcu113.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhcu113.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hhcu113.pdf",
+      "retrieved_at": "2026-10-04T04:04:22.114784+00:00",
+      "bytes": 4063391,
+      "sha256": "8b29c8e723b1263d9f3c474ccd0c6d336430c4b3c24ffacaa4f7da7a3eba1d2a",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhcu1/hhcu113.pdf"
+    }
+  },
+  {
+    "file": "books/hhcu1/hhcu1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhcu1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hhcu1ps.pdf",
+      "retrieved_at": "2026-10-04T04:04:21.853142+00:00",
+      "bytes": 2725977,
+      "sha256": "0d1a75894904e6c927e3e899db188ea8ee8fd2b25b35b9b1d614318eb6815dee",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhcu1/hhcu1ps.pdf"
+    }
+  },
+  {
+    "file": "books/hmrcu1/hmrcu101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hmrcu101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hmrcu101.pdf",
+      "retrieved_at": "2026-10-04T04:04:23.303619+00:00",
+      "bytes": 5458629,
+      "sha256": "5692d79677bf9b5579d0b24eb8a7d4b0060b1e328fd369d34cf6e9e90bb50be6",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hmrcu1/hmrcu101.pdf"
+    }
+  },
+  {
+    "file": "books/hmrcu1/hmrcu106.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hmrcu106.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hmrcu106.pdf",
+      "retrieved_at": "2026-10-04T04:04:27.534012+00:00",
+      "bytes": 8593807,
+      "sha256": "e7438c3f1121e06a4a85fef912d1ea3d61ccd9753a718751699f47bccb6f8448",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hmrcu1/hmrcu106.pdf"
+    }
+  },
+  {
+    "file": "books/hmrcu1/hmrcu113.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/hmrcu113.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/hmrcu113.pdf",
+      "retrieved_at": "2026-10-04T04:04:28.221324+00:00",
+      "bytes": 12233556,
+      "sha256": "1df6c48f20e17705c020005ddf898d600da3078b2b7dec720ad675f3757cdd33",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/hmrcu1/hmrcu113.pdf"
+    }
+  },
+  {
+    "file": "books/hmrcu1/hmrcu1ps.pdf",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "books/htmcu1/htmcu101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmcu101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/htmcu101.pdf",
+      "retrieved_at": "2026-10-04T04:04:32.175492+00:00",
+      "bytes": 5497835,
+      "sha256": "d9073a8b95faead6c0cea69eb6a756e01b0cf8e9ae3602c9432c466bd0265441",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmcu1/htmcu101.pdf"
+    }
+  },
+  {
+    "file": "books/htmcu1/htmcu106.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmcu106.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/htmcu106.pdf",
+      "retrieved_at": "2026-10-04T04:04:33.693634+00:00",
+      "bytes": 8522537,
+      "sha256": "39f6d66a38ed7d9a9f20eee6baf0b1e9ce6ea3e3abba1dd5cdd3d43bf56dc5a0",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmcu1/htmcu106.pdf"
+    }
+  },
+  {
+    "file": "books/htmcu1/htmcu113.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmcu113.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/htmcu113.pdf",
+      "retrieved_at": "2026-10-04T04:04:35.263904+00:00",
+      "bytes": 12303045,
+      "sha256": "21d30976fd048906f2f170999ed43cb9edf36646713d80b8b67dd295eb4cbc06",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmcu1/htmcu113.pdf"
+    }
+  },
+  {
+    "file": "books/htmcu1/htmcu1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmcu1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/htmcu1ps.pdf",
+      "retrieved_at": "2026-10-04T04:04:37.735143+00:00",
+      "bytes": 7477930,
+      "sha256": "3acd78ec122ec0635082a0e47a448127aad74d6e1b27046f79860ffec3e62472",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmcu1/htmcu1ps.pdf"
+    }
+  },
+  {
+    "file": "books/khph1/khph101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khph101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khph101.pdf",
+      "retrieved_at": "2026-10-04T04:04:35.450973+00:00",
+      "bytes": 1004584,
+      "sha256": "c67c7083043102e2d90f3488ad40bda3dc15733f034986386bd3109584072002",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khph1/khph101.pdf"
+    }
+  },
+  {
+    "file": "books/khph1/khph103.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khph103.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khph103.pdf",
+      "retrieved_at": "2026-10-04T04:04:36.832351+00:00",
+      "bytes": 1936625,
+      "sha256": "070e43220444c088734ee2dc0663b17a93d7b8729782ad40b7592b2620d4d023",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khph1/khph103.pdf"
+    }
+  },
+  {
+    "file": "books/khph1/khph107.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khph107.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khph107.pdf",
+      "retrieved_at": "2026-10-04T04:04:36.859843+00:00",
+      "bytes": 1547938,
+      "sha256": "680c02417dd686b27836caf2e0c7136edbc455d47c7371a74af5233f90529bed",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khph1/khph107.pdf"
+    }
+  },
+  {
+    "file": "books/khph1/khph1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khph1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khph1ps.pdf",
+      "retrieved_at": "2026-10-04T04:04:37.974944+00:00",
+      "bytes": 1817741,
+      "sha256": "a1eddec152eecf398aa2506dc918e8f9649ab3fd99a5669d28400d3a5bd594fd",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khph1/khph1ps.pdf"
+    }
+  },
+  {
+    "file": "books/khch1/khch101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khch101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khch101.pdf",
+      "retrieved_at": "2026-10-04T04:04:42.001919+00:00",
+      "bytes": 9110310,
+      "sha256": "b1af3b16e51831c0f655a151bb92f5e5fcf2a4da561449dcc77f5887fb783c42",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khch1/khch101.pdf"
+    }
+  },
+  {
+    "file": "books/khch1/khch103.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khch103.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khch103.pdf",
+      "retrieved_at": "2026-10-04T04:04:39.269049+00:00",
+      "bytes": 3192980,
+      "sha256": "1f1dc743e6e1a1526959124eaea7e392c9165ffb6726396b95c61747266c73ea",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khch1/khch103.pdf"
+    }
+  },
+  {
+    "file": "books/khch1/khch106.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khch106.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khch106.pdf",
+      "retrieved_at": "2026-10-04T04:04:41.101494+00:00",
+      "bytes": 5240452,
+      "sha256": "ee54c7e6609a1bb28207220e7cd3c354ad291bda842ab24e6e69401d7218f40e",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khch1/khch106.pdf"
+    }
+  },
+  {
+    "file": "books/khch1/khch1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khch1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khch1ps.pdf",
+      "retrieved_at": "2026-10-04T04:04:42.184224+00:00",
+      "bytes": 1495974,
+      "sha256": "26cf78eddba62d29d0eee8b62739681fe59983a16829113846047d0a4e261f5e",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khch1/khch1ps.pdf"
+    }
+  },
+  {
+    "file": "books/khbo1/khbo101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khbo101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khbo101.pdf",
+      "retrieved_at": "2026-10-04T04:04:42.172194+00:00",
+      "bytes": 723044,
+      "sha256": "f6de620e83320bca82008fea1e8f78c853676346d705ebcbbf2e768381caf122",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khbo1/khbo101.pdf"
+    }
+  },
+  {
+    "file": "books/khbo1/khbo109.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khbo109.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khbo109.pdf",
+      "retrieved_at": "2026-10-04T04:04:43.110848+00:00",
+      "bytes": 1265520,
+      "sha256": "f0c5f574fc6d7e3506db08bf3af9591b366f59f1f26ab72264dd5b6c2b169e77",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khbo1/khbo109.pdf"
+    }
+  },
+  {
+    "file": "books/khbo1/khbo119.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khbo119.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khbo119.pdf",
+      "retrieved_at": "2026-10-04T04:04:43.002385+00:00",
+      "bytes": 1349390,
+      "sha256": "c625fb99c218423eca9f1115f8f6c2559efe58db44d9516b1238542106840d2e",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khbo1/khbo119.pdf"
+    }
+  },
+  {
+    "file": "books/khbo1/khbo1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khbo1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khbo1ps.pdf",
+      "retrieved_at": "2026-10-04T04:04:43.413137+00:00",
+      "bytes": 1591749,
+      "sha256": "4eadf45f2384d08cfafe0683b5ea64ae3541a104dbf1322a74931261410230c5",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khbo1/khbo1ps.pdf"
+    }
+  },
+  {
+    "file": "books/khpy1/khpy101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khpy101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khpy101.pdf",
+      "retrieved_at": "2026-10-04T04:04:44.207246+00:00",
+      "bytes": 2011449,
+      "sha256": "02eaa404f205e78b1ba1874b4aa7cea6088b3dc89bd3ac99e58fcd06d6e5c60e",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khpy1/khpy101.pdf"
+    }
+  },
+  {
+    "file": "books/khpy1/khpy104.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khpy104.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khpy104.pdf",
+      "retrieved_at": "2026-10-04T04:04:45.179115+00:00",
+      "bytes": 2000378,
+      "sha256": "875b094145cef8d97494e59eeeec8cc6270adf036bd833b021b84f6fa2756cfa",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khpy1/khpy104.pdf"
+    }
+  },
+  {
+    "file": "books/khpy1/khpy108.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khpy108.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khpy108.pdf",
+      "retrieved_at": "2026-10-04T04:04:44.592409+00:00",
+      "bytes": 1633319,
+      "sha256": "9c02492f9eae92352897ee0d0c9f7c4a0d1a97ecc12c7662af73faee5c5f3e5b",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khpy1/khpy108.pdf"
+    }
+  },
+  {
+    "file": "books/khpy1/khpy1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khpy1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khpy1ps.pdf",
+      "retrieved_at": "2026-10-04T04:04:45.186329+00:00",
+      "bytes": 1600465,
+      "sha256": "4433cbf1002486a1ee91d0f73f8cbb0f38ea3cb829154c643a482ec01c0e3e45",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khpy1/khpy1ps.pdf"
+    }
+  },
+  {
+    "file": "books/khsy1/khsy101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khsy101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khsy101.pdf",
+      "retrieved_at": "2026-10-04T04:04:46.820631+00:00",
+      "bytes": 4835241,
+      "sha256": "16ea3e6c0135c18b6aa6d45b5af8dd064b1c4166b49180830d815876927f83e5",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khsy1/khsy101.pdf"
+    }
+  },
+  {
+    "file": "books/khsy1/khsy102.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khsy102.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khsy102.pdf",
+      "retrieved_at": "2026-10-04T04:04:47.102470+00:00",
+      "bytes": 2177728,
+      "sha256": "8a522e25141c468d52f330e093078bb919d243df6ed896db2a9a80dc316833cb",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khsy1/khsy102.pdf"
+    }
+  },
+  {
+    "file": "books/khsy1/khsy105.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khsy105.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khsy105.pdf",
+      "retrieved_at": "2026-10-04T04:04:47.089460+00:00",
+      "bytes": 2100537,
+      "sha256": "dc9a8d500b2ac5cdf3528abcca22737f2d4b00b7d2fbab55861f097f471351c3",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khsy1/khsy105.pdf"
+    }
+  },
+  {
+    "file": "books/khsy1/khsy1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khsy1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khsy1ps.pdf",
+      "retrieved_at": "2026-10-04T04:04:47.691503+00:00",
+      "bytes": 1908927,
+      "sha256": "425a62868e40804b0ec956a25a340e618b9ef11fbba47354367166b164d8eca4",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khsy1/khsy1ps.pdf"
+    }
+  },
+  {
+    "file": "books/khps1/khps101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khps101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khps101.pdf",
+      "retrieved_at": "2026-10-04T04:04:48.203559+00:00",
+      "bytes": 1749059,
+      "sha256": "f9a1b0b80031ddedf795dff2f1d10a8509275984268afa0c078fe03ea47205ab",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khps1/khps101.pdf"
+    }
+  },
+  {
+    "file": "books/khps1/khps104.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khps104.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khps104.pdf",
+      "retrieved_at": "2026-10-04T04:04:48.374343+00:00",
+      "bytes": 2029072,
+      "sha256": "5e0cde0eabb1a28cf4f2596b04ad23a12d4d67f7c9e7c476c7a414c3fce4055a",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khps1/khps104.pdf"
+    }
+  },
+  {
+    "file": "books/khps1/khps108.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khps108.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khps108.pdf",
+      "retrieved_at": "2026-10-04T04:04:49.053694+00:00",
+      "bytes": 2347693,
+      "sha256": "5ff349cdc1fd8ac6268c6f35cc815f43dd6508f5e376af2462572b8122ca4494",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khps1/khps108.pdf"
+    }
+  },
+  {
+    "file": "books/khps1/khps1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khps1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khps1ps.pdf",
+      "retrieved_at": "2026-10-04T04:04:49.846329+00:00",
+      "bytes": 1686678,
+      "sha256": "4a245af998973ddc2acf44f35db4c6abce047324983c58ca90ecfcd0a3995fcc",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khps1/khps1ps.pdf"
+    }
+  },
+  {
+    "file": "books/khec1/khec101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khec101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khec101.pdf",
+      "retrieved_at": "2026-10-04T04:04:49.946060+00:00",
+      "bytes": 1635113,
+      "sha256": "770896d406f41983ea5a517101ef82b027cedd647454cd13ed4e83e1f09a51d5",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khec1/khec101.pdf"
+    }
+  },
+  {
+    "file": "books/khec1/khec104.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khec104.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khec104.pdf",
+      "retrieved_at": "2026-10-04T04:04:50.616503+00:00",
+      "bytes": 1692987,
+      "sha256": "dc8612f2e390b02410d1ddd008ebc6155fda8ffcc5358c30d1b9e671afe7c285",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khec1/khec104.pdf"
+    }
+  },
+  {
+    "file": "books/khec1/khec108.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khec108.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khec108.pdf",
+      "retrieved_at": "2026-10-04T04:04:50.936360+00:00",
+      "bytes": 1521321,
+      "sha256": "80f71c6805c7f527aaf4974f0e6779c59a274b1b935e754ca5e689cf7a4e7b22",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khec1/khec108.pdf"
+    }
+  },
+  {
+    "file": "books/khec1/khec1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khec1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khec1ps.pdf",
+      "retrieved_at": "2026-10-04T04:04:51.051408+00:00",
+      "bytes": 1678031,
+      "sha256": "80217007f725ed4e263e9732b2e51a43d40e4b238bcf6be4b79c274f541e0ead",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khec1/khec1ps.pdf"
+    }
+  },
+  {
+    "file": "books/khac1/khac101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khac101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khac101.pdf",
+      "retrieved_at": "2026-10-04T04:04:52.214506+00:00",
+      "bytes": 2043250,
+      "sha256": "a37da97358e8e48ac023c10faaeba7948a1a2435d94e7aac91a9e0118afb8055",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khac1/khac101.pdf"
+    }
+  },
+  {
+    "file": "books/khac1/khac103.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khac103.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khac103.pdf",
+      "retrieved_at": "2026-10-04T04:04:54.234446+00:00",
+      "bytes": 4285919,
+      "sha256": "c514578e53c372327e8a226eb0910d779ba04de3380cad63f21359716f0cbfa5",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khac1/khac103.pdf"
+    }
+  },
+  {
+    "file": "books/khac1/khac107.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khac107.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khac107.pdf",
+      "retrieved_at": "2026-10-04T04:04:52.895665+00:00",
+      "bytes": 4352179,
+      "sha256": "19d6f32dc825eb0a297e20b98e392a86977f658f0da131ec44435f055ac50454",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khac1/khac107.pdf"
+    }
+  },
+  {
+    "file": "books/khac1/khac1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khac1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khac1ps.pdf",
+      "retrieved_at": "2026-10-04T04:04:53.427170+00:00",
+      "bytes": 1749931,
+      "sha256": "83f751e5f8570a18f67161d1182caade6de3fb539d97113635b1c962af91f24f",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khac1/khac1ps.pdf"
+    }
+  },
+  {
+    "file": "books/khfa1/khfa101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khfa101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khfa101.pdf",
+      "retrieved_at": "2026-10-04T04:04:53.988002+00:00",
+      "bytes": 2504229,
+      "sha256": "a857237027b0e4813217228f287a641810e3078bdf3ed8a723be0c7fd42d1cd9",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khfa1/khfa101.pdf"
+    }
+  },
+  {
+    "file": "books/khfa1/khfa104.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khfa104.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khfa104.pdf",
+      "retrieved_at": "2026-10-04T04:05:00.523425+00:00",
+      "bytes": 17667395,
+      "sha256": "4e0a39d9d70ab243bffa3fd72f3d5424c8360a8402be8ae7250cab3a8d883532",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khfa1/khfa104.pdf"
+    }
+  },
+  {
+    "file": "books/khfa1/khfa108.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khfa108.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khfa108.pdf",
+      "retrieved_at": "2026-10-04T04:04:58.682058+00:00",
+      "bytes": 6826354,
+      "sha256": "4214affeba9fdb8ca01579050436ddba087c8531314cca772a7cc09b3e9d418d",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khfa1/khfa108.pdf"
+    }
+  },
+  {
+    "file": "books/khfa1/khfa1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khfa1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khfa1ps.pdf",
+      "retrieved_at": "2026-10-04T04:04:57.094691+00:00",
+      "bytes": 3288949,
+      "sha256": "3a40d9848dfaed0a8c4afd451f09188529c69556f3d36c21e0e66c1becc4a7ec",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khfa1/khfa1ps.pdf"
+    }
+  },
+  {
+    "file": "books/khgy2/khgy201.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khgy201.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khgy201.pdf",
+      "retrieved_at": "2026-10-04T04:04:59.104730+00:00",
+      "bytes": 1073791,
+      "sha256": "a7f0faa5e19acc36853c966f64dc6978e832512da03d22be0e5ce1df3b767d71",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khgy2/khgy201.pdf"
+    }
+  },
+  {
+    "file": "books/khgy2/khgy207.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khgy207.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khgy207.pdf",
+      "retrieved_at": "2026-10-04T04:04:59.747350+00:00",
+      "bytes": 403729,
+      "sha256": "617bad29b2ac38d3e76879c06d479ebad69e249975c32e53b8e713efa5a8c09c",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khgy2/khgy207.pdf"
+    }
+  },
+  {
+    "file": "books/khgy2/khgy214.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khgy214.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khgy214.pdf",
+      "retrieved_at": "2026-10-04T04:05:00.592574+00:00",
+      "bytes": 1037213,
+      "sha256": "a06c59ef4b996a7dd7ef41ebb8f09fe771df17cdd3e8594050e4f685fed52e32",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khgy2/khgy214.pdf"
+    }
+  },
+  {
+    "file": "books/khgy2/khgy2ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/khgy2ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/khgy2ps.pdf",
+      "retrieved_at": "2026-10-04T04:05:00.670231+00:00",
+      "bytes": 816418,
+      "sha256": "7772e4942d548f5c8078fb347e1134fa2c01c54d74aab6fd71570ae04bbe0972",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v3/books/khgy2/khgy2ps.pdf"
+    }
+  }
+]

@@ -1,0 +1,318 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-10-03T14:38:44.909754+00:00",
+  "source_directory": "/Users/swayam200/Developer/DDC-Classification/data/research/multilingual-pilot-v1/pdf-inbox",
+  "books": [
+    {
+      "file": "dasbodh_khand_2.pdf",
+      "format": "pdf",
+      "source_relative_path": "pdf-inbox/dasbodh_khand_2.pdf",
+      "source_sha256": "0265036325d75847a308c39428eb6954d2a5be6a2a15d4ecc4d8a381712d74ca",
+      "bytes": 3138862,
+      "expected_title": "दासबोध, खंड २",
+      "expected_author": "समर्थ रामदास",
+      "expected_language": "mar",
+      "expectation_basis": "User-requested collection titles / filenames, not automatic confirmation",
+      "embedded_metadata": {
+        "/Author": "Sunil",
+        "/Creator": "Microsoft® Word 2010",
+        "/CreationDate": "D:20150217072220+05'30'",
+        "/ModDate": "D:20150217072220+05'30'",
+        "/Producer": "Microsoft® Word 2010"
+      },
+      "pdf_pages": 411,
+      "extracted_chars": 393755,
+      "script_counts": {
+        "devanagari": 202742,
+        "latin": 53620
+      },
+      "empty_sections": 1,
+      "extraction_errors": 0,
+      "extraction_status": "text_extracted_needs_review",
+      "extracted_text": "text/dasbodh_khand_2.txt",
+      "extracted_text_sha256": "85898823e4ce2ca5c4fa1345a11bd0ec212d5fd1c5329e548ddeaa4d4b7b8cac",
+      "section_index": "text/dasbodh_khand_2.index.jsonl",
+      "review_status": "pending",
+      "verified_ddc_section": null,
+      "training_eligible": false
+    },
+    {
+      "file": "gandhi-autobiography-hindi.pdf",
+      "format": "pdf",
+      "source_relative_path": "pdf-inbox/gandhi-autobiography-hindi.pdf",
+      "source_sha256": "51fa6a24da5a3733f8c675351b98f7d85d8ea8769df4d55341a0cc9baf77a6b9",
+      "bytes": 3311306,
+      "expected_title": "सत्य के प्रयोग अथवा आत्मकथा",
+      "expected_author": "महात्मा गांधी",
+      "expected_language": "hin",
+      "expectation_basis": "User-requested collection titles / filenames, not automatic confirmation",
+      "embedded_metadata": {
+        "/Author": "SARVODAYA1",
+        "/CreationDate": "D:20170909193245+05'30'",
+        "/Creator": "Microsoft® Word 2013",
+        "/ModDate": "D:20170911172300+05'30'",
+        "/Producer": "Microsoft® Word 2013",
+        "/Subject": "ले",
+        "/Title": "सत्य के प्रयोग अथवा आत्मकथा"
+      },
+      "pdf_pages": 539,
+      "extracted_chars": 931740,
+      "script_counts": {
+        "devanagari": 668076,
+        "latin": 9725
+      },
+      "empty_sections": 0,
+      "extraction_errors": 0,
+      "extraction_status": "text_extracted_needs_review",
+      "extracted_text": "text/gandhi-autobiography-hindi.txt",
+      "extracted_text_sha256": "8ad9dab11e8e6f65d28c7bc48b04f77db8b56245c603fccc75ac216274e4c026",
+      "section_index": "text/gandhi-autobiography-hindi.index.jsonl",
+      "review_status": "pending",
+      "verified_ddc_section": null,
+      "training_eligible": false
+    },
+    {
+      "file": "godan_by_premchand.pdf",
+      "format": "pdf",
+      "source_relative_path": "pdf-inbox/godan_by_premchand.pdf",
+      "source_sha256": "ea60e2269dc153d0b503014ca5878f81fe1a2492e55f9abd6109660d5e446b9d",
+      "bytes": 2469030,
+      "expected_title": "गोदान",
+      "expected_author": "प्रेमचंद",
+      "expected_language": "hin",
+      "expectation_basis": "User-requested collection titles / filenames, not automatic confirmation",
+      "embedded_metadata": {
+        "/Author": "sanjaykh",
+        "/Creator": "Microsoft® Word 2010",
+        "/CreationDate": "D:20121117180552+05'30'",
+        "/ModDate": "D:20121117180552+05'30'",
+        "/Producer": "Microsoft® Word 2010"
+      },
+      "pdf_pages": 526,
+      "extracted_chars": 867495,
+      "script_counts": {
+        "devanagari": 558152,
+        "latin": 436
+      },
+      "empty_sections": 0,
+      "extraction_errors": 0,
+      "extraction_status": "text_extracted_needs_review",
+      "extracted_text": "text/godan_by_premchand.txt",
+      "extracted_text_sha256": "0d4691ac6a04fbb15df27d3f8a5a27e6c4ad6b8e9a8638c94a4517305c44dcce",
+      "section_index": "text/godan_by_premchand.index.jsonl",
+      "review_status": "pending",
+      "verified_ddc_section": null,
+      "training_eligible": false
+    },
+    {
+      "file": "pg1228-images-3.epub",
+      "format": "epub",
+      "source_relative_path": "pdf-inbox/pg1228-images-3.epub",
+      "source_sha256": "410f0371c6d65a218ebc400b0c354db83685df1203a4c2ec8f16845d09abed08",
+      "bytes": 440662,
+      "expected_title": "On the Origin of Species",
+      "expected_author": "Charles Darwin",
+      "expected_language": "eng",
+      "expectation_basis": "User-requested collection titles / filenames, not automatic confirmation",
+      "embedded_metadata": {
+        "rights": [
+          "Public domain in the USA."
+        ],
+        "identifier": [
+          "http://www.gutenberg.org/1228"
+        ],
+        "creator": [
+          "Charles Darwin"
+        ],
+        "title": [
+          "On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life"
+        ],
+        "language": [
+          "en"
+        ],
+        "subject": [
+          "Evolution (Biology)",
+          "Natural selection"
+        ],
+        "date": [
+          "1998-03-01"
+        ],
+        "source": [
+          "https://www.gutenberg.org/files/1228/1228-h/1228-h.htm"
+        ]
+      },
+      "epub_spine_documents": 19,
+      "extracted_chars": 953702,
+      "script_counts": {
+        "latin": 765731
+      },
+      "empty_sections": 0,
+      "extraction_errors": 0,
+      "extraction_status": "text_extracted_needs_review",
+      "extracted_text": "text/pg1228-images-3.txt",
+      "extracted_text_sha256": "ab59ec75063817ce8bb76abdf7385aef688bd9d169a7b504b528003e30a979f8",
+      "section_index": "text/pg1228-images-3.index.jsonl",
+      "review_status": "pending",
+      "verified_ddc_section": null,
+      "training_eligible": false
+    },
+    {
+      "file": "pg1342-images-3.epub",
+      "format": "epub",
+      "source_relative_path": "pdf-inbox/pg1342-images-3.epub",
+      "source_sha256": "d401ad6b118e84d01b8dd1a3d034fd41784feb14c50f1f7a0fc17f3263fa8e9f",
+      "bytes": 24836548,
+      "expected_title": "Pride and Prejudice",
+      "expected_author": "Jane Austen",
+      "expected_language": "eng",
+      "expectation_basis": "User-requested collection titles / filenames, not automatic confirmation",
+      "embedded_metadata": {
+        "rights": [
+          "Public domain in the USA."
+        ],
+        "identifier": [
+          "http://www.gutenberg.org/1342"
+        ],
+        "creator": [
+          "Jane Austen"
+        ],
+        "title": [
+          "Pride and Prejudice"
+        ],
+        "language": [
+          "en"
+        ],
+        "subject": [
+          "England -- Fiction",
+          "Young women -- Fiction",
+          "Love stories",
+          "Sisters -- Fiction",
+          "Domestic fiction",
+          "Courtship -- Fiction",
+          "Social classes -- Fiction"
+        ],
+        "date": [
+          "1998-06-01"
+        ],
+        "source": [
+          "https://www.gutenberg.org/files/1342/1342-h/1342-h.htm"
+        ]
+      },
+      "epub_spine_documents": 9,
+      "extracted_chars": 735973,
+      "script_counts": {
+        "latin": 577199
+      },
+      "empty_sections": 0,
+      "extraction_errors": 0,
+      "extraction_status": "text_extracted_needs_review",
+      "extracted_text": "text/pg1342-images-3.txt",
+      "extracted_text_sha256": "0e21145951f7ae6ee3a6282feedce0687c2748c0c77a9c261a26e6357e4a3aba",
+      "section_index": "text/pg1342-images-3.index.jsonl",
+      "review_status": "pending",
+      "verified_ddc_section": null,
+      "training_eligible": false
+    },
+    {
+      "file": "ponniyin-selvan.pdf",
+      "format": "pdf",
+      "source_relative_path": "pdf-inbox/ponniyin-selvan.pdf",
+      "source_sha256": "875ac51e939665c421a1445c7b0d18e07b76f5a1f7ee2d6ea99c906e6dcdac82",
+      "bytes": 11644914,
+      "expected_title": "பொன்னியின் செல்வன்",
+      "expected_author": "கல்கி",
+      "expected_language": "tam",
+      "expectation_basis": "User-requested collection titles / filenames, not automatic confirmation",
+      "embedded_metadata": {
+        "/Author": "கல்கி கிருஷ்ணமூர்த்தி",
+        "/CreationDate": "D:20161006131121+00'00'",
+        "/Creator": "calibre 2.69.0 [https://calibre-ebook.com]",
+        "/Producer": "calibre 2.69.0 [https://calibre-ebook.com]",
+        "/Title": "பொன்னியின் செல்வன்"
+      },
+      "pdf_pages": 1940,
+      "extracted_chars": 4071386,
+      "script_counts": {
+        "latin": 402778,
+        "tamil": 1306721
+      },
+      "empty_sections": 0,
+      "extraction_errors": 0,
+      "extraction_status": "text_extracted_needs_review",
+      "extracted_text": "text/ponniyin-selvan.txt",
+      "extracted_text_sha256": "e3e18b616968e4f8e9e45f6c796531a4b56fdf497452826631650babc70a320d",
+      "section_index": "text/ponniyin-selvan.index.jsonl",
+      "review_status": "pending",
+      "verified_ddc_section": null,
+      "training_eligible": false
+    },
+    {
+      "file": "shyamachi_aai.pdf",
+      "format": "pdf",
+      "source_relative_path": "pdf-inbox/shyamachi_aai.pdf",
+      "source_sha256": "9dcf9536b454ed97a388616f7250f8f81afa572143cf0420681252ac8fd2b9c1",
+      "bytes": 1552113,
+      "expected_title": "श्यामची आई",
+      "expected_author": "साने गुरुजी",
+      "expected_language": "mar",
+      "expectation_basis": "User-requested collection titles / filenames, not automatic confirmation",
+      "embedded_metadata": {
+        "/CreationDate": "D:20140610210232+05'30'",
+        "/Author": "Sunil",
+        "/Creator": "Microsoft® Word 2010",
+        "/Producer": "Microsoft® Word 2010",
+        "/ModDate": "D:20140610211024+05'30'"
+      },
+      "pdf_pages": 231,
+      "extracted_chars": 397861,
+      "script_counts": {
+        "latin": 3080,
+        "devanagari": 300883
+      },
+      "empty_sections": 0,
+      "extraction_errors": 0,
+      "extraction_status": "text_extracted_needs_review",
+      "extracted_text": "text/shyamachi_aai.txt",
+      "extracted_text_sha256": "3e0fe8f3a7722d5f51cd277c25413a97a4f8d07fb13acc751c327f9961329c21",
+      "section_index": "text/shyamachi_aai.index.jsonl",
+      "review_status": "pending",
+      "verified_ddc_section": null,
+      "training_eligible": false
+    },
+    {
+      "file": "tolkappiyar.pdf",
+      "format": "pdf",
+      "source_relative_path": "pdf-inbox/tolkappiyar.pdf",
+      "source_sha256": "30e71124b13493be9b94eb6588debfa80c206aae65d42a5e9057fdb859e8b722",
+      "bytes": 251008,
+      "expected_title": "தொல்காப்பியம்",
+      "expected_author": "தொல்காப்பியர்",
+      "expected_language": "tam",
+      "expectation_basis": "User-requested collection titles / filenames, not automatic confirmation",
+      "embedded_metadata": {
+        "/Creator": " Word 5.1US",
+        "/CreationDate": "D:20010202142352",
+        "/Subject": "",
+        "/Title": "",
+        "/Author": "",
+        "/Producer": "Acrobat PDFWriter 4.0 for Power Macintosh",
+        "/Keywords": ""
+      },
+      "pdf_pages": 126,
+      "extracted_chars": 111991,
+      "script_counts": {
+        "latin": 46800
+      },
+      "empty_sections": 0,
+      "extraction_errors": 0,
+      "extraction_status": "needs_visual_check_or_ocr",
+      "extracted_text": "text/tolkappiyar.txt",
+      "extracted_text_sha256": "5739987615e7be0c6261ded5e6af69ff5836748eb07b3595c4a65af0cc781326",
+      "section_index": "text/tolkappiyar.index.jsonl",
+      "review_status": "pending",
+      "verified_ddc_section": null,
+      "training_eligible": false
+    }
+  ],
+  "note": "Unreviewed intake only. Extraction/script counts do not verify language, rights, DDC labels, or OCR accuracy. No fitting or partitioning performed."
+}

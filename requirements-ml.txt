@@ -1,0 +1,12 @@
+# Reproduces the local training run; separate from optional OCR/API packages.
+numpy==2.0.2
+scipy==1.13.1
+scikit-learn==1.6.1
+joblib==1.5.3
+sentence-transformers==3.4.1
+transformers==4.49.0
+torch==2.8.0
+safetensors==0.7.0
+huggingface-hub==0.36.2
+# Python 3.9 on macOS uses LibreSSL; urllib3 1.26 supports it.
+urllib3>=1.26.20,<2

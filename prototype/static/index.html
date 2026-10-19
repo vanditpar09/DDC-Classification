@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#263d59"><title>Book Classification</title><link rel="stylesheet" href="/style.css"><link rel="manifest" href="/manifest.webmanifest"><link rel="apple-touch-icon" href="/icon-192.png"></head>
+<body>
+  <header><a class="brand" href="/">Book Classification</a><button class="quiet" id="new-book">New book</button></header>
+  <main>
+    <div class="intro"><h1>Book classification</h1><p>Multilingual book classification using the Dewey Decimal system.</p></div>
+    <div id="error" role="alert" hidden></div>
+    <section class="book-toolbar" aria-label="Saved books"><label>Saved books<select id="saved-books"><option value="">Loading…</option></select></label><button id="reload-book" class="quiet">Reload book</button><button id="reclassify-book" class="quiet">Update prediction</button><button id="delete-book" class="quiet">Delete book</button><a class="quiet" href="/api/collection" target="_blank" rel="noopener">Results table</a><span id="connection" role="status">Connecting…</span></section>
+    <section class="panel" id="pending-panel" hidden><div class="section-head"><h2>Pending on this device</h2><button class="quiet" id="retry-pending">Retry uploads</button></div><p class="muted">Captures stay here until saved by the server. Open this app to resume; background upload is not required.</p><ul id="pending-items"></ul></section>
+    <div class="workspace">
+      <section class="evidence-column">
+        <div class="panel capture-panel"><div class="section-head"><div><h2>Add a page</h2></div><div class="tabs"><button id="photo-tab" class="active">Photograph</button><button id="text-tab">Transcription</button></div></div>
+          <div class="selectors"><label>Page type<select id="page-kind"><option value="cover">Front cover</option><option value="back_cover">Back cover / description</option><option value="contents">Contents page</option></select></label><label>OCR language<select id="language"><option value="eng">English</option></select></label></div>
+          <div id="photo-input">
+            <div class="capture-actions"><button class="primary" id="open-camera">Open camera</button><label class="picker-button">Use phone camera / photo library<input type="file" id="camera-file" accept="image/*" capture="environment" hidden></label></div>
+            <section id="camera-panel" hidden aria-label="Camera capture"><p id="camera-message" class="muted" role="status"></p><video id="camera-video" autoplay muted playsinline></video><img id="camera-still" alt="Captured page for review" hidden><div class="capture-actions"><button id="take-photo" class="primary">Capture</button><button id="retake-photo" class="quiet" hidden>Retake</button><button id="use-photo" class="primary" hidden>Use photo</button><button id="close-camera" class="quiet">Close camera</button></div></section>
+            <label class="dropzone" id="dropzone" tabindex="0"><input type="file" id="file" accept="image/*" hidden><strong>Upload a page image</strong><span>Choose a file or drag it here</span><small>JPEG, PNG or WebP · up to 12 MB / 20 MP</small></label>
+          </div>
+          <div id="text-input" hidden><textarea id="transcription" placeholder="Paste the visible title, subtitle or description in its original script…" maxlength="12000"></textarea><div class="text-note">Human transcription bypasses OCR. Image quality is not measured.</div><button class="primary" id="submit-text">Classify text</button></div>
+          <div id="busy" hidden><span class="spinner"></span><span id="busy-label">Processing…</span></div>
+          <details class="samples"><summary>Example images</summary><p class="muted">Synthetic pages for checking the capture workflow.</p><div id="sample-buttons"></div></details>
+        </div>
+        <section id="pages" class="pages"></section>
+        <details class="panel combined"><summary>Text used by the classifier <span id="text-count">0 characters</span></summary><pre id="combined-text">No usable text yet.</pre></details>
+      </section>
+      <aside>
+        <section class="decision-panel" aria-live="polite"><p class="section-label">Next step</p><h2 id="decision-title">Start with the cover</h2><p id="decision-reason">Photograph the title and subtitle, or enter the text.</p><button id="action-button" hidden>Continue</button></section>
+        <section class="panel predictions"><div class="section-head"><div><h2>Classification</h2></div></div><div id="predictions"><p class="muted">Suggestions appear when readable evidence is available.</p></div><details class="limitations"><summary>About these scores</summary><p>Fine-level scores assume the parent class is correct. They are not accuracy estimates. Indian-language accuracy on labeled scans has not yet been measured; rare branches may stop at a broader level.</p></details></section>
+        <details class="panel review"><summary>Review / correction</summary><p class="muted">Record your reviewed label and its source. Corrections are exported; the model is not retrained automatically.</p><label>Book / edition ID<input id="review-book-id" maxlength="150" placeholder="ISBN or library accession"></label><label>Reviewed section (L3)<input id="review-section" inputmode="numeric" maxlength="3" pattern="[0-9]{3}" placeholder="e.g. 005"></label><label>Reviewer<input id="reviewer" maxlength="100" autocomplete="name"></label><label>Label source / notes<textarea id="review-note" maxlength="2000" placeholder="Catalog source, ambiguity or reason for correction"></textarea></label><button class="primary" id="save-review">Save review</button><p id="review-status" class="muted"></p></details>
+        <details class="panel trace"><summary>Experiment details</summary>
+    <div class="metrics"><div><span class="metric-value" id="passes">0<span>/ 6</span></span><span class="metric-label">OCR passes</span></div><div><span class="metric-value" id="pixels">0</span><span class="metric-label">Megapixels processed</span></div><div><span class="metric-value" id="calls">0</span><span class="metric-label">Classifier calls</span></div><div><span class="metric-value" id="time">0.0<span>s</span></span><span class="metric-label">OCR time</span></div></div>
+          <div class="section-head"><h2>Decision history</h2><a id="export" href="#" download>Export record</a></div><ol id="events"><li class="empty">No decisions yet.</li></ol>
+        </details>
+      </aside>
+    </div>
+    <footer><details><summary>Storage and installation</summary><p>Books and processing stay on the connected laptop. Pending uploads are saved on this device. Anyone with the access code shares the same collection.</p><p id="install-hint">On iPhone or iPad: Share → Add to Home Screen. On Android: browser menu → Install app. The laptop must stay awake and connected for classification.</p></details><span>DDC classification study</span></footer>
+  </main><script src="/local-store.js"></script><script src="/camera.js"></script><script src="/app.js?v=12"></script>
+</body></html>

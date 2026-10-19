@@ -1,0 +1,884 @@
+[
+  {
+    "work_id": "pm-work-101",
+    "title": "நேமிநாதம்",
+    "author": "குணவீர பண்டிதர்",
+    "language": "tam",
+    "genre_source": "இலக்கணம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "494",
+    "label_basis": "Assistant working proposal from Tamil grammar/lexicography or Tamil original-fiction genre; requires book-specific catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0101.pdf",
+        "file": "books/pm0101.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0101.html",
+        "file": "books/pmuni0101.html"
+      }
+    ],
+    "group_id": "pm-work-101",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "pm-work-113",
+    "title": "வடமலை நிகண்டு",
+    "author": "ஈஸ்வர பாரதி",
+    "language": "tam",
+    "genre_source": "இலக்கணம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "494",
+    "label_basis": "Assistant working proposal from Tamil grammar/lexicography or Tamil original-fiction genre; requires book-specific catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0113.pdf",
+        "file": "books/pm0113.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0113.html",
+        "file": "books/pmuni0113.html"
+      }
+    ],
+    "group_id": "pm-work-113",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "pm-work-118",
+    "title": "சூடாமணி நிகண்டு",
+    "author": "மண்டல புருடர்",
+    "language": "tam",
+    "genre_source": "இலக்கணம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "494",
+    "label_basis": "Assistant working proposal from Tamil grammar/lexicography or Tamil original-fiction genre; requires book-specific catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0118.pdf",
+        "file": "books/pm0118.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0118.html",
+        "file": "books/pmuni0118.html"
+      }
+    ],
+    "group_id": "pm-work-118",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "pm-work-147",
+    "title": "நன்னூல்",
+    "author": "பவநந்தி முனிவர்",
+    "language": "tam",
+    "genre_source": "இலக்கணம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "494",
+    "label_basis": "Assistant working proposal from Tamil grammar/lexicography or Tamil original-fiction genre; requires book-specific catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0147.pdf",
+        "file": "books/pm0147.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0147.html",
+        "file": "books/pmuni0147.html"
+      }
+    ],
+    "group_id": "pm-work-147",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "pm-work-228",
+    "title": "சோலைமலை இளவரசி",
+    "author": "கல்கி கிருஷ்ணமூர்த்தி",
+    "language": "tam",
+    "genre_source": "நாவல் - புதினம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "894",
+    "label_basis": "Assistant working proposal from Tamil grammar/lexicography or Tamil original-fiction genre; requires book-specific catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0228.pdf",
+        "file": "books/pm0228.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0228.html",
+        "file": "books/pmuni0228.html"
+      }
+    ],
+    "group_id": "pm-work-228",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "pm-work-257",
+    "title": "இலக்கணச் சுருக்கம்",
+    "author": "ஆறுமுக நாவலர்",
+    "language": "tam",
+    "genre_source": "இலக்கணம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "494",
+    "label_basis": "Assistant working proposal from Tamil grammar/lexicography or Tamil original-fiction genre; requires book-specific catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0257.pdf",
+        "file": "books/pm0257.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0257.html",
+        "file": "books/pmuni0257.html"
+      }
+    ],
+    "group_id": "pm-work-257",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved",
+    "identity_note": "HTML head title names a different book; use the rendered body/title page and catalog record, not the head title."
+  },
+  {
+    "work_id": "pm-work-258",
+    "title": "ஐந்திலக்கணம் தொன்னூல் விளக்கம்",
+    "author": "வீரமாமுனிவர்",
+    "language": "tam",
+    "genre_source": "இலக்கணம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "494",
+    "label_basis": "Assistant working proposal from Tamil grammar/lexicography or Tamil original-fiction genre; requires book-specific catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0258.pdf",
+        "file": "books/pm0258.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0258.html",
+        "file": "books/pmuni0258.html"
+      }
+    ],
+    "group_id": "pm-work-258",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "pm-work-376",
+    "title": "தியாக பூமி",
+    "author": "கல்கி கிருஷ்ணமூர்த்தி",
+    "language": "tam",
+    "genre_source": "நாவல் - புதினம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "894",
+    "label_basis": "Assistant working proposal from Tamil grammar/lexicography or Tamil original-fiction genre; requires book-specific catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0376.pdf",
+        "file": "books/pm0376.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0376.html",
+        "file": "books/pmuni0376.html"
+      }
+    ],
+    "group_id": "pm-work-376",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "pm-work-718",
+    "title": "பார்வதி பி.ஏ. (புதினம்)",
+    "author": "அறிஞர் அண்ணா (கா. ந. அண்ணாதுரை)",
+    "language": "tam",
+    "genre_source": "புதினம் - நாவல்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "894",
+    "label_basis": "Assistant working proposal from Tamil grammar/lexicography or Tamil original-fiction genre; requires book-specific catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0718.pdf",
+        "file": "books/pm0718.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0718.html",
+        "file": "books/pmuni0718.html"
+      }
+    ],
+    "group_id": "pm-work-718",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved",
+    "coverage_note": "Provided HTML fiction text begins at a heading numbered chapter 17; source completeness must be checked before describing it as the complete novel."
+  },
+  {
+    "work_id": "pm-work-719",
+    "title": "இருளும் ஒளியும் (நாவல்)",
+    "author": "ஸரோஜா ராமமூர்த்தி",
+    "language": "tam",
+    "genre_source": "புதினம் - நாவல்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "894",
+    "label_basis": "Assistant working proposal from Tamil grammar/lexicography or Tamil original-fiction genre; requires book-specific catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0719.pdf",
+        "file": "books/pm0719.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0719.html",
+        "file": "books/pmuni0719.html"
+      }
+    ],
+    "group_id": "pm-work-719",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "pm-work-923",
+    "title": "பாதையில் பதிந்த அடிகள் (2 பாகங்களாக)",
+    "author": "ராஜம் கிருஷ்ணன்",
+    "language": "tam",
+    "genre_source": "சமூக நாவல்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "894",
+    "label_basis": "Assistant working proposal from Tamil grammar/lexicography or Tamil original-fiction genre; requires book-specific catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0923.pdf",
+        "file": "books/pm0923.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0923.html",
+        "file": "books/pmuni0923.html"
+      }
+    ],
+    "group_id": "pm-work-923",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "pm-work-924",
+    "title": "பெண் குரல் (2 பாகங்களாக)",
+    "author": "ராஜம் கிருஷ்ணன்",
+    "language": "tam",
+    "genre_source": "சமூக நாவல்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "894",
+    "label_basis": "Assistant working proposal from Tamil grammar/lexicography or Tamil original-fiction genre; requires book-specific catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0924.pdf",
+        "file": "books/pm0924.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0924.html",
+        "file": "books/pmuni0924.html"
+      }
+    ],
+    "group_id": "pm-work-924",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "esahity-phakiraa",
+    "title": "लोकशाहीर अण्णा भाऊ साठे निवडक वाङ्मय",
+    "author": "अण्णा भाऊ साठे",
+    "language": "mar",
+    "genre_source": "selected writings / anthology; contents need identification",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant working proposal for original Marathi fiction; requires primary classification corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/phakiraa.pdf",
+        "file": "books/phakiraa.pdf"
+      }
+    ],
+    "group_id": "esahity-phakiraa",
+    "group_resolution_status": "anthology membership unresolved; quarantine from training/test",
+    "identity_note": "Publisher catalog file is phakiraa.pdf, but cover and digital page 3 identify selected writings. Do not treat as an independent copy of the novel Fakira."
+  },
+  {
+    "work_id": "esahity-detective_alpha_saurabh_wagale",
+    "title": "डिटेक्टिव्ह अल्फा आणि रत्नजडित खंजिराचे रहस्य",
+    "author": "सौरभ वागळे",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; title/author must be checked against downloaded pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant working proposal for original Marathi fiction; requires primary classification corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/detective_alpha_saurabh_wagale.pdf",
+        "file": "books/detective_alpha_saurabh_wagale.pdf"
+      }
+    ],
+    "group_id": "esahity-detective_alpha_saurabh_wagale",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "esahity-munni_aruna_sabane",
+    "title": "मुन्नी",
+    "author": "अरुणा सबाने",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; title/author must be checked against downloaded pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant working proposal for original Marathi fiction; requires primary classification corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/munni_aruna_sabane.pdf",
+        "file": "books/munni_aruna_sabane.pdf"
+      }
+    ],
+    "group_id": "esahity-munni_aruna_sabane",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "esahity-anand_madhu_shirgaonkar",
+    "title": "आनंद",
+    "author": "मधू शिरगांवकर",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; title/author must be checked against downloaded pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant working proposal for original Marathi fiction; requires primary classification corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/anand_madhu_shirgaonkar.pdf",
+        "file": "books/anand_madhu_shirgaonkar.pdf"
+      }
+    ],
+    "group_id": "esahity-anand_madhu_shirgaonkar",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "esahity-fullari_vinita_deshpande",
+    "title": "फुल्लारी",
+    "author": "विनिता देशपांडे",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; title/author must be checked against downloaded pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant working proposal for original Marathi fiction; requires primary classification corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/fullari_vinita_deshpande.pdf",
+        "file": "books/fullari_vinita_deshpande.pdf"
+      }
+    ],
+    "group_id": "esahity-fullari_vinita_deshpande",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "esahity-saichi_vahi",
+    "title": "सईची वही",
+    "author": "सुप्रिया मिलिंद जाधव (जोशी)",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; title/author must be checked against downloaded pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant working proposal for original Marathi fiction; requires primary classification corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/saichi_vahi.pdf",
+        "file": "books/saichi_vahi.pdf"
+      }
+    ],
+    "group_id": "esahity-saichi_vahi",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "hindisamay-work-226",
+    "title": "गबन",
+    "author": "प्रेमचंद",
+    "language": "hin",
+    "genre_source": "उपन्यास",
+    "catalog_url": "https://hindisamay.com/contentDetail.aspx?id=226&pageno=1",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant working proposal for original Hindi literature; requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "provider_index_parts": 5,
+    "files": [
+      {
+        "source_url": "https://hindisamay.com/content/226/1/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-226-1.html",
+        "provider_part_label": "अध्याय 1",
+        "provider_part_number": 1
+      },
+      {
+        "source_url": "https://hindisamay.com/content/226/2/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-226-2.html",
+        "provider_part_label": "अध्याय 2",
+        "provider_part_number": 2,
+        "content_status": "empty provider response"
+      },
+      {
+        "source_url": "https://hindisamay.com/content/226/3/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-226-3.html",
+        "provider_part_label": "अध्याय 3",
+        "provider_part_number": 3
+      },
+      {
+        "source_url": "https://hindisamay.com/content/226/4/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-226-4.html",
+        "provider_part_label": "अध्याय 4",
+        "provider_part_number": 4
+      },
+      {
+        "source_url": "https://hindisamay.com/content/226/5/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-226-5.html",
+        "provider_part_label": "अध्याय 5",
+        "provider_part_number": 5,
+        "content_status": "empty provider response"
+      },
+      {
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=226&pageno=2",
+        "file": "books/hindisamay-226-2.query.html",
+        "provider_part_number": 2,
+        "provider_part_label": "अध्याय 2",
+        "alternative_for": "books/hindisamay-226-2.html"
+      },
+      {
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=226&pageno=5",
+        "file": "books/hindisamay-226-5.query.html",
+        "provider_part_number": 5,
+        "provider_part_label": "अध्याय 5",
+        "alternative_for": "books/hindisamay-226-5.html"
+      }
+    ],
+    "group_id": "hindisamay-work-226",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "hindisamay-work-233",
+    "title": "प्रतिज्ञा",
+    "author": "प्रेमचंद",
+    "language": "hin",
+    "genre_source": "उपन्यास",
+    "catalog_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=1",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant working proposal for original Hindi literature; requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "provider_index_parts": 17,
+    "files": [
+      {
+        "source_url": "https://hindisamay.com/content/233/1/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-1.html",
+        "provider_part_label": "अध्याय 1",
+        "provider_part_number": 1
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/2/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-2.html",
+        "provider_part_label": "अध्याय 2",
+        "provider_part_number": 2,
+        "content_status": "empty provider response"
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/3/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-3.html",
+        "provider_part_label": "अध्याय 3",
+        "provider_part_number": 3
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/4/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-4.html",
+        "provider_part_label": "अध्याय 4",
+        "provider_part_number": 4
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/5/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-5.html",
+        "provider_part_label": "अध्याय 5",
+        "provider_part_number": 5
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/6/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-6.html",
+        "provider_part_label": "अध्याय 6",
+        "provider_part_number": 6
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/7/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-7.html",
+        "provider_part_label": "अध्याय 7",
+        "provider_part_number": 7
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/8/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-8.html",
+        "provider_part_label": "अध्याय 8",
+        "provider_part_number": 8
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/9/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-9.html",
+        "provider_part_label": "अध्याय 9",
+        "provider_part_number": 9
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/10/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-10.html",
+        "provider_part_label": "अध्याय 10",
+        "provider_part_number": 10
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/11/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-11.html",
+        "provider_part_label": "अध्याय 11",
+        "provider_part_number": 11
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/12/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-12.html",
+        "provider_part_label": "अध्याय 12",
+        "provider_part_number": 12,
+        "content_status": "empty provider response"
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/13/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-13.html",
+        "provider_part_label": "अध्याय 13",
+        "provider_part_number": 13
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/14/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-14.html",
+        "provider_part_label": "अध्याय 14",
+        "provider_part_number": 14
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/15/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-15.html",
+        "provider_part_label": "अध्याय 15",
+        "provider_part_number": 15
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/16/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-16.html",
+        "provider_part_label": "अध्याय 16",
+        "provider_part_number": 16,
+        "content_status": "empty provider response"
+      },
+      {
+        "source_url": "https://hindisamay.com/content/233/17/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-233-17.html",
+        "provider_part_label": "अध्याय 17",
+        "provider_part_number": 17
+      },
+      {
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=2",
+        "file": "books/hindisamay-233-2.query.html",
+        "provider_part_number": 2,
+        "provider_part_label": "अध्याय 2",
+        "alternative_for": "books/hindisamay-233-2.html"
+      },
+      {
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=12",
+        "file": "books/hindisamay-233-12.query.html",
+        "provider_part_number": 12,
+        "provider_part_label": "अध्याय 12",
+        "alternative_for": "books/hindisamay-233-12.html"
+      },
+      {
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=16",
+        "file": "books/hindisamay-233-16.query.html",
+        "provider_part_number": 16,
+        "provider_part_label": "अध्याय 16",
+        "alternative_for": "books/hindisamay-233-16.html"
+      }
+    ],
+    "group_id": "premchand-prema-pratigya-family",
+    "group_resolution_status": "conservative shared group pending review of rewrite relationship"
+  },
+  {
+    "work_id": "hindisamay-work-259",
+    "title": "निर्मला",
+    "author": "प्रेमचंद",
+    "language": "hin",
+    "genre_source": "उपन्यास",
+    "catalog_url": "https://hindisamay.com/contentDetail.aspx?id=259&pageno=1",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant working proposal for original Hindi literature; requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "provider_index_parts": 12,
+    "files": [
+      {
+        "source_url": "https://hindisamay.com/content/259/1/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-259-1.html",
+        "provider_part_label": "अध्याय 1",
+        "provider_part_number": 1
+      },
+      {
+        "source_url": "https://hindisamay.com/content/259/2/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-259-2.html",
+        "provider_part_label": "अध्याय 2",
+        "provider_part_number": 2
+      },
+      {
+        "source_url": "https://hindisamay.com/content/259/3/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-259-3.html",
+        "provider_part_label": "अध्याय 3",
+        "provider_part_number": 3
+      },
+      {
+        "source_url": "https://hindisamay.com/content/259/4/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-259-4.html",
+        "provider_part_label": "अध्याय 4",
+        "provider_part_number": 4
+      },
+      {
+        "source_url": "https://hindisamay.com/content/259/5/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-259-5.html",
+        "provider_part_label": "अध्याय 5",
+        "provider_part_number": 5
+      },
+      {
+        "source_url": "https://hindisamay.com/content/259/6/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-259-6.html",
+        "provider_part_label": "अध्याय 6",
+        "provider_part_number": 6
+      },
+      {
+        "source_url": "https://hindisamay.com/content/259/7/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-259-7.html",
+        "provider_part_label": "अध्याय 7",
+        "provider_part_number": 7,
+        "content_status": "empty provider response"
+      },
+      {
+        "source_url": "https://hindisamay.com/content/259/8/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-259-8.html",
+        "provider_part_label": "अध्याय 8",
+        "provider_part_number": 8,
+        "content_status": "empty provider response"
+      },
+      {
+        "source_url": "https://hindisamay.com/content/259/9/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-259-9.html",
+        "provider_part_label": "अध्याय 9",
+        "provider_part_number": 9
+      },
+      {
+        "source_url": "https://hindisamay.com/content/259/10/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-259-10.html",
+        "provider_part_label": "अध्याय 10",
+        "provider_part_number": 10
+      },
+      {
+        "source_url": "https://hindisamay.com/content/259/11/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-259-11.html",
+        "provider_part_label": "अध्याय 11",
+        "provider_part_number": 11
+      },
+      {
+        "source_url": "https://hindisamay.com/content/259/12/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-259-12.html",
+        "provider_part_label": "अध्याय 12",
+        "provider_part_number": 12
+      },
+      {
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=259&pageno=7",
+        "file": "books/hindisamay-259-7.query.html",
+        "provider_part_number": 7,
+        "provider_part_label": "अध्याय 7",
+        "alternative_for": "books/hindisamay-259-7.html"
+      },
+      {
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=259&pageno=8",
+        "file": "books/hindisamay-259-8.query.html",
+        "provider_part_number": 8,
+        "provider_part_label": "अध्याय 8",
+        "alternative_for": "books/hindisamay-259-8.html"
+      }
+    ],
+    "group_id": "hindisamay-work-259",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved"
+  },
+  {
+    "work_id": "hindisamay-work-238",
+    "title": "प्रेमा",
+    "author": "प्रेमचंद",
+    "language": "hin",
+    "genre_source": "उपन्यास",
+    "catalog_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=1",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant working proposal for original Hindi literature; requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "provider_index_parts": 12,
+    "files": [
+      {
+        "source_url": "https://hindisamay.com/content/238/1/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-238-1.html",
+        "provider_part_label": "अध्याय 1",
+        "provider_part_number": 1
+      },
+      {
+        "source_url": "https://hindisamay.com/content/238/2/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-238-2.html",
+        "provider_part_label": "अध्याय 2",
+        "provider_part_number": 2
+      },
+      {
+        "source_url": "https://hindisamay.com/content/238/3/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-238-3.html",
+        "provider_part_label": "अध्याय 3",
+        "provider_part_number": 3
+      },
+      {
+        "source_url": "https://hindisamay.com/content/238/4/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-238-4.html",
+        "provider_part_label": "अध्याय 4",
+        "provider_part_number": 4,
+        "content_status": "empty provider response"
+      },
+      {
+        "source_url": "https://hindisamay.com/content/238/5/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-238-5.html",
+        "provider_part_label": "अध्याय 5",
+        "provider_part_number": 5
+      },
+      {
+        "source_url": "https://hindisamay.com/content/238/6/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-238-6.html",
+        "provider_part_label": "अध्याय 6",
+        "provider_part_number": 6,
+        "content_status": "empty provider response"
+      },
+      {
+        "source_url": "https://hindisamay.com/content/238/7/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-238-7.html",
+        "provider_part_label": "अध्याय 7",
+        "provider_part_number": 7,
+        "content_status": "empty provider response"
+      },
+      {
+        "source_url": "https://hindisamay.com/content/238/8/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-238-8.html",
+        "provider_part_label": "अध्याय 8",
+        "provider_part_number": 8
+      },
+      {
+        "source_url": "https://hindisamay.com/content/238/9/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-238-9.html",
+        "provider_part_label": "अध्याय 9",
+        "provider_part_number": 9
+      },
+      {
+        "source_url": "https://hindisamay.com/content/238/10/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-238-10.html",
+        "provider_part_label": "अध्याय 10",
+        "provider_part_number": 10
+      },
+      {
+        "source_url": "https://hindisamay.com/content/238/11/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-238-11.html",
+        "provider_part_label": "अध्याय 11",
+        "provider_part_number": 11
+      },
+      {
+        "source_url": "https://hindisamay.com/content/238/12/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+        "file": "books/hindisamay-238-12.html",
+        "provider_part_label": "अध्याय 12",
+        "provider_part_number": 12
+      },
+      {
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=4",
+        "file": "books/hindisamay-238-4.query.html",
+        "provider_part_number": 4,
+        "provider_part_label": "अध्याय 4",
+        "alternative_for": "books/hindisamay-238-4.html"
+      },
+      {
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=6",
+        "file": "books/hindisamay-238-6.query.html",
+        "provider_part_number": 6,
+        "provider_part_label": "अध्याय 6",
+        "alternative_for": "books/hindisamay-238-6.html"
+      },
+      {
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=7",
+        "file": "books/hindisamay-238-7.query.html",
+        "provider_part_number": 7,
+        "provider_part_label": "अध्याय 7",
+        "alternative_for": "books/hindisamay-238-7.html"
+      }
+    ],
+    "group_id": "premchand-prema-pratigya-family",
+    "group_resolution_status": "conservative shared group pending review of rewrite relationship"
+  },
+  {
+    "work_id": "pm-work-148",
+    "group_id": "pm-work-148",
+    "group_resolution_status": "provisional local group; catalog identity/overlap not yet resolved",
+    "title": "காதலினால் அல்ல",
+    "author": "இரா. கார்த்திகேசு",
+    "language": "tam",
+    "genre_source": "நாவல் / புதினம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "894",
+    "label_basis": "Assistant working proposal for original Tamil fiction; requires book-specific catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0148.pdf",
+        "file": "books/pm0148.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0148.html",
+        "file": "books/pmuni0148.html"
+      }
+    ]
+  }
+]

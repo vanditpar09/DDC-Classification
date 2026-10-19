@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "checked_at": "2026-10-04T12:37:11.369Z",
+  "title_recovered": true,
+  "author_recovered": true,
+  "background_text_removed": true,
+  "three_ddc_levels_visible": true,
+  "saved_photo_reread_works": true,
+  "one_repair_limit_enforced": true,
+  "physical_phone_test": false,
+  "real_phone_source_image": true,
+  "reader": "rapidocr-3.4.0-ppocrv5-server-cpu",
+  "suggested_path": [
+    "800",
+    "810",
+    "813"
+  ],
+  "catalog_regression_validated": true,
+  "result_source": "local_catalog",
+  "classification_accuracy_validated": false,
+  "page_errors": []
+}

@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-08",
+  "example": "Same single-image Hemingway capture from reported failure",
+  "model": "native_silver_v2",
+  "model_sha256": "cf2e4d18dbe43ad9431a965bc1a6213a0bcfbecac5b5c8830e73cb9a48f6cc86",
+  "weights_changed": false,
+  "before": {
+    "source": "model_candidate",
+    "raw_path": [
+      "800",
+      "820",
+      "823"
+    ],
+    "l2_candidates": [
+      {
+        "label": "820",
+        "score": 0.3373082057166007
+      },
+      {
+        "label": "810",
+        "score": 0.29911322616105535
+      },
+      {
+        "label": "890",
+        "score": 0.2799513867232758
+      }
+    ]
+  },
+  "after": {
+    "source": "local_catalog",
+    "displayed_path": [
+      "800",
+      "810",
+      "813"
+    ],
+    "source_codes": [
+      "813/.52"
+    ],
+    "source_urls": [
+      "https://openlibrary.org/books/OL22596607M/The_Old_Man_and_the_Sea"
+    ],
+    "model_score": null,
+    "edition_review_required": true
+  },
+  "spacing_ablation": [
+    {
+      "variant": "original",
+      "path": [
+        [
+          "800",
+          0.49567550156163553
+        ],
+        [
+          "820",
+          0.3373082057166007
+        ],
+        [
+          "823",
+          0.9025059272104236
+        ]
+      ]
+    },
+    {
+      "variant": "spacing_only",
+      "path": [
+        [
+          "800",
+          0.39666568862875334
+        ],
+        [
+          "820",
+          0.3724531738373846
+        ],
+        [
+          "823",
+          0.891718326971943
+        ]
+      ]
+    }
+  ],
+  "source_response_sha256": "40be5463c19bc0fe15c25d9fa01a7a61706184f8887f82b6ff3337cc632e6666",
+  "source_note": "Photographed ISBN identity has no DDC; two related English edition records report 813/.52. Match remains work-level.",
+  "verification": {
+    "browser": "Codex in-app browser via Computer Use",
+    "selected_original_failing_book": true,
+    "update_prediction_clicked": true,
+    "correct_path_visible": true,
+    "browser_console_errors": [],
+    "pages_ocr_reviews_unchanged": true,
+    "ocr_passes_unchanged": true,
+    "prior_prediction_preserved": true,
+    "collection_exports_corrected": true
+  },
+  "tests": {
+    "full_regression": 251,
+    "python311_targeted": 24
+  },
+  "limits": [
+    "Known-book catalog correction, not an improvement in learned-model accuracy.",
+    "Raw model still selects 820/823 for this single-image input.",
+    "Whitespace-only identity matching does not repair changed letters or accept surname-only author matches.",
+    "Actual Windows testing is pending.",
+    "Photos, full records and screenshots stay local under ignored output/."
+  ]
+}

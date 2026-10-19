@@ -1,0 +1,1953 @@
+{
+  "collection": "acquisition-v2",
+  "file_count": 385,
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 8208,
+      "sha256": "462ac16b1b2ac426adaf6064e99270a6c055c3500fc94725ad3fc535d62eefb1"
+    },
+    {
+      "file": "books/aindrajal_supriya_joshi.pdf",
+      "bytes": 1676896,
+      "sha256": "a90f362ac7db53a8b9be9cde99087576aebf7c00268811d0e7c2ef4ca98ad5ee"
+    },
+    {
+      "file": "books/aindrajal_supriya_joshi.pdf.receipt.json",
+      "bytes": 479,
+      "sha256": "e674ac513f24cce6606143e4cb808f6d94cb8044ff725e2c0de7381778d869cc"
+    },
+    {
+      "file": "books/baap_the_grat_hero_manohar_surwade.pdf",
+      "bytes": 2038573,
+      "sha256": "46dd97e2b085f501f82fe5a58a94316ca9f022cc1eaa0ec99dc7ab6c8ab237cd"
+    },
+    {
+      "file": "books/baap_the_grat_hero_manohar_surwade.pdf.receipt.json",
+      "bytes": 512,
+      "sha256": "0b250065a917127e2100035b5258644eb3101c1494f1cef84903b0b7a77986d5"
+    },
+    {
+      "file": "books/bhoot_bangalyache_rahasya_akshay_jadhav.pdf",
+      "bytes": 1653120,
+      "sha256": "cbfb85cd91c3b4b338a6c4b4b9fe657c3b88757e741cde6fb58759c392543eb0"
+    },
+    {
+      "file": "books/bhoot_bangalyache_rahasya_akshay_jadhav.pdf.receipt.json",
+      "bytes": 527,
+      "sha256": "e9c8f9ca64a834f19fecb028f564a54ff96c7fb0e258a24d767a6c3c9bddfcce"
+    },
+    {
+      "file": "books/des-birana-part-2.html",
+      "bytes": 140725,
+      "sha256": "e47e1dfdd3f985e5669e945e982e857b6d351ed1119e84291ad2292868e5bd9e"
+    },
+    {
+      "file": "books/des-birana-part-2.html.receipt.json",
+      "bytes": 425,
+      "sha256": "049c88ebcefab852a480c6e98f971368fc4a30ddb1657629c3985080ace9588a"
+    },
+    {
+      "file": "books/des-birana-part-3.html",
+      "bytes": 164438,
+      "sha256": "e42bfde0efa290303fd7dbc9c30af5b2d8c40f1efb2f3c4f692d129021c2a5c3"
+    },
+    {
+      "file": "books/des-birana-part-3.html.receipt.json",
+      "bytes": 425,
+      "sha256": "4fdbb358d24b39c970626af530a8ae736a2323002e906c2ece05eea37ebfa293"
+    },
+    {
+      "file": "books/des-birana-part-4.html",
+      "bytes": 187644,
+      "sha256": "9c4b21af25db4096a491a51870175da11786f850c11a677ed538de04015286c1"
+    },
+    {
+      "file": "books/des-birana-part-4.html.receipt.json",
+      "bytes": 425,
+      "sha256": "0a9da3678f14a519dedbde79d1838d79c8ef42a1eb28d8ddb985ef20a0cd6477"
+    },
+    {
+      "file": "books/des-birana-part-5.html",
+      "bytes": 166891,
+      "sha256": "7f577a44103fc44d78d817fdffa4e30318a6115752945efeb79f8504558c75a8"
+    },
+    {
+      "file": "books/des-birana-part-5.html.receipt.json",
+      "bytes": 425,
+      "sha256": "5ea77c1fb7d821e5fe78219d82f896b74ee3d46653c166a355327ceff0a996e8"
+    },
+    {
+      "file": "books/des-birana-part-6.html",
+      "bytes": 228430,
+      "sha256": "b515b8eb757791c93a2bcb8b685eca9c8335d63c2abdc3960d4431b6f57a5d47"
+    },
+    {
+      "file": "books/des-birana-part-6.html.receipt.json",
+      "bytes": 425,
+      "sha256": "937d10d6711c9826dd2902a8228b46783a08c82cf17ef674092aae6f6c9e2750"
+    },
+    {
+      "file": "books/devrani-part-2.html",
+      "bytes": 119384,
+      "sha256": "2d22364e7b6d876d00eb02899697b47f441b295e296d201c65bab2a064c884f5"
+    },
+    {
+      "file": "books/devrani-part-2.html.receipt.json",
+      "bytes": 450,
+      "sha256": "d32840548a05f33eee22b0c748998922708d7ce3e33eb7a3268546215105747c"
+    },
+    {
+      "file": "books/europe_kavadse_maneesha_dikshit.pdf",
+      "bytes": 2433639,
+      "sha256": "423955b4515bf1252a88f39cbbc09a03d4e225e975b43e7763a60719bc34eccb"
+    },
+    {
+      "file": "books/europe_kavadse_maneesha_dikshit.pdf.receipt.json",
+      "bytes": 503,
+      "sha256": "0446ccf7bace3cc406494db923a8aea9bead4ba554b86ba12ee9f416469236b5"
+    },
+    {
+      "file": "books/hirana_arun_kulakarni.pdf",
+      "bytes": 1808364,
+      "sha256": "6bcc5e228dcd72d7320d83b3e6e78604656e3dd11c86f9f137d660b5059e5bef"
+    },
+    {
+      "file": "books/hirana_arun_kulakarni.pdf.receipt.json",
+      "bytes": 473,
+      "sha256": "8fac85aaf693b835915d3e447fd52f1c531fe588d0ac50a9ec4072ed548ace5b"
+    },
+    {
+      "file": "books/iblis_suraj_gatade.pdf",
+      "bytes": 3258610,
+      "sha256": "b19b5c93ba47d91eecfc79964e45320b5749b3fdb4412cbdd80c2e85f66d203c"
+    },
+    {
+      "file": "books/iblis_suraj_gatade.pdf.receipt.json",
+      "bytes": 464,
+      "sha256": "671aa260d6322ec0601c45ad76f80d3f3e3dc9340059b1fcdd533866292a6a90"
+    },
+    {
+      "file": "books/ishany_bharat_neelima_kulkarni.pdf",
+      "bytes": 2322494,
+      "sha256": "ab0d27126aa07af053aee42dc0e5247e7e81cb1dfab613a53358b600e545fef0"
+    },
+    {
+      "file": "books/ishany_bharat_neelima_kulkarni.pdf.receipt.json",
+      "bytes": 500,
+      "sha256": "fd6605c35c380337181d5861249de82b21e3d51e32469ccd1e999ff4504bb566"
+    },
+    {
+      "file": "books/kankal-part-2.html",
+      "bytes": 26742,
+      "sha256": "a245bf70131acd57d83feb8dd13519bdd2bf7af47ea8235b8c7f98576579c365"
+    },
+    {
+      "file": "books/kankal-part-2.html.receipt.json",
+      "bytes": 445,
+      "sha256": "c014384031944a764f18559e4e328eb26f5dab8d6fbb8835246fc814d7b616e3"
+    },
+    {
+      "file": "books/kankal-part-2.linked.html",
+      "bytes": 483090,
+      "sha256": "91ea69b85df27491cc6a33a4b0f29607e055374da159eec0a39222c6adabbc54"
+    },
+    {
+      "file": "books/kankal-part-2.linked.html.receipt.json",
+      "bytes": 1045,
+      "sha256": "d9d4fb8295d07e63880e23c9bcb1f2f5e09b4f4a98aa8deef334ce488d22debb"
+    },
+    {
+      "file": "books/kankal-part-3.html",
+      "bytes": 26838,
+      "sha256": "e5dd7f82ad97f812bb75ed16e25299bea3f39b2cd1860a30c783d58fe1fc589a"
+    },
+    {
+      "file": "books/kankal-part-3.html.receipt.json",
+      "bytes": 445,
+      "sha256": "e5f7f48910c485fe9485c2bd8761c174aeee1104dbfe036ac6dbaf073202dbe3"
+    },
+    {
+      "file": "books/kankal-part-3.linked.html",
+      "bytes": 26761,
+      "sha256": "a3c2ac3511fc0a8344b81ec01885747fa3ddef5dcdcbc77444fd77ecddac141a"
+    },
+    {
+      "file": "books/kankal-part-3.linked.html.receipt.json",
+      "bytes": 1044,
+      "sha256": "060e86fad730d864c44b5902cf16578f5d3fe6f42683a731e7db1c8b38b0fc54"
+    },
+    {
+      "file": "books/kankal-part-4.html",
+      "bytes": 26742,
+      "sha256": "e6f8735136285866675d54b2245ce9195a429f98efc1750f1b4c5d51245caafd"
+    },
+    {
+      "file": "books/kankal-part-4.html.receipt.json",
+      "bytes": 445,
+      "sha256": "e3289d18ff6948326c5c363f3b3b443cdfc8f2bc30429b7ea01b7e92a63a70d0"
+    },
+    {
+      "file": "books/kankal-part-4.linked.html",
+      "bytes": 522329,
+      "sha256": "ba735b97e80f7d51cb592da12db160a563b4316aae2f679160783263073ced8b"
+    },
+    {
+      "file": "books/kankal-part-4.linked.html.receipt.json",
+      "bytes": 1045,
+      "sha256": "5d9bb6268f383252f2228784f2390f86089bc34d5db77f291d21d4d1d6ea6d23"
+    },
+    {
+      "file": "books/keral_shailesh_purohit.pdf",
+      "bytes": 9174400,
+      "sha256": "07a4d113cf8b110f7ddd5f552ca71caf35fa6d8147c99b18afbb7f9c73eb600b"
+    },
+    {
+      "file": "books/keral_shailesh_purohit.pdf.receipt.json",
+      "bytes": 476,
+      "sha256": "a67b8548233ebc3152b0cc344a358fcc9a13ce583bc093e91a463ce25ab53eea"
+    },
+    {
+      "file": "books/khidkee_saurabh_wagle.pdf",
+      "bytes": 1631168,
+      "sha256": "8522feee2dccc16ed258b468947ed2990a00e6ed6ca777729c584890fc50fb4b"
+    },
+    {
+      "file": "books/khidkee_saurabh_wagle.pdf.receipt.json",
+      "bytes": 473,
+      "sha256": "3352859566d19e2f8ba69d4a988d6524a81154f777f72989909e339d61d0fe0c"
+    },
+    {
+      "file": "books/maaat_ketakee_shah.pdf",
+      "bytes": 1111948,
+      "sha256": "059727a40cd532c8f4e14582f67881da76ae3870d26e4c2962ad30f6efdc5b09"
+    },
+    {
+      "file": "books/maaat_ketakee_shah.pdf.receipt.json",
+      "bytes": 464,
+      "sha256": "a7856c0f7d072e0ce5d5d9e199209abb45fdd372e5b2a8bb433420d7c9b1a3cd"
+    },
+    {
+      "file": "books/mb_canada_bb_desai.pdf",
+      "bytes": 4049570,
+      "sha256": "e5e7872685d1739fd72c4fcb747df45a393bdbb05ff6667f692dddc51e139edc"
+    },
+    {
+      "file": "books/mb_canada_bb_desai.pdf.receipt.json",
+      "bytes": 464,
+      "sha256": "ea1f08860618aa2ccf9caf987dec7da5880723bff314356209d262e1b6ebf4e6"
+    },
+    {
+      "file": "books/omega_upgraded_abhishek_thamke.pdf",
+      "bytes": 1437794,
+      "sha256": "a220bdb842a6a81aeff11cf9f29662cd4fd62d76d7a3f23d0ad65faad13d36c5"
+    },
+    {
+      "file": "books/omega_upgraded_abhishek_thamke.pdf.receipt.json",
+      "bytes": 500,
+      "sha256": "715df6a3ee0d8ba0c287b3ca824be3f372b750b30cbf9eaf7fa95c7c8d59cfe3"
+    },
+    {
+      "file": "books/parimarjan_sudhir_karkhanis.pdf",
+      "bytes": 1457408,
+      "sha256": "c041181c8bfdfe26c5295de1390baffa950e86f46043d2898f1b0c94c5cd6aad"
+    },
+    {
+      "file": "books/parimarjan_sudhir_karkhanis.pdf.receipt.json",
+      "bytes": 491,
+      "sha256": "fe872fb3531f8c357bbcf6382e3c215ef0387ba0f45516a336be17f3cdbba679"
+    },
+    {
+      "file": "books/pinjaraa_sanjay_bansode.pdf",
+      "bytes": 1273567,
+      "sha256": "c266c9e61f7ee471e7802bdd40b592307e66e0cd6a9814b4e07c17ee996773bc"
+    },
+    {
+      "file": "books/pinjaraa_sanjay_bansode.pdf.receipt.json",
+      "bytes": 479,
+      "sha256": "20c6e1cebe50cf3f8b98162063fa8bba09580352d5b812e74b45ad3f883f58b0"
+    },
+    {
+      "file": "books/pm0055.pdf",
+      "bytes": 119105,
+      "sha256": "9ab4c8febff47ce5eb1958965116eaf40a814c53c5033ac3ea515623f5f363fe"
+    },
+    {
+      "file": "books/pm0055.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "20d69968f576eff65ef4d822326cf21279cfd33f8fabc0705fe724843f963392"
+    },
+    {
+      "file": "books/pm0145.pdf",
+      "bytes": 126504,
+      "sha256": "5db4dabac64628e7dc82bde4115eec178785a12272ed4376d196363af4d7e8e5"
+    },
+    {
+      "file": "books/pm0145.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "7ee23b5aa2d1ffa7933644760483ef841274a28b58b5492415383d4f75654ff2"
+    },
+    {
+      "file": "books/pm0172.pdf",
+      "bytes": 508935,
+      "sha256": "c26a0e9353f5a0824141971517d84bfba845f2d719ba265adbfcb169ad4095a3"
+    },
+    {
+      "file": "books/pm0172.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "799e9e24688fd903e0aefe8ba525ab11d0bea864f7135380c4e98ee0ebf313b5"
+    },
+    {
+      "file": "books/pm0217.pdf",
+      "bytes": 598017,
+      "sha256": "46d2a8a54247d69e1fdf76a03030f5e950450d0242455c18cb1049f2791dbac6"
+    },
+    {
+      "file": "books/pm0217.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "7873dfa92a5007bf3eff61fe629de905bff296fdac67e01f5557ec314359723d"
+    },
+    {
+      "file": "books/pm0263.pdf",
+      "bytes": 230723,
+      "sha256": "20c14366dea453a9c1b99a35740018c8ce144f91568cc78d597d820e260c6cf0"
+    },
+    {
+      "file": "books/pm0263.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "7e6dbe21d9a3f670a14fee59ca2292b3685029ae187ff6d6688f3a5946503171"
+    },
+    {
+      "file": "books/pm0295.pdf",
+      "bytes": 195941,
+      "sha256": "d94a157533dfbb35006fd28f6221c18d46932a76617f779de7195c4baef2db80"
+    },
+    {
+      "file": "books/pm0295.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "7aabc911de88bd87dc05fe3ba5fd703b0546cff90fcaef4ebd2293ee634baeb7"
+    },
+    {
+      "file": "books/pm0301.pdf",
+      "bytes": 184933,
+      "sha256": "e93322171f04819c32693463dedc00869df9028c41d229c96d047da4980f66bd"
+    },
+    {
+      "file": "books/pm0301.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "2bc75137b4a26b710835cb3e7338d5595bb68f58d9c9e327d2541f274945dfcb"
+    },
+    {
+      "file": "books/pm0404.pdf",
+      "bytes": 1034688,
+      "sha256": "73190cb6cef9077dfa3b59429b4081748504c896a1edc3aebf5b36853f1e0c58"
+    },
+    {
+      "file": "books/pm0404.pdf.receipt.json",
+      "bytes": 424,
+      "sha256": "08f1052de552026cde6d81834411ac6ba79db93276a2d0ee7173356b6fa27dfb"
+    },
+    {
+      "file": "books/pm0410.pdf",
+      "bytes": 397341,
+      "sha256": "b26d2e44155d4ad02c1159d291d005f83393af522dddf3b604ea2e7614e753af"
+    },
+    {
+      "file": "books/pm0410.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "9ebdeb95de4e7c212903b97626baab14902e68b5674331f98c4f4dc4c73ae71a"
+    },
+    {
+      "file": "books/pm0413.pdf",
+      "bytes": 577112,
+      "sha256": "bf33bc15d989337c29efcda8008b59fa2beeaebc849c7b397c4331b50da309c1"
+    },
+    {
+      "file": "books/pm0413.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "176f85acd709c667b66da83897f70fa33018437460c69fe78a74a83840b31a08"
+    },
+    {
+      "file": "books/pm0695.pdf",
+      "bytes": 439517,
+      "sha256": "8e5d387b01289e9e0b63fbe0abf85522840b983f72f44a70947c3c9ae870ede6"
+    },
+    {
+      "file": "books/pm0695.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "03c2c16e1c0584edcb9bc1282966213c1a26c5221be93ff2cf86239820e7a55f"
+    },
+    {
+      "file": "books/pm0732.pdf",
+      "bytes": 642567,
+      "sha256": "788e04d069cf6e6fd0de0cbd4d6390273070ef2bf1703194e09a6da688c0d912"
+    },
+    {
+      "file": "books/pm0732.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "58cd1607011b86921ae204804302cc1662dbd032f3c6e35d4edd3056a84231dd"
+    },
+    {
+      "file": "books/pm0734.pdf",
+      "bytes": 959707,
+      "sha256": "55d807a83ac860a1b6dc3695566dbeebfd24ff41b8c59e12254b596537a10d5d"
+    },
+    {
+      "file": "books/pm0734.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "1b2b1583492e78309a45dd823af5c7a9853eb7964fb3e8830cb47034dc74d2b5"
+    },
+    {
+      "file": "books/pm0758.pdf",
+      "bytes": 385748,
+      "sha256": "cfa3fb3c13b7a380425d01c236e3d404430b13cbf223607d2b8df5243fac3556"
+    },
+    {
+      "file": "books/pm0758.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "c2169d7a86301442f3f245ee8dc952a90dbb6dc27710b96b6287a20b11c6d825"
+    },
+    {
+      "file": "books/pm0839.pdf",
+      "bytes": 913161,
+      "sha256": "4aa0de95ec15cdb4c608bc8bc288431a2d1a31fb8c556a54a63641455de7109a"
+    },
+    {
+      "file": "books/pm0839.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "08e2c272aaf19e825973bacf25ea4504600a3cb24a62e7300eae7c930d0e6fec"
+    },
+    {
+      "file": "books/pm0902.pdf",
+      "bytes": 442361,
+      "sha256": "018fddc4d5eb5663ccfd91c4ce1fd39b06424a81896e6f728f626f63a00bb1c1"
+    },
+    {
+      "file": "books/pm0902.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "d95b042127b06b3e912d760c4c8cfbb27ba91c5e9d80cc0bb5f34f8f17a19796"
+    },
+    {
+      "file": "books/pmuni0055.html",
+      "bytes": 43164,
+      "sha256": "a70f3bed65a53bc97b90e79e54e2143d33f8a36878de81047dd6ec8e7acce2e9"
+    },
+    {
+      "file": "books/pmuni0055.html.receipt.json",
+      "bytes": 430,
+      "sha256": "b3eb4e3618bd4f4c85b9f8582f4f89bcdf59a0c94a20c6d5d796a4a14a401dcf"
+    },
+    {
+      "file": "books/pmuni0145.html",
+      "bytes": 36868,
+      "sha256": "f85e83296bd23caee7222a30d5df1cd5475bb7f3f82bd76eb29b129003cfcf1e"
+    },
+    {
+      "file": "books/pmuni0145.html.receipt.json",
+      "bytes": 430,
+      "sha256": "921bf77f50e62326937484894d1e492ddfaea17c851daf002f3c9ebf498c7a7d"
+    },
+    {
+      "file": "books/pmuni0172.html",
+      "bytes": 1082893,
+      "sha256": "c7b97b91d1b1456d5ce88c401b6a8ad52d2077644cd5fb6b56c5dbb1c5433d65"
+    },
+    {
+      "file": "books/pmuni0172.html.receipt.json",
+      "bytes": 432,
+      "sha256": "59a1e134919ef03246caf13ec155d01ac39cbd2becbe447e528343828cdd43c7"
+    },
+    {
+      "file": "books/pmuni0217.html",
+      "bytes": 1428807,
+      "sha256": "7ad30f37392c89c2b3168a2f5a8fe723b15461266fb066d8e928007579115969"
+    },
+    {
+      "file": "books/pmuni0217.html.receipt.json",
+      "bytes": 432,
+      "sha256": "247e3e1fd56e4ebe7e9a2cac4f6f4d993e60bf85b884beabe83cdc31d9851116"
+    },
+    {
+      "file": "books/pmuni0263.html",
+      "bytes": 282703,
+      "sha256": "da9358ac69946d5a02bc8acb4a13441cc0d2ea52580937d5901c532d2e1d0dfa"
+    },
+    {
+      "file": "books/pmuni0263.html.receipt.json",
+      "bytes": 431,
+      "sha256": "62e3e81c5cec69bd936afb6566d8556a2bd2eb1e02f9f7bb321027a3b7f89bca"
+    },
+    {
+      "file": "books/pmuni0295.html",
+      "bytes": 129964,
+      "sha256": "c92d94df9fbb71fa2db88cd05bb46ae4392a3eb607dd1b48604e1e0dd14507f1"
+    },
+    {
+      "file": "books/pmuni0295.html.receipt.json",
+      "bytes": 431,
+      "sha256": "7d12a4385947b40e665d577c7a653d22ad9e4cc8eec418890bdc64dd3ec09db9"
+    },
+    {
+      "file": "books/pmuni0301.html",
+      "bytes": 44073,
+      "sha256": "9fc557d6f1652442056eac1d242f21b61a776bf8e4c227ae7d722e693b930730"
+    },
+    {
+      "file": "books/pmuni0301.html.receipt.json",
+      "bytes": 430,
+      "sha256": "ede56c3402812721b1b372d24a1ce0cb547864502ea7fb6bfae8a606648b6439"
+    },
+    {
+      "file": "books/pmuni0404.html",
+      "bytes": 672095,
+      "sha256": "5acd01c76b0b1fe15d2144b983017078c7123462911405cdbeb6ad818618affb"
+    },
+    {
+      "file": "books/pmuni0404.html.receipt.json",
+      "bytes": 431,
+      "sha256": "17a36c7c6899a3033a1bb95fbb3737f0fd0d53a69b1334613c04ca802c96fe50"
+    },
+    {
+      "file": "books/pmuni0410.html",
+      "bytes": 238252,
+      "sha256": "c8d21b15e3f601fb5a79610008c125cf8fdd538cfbf39f9ad159b98c85ebc583"
+    },
+    {
+      "file": "books/pmuni0410.html.receipt.json",
+      "bytes": 431,
+      "sha256": "6707052aedddc0c19810097cdd6b5ae38f7375cc30c499c639af2aaeb96f5bdf"
+    },
+    {
+      "file": "books/pmuni0413.html",
+      "bytes": 398081,
+      "sha256": "579df23d6903b7f0220e50e775b8f07fd266a9e34cda7639f5397b3faf05eebe"
+    },
+    {
+      "file": "books/pmuni0413.html.receipt.json",
+      "bytes": 431,
+      "sha256": "d47f81446e4fed42d17ecd7b0c0200eaa76b7209bdf323ef9e4d4e8ce232f2a3"
+    },
+    {
+      "file": "books/pmuni0695.html",
+      "bytes": 235920,
+      "sha256": "393b5e93bb9ab0c8f2bc77d19e6d8bdac7252c4044cdb3a35ce3b8362b1c464b"
+    },
+    {
+      "file": "books/pmuni0695.html.receipt.json",
+      "bytes": 431,
+      "sha256": "8fce414dac186d2015d49bde7e83e9aa756cad5b431f23a522f4bd84fc4b1f43"
+    },
+    {
+      "file": "books/pmuni0732.html",
+      "bytes": 559660,
+      "sha256": "fa2bc03d30ffa46edce6d4d791fddfbee0faef18307ae85e20bc0db7f4277909"
+    },
+    {
+      "file": "books/pmuni0732.html.receipt.json",
+      "bytes": 431,
+      "sha256": "170950f45aaf8c4d975da26a12f3950db3895c7a04f78fef2b2ad14173f5c77d"
+    },
+    {
+      "file": "books/pmuni0734.html",
+      "bytes": 938968,
+      "sha256": "db3de76c2fbb65b89c92a9cb2cff7bed1f42912023e4fe153584a95228b8490f"
+    },
+    {
+      "file": "books/pmuni0734.html.receipt.json",
+      "bytes": 431,
+      "sha256": "f03c8558d913dd9a85a19cd717df6fc8c9a7a26a685e11aca1352fcb559ce3e8"
+    },
+    {
+      "file": "books/pmuni0758.html",
+      "bytes": 267689,
+      "sha256": "7bad4329039f5f25c4cc7cff6f290e6ddeb1bb92a735e19282213a104630211b"
+    },
+    {
+      "file": "books/pmuni0758.html.receipt.json",
+      "bytes": 431,
+      "sha256": "67874d035e82e9c2411bbbe6bc9b03e62e9874c35a26d2d6951cad1c91087f31"
+    },
+    {
+      "file": "books/pmuni0902.html",
+      "bytes": 308205,
+      "sha256": "b895c27b393de1322b420c97fc6aadc6f384c1218edce84a9e782bea0521ed3b"
+    },
+    {
+      "file": "books/pmuni0902.html.receipt.json",
+      "bytes": 431,
+      "sha256": "e00bc78fc80d99cb2289afa73f045f7aec5f2d4d7ad961dc5b44eb65c1493955"
+    },
+    {
+      "file": "books/theth-hindi-novel.html",
+      "bytes": 633262,
+      "sha256": "f3b68fc453f542982d5c09bfbcbfb858f98c26dc78cd0e2d729bc094940d4d8c"
+    },
+    {
+      "file": "books/theth-hindi-novel.html.receipt.json",
+      "bytes": 459,
+      "sha256": "4812e474172a52f612a5c79b2aed30641e3648684dd241b46b52683dc1946ca6"
+    },
+    {
+      "file": "catalogs/des-birana-part-1.html",
+      "bytes": 198356,
+      "sha256": "8e447480bf6d22ff25bc0a494bfc190948c802c0e9b82b7bee76eb7ac5e0df78"
+    },
+    {
+      "file": "catalogs/des-birana-part-1.html.receipt.json",
+      "bytes": 428,
+      "sha256": "53adea930c52a536397447a145e93db1c156fd63c91ccf0e7f151547f43bf6ce"
+    },
+    {
+      "file": "catalogs/esahity-categories.html",
+      "bytes": 77628,
+      "sha256": "b157371019b60ce9fdaceef074734a819cd11fd30adf3846a6302ed53db099a6"
+    },
+    {
+      "file": "catalogs/esahity-categories.html.receipt.json",
+      "bytes": 451,
+      "sha256": "9eda3e8300456bc1fa8fef5fe8aa8c6eb2467a61ebc34daf29e1647529752729"
+    },
+    {
+      "file": "catalogs/esahity-travel.html",
+      "bytes": 120083,
+      "sha256": "b2a2cd06c2d66563444a8f82fcd0a03aa90a5e9a479713563578489cc3870452"
+    },
+    {
+      "file": "catalogs/esahity-travel.html.receipt.json",
+      "bytes": 480,
+      "sha256": "b40c4f6afcd3e8e3808fa2fad4d22f2bae45201ec86ddcc1f25b1717f5770ddb"
+    },
+    {
+      "file": "catalogs/hindi-1.html",
+      "bytes": 111266,
+      "sha256": "246f802c794fb9aeab31c9d5b9f523a128135c5e2a8afad6b44e75615396586b"
+    },
+    {
+      "file": "catalogs/hindi-1.html.receipt.json",
+      "bytes": 444,
+      "sha256": "9365662b950e60e8807a2244e0d8c0cd613f9e224c9070302141bac7e3e778f3"
+    },
+    {
+      "file": "catalogs/hindi-11865.html",
+      "bytes": 2221559,
+      "sha256": "ce200191b3c2a3c4f3fe14bab103a7533ed9ffd46083d09d4d9e368290ebb38d"
+    },
+    {
+      "file": "catalogs/hindi-11865.html.receipt.json",
+      "bytes": 450,
+      "sha256": "8f3041bb3787311dd3d75bff36e783fab54520949f2d74b55912c5cede4c5b58"
+    },
+    {
+      "file": "catalogs/hindi-11969.html",
+      "bytes": 72734,
+      "sha256": "bcbb818a246670d67159913cb0ea306b309a3d79e451e4b703a092070b33d764"
+    },
+    {
+      "file": "catalogs/hindi-11969.html.receipt.json",
+      "bytes": 448,
+      "sha256": "0d82a3970641a07c8eb43333f0bf173c7071d0a99a4a4c78e69ebc2d65b56897"
+    },
+    {
+      "file": "catalogs/hindi-1232.html",
+      "bytes": 735675,
+      "sha256": "f547d3b0c352ed1ed52f30ea64a71333aab5ed5f7763cf784156fb600f31ee05"
+    },
+    {
+      "file": "catalogs/hindi-1232.html.receipt.json",
+      "bytes": 446,
+      "sha256": "1bf7fc95a015c0fccae2b33fdf7a42184262e967ab782767e5cf51e8e50a8d86"
+    },
+    {
+      "file": "catalogs/hindi-2.html",
+      "bytes": 337260,
+      "sha256": "f01c0e3d784b7fdc3d1638140abe23e7184101ab2f11b8f3e2b3328213cdb7ff"
+    },
+    {
+      "file": "catalogs/hindi-2.html.receipt.json",
+      "bytes": 424,
+      "sha256": "9ebcbae9a211c2376637a84d6ae85f7a94ffa2a7a82a07d8960203535f643519"
+    },
+    {
+      "file": "catalogs/hindi-3.html",
+      "bytes": 311965,
+      "sha256": "b1f3f6ec59ca6c15562a35dad9d59531ec5ffef0c175bd3af7f833f4a9c3f227"
+    },
+    {
+      "file": "catalogs/hindi-3.html.receipt.json",
+      "bytes": 390,
+      "sha256": "7b2aa09526c8355069721008f72cc4b0357dfe4638a0111e4f74244d354324f6"
+    },
+    {
+      "file": "catalogs/hindi-4.html",
+      "bytes": 997941,
+      "sha256": "90a8b8780f9959e5e46d02254bd174bf7672729b6c26e2602a717ff7f38fcf85"
+    },
+    {
+      "file": "catalogs/hindi-4.html.receipt.json",
+      "bytes": 408,
+      "sha256": "344170a3ccfe363d4f95788eaf0bfc40a8d9ba5acef06bb7dc6db33c4911d226"
+    },
+    {
+      "file": "catalogs/hindi-5.html",
+      "bytes": 475572,
+      "sha256": "c5f83b57714e4970912d05713bdc0fa227b7c9f9725d29ce890a989c78538d50"
+    },
+    {
+      "file": "catalogs/hindi-5.html.receipt.json",
+      "bytes": 418,
+      "sha256": "a79e550e416f8f9c3ad3559a17915894213d7ffef056b0f1b6e21cbe8f4a3c59"
+    },
+    {
+      "file": "catalogs/hindi-6.html",
+      "bytes": 822345,
+      "sha256": "0b5073403fb6f7768d5ad479e341cde921b21bf296b34452690e8471bc3b7919"
+    },
+    {
+      "file": "catalogs/hindi-6.html.receipt.json",
+      "bytes": 430,
+      "sha256": "850fe4acac67ec18fe6bd39949b2f39cf6df18a35f56cbb1c2df73abaea66f17"
+    },
+    {
+      "file": "catalogs/hindi-7.html",
+      "bytes": 84494,
+      "sha256": "d1433d712dd4d7f13d7ff048aba8f77a299c70e5838d1749d727393123935935"
+    },
+    {
+      "file": "catalogs/hindi-7.html.receipt.json",
+      "bytes": 451,
+      "sha256": "3fe08653ec64fb7a22525473b9dc01de2f3d0586babb87aa1432e25bfadfe27e"
+    },
+    {
+      "file": "catalogs/hindisamay-novels.html",
+      "bytes": 29785,
+      "sha256": "6dfac7a465b67aded7908bb2a444990d62e4f0bda7cae812a494b505e26e0140"
+    },
+    {
+      "file": "catalogs/hindisamay-novels.html.receipt.json",
+      "bytes": 417,
+      "sha256": "ee7e41a44b595623b7305df06d73644eba8ba3bfb3542999078f4453386ff04d"
+    },
+    {
+      "file": "collected-books.jsonl",
+      "bytes": 109864,
+      "sha256": "8647dc639d5e4243b9c88f252e8ad3435403eef02cef086a6743d11417689fad"
+    },
+    {
+      "file": "content-checks.json",
+      "bytes": 285,
+      "sha256": "306815a56a26b2dcf0ae80e61b6413dfe4c0ca389a3018c7a4151cc7ce89b502"
+    },
+    {
+      "file": "derived-ebooks/hindisamay-des-birana.epub",
+      "bytes": 205332,
+      "sha256": "f417a8ce9a83bd8cb4364c44375a6ff1503a0b4e12b8e1ee0d5587aa21904b5a"
+    },
+    {
+      "file": "derived-ebooks/hindisamay-v2-1.epub",
+      "bytes": 35196,
+      "sha256": "fab99be676aca4c98df4703adb018efba2870fce0780e32f23fc397b1e883f92"
+    },
+    {
+      "file": "derived-ebooks/hindisamay-v2-11865.epub",
+      "bytes": 200117,
+      "sha256": "14f4f08191013b92b3ead518672f0d0b530642d71aaf372177b22954b6998174"
+    },
+    {
+      "file": "derived-ebooks/hindisamay-v2-2.epub",
+      "bytes": 69877,
+      "sha256": "4d8d3e832c0351ed5be93248ca33c4fc765915460ccdde6e831fbbafb4bc782a"
+    },
+    {
+      "file": "derived-ebooks/hindisamay-v2-3.epub",
+      "bytes": 65211,
+      "sha256": "d0519bffe50eabc710d4a8ad8edda200a2730af48980389676b2f604430052b6"
+    },
+    {
+      "file": "derived-ebooks/hindisamay-v2-4.epub",
+      "bytes": 198538,
+      "sha256": "12533d7b7d448884ba592a0320d120b606576cc868ae37fb4fdfed3c8e00b588"
+    },
+    {
+      "file": "derived-ebooks/hindisamay-v2-5.epub",
+      "bytes": 86269,
+      "sha256": "0d81a2d4be7e26fd12766066988dc67f3771d05dc80a4613ae1d34406eeb5a8d"
+    },
+    {
+      "file": "derived-ebooks/hindisamay-v2-6.epub",
+      "bytes": 112200,
+      "sha256": "c2f86ea465cb067c0dc16153eb9a23fa7cdea0e1007db824a56e093f509da25d"
+    },
+    {
+      "file": "derived-ebooks/hindisamay-v2-7.epub",
+      "bytes": 37491,
+      "sha256": "ff1b9e403cbd02bc06b77882397bbaf65aa1c4345092a9354d418e6cd98d8f56"
+    },
+    {
+      "file": "download-results.json",
+      "bytes": 39889,
+      "sha256": "3f8ffc602ee1b5d1ba517b4edc1e98b8ef6d38426323fd2899201b519c6daa68"
+    },
+    {
+      "file": "excluded-sources.json",
+      "bytes": 245,
+      "sha256": "994929b62446a1e7b8beb26c662f2bf15c48cf9fad03226cb534cc509239dd18"
+    },
+    {
+      "file": "hindi-followup-results.json",
+      "bytes": 1724,
+      "sha256": "39c0d4be32b6abb7a2e3b77182ce916f717693165425f2403b5bd003fb75c7eb"
+    },
+    {
+      "file": "hindi-seed-results.json",
+      "bytes": 5641,
+      "sha256": "dff35f8f498812f342d3f42cf23f8361006594f9d80e91f200d27559b0f6f1b7"
+    },
+    {
+      "file": "hindi-seeds.json",
+      "bytes": 2375,
+      "sha256": "25f05833cc0d039ffa7db60a7cfd361d66d3c03b3409f22e86de9bed4b1643d1"
+    },
+    {
+      "file": "model-unchanged.json",
+      "bytes": 210,
+      "sha256": "d3a434718d7c0bf542a0153d0bddca732c36540c4b4e2250642d4c75aea2bf5b"
+    },
+    {
+      "file": "prepared/esahity-aindrajal_supriya_joshi/aindrajal_supriya_joshi.pages.json",
+      "bytes": 21015,
+      "sha256": "9f272be7e8c139e20dbbe5b5ec290a76edb7cc8f079d80bc472778ca5e8bcc12"
+    },
+    {
+      "file": "prepared/esahity-aindrajal_supriya_joshi/aindrajal_supriya_joshi.pdf-extracted.txt",
+      "bytes": 459481,
+      "sha256": "7b96bccf3e0eaebcba04775edca30c2291184dacfc6ca011bdf0addd29e11eb0"
+    },
+    {
+      "file": "prepared/esahity-aindrajal_supriya_joshi/book-content.txt",
+      "bytes": 459481,
+      "sha256": "7b96bccf3e0eaebcba04775edca30c2291184dacfc6ca011bdf0addd29e11eb0"
+    },
+    {
+      "file": "prepared/esahity-baap_the_grat_hero_manohar_surwade/baap_the_grat_hero_manohar_surwade.pages.json",
+      "bytes": 33535,
+      "sha256": "646218fa18906781b23667a544e992f08d0f9a4334475daea927c3fd97bebd58"
+    },
+    {
+      "file": "prepared/esahity-baap_the_grat_hero_manohar_surwade/baap_the_grat_hero_manohar_surwade.pdf-extracted.txt",
+      "bytes": 560770,
+      "sha256": "24e59dbcfbbce38ce761d8461bd47b139f3c5b516ee680ceb08c994c6fb9f72d"
+    },
+    {
+      "file": "prepared/esahity-baap_the_grat_hero_manohar_surwade/book-content.txt",
+      "bytes": 560770,
+      "sha256": "24e59dbcfbbce38ce761d8461bd47b139f3c5b516ee680ceb08c994c6fb9f72d"
+    },
+    {
+      "file": "prepared/esahity-bhoot_bangalyache_rahasya_akshay_jadhav/bhoot_bangalyache_rahasya_akshay_jadhav.pages.json",
+      "bytes": 16570,
+      "sha256": "c15a5cb4ee263cb0bf11722830553be2dd9e7e5a3a95c0a9bcfeddca6258f05c"
+    },
+    {
+      "file": "prepared/esahity-bhoot_bangalyache_rahasya_akshay_jadhav/bhoot_bangalyache_rahasya_akshay_jadhav.pdf-extracted.txt",
+      "bytes": 385726,
+      "sha256": "e6ae83cecc6bf7692bbfae988ea1ca85f126774aa0b3b7b6231344f3ece2b1e5"
+    },
+    {
+      "file": "prepared/esahity-bhoot_bangalyache_rahasya_akshay_jadhav/book-content.txt",
+      "bytes": 385726,
+      "sha256": "e6ae83cecc6bf7692bbfae988ea1ca85f126774aa0b3b7b6231344f3ece2b1e5"
+    },
+    {
+      "file": "prepared/esahity-europe_kavadse_maneesha_dikshit/book-content.txt",
+      "bytes": 182607,
+      "sha256": "7c2e6e1c45455758aaf67742149ba5569ee780fb95c1f77421bb83a773908e69"
+    },
+    {
+      "file": "prepared/esahity-europe_kavadse_maneesha_dikshit/europe_kavadse_maneesha_dikshit.pages.json",
+      "bytes": 16322,
+      "sha256": "d174eacd1ff96d9474b711f00102810986f0b8959a3916d23314fc0744402e83"
+    },
+    {
+      "file": "prepared/esahity-europe_kavadse_maneesha_dikshit/europe_kavadse_maneesha_dikshit.pdf-extracted.txt",
+      "bytes": 182607,
+      "sha256": "7c2e6e1c45455758aaf67742149ba5569ee780fb95c1f77421bb83a773908e69"
+    },
+    {
+      "file": "prepared/esahity-hirana_arun_kulakarni/book-content.txt",
+      "bytes": 281957,
+      "sha256": "f1399f0ead00c59f3470e20892f15b2b62fe6f0aec47ff60b01579f059a6ca09"
+    },
+    {
+      "file": "prepared/esahity-hirana_arun_kulakarni/hirana_arun_kulakarni.pages.json",
+      "bytes": 15711,
+      "sha256": "2e1a5dfaf3fdb38c59ba4bfe50840aa19d554bd070f92cb110cb8c0b8957f991"
+    },
+    {
+      "file": "prepared/esahity-hirana_arun_kulakarni/hirana_arun_kulakarni.pdf-extracted.txt",
+      "bytes": 281957,
+      "sha256": "f1399f0ead00c59f3470e20892f15b2b62fe6f0aec47ff60b01579f059a6ca09"
+    },
+    {
+      "file": "prepared/esahity-iblis_suraj_gatade/book-content.txt",
+      "bytes": 1341572,
+      "sha256": "7ad530cb5e59c6e958f7254340f65762ccea4723bce93df4db8352ff8a3ca9fd"
+    },
+    {
+      "file": "prepared/esahity-iblis_suraj_gatade/iblis_suraj_gatade.pages.json",
+      "bytes": 62900,
+      "sha256": "ba2b63986bc1993cf28e092ac69c1d6b36c8388a2d9f273ec3eba2e5ca6ec2c6"
+    },
+    {
+      "file": "prepared/esahity-iblis_suraj_gatade/iblis_suraj_gatade.pdf-extracted.txt",
+      "bytes": 1341572,
+      "sha256": "7ad530cb5e59c6e958f7254340f65762ccea4723bce93df4db8352ff8a3ca9fd"
+    },
+    {
+      "file": "prepared/esahity-ishany_bharat_neelima_kulkarni/book-content.txt",
+      "bytes": 110077,
+      "sha256": "d7226358b14a446f4bca61f7727a298fb7b5d005bf19ca6e7f68f8f7cb09cda4"
+    },
+    {
+      "file": "prepared/esahity-ishany_bharat_neelima_kulkarni/ishany_bharat_neelima_kulkarni.pages.json",
+      "bytes": 7838,
+      "sha256": "152932d7af7ca721b27b2bc0a3e23802e3b6a60cadc4cc76fccf1bc773c7c6cf"
+    },
+    {
+      "file": "prepared/esahity-ishany_bharat_neelima_kulkarni/ishany_bharat_neelima_kulkarni.pdf-extracted.txt",
+      "bytes": 110077,
+      "sha256": "d7226358b14a446f4bca61f7727a298fb7b5d005bf19ca6e7f68f8f7cb09cda4"
+    },
+    {
+      "file": "prepared/esahity-keral_shailesh_purohit/book-content.txt",
+      "bytes": 79191,
+      "sha256": "8a67079d066babf7daef2c971ef29f052efc77783587331cb137b2000997781d"
+    },
+    {
+      "file": "prepared/esahity-keral_shailesh_purohit/keral_shailesh_purohit.pages.json",
+      "bytes": 9254,
+      "sha256": "ef101746305a1922714273426c29a195829cc880eada0dc2af3833caeb3d4b75"
+    },
+    {
+      "file": "prepared/esahity-keral_shailesh_purohit/keral_shailesh_purohit.pdf-extracted.txt",
+      "bytes": 79191,
+      "sha256": "8a67079d066babf7daef2c971ef29f052efc77783587331cb137b2000997781d"
+    },
+    {
+      "file": "prepared/esahity-khidkee_saurabh_wagle/book-content.txt",
+      "bytes": 394385,
+      "sha256": "1e63a3749fd4c417c5f68a9a01c4740fafc2dd8b920b2a0017db991292b2777d"
+    },
+    {
+      "file": "prepared/esahity-khidkee_saurabh_wagle/khidkee_saurabh_wagle.pages.json",
+      "bytes": 22190,
+      "sha256": "0e672a7542b753de18ec73a76555feab7be627fc1d4ab8964face0a92e0b12dd"
+    },
+    {
+      "file": "prepared/esahity-khidkee_saurabh_wagle/khidkee_saurabh_wagle.pdf-extracted.txt",
+      "bytes": 394385,
+      "sha256": "1e63a3749fd4c417c5f68a9a01c4740fafc2dd8b920b2a0017db991292b2777d"
+    },
+    {
+      "file": "prepared/esahity-maaat_ketakee_shah/book-content.txt",
+      "bytes": 137435,
+      "sha256": "5758021d56eff77a70f80bf62b7a7a27ae3c74b1b7fde0631c114c9e408125b3"
+    },
+    {
+      "file": "prepared/esahity-maaat_ketakee_shah/maaat_ketakee_shah.pages.json",
+      "bytes": 11943,
+      "sha256": "556168b4ce30a9daecdee7db36b027c749bbe638060f80f402a70f08ffb1f60c"
+    },
+    {
+      "file": "prepared/esahity-maaat_ketakee_shah/maaat_ketakee_shah.pdf-extracted.txt",
+      "bytes": 137435,
+      "sha256": "5758021d56eff77a70f80bf62b7a7a27ae3c74b1b7fde0631c114c9e408125b3"
+    },
+    {
+      "file": "prepared/esahity-mb_canada_bb_desai/book-content.txt",
+      "bytes": 462606,
+      "sha256": "d58561511d32f19297a66ca98afa2e695d5e07527fd3f370793970dee85026dd"
+    },
+    {
+      "file": "prepared/esahity-mb_canada_bb_desai/mb_canada_bb_desai.pages.json",
+      "bytes": 17820,
+      "sha256": "6322441cc9718af451621519f746368db1d5b661b78266008c0ea210a0557902"
+    },
+    {
+      "file": "prepared/esahity-mb_canada_bb_desai/mb_canada_bb_desai.pdf-extracted.txt",
+      "bytes": 462606,
+      "sha256": "d58561511d32f19297a66ca98afa2e695d5e07527fd3f370793970dee85026dd"
+    },
+    {
+      "file": "prepared/esahity-omega_upgraded_abhishek_thamke/book-content.txt",
+      "bytes": 446485,
+      "sha256": "91e95910cc3e1426ea1ea68a3f51f77417eee0fba25f0a2c81f76973b0edf216"
+    },
+    {
+      "file": "prepared/esahity-omega_upgraded_abhishek_thamke/omega_upgraded_abhishek_thamke.pages.json",
+      "bytes": 32251,
+      "sha256": "131ffc2c46c534fbb4205beac2fdbb2cea58625cfcdf69ed79312825d318ff89"
+    },
+    {
+      "file": "prepared/esahity-omega_upgraded_abhishek_thamke/omega_upgraded_abhishek_thamke.pdf-extracted.txt",
+      "bytes": 446485,
+      "sha256": "91e95910cc3e1426ea1ea68a3f51f77417eee0fba25f0a2c81f76973b0edf216"
+    },
+    {
+      "file": "prepared/esahity-parimarjan_sudhir_karkhanis/book-content.txt",
+      "bytes": 285952,
+      "sha256": "26fbfe1c85e36dcd2af715944b3d479150e97768ef4f3de3b12cf28871445612"
+    },
+    {
+      "file": "prepared/esahity-parimarjan_sudhir_karkhanis/parimarjan_sudhir_karkhanis.pages.json",
+      "bytes": 13006,
+      "sha256": "bdfe352e3d4a7ccd7802223451bdd0ecd9029e530fb273e03fea0ddc5b3eb457"
+    },
+    {
+      "file": "prepared/esahity-parimarjan_sudhir_karkhanis/parimarjan_sudhir_karkhanis.pdf-extracted.txt",
+      "bytes": 285952,
+      "sha256": "26fbfe1c85e36dcd2af715944b3d479150e97768ef4f3de3b12cf28871445612"
+    },
+    {
+      "file": "prepared/esahity-pinjaraa_sanjay_bansode/book-content.txt",
+      "bytes": 143767,
+      "sha256": "55a3db7ab97b9bfb1cadfa1b3b887f221848c7931b898fab988c80a94fc2e39c"
+    },
+    {
+      "file": "prepared/esahity-pinjaraa_sanjay_bansode/pinjaraa_sanjay_bansode.pages.json",
+      "bytes": 7432,
+      "sha256": "280092465b793215869f30cbedb70044efc8cf1f5390f1c62973a0e821241457"
+    },
+    {
+      "file": "prepared/esahity-pinjaraa_sanjay_bansode/pinjaraa_sanjay_bansode.pdf-extracted.txt",
+      "bytes": 143767,
+      "sha256": "55a3db7ab97b9bfb1cadfa1b3b887f221848c7931b898fab988c80a94fc2e39c"
+    },
+    {
+      "file": "prepared/hindisamay-des-birana/book-content.txt",
+      "bytes": 934275,
+      "sha256": "427917b8cd2c8f52b041dca8b8077a7e00c06970dac8e1c22821bedbef981a67"
+    },
+    {
+      "file": "prepared/hindisamay-des-birana/des-birana-part-1.raw.txt",
+      "bytes": 166712,
+      "sha256": "5503fc469262c5cab739f79b2af84ed888dd27d06320c5b84fa50d9ac9b696a4"
+    },
+    {
+      "file": "prepared/hindisamay-des-birana/des-birana-part-2.raw.txt",
+      "bytes": 116554,
+      "sha256": "2037d9dd9f7b47baa33f22b399954ba2059c85438f05f7298f061cedb52e4573"
+    },
+    {
+      "file": "prepared/hindisamay-des-birana/des-birana-part-3.raw.txt",
+      "bytes": 140363,
+      "sha256": "6e5b4e193be2f6ae4106e7b67e479d70133e98994f64a4bcc267c4d7ef32ca4f"
+    },
+    {
+      "file": "prepared/hindisamay-des-birana/des-birana-part-4.raw.txt",
+      "bytes": 163646,
+      "sha256": "2300128fea13b1672222e372fca9941aca80f64a7ea94d228e3a4536390190cc"
+    },
+    {
+      "file": "prepared/hindisamay-des-birana/des-birana-part-5.raw.txt",
+      "bytes": 143235,
+      "sha256": "4c8698c22724d96f7684922950663378fb19c5a877df15b636094ee6fb7bb663"
+    },
+    {
+      "file": "prepared/hindisamay-des-birana/des-birana-part-6.raw.txt",
+      "bytes": 203750,
+      "sha256": "8c8ff20d397e7c4331002dca7a89c61453d2639162eef51b57131adbcb90b71b"
+    },
+    {
+      "file": "prepared/hindisamay-v2-1/book-content.txt",
+      "bytes": 154392,
+      "sha256": "70eaba71a8c048a566f346fb7917bf9ae5f742ef130edeff2219d9bf526196a7"
+    },
+    {
+      "file": "prepared/hindisamay-v2-1/devrani-part-2.raw.txt",
+      "bytes": 79199,
+      "sha256": "26df6b587fcb9ddd091ecbe9c7f1e191ee9955800235e8131538afefc39c7203"
+    },
+    {
+      "file": "prepared/hindisamay-v2-1/hindi-1.raw.txt",
+      "bytes": 75190,
+      "sha256": "cec9d168f2607b89bb50c7957537c6c9cc8494779cc36b69a4fedf7f774585ef"
+    },
+    {
+      "file": "prepared/hindisamay-v2-11865/book-content.txt",
+      "bytes": 893062,
+      "sha256": "af212fef08feba8af995bdc62ef6492b93e0406facf3a62b5a52bf7e7265fc15"
+    },
+    {
+      "file": "prepared/hindisamay-v2-11865/hindi-11865.raw.txt",
+      "bytes": 893062,
+      "sha256": "af212fef08feba8af995bdc62ef6492b93e0406facf3a62b5a52bf7e7265fc15"
+    },
+    {
+      "file": "prepared/hindisamay-v2-1232/book-content.txt",
+      "bytes": 665951,
+      "sha256": "5b49b4e457b90fdaff34c5eca1348626ee3cddc06f2e33a9b3a83ff1c37ac649"
+    },
+    {
+      "file": "prepared/hindisamay-v2-1232/hindi-1232.raw.txt",
+      "bytes": 272389,
+      "sha256": "b1fbe9658cf99fdb18e2bd67a594f0a0a4611191dfd249fb411ed93cea4f83eb"
+    },
+    {
+      "file": "prepared/hindisamay-v2-1232/kankal-part-2.linked.raw.txt",
+      "bytes": 188462,
+      "sha256": "28df773f321016113c63e3935c6546ad9eafabf156ddc1d8c9243dc275d4672b"
+    },
+    {
+      "file": "prepared/hindisamay-v2-1232/kankal-part-2.raw.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "prepared/hindisamay-v2-1232/kankal-part-3.linked.raw.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "prepared/hindisamay-v2-1232/kankal-part-3.raw.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "prepared/hindisamay-v2-1232/kankal-part-4.linked.raw.txt",
+      "bytes": 205094,
+      "sha256": "80de3b65837d1b07ea64afa8dd3781659777ff0e38c0a2ec020ee784a4cad4c5"
+    },
+    {
+      "file": "prepared/hindisamay-v2-1232/kankal-part-4.raw.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "prepared/hindisamay-v2-2/book-content.txt",
+      "bytes": 304552,
+      "sha256": "fdd04089d93ff9efca3af33c954381f1962ccfbe42c0062de7a2c3db5d639557"
+    },
+    {
+      "file": "prepared/hindisamay-v2-2/hindi-2.raw.txt",
+      "bytes": 304552,
+      "sha256": "fdd04089d93ff9efca3af33c954381f1962ccfbe42c0062de7a2c3db5d639557"
+    },
+    {
+      "file": "prepared/hindisamay-v2-3/book-content.txt",
+      "bytes": 278988,
+      "sha256": "04e0cacb51bc3cd962f303b79cdf9956c43aba0e06b88dd3fd8b570e43554603"
+    },
+    {
+      "file": "prepared/hindisamay-v2-3/hindi-3.raw.txt",
+      "bytes": 278988,
+      "sha256": "04e0cacb51bc3cd962f303b79cdf9956c43aba0e06b88dd3fd8b570e43554603"
+    },
+    {
+      "file": "prepared/hindisamay-v2-4/book-content.txt",
+      "bytes": 938982,
+      "sha256": "8bd6361076e8a9cf56d8e5815d1fda26024163e7a3d8a3764479628638c67390"
+    },
+    {
+      "file": "prepared/hindisamay-v2-4/hindi-4.raw.txt",
+      "bytes": 938982,
+      "sha256": "8bd6361076e8a9cf56d8e5815d1fda26024163e7a3d8a3764479628638c67390"
+    },
+    {
+      "file": "prepared/hindisamay-v2-5/book-content.txt",
+      "bytes": 401705,
+      "sha256": "cfb427d7a2cce059560b9ac5a749773599eb003b2e7a72f42818a2e9b9f5e17d"
+    },
+    {
+      "file": "prepared/hindisamay-v2-5/hindi-5.raw.txt",
+      "bytes": 401705,
+      "sha256": "cfb427d7a2cce059560b9ac5a749773599eb003b2e7a72f42818a2e9b9f5e17d"
+    },
+    {
+      "file": "prepared/hindisamay-v2-6/book-content.txt",
+      "bytes": 562368,
+      "sha256": "7c1dee1b9b4952d1702c417cfb6e68cde918a4a735aab4ffe7a47e0a7807dad4"
+    },
+    {
+      "file": "prepared/hindisamay-v2-6/hindi-6.raw.txt",
+      "bytes": 562368,
+      "sha256": "7c1dee1b9b4952d1702c417cfb6e68cde918a4a735aab4ffe7a47e0a7807dad4"
+    },
+    {
+      "file": "prepared/hindisamay-v2-7/book-content.txt",
+      "bytes": 252806,
+      "sha256": "e6bb3168cba033c85b9532e3fa8ae23888aefb5d17dfb63fcd0b891f343b6ce5"
+    },
+    {
+      "file": "prepared/hindisamay-v2-7/theth-hindi-novel.raw.txt",
+      "bytes": 252806,
+      "sha256": "e6bb3168cba033c85b9532e3fa8ae23888aefb5d17dfb63fcd0b891f343b6ce5"
+    },
+    {
+      "file": "prepared/pm-work-145/book-content.txt",
+      "bytes": 33635,
+      "sha256": "545df363ebc905de70fc71dca7f899a32b4b20986a2e500044724b9edc8e10f9"
+    },
+    {
+      "file": "prepared/pm-work-145/pm0145.pages.json",
+      "bytes": 1882,
+      "sha256": "ad0128b6a8f5599e81eaed00d861f5533c21969fafa1c2e000429bebb15b5fd9"
+    },
+    {
+      "file": "prepared/pm-work-145/pm0145.pdf-extracted.txt",
+      "bytes": 19220,
+      "sha256": "2c4b6e5c30ec2f425764bdac99a06aadf777667e499301dcba24e051ebe69644"
+    },
+    {
+      "file": "prepared/pm-work-145/pmuni0145.raw.txt",
+      "bytes": 34579,
+      "sha256": "3983cd806e68255ad22737c8c0ce631321576302ac3b3e5e6ff7fcf3b9f3d8dc"
+    },
+    {
+      "file": "prepared/pm-work-172/book-content.txt",
+      "bytes": 1063050,
+      "sha256": "67acb33bbbbdd3708fc846c86a302605f96807f21417b3b3619154a38dab9ac3"
+    },
+    {
+      "file": "prepared/pm-work-172/pm0172.pages.json",
+      "bytes": 22740,
+      "sha256": "208f521691967d5e07bded3a0dae82d094f622c15210d548aa17791343b7c44a"
+    },
+    {
+      "file": "prepared/pm-work-172/pm0172.pdf-extracted.txt",
+      "bytes": 566957,
+      "sha256": "d434f8b073465a65eee6233813445687989b3d7b1dd8d304c8ff82056775def1"
+    },
+    {
+      "file": "prepared/pm-work-172/pmuni0172.raw.txt",
+      "bytes": 1064431,
+      "sha256": "0d968b2b2c4f0b208fd1ea184c52a7c8a1b8076a718d791d71c0ec5026fc1e27"
+    },
+    {
+      "file": "prepared/pm-work-217/book-content.txt",
+      "bytes": 1421728,
+      "sha256": "2c4b7e4226878b3f47eaa805dc72f873967b903f519427efeed28aa0916c2d0e"
+    },
+    {
+      "file": "prepared/pm-work-217/pm0217.pages.json",
+      "bytes": 19988,
+      "sha256": "0f6db896dd6893f1e8e3d91041116743e3813580bf19ad9450e07cfc4a10105f"
+    },
+    {
+      "file": "prepared/pm-work-217/pm0217.pdf-extracted.txt",
+      "bytes": 755848,
+      "sha256": "0a3bf8e6475ef57d794710959eb9b91a5ca903eaf5657b11251b94cbe6451af3"
+    },
+    {
+      "file": "prepared/pm-work-217/pmuni0217.raw.txt",
+      "bytes": 1422703,
+      "sha256": "127ce69bc2369d19a6176dd0d134fd485a3f092cd57f3b204aee4badc960344e"
+    },
+    {
+      "file": "prepared/pm-work-263/book-content.txt",
+      "bytes": 261997,
+      "sha256": "2b97c938faf6707bb4c2588e8b2aed0d4948c9078f97c19750c7179c2358066a"
+    },
+    {
+      "file": "prepared/pm-work-263/pm0263.pages.json",
+      "bytes": 8090,
+      "sha256": "1f7369bc62abb8e999f209f042d3ad909e3b614117074f4518547ecc407af949"
+    },
+    {
+      "file": "prepared/pm-work-263/pm0263.pdf-extracted.txt",
+      "bytes": 143653,
+      "sha256": "6dbe16a853eb5a984c1187ffa94e4ecc8667c9447d72b8ccb60ed9a03d1b7bb6"
+    },
+    {
+      "file": "prepared/pm-work-263/pmuni0263.raw.txt",
+      "bytes": 263181,
+      "sha256": "e899959a08cbdb88f492f1b40d1854f542a135ba21f768d3be46e3e92ad7c251"
+    },
+    {
+      "file": "prepared/pm-work-295/book-content.txt",
+      "bytes": 116544,
+      "sha256": "22a801b74a68fee03008f0a261d5494be8d394dfe4fe6267764e81222e6a1440"
+    },
+    {
+      "file": "prepared/pm-work-295/pm0295.pages.json",
+      "bytes": 5417,
+      "sha256": "faf0fe31bfdc78d59e6d2d5fc0b4e741f77cb58949084cd776d07e34f7d06958"
+    },
+    {
+      "file": "prepared/pm-work-295/pm0295.pdf-extracted.txt",
+      "bytes": 128716,
+      "sha256": "55afe4a2bb2110bd7b6c2abf4c2aff85fcfc535b43bad8a437d5290db4b57a85"
+    },
+    {
+      "file": "prepared/pm-work-295/pmuni0295.raw.txt",
+      "bytes": 116544,
+      "sha256": "22a801b74a68fee03008f0a261d5494be8d394dfe4fe6267764e81222e6a1440"
+    },
+    {
+      "file": "prepared/pm-work-301/book-content.txt",
+      "bytes": 38454,
+      "sha256": "e71250ac16e057ea5a826ddb88d845158a0e32044f6e737c09ddf84e57f4929a"
+    },
+    {
+      "file": "prepared/pm-work-301/pm0301.pages.json",
+      "bytes": 1763,
+      "sha256": "d20734f22cf329771c544136ee34933651576e04eaaa2bd7988183689af9638e"
+    },
+    {
+      "file": "prepared/pm-work-301/pm0301.pdf-extracted.txt",
+      "bytes": 21616,
+      "sha256": "e64cc212465c12c0e9f694e0bc6f3423a5f7bbf8bda5b40560495557b666a99f"
+    },
+    {
+      "file": "prepared/pm-work-301/pmuni0301.raw.txt",
+      "bytes": 39497,
+      "sha256": "02eb781cf44f0d44ea4736a03b561ddd85e3955f5b6d994546cb5b2ca83db6e7"
+    },
+    {
+      "file": "prepared/pm-work-404/book-content.txt",
+      "bytes": 661600,
+      "sha256": "96aff41ab501159155498520f27a31110475339253b6605911a944b328c24bb2"
+    },
+    {
+      "file": "prepared/pm-work-404/pm0404.pages.json",
+      "bytes": 21941,
+      "sha256": "6abcabfa863226e314e1fc69948f1b4dde3deb61dfab220330306b2707c1ff7b"
+    },
+    {
+      "file": "prepared/pm-work-404/pm0404.pdf-extracted.txt",
+      "bytes": 631109,
+      "sha256": "7ebc78120344a9892d612aeaddfde6efe7fbcccc852e68cfeb99baf63ef000b3"
+    },
+    {
+      "file": "prepared/pm-work-404/pmuni0404.raw.txt",
+      "bytes": 662780,
+      "sha256": "1fdd6eb5cd758c7c5e7064c9e07c058998e15319eb4e13c232edc9d0e2b2abff"
+    },
+    {
+      "file": "prepared/pm-work-410/book-content.txt",
+      "bytes": 220596,
+      "sha256": "10250383e5601604f293eb4dbf0062932372affa2324f24a8f90cbd0e1ec0fb1"
+    },
+    {
+      "file": "prepared/pm-work-410/pm0410.pages.json",
+      "bytes": 8555,
+      "sha256": "caf7f16b4d64b49e16d514930fc896ef57f0f8e607b19e83a9666cfedbc71378"
+    },
+    {
+      "file": "prepared/pm-work-410/pm0410.pdf-extracted.txt",
+      "bytes": 215686,
+      "sha256": "82bdda55966fd52270842bf8cba4aca99bdff11e8d380ad05f8414a94aba7227"
+    },
+    {
+      "file": "prepared/pm-work-410/pmuni0410.raw.txt",
+      "bytes": 221843,
+      "sha256": "f85ee3a31a38b799a689874890cc3ced4f5f9a01071629de33e2fd6c8227f181"
+    },
+    {
+      "file": "prepared/pm-work-413/book-content.txt",
+      "bytes": 388414,
+      "sha256": "c4b55837ee9add2e3f692fa112c7df374e2064f1b343b0e92d71a85439ec321f"
+    },
+    {
+      "file": "prepared/pm-work-413/pm0413.pages.json",
+      "bytes": 13989,
+      "sha256": "bbd0e70103a9d9d07992ba063a9ff808beea1aa8555597b742dc309a8ffda835"
+    },
+    {
+      "file": "prepared/pm-work-413/pm0413.pdf-extracted.txt",
+      "bytes": 381044,
+      "sha256": "873f9bf4eaaa53facd766ed2e5cfb23911d93a46f2c5c61e5c8ab467da66412a"
+    },
+    {
+      "file": "prepared/pm-work-413/pmuni0413.raw.txt",
+      "bytes": 389591,
+      "sha256": "1657c885064e4ddef595d7f1082f00c585fa4c1c6e6fef754ad90d7c7aca2edf"
+    },
+    {
+      "file": "prepared/pm-work-55/book-content.txt",
+      "bytes": 38332,
+      "sha256": "ee15c6206a7ae002f77abcb44af80694f03d2ceeff71b6961799b935b57dd104"
+    },
+    {
+      "file": "prepared/pm-work-55/pm0055.pages.json",
+      "bytes": 1260,
+      "sha256": "6fa2bc0fe7aea2037012d097f26415c4d05201860ecaa73759de5a5f3db88917"
+    },
+    {
+      "file": "prepared/pm-work-55/pm0055.pdf-extracted.txt",
+      "bytes": 21244,
+      "sha256": "ae1e95cc89f28577c52a624c63a5a5bb2123ccb3cc873ca2232a32856983ae22"
+    },
+    {
+      "file": "prepared/pm-work-55/pmuni0055.raw.txt",
+      "bytes": 39267,
+      "sha256": "1f1a953c9bdd2d790c444d54e8f30af295e8c6efa0122c0f3af4a395645e7820"
+    },
+    {
+      "file": "prepared/pm-work-695/book-content.txt",
+      "bytes": 223956,
+      "sha256": "48679e08ae04687b7335a40e3bcc3b2d90b669ebca32452f33a17475be646530"
+    },
+    {
+      "file": "prepared/pm-work-695/pm0695.pages.json",
+      "bytes": 12648,
+      "sha256": "90600856cf6e77a075a304482919bff2fd93244878f290c95237a80debfafabc"
+    },
+    {
+      "file": "prepared/pm-work-695/pm0695.pdf-extracted.txt",
+      "bytes": 510811,
+      "sha256": "b6dc80b832437cba4f650970e189538c5201103ab8c772021be14f56db2f3f9b"
+    },
+    {
+      "file": "prepared/pm-work-695/pmuni0695.raw.txt",
+      "bytes": 225023,
+      "sha256": "8b56917fa7bf72e06bee76ec4eee2b0e1c7fe5686b1309aaad29b8fb67ab6e9e"
+    },
+    {
+      "file": "prepared/pm-work-732/book-content.txt",
+      "bytes": 549465,
+      "sha256": "0fb93cd99cf0d2e232ef8fff338eee8d215c878d09243b6eddbfe2c6dc53a32a"
+    },
+    {
+      "file": "prepared/pm-work-732/pm0732.pages.json",
+      "bytes": 21382,
+      "sha256": "fb9145e0cc56468eb7f97f0a630bd073f693ccf9f731ca378bf5ec13f4a06835"
+    },
+    {
+      "file": "prepared/pm-work-732/pm0732.pdf-extracted.txt",
+      "bytes": 863443,
+      "sha256": "9c8fc001e03caa6100bf6390ac39f5433d6ce49b5196c38a3970c3ff551c15e9"
+    },
+    {
+      "file": "prepared/pm-work-732/pmuni0732.raw.txt",
+      "bytes": 550349,
+      "sha256": "f325ffbf851cc5c43215d52a1126a9e025b57592884e93f2eab52e4c6dc6e900"
+    },
+    {
+      "file": "prepared/pm-work-734/book-content.txt",
+      "bytes": 925077,
+      "sha256": "1a0f403807371146510fe0a0acc983a53a949b075ac2c02b8fffaa6a5da4b9f4"
+    },
+    {
+      "file": "prepared/pm-work-734/pm0734.pages.json",
+      "bytes": 34517,
+      "sha256": "d3175e06905f09c4a50b432c506917d6ac1703e32e617189f8172281e131204b"
+    },
+    {
+      "file": "prepared/pm-work-734/pm0734.pdf-extracted.txt",
+      "bytes": 1241716,
+      "sha256": "aaeb620742f72aa74dd02bdaaebbec014c3be1d735a14cf66f97c0b0befd5bc9"
+    },
+    {
+      "file": "prepared/pm-work-734/pmuni0734.raw.txt",
+      "bytes": 925989,
+      "sha256": "7cfe77165b15fa590f8a5f19b4c6c4a9b9698bed985b416d2a690f6d72bc844c"
+    },
+    {
+      "file": "prepared/pm-work-758/book-content.txt",
+      "bytes": 262046,
+      "sha256": "4272f1f27d0a629d7c1e2e3a1f03ba25dbb9998dd7f9cf6eb7512eea2073a5ab"
+    },
+    {
+      "file": "prepared/pm-work-758/pm0758.pages.json",
+      "bytes": 9943,
+      "sha256": "39cd513509dea42cd361b5fb5763c89060ff33360e2c5878ec397edbd05f7cfc"
+    },
+    {
+      "file": "prepared/pm-work-758/pm0758.pdf-extracted.txt",
+      "bytes": 388447,
+      "sha256": "bdb718a368d4220d4ab61dfaf51e1bac4e2a18668091d041482a8620b04771ff"
+    },
+    {
+      "file": "prepared/pm-work-758/pmuni0758.raw.txt",
+      "bytes": 262987,
+      "sha256": "e318e97d3ee8522395f420769d1ab5c27dfced21e9d4c44bea52afc7996b89f1"
+    },
+    {
+      "file": "prepared/pm-work-839/book-content.txt",
+      "bytes": 1285151,
+      "sha256": "b6ec8e04c03531b0fa8d73d44acd3f1a116222b520f88c5706a4b7f2724dfb95"
+    },
+    {
+      "file": "prepared/pm-work-839/pm0839.pages.json",
+      "bytes": 29806,
+      "sha256": "fd8f0b39d4873fd6561d3172b11d1edea26668b668302000a5c7471560d1ae3a"
+    },
+    {
+      "file": "prepared/pm-work-839/pm0839.pdf-extracted.txt",
+      "bytes": 1285151,
+      "sha256": "b6ec8e04c03531b0fa8d73d44acd3f1a116222b520f88c5706a4b7f2724dfb95"
+    },
+    {
+      "file": "prepared/pm-work-902/book-content.txt",
+      "bytes": 298496,
+      "sha256": "45b21ced5150eb59a1125477c9977dba19723f453d52faab811d8d7df575d3e7"
+    },
+    {
+      "file": "prepared/pm-work-902/pm0902.pages.json",
+      "bytes": 13647,
+      "sha256": "c3fbb0cd93f5622330b45b663547c9c98160dc2bc8f86851b4885592361e5680"
+    },
+    {
+      "file": "prepared/pm-work-902/pm0902.pdf-extracted.txt",
+      "bytes": 344528,
+      "sha256": "e78697e8adfcb9730d58d8677818b7ca5c41b331ccbbce43b0f98b78927350f4"
+    },
+    {
+      "file": "prepared/pm-work-902/pmuni0902.raw.txt",
+      "bytes": 299444,
+      "sha256": "09004fd0853e91e0779cb0f0ec62483dad4160dd5909f7ff02b258c219209f30"
+    },
+    {
+      "file": "previews/aindrajal_supriya_joshi-001.png",
+      "bytes": 117482,
+      "sha256": "1202202c227d9d442cda500ecdf15c980c508187df943c33c5588067613d59ee"
+    },
+    {
+      "file": "previews/aindrajal_supriya_joshi-002.png",
+      "bytes": 42914,
+      "sha256": "2390c7a99d6134bcfe89793b3082bee3b217d843e6ff4748eb909f6e68f4d22b"
+    },
+    {
+      "file": "previews/aindrajal_supriya_joshi-003.png",
+      "bytes": 22544,
+      "sha256": "f3fb21a0a77fc60b965bbf69f7f659e582b7311576ce548ef8f09cc9ae6f4544"
+    },
+    {
+      "file": "previews/baap_the_grat_hero_manohar_surwade-001.png",
+      "bytes": 321238,
+      "sha256": "ef01a6d6c877315b7b8128927553e5e59c816fb29bf08546bd5029c96adc04ae"
+    },
+    {
+      "file": "previews/baap_the_grat_hero_manohar_surwade-002.png",
+      "bytes": 24616,
+      "sha256": "16f91079f7d08294e7ce310ec5264cce30d99f5c3a934ea8a38f904272e471e9"
+    },
+    {
+      "file": "previews/baap_the_grat_hero_manohar_surwade-003.png",
+      "bytes": 44802,
+      "sha256": "54f7b929118327003ffa25615ac5d78a6f4f10d6e4fcc2ef0000afb042e25472"
+    },
+    {
+      "file": "previews/bhoot_bangalyache_rahasya_akshay_jadhav-001.png",
+      "bytes": 265254,
+      "sha256": "d27202333671ebbe71bfbb9fd998eefb02581715ef64f0c39bdd236baafaa057"
+    },
+    {
+      "file": "previews/bhoot_bangalyache_rahasya_akshay_jadhav-002.png",
+      "bytes": 27556,
+      "sha256": "e73ee718ecb4c6086c92f94746b8939edff92e132eb055914ac5b9a016e41df1"
+    },
+    {
+      "file": "previews/bhoot_bangalyache_rahasya_akshay_jadhav-003.png",
+      "bytes": 43069,
+      "sha256": "6b480eee760198c3f6b9ca5ac251fceb33bd7aefecf79ba0e998876ac8cfcbfb"
+    },
+    {
+      "file": "previews/europe_kavadse_maneesha_dikshit-001.png",
+      "bytes": 219734,
+      "sha256": "fe86ee61d214a20e99278c8a126d29fd7677d12fcf007df0f51a13d533dfd335"
+    },
+    {
+      "file": "previews/europe_kavadse_maneesha_dikshit-002.png",
+      "bytes": 65565,
+      "sha256": "3b5422b1f6860e1fcb4232dbc7b0c9b495ee44263b1a2ccbadb2f5ffb1a03e4b"
+    },
+    {
+      "file": "previews/europe_kavadse_maneesha_dikshit-003.png",
+      "bytes": 7171,
+      "sha256": "25969baaa282b18ac152393dc5999f92733c1c04687c2a018e05a05002e39eb5"
+    },
+    {
+      "file": "previews/hirana_arun_kulakarni-001.png",
+      "bytes": 303808,
+      "sha256": "0772f7686af31241acd71757668ddf313ea31ac53ec7eb4cbb92aa008e068719"
+    },
+    {
+      "file": "previews/hirana_arun_kulakarni-002.png",
+      "bytes": 28239,
+      "sha256": "b2751cb118fa7a397143af45b666d6cfb3d6cc93c1268da051350f3f9bce8982"
+    },
+    {
+      "file": "previews/hirana_arun_kulakarni-003.png",
+      "bytes": 34904,
+      "sha256": "804ad0b383cf80696b6363952c46338c6458ae20ca20628be7e71a1139adc62d"
+    },
+    {
+      "file": "previews/iblis_suraj_gatade-001.png",
+      "bytes": 205452,
+      "sha256": "e7b7491e7deb63a3221cba7fc9a5a70c8b0b5d6ad34399f71b6cc84a214b41fe"
+    },
+    {
+      "file": "previews/iblis_suraj_gatade-002.png",
+      "bytes": 19289,
+      "sha256": "f5d33b9487af73358af640904cc16fb50e8dec4f79dc91bdc466c567b703c667"
+    },
+    {
+      "file": "previews/iblis_suraj_gatade-003.png",
+      "bytes": 44216,
+      "sha256": "7ac367033622daa2241530cb9e083e3275470f16ba35006c21b473e381ae2d90"
+    },
+    {
+      "file": "previews/ishany_bharat_neelima_kulkarni-01.png",
+      "bytes": 307926,
+      "sha256": "32061a150300be8f7f1d81f5dca459dcac4745f9004ceaa2a7afbc905f6d6e02"
+    },
+    {
+      "file": "previews/ishany_bharat_neelima_kulkarni-02.png",
+      "bytes": 16963,
+      "sha256": "0df96dd3c17ecdf5e27e264897a8e3b8c518706a0055b5590e69a3844d5b5eb4"
+    },
+    {
+      "file": "previews/ishany_bharat_neelima_kulkarni-03.png",
+      "bytes": 43193,
+      "sha256": "db2a0e90105a12a2d74fea21228ce3fec32e0ef0621d9595e431a03e0800f61a"
+    },
+    {
+      "file": "previews/keral_shailesh_purohit-01.png",
+      "bytes": 355932,
+      "sha256": "28e49d0f21233c9757207769ceaec4e2e2f6221ac25f4d6a77d370d9059ff9a6"
+    },
+    {
+      "file": "previews/keral_shailesh_purohit-02.png",
+      "bytes": 25413,
+      "sha256": "06af486142ffd11ee589487159c88da97757ce38492ea69009ab14a16882e06c"
+    },
+    {
+      "file": "previews/keral_shailesh_purohit-03.png",
+      "bytes": 45731,
+      "sha256": "7e2ded6346e8af3728afa2609c66ee12f96f00d36418a64462f78c9a1caeef90"
+    },
+    {
+      "file": "previews/khidkee_saurabh_wagle-001.png",
+      "bytes": 160922,
+      "sha256": "0724b1fdc193327022aff3452b91662d4ded68749e27b784540efc2ce5465c84"
+    },
+    {
+      "file": "previews/khidkee_saurabh_wagle-002.png",
+      "bytes": 47206,
+      "sha256": "98440f3ab391423b289613a2f47713c7cee75eff016c5f2997697935b1c8709a"
+    },
+    {
+      "file": "previews/khidkee_saurabh_wagle-003.png",
+      "bytes": 28275,
+      "sha256": "b8d94bae781205abcb574b612ec7012a22179e32b13b4e83098d0174b6e4f15b"
+    },
+    {
+      "file": "previews/maaat_ketakee_shah-01.png",
+      "bytes": 223740,
+      "sha256": "c16cca75bf340a946d0001d3d255c43a6ec3101849d1c3c92ad7e9b7508c8dbe"
+    },
+    {
+      "file": "previews/maaat_ketakee_shah-02.png",
+      "bytes": 39001,
+      "sha256": "892f25417426acdd504d2d980c5fe974d9b38f3170208a60497547a142d800f2"
+    },
+    {
+      "file": "previews/maaat_ketakee_shah-03.png",
+      "bytes": 77327,
+      "sha256": "e895bcf0702d2849c072d522d91effe96ba0a4efe674a0045beded1c1e8d1e07"
+    },
+    {
+      "file": "previews/marathi-title-pages-1.jpg",
+      "bytes": 259798,
+      "sha256": "a32f02f73a7da6ff98fab23f6c0571ec219eadadc887f6524940382a8a4d77ff"
+    },
+    {
+      "file": "previews/marathi-title-pages-2.jpg",
+      "bytes": 230121,
+      "sha256": "29976aa4ae0ade5eb4ffc9d316ad7c15956722434a40e6eb78d5950ef3967bc6"
+    },
+    {
+      "file": "previews/marathi-title-pages-3.jpg",
+      "bytes": 247917,
+      "sha256": "a0059bf01898d70246bab3740eceb36afb894bd02b15fb5510f65991798e98dc"
+    },
+    {
+      "file": "previews/marathi-title-pages-4.jpg",
+      "bytes": 121960,
+      "sha256": "9df5a3bb99a18482f22a4d8041fb4f39222b16cf3d8b2544c6abb71dcee6fae1"
+    },
+    {
+      "file": "previews/mb_canada_bb_desai-001.png",
+      "bytes": 297729,
+      "sha256": "4560f9d9682fcc124f3001605044e8fb992cd8f3531feebe7fb030e584e46b72"
+    },
+    {
+      "file": "previews/mb_canada_bb_desai-002.png",
+      "bytes": 25105,
+      "sha256": "a6bf8404946a858be91e06eec6c24df5f434ade4c745f4f772f2fe2c86d6a33f"
+    },
+    {
+      "file": "previews/mb_canada_bb_desai-003.png",
+      "bytes": 38129,
+      "sha256": "15b46d51ec1185ba0cafcd674241bf80af340ccb7bab77f13d7716db1dbf041a"
+    },
+    {
+      "file": "previews/omega_upgraded_abhishek_thamke-001.png",
+      "bytes": 286388,
+      "sha256": "335a99269d79f965b43cb58f23644733d17240fae0f069e6b578ca052b3d5acd"
+    },
+    {
+      "file": "previews/omega_upgraded_abhishek_thamke-002.png",
+      "bytes": 10363,
+      "sha256": "afc02d7f8b9f535532dfc9cd2926facd6bcfa919cf37786a5579dc3636214351"
+    },
+    {
+      "file": "previews/omega_upgraded_abhishek_thamke-003.png",
+      "bytes": 39995,
+      "sha256": "2dfd66e5414e096195dc4383475df11d320769d2459448b9a7246b323589a21d"
+    },
+    {
+      "file": "previews/parimarjan_sudhir_karkhanis-01.png",
+      "bytes": 117691,
+      "sha256": "eaf645a46f53ea6fda1088f926159384f305fc128825a6a9adb6a499523979eb"
+    },
+    {
+      "file": "previews/parimarjan_sudhir_karkhanis-02.png",
+      "bytes": 21364,
+      "sha256": "8ac8072286124d8070bfd33f3d9c1c9b0b57cac70fe0996d5363b55f71171d94"
+    },
+    {
+      "file": "previews/parimarjan_sudhir_karkhanis-03.png",
+      "bytes": 36715,
+      "sha256": "dd88e9bfc7e3a9e78cbf22fcfd106ab421107c40fa3663891756b8d98bad4670"
+    },
+    {
+      "file": "previews/pinjaraa_sanjay_bansode-01.png",
+      "bytes": 115570,
+      "sha256": "492cb6b3295ae9b981f33fb67fa602600ccac9934cdbd60e3a6fb54e5aa28a3d"
+    },
+    {
+      "file": "previews/pinjaraa_sanjay_bansode-02.png",
+      "bytes": 24626,
+      "sha256": "02bc40200e75e01b6369026d06adb0c8836feacc51666b44727ec69875138839"
+    },
+    {
+      "file": "previews/pinjaraa_sanjay_bansode-03.png",
+      "bytes": 40031,
+      "sha256": "445b92b47cd763431e612739fa69c0d938097011b676d91198c0a0819fd92232"
+    },
+    {
+      "file": "previews/pm0055-01.png",
+      "bytes": 45012,
+      "sha256": "aa0791e420503172b8ff1caee1ce3bf042014c0e9fe68df50592443612af91d4"
+    },
+    {
+      "file": "previews/pm0055-02.png",
+      "bytes": 52199,
+      "sha256": "63416dac2302d0c2b0a893cb87c5d77fef6da777e569088b999ac121d73a72cc"
+    },
+    {
+      "file": "previews/pm0145-01.png",
+      "bytes": 40916,
+      "sha256": "b83dcd993776170d0a631647744281eea0bb28f09cb87c223e730d6803b3f6b6"
+    },
+    {
+      "file": "previews/pm0145-02.png",
+      "bytes": 24701,
+      "sha256": "00d96a1c9b972a7942950f701437d00dd8f467fb117fd06db46af4bf3b299b9d"
+    },
+    {
+      "file": "previews/pm0172-001.png",
+      "bytes": 43754,
+      "sha256": "1ed07c418d8e535e55feca4ee6d1c35f8079368416990fd9f0daeb2512cb38fc"
+    },
+    {
+      "file": "previews/pm0172-002.png",
+      "bytes": 18954,
+      "sha256": "2003177cab64bf06750c52d34d7916e1d4919ea6fdaf0fd72974fcd468bf7352"
+    },
+    {
+      "file": "previews/pm0217-001.png",
+      "bytes": 47999,
+      "sha256": "a286bda2828497402ee89bca5bed14d694ac60a7445fe16a102dde3be8e8340a"
+    },
+    {
+      "file": "previews/pm0217-002.png",
+      "bytes": 73982,
+      "sha256": "c99d8127c775ba3f7482c67694cf8ccfc34be1a7a6a9f01af2d2cb9f6abb9b38"
+    },
+    {
+      "file": "previews/pm0263-01.png",
+      "bytes": 47331,
+      "sha256": "e638bdb0e5bc6fe342e9c1011fd717ba5e6aef77ef889495dcd3b3dbed5b1aab"
+    },
+    {
+      "file": "previews/pm0263-02.png",
+      "bytes": 49376,
+      "sha256": "8becf51ec75adeb761d31f57dd7f088c4a6c324945794b4cb1711deb5bcaaf8b"
+    },
+    {
+      "file": "previews/pm0295-01.png",
+      "bytes": 36521,
+      "sha256": "043c6190b2aebe5857a86fb075a4f3f74fc618cced936c6623ac735dd5ed1cf3"
+    },
+    {
+      "file": "previews/pm0295-02.png",
+      "bytes": 35180,
+      "sha256": "78eabb8063ec6fa9803eddc6792279541072e225b94aad4b7fb3561b978094e8"
+    },
+    {
+      "file": "previews/pm0301-01.png",
+      "bytes": 47265,
+      "sha256": "7c5d74a8d44203ec2f224b820efd648628c6720ca4a63d9b103a03b850f6bcca"
+    },
+    {
+      "file": "previews/pm0301-02.png",
+      "bytes": 42108,
+      "sha256": "d43f498766c6fef8df0d9aa8b78620d7aef041f7e935bbaf7c12ee875e2ab17a"
+    },
+    {
+      "file": "previews/pm0404-001.png",
+      "bytes": 30945,
+      "sha256": "504f51f3bcc97bc8dc14963e541bafd1a873abd7c60a997b9b9efa7be7a3d0ef"
+    },
+    {
+      "file": "previews/pm0404-002.png",
+      "bytes": 34756,
+      "sha256": "2e952ecb49fe586b5945374f1046b2138520b1a86871a317f79a98ceb28dea4d"
+    },
+    {
+      "file": "previews/pm0410-01.png",
+      "bytes": 32664,
+      "sha256": "cca45d7f9f9979b74caf830883e568e376f365c680fdb65aeaa50ce0ac014091"
+    },
+    {
+      "file": "previews/pm0410-02.png",
+      "bytes": 23834,
+      "sha256": "ea1b8ff59f96a5953fe349cfdacb60a0f979ba0c0bde7b84be71216352e639aa"
+    },
+    {
+      "file": "previews/pm0413-01.png",
+      "bytes": 31089,
+      "sha256": "de5f1b17525c5d895cbcddb7f756d0e2f7176b62cd574eb99c1b485c5d306a16"
+    },
+    {
+      "file": "previews/pm0413-02.png",
+      "bytes": 24617,
+      "sha256": "8e4725b1dd7c09474c7b823774db4adb7ec94bb34c8cad241b0c88c5fcc28457"
+    },
+    {
+      "file": "previews/pm0695-01.png",
+      "bytes": 39749,
+      "sha256": "93b24a33c7ce773574e59a992bdcad5ecb79142000db38fac202e651056124c7"
+    },
+    {
+      "file": "previews/pm0695-02.png",
+      "bytes": 34830,
+      "sha256": "d851bd28440e71802d26d9443f19b3829ae7c5a9d07208d8a423c10f98369abb"
+    },
+    {
+      "file": "previews/pm0732-001.png",
+      "bytes": 42484,
+      "sha256": "28f44644a9b51ad0b5b08f73f112d615257f4de9a583899236c41c5e6b1dc70e"
+    },
+    {
+      "file": "previews/pm0732-002.png",
+      "bytes": 30345,
+      "sha256": "989564f21fd97f5e000c953d92ee4b3b3666d248717df1d1a23a9f75aea8551e"
+    },
+    {
+      "file": "previews/pm0734-001.png",
+      "bytes": 42929,
+      "sha256": "226ddab73e4f1b1e8ce9fe4fe45102c9582f1ca11a6a66b7033683ddec2ae764"
+    },
+    {
+      "file": "previews/pm0734-002.png",
+      "bytes": 34959,
+      "sha256": "1d1a1eae605b014b942c311a4844ab460cd4bc5087a1dba251313e809958fe43"
+    },
+    {
+      "file": "previews/pm0758-01.png",
+      "bytes": 43484,
+      "sha256": "668027c6b390ea52b88bd655e4c86a3ba3222a910ecd2eff6243b6d98b7450f2"
+    },
+    {
+      "file": "previews/pm0758-02.png",
+      "bytes": 29401,
+      "sha256": "856635ede19943002f4d7aadb07dc80463071a5e964f5f38e037d2661ee731ce"
+    },
+    {
+      "file": "previews/pm0839-001.png",
+      "bytes": 43238,
+      "sha256": "6d423c1f82bfa3460ab7fc158a7d0de26ea945d01a0ae8a2c04f45d2cbe8fafc"
+    },
+    {
+      "file": "previews/pm0839-002.png",
+      "bytes": 32313,
+      "sha256": "b3ff12b5bc47b2c602c327056b638ec5bce28353c434bcd853b3ddcf24beff74"
+    },
+    {
+      "file": "previews/pm0902-01.png",
+      "bytes": 43412,
+      "sha256": "074bed6a6c33bfea24c7dfef7ff97c4dabf3757303cc32bffb77d4c09956c8bb"
+    },
+    {
+      "file": "previews/pm0902-02.png",
+      "bytes": 36485,
+      "sha256": "dcbb6d957f707b2eafcc11a4a3176bb78ceeec7205c1b7a36b80b96d28d9d9a2"
+    },
+    {
+      "file": "previews/tamil-title-pages-1.jpg",
+      "bytes": 153748,
+      "sha256": "f87086755d46916f0a7817d292955079154f29959ddd23f27b6daf85b2c463ee"
+    },
+    {
+      "file": "previews/tamil-title-pages-2.jpg",
+      "bytes": 159095,
+      "sha256": "090aa89f1ffcb6c913aece491181441303b58fbabf46cbd575ddf1b292f02e3a"
+    },
+    {
+      "file": "previews/tamil-title-pages-3.jpg",
+      "bytes": 147603,
+      "sha256": "f63273d14dfc1db308869c1af43f6a09a92b4dbe67e72e3e9cc21677c90c22dd"
+    },
+    {
+      "file": "previews/tamil-title-pages-4.jpg",
+      "bytes": 160138,
+      "sha256": "1862706dcee8f06d5bb173e2b47486323fd4bafd351cc5e80be1780ec2992ce7"
+    },
+    {
+      "file": "previous-batch-validation.json",
+      "bytes": 52,
+      "sha256": "f1e74198b284c56b28940d0c8ac779d04bfc5b64b394e918068a7d5af5bf3e50"
+    },
+    {
+      "file": "selected-works.json",
+      "bytes": 52551,
+      "sha256": "99c87d7aef79adad97eb6cb52e32af7c2454246c9f07e0fc34702623537db27f"
+    },
+    {
+      "file": "summary.json",
+      "bytes": 322,
+      "sha256": "bfc4d00b7351db1ad5f8af04f829b688ec93c796f246f187de8413fe14f737fe"
+    },
+    {
+      "file": "validation.json",
+      "bytes": 1813,
+      "sha256": "bb72509b8b79a9d14456564a3046744fd0a02dbf5d246aba6e333e60ea7ef074"
+    }
+  ],
+  "preparation_scripts": [
+    {
+      "file": "scripts/fetch_native_book_source.py",
+      "sha256": "65b36ab72dfa3d1942148eca60e225a400cba7f505aa82736618d124a20513f9"
+    },
+    {
+      "file": "scripts/download_native_book_batch.py",
+      "sha256": "3da0fd3b983d09a24987c925733cc6a55e8480a48fdf1e922ce0c3d7b266c27f"
+    },
+    {
+      "file": "scripts/prepare_native_book_batch_v2.py",
+      "sha256": "d33f0b0252754580dd274619a3e12dbc223b8a76ed74d8be59b9479475a99a92"
+    },
+    {
+      "file": "scripts/validate_native_book_batch.py",
+      "sha256": "209c52f654685673f3b07ce65a78b4da2de0f7deaa897b7569d322713b71ce63"
+    },
+    {
+      "file": "scripts/summarize_native_book_corpus.py",
+      "sha256": "31fd4b622062ee2983bce1326fb9862a3e5b17fb7ad4e332177b4a8ad5d589b2"
+    }
+  ]
+}

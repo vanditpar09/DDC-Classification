@@ -1,0 +1,9 @@
+{
+  "source_url": "https://openlibrary.org/search.json?title=Ilakkanac+curukkam&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "final_url": "https://openlibrary.org/search.json?title=Ilakkanac+curukkam&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "retrieved_at": "2026-10-04T03:37:16.894350+00:00",
+  "bytes": 449,
+  "sha256": "9b2fe2a31082b69266a44d87c02d9ce7a33f912f0f5bd19ba1303d1d80a1edd0",
+  "content_type": "application/json",
+  "file": "data/research/multilingual-pilot-v1/review-v3/sources/pm-work-257-catalog-authorless.json"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "source_image": "data/research/ocr-upgrade-v1/fixtures/phone-english-cover.png",
+    "sha256": "b1a0eaf9040fee2cc13373d13e7b35306374e6bd9d7141a7b06443cb7b1aef96",
+    "development_reference_only": true,
+    "public_redistribution_rights_not_established": true
+  },
+  {
+    "source_image": "data/research/multilingual-pilot-v1/text-repair-v1/ncert-fhgp1-chapter-1/page-6.png",
+    "sha256": "c8a72ef3b3f40475d3f619c152df899c02e3eb03642073685bee04c51123202a",
+    "development_reference_only": true,
+    "public_redistribution_rights_not_established": false
+  },
+  {
+    "source_image": "data/research/multilingual-pilot-v1/text-repair-v1/esahity-anand_madhu_shirgaonkar/page-134.png",
+    "sha256": "864345e8cd5a24740d14100b0449f460e3a202b8aba6581c87af8098219decdf",
+    "development_reference_only": true,
+    "public_redistribution_rights_not_established": false
+  },
+  {
+    "source_image": "data/research/multilingual-pilot-v1/review-v3/samples/pm-work-118/pm0118-page-11.png",
+    "sha256": "07eb5d380b9bfdf7b0e1a8a0e9593fbf201fb336dcd44f178bbeded48af1ed8d",
+    "development_reference_only": true,
+    "public_redistribution_rights_not_established": false
+  }
+]

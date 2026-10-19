@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-10-04T13:48:42.875Z",
+  "browser": "Playwright Chromium",
+  "books": 2,
+  "checks": {
+    "home_loads": true,
+    "toolbar_results_link": true,
+    "three_level_catalog_path": true,
+    "rejected_ocr_blank_codes": true,
+    "online_photo_and_record_links": true,
+    "csv_and_json_downloads": true,
+    "offline_photo_and_record_files": true,
+    "ten_second_refresh": true,
+    "no_browser_errors": true
+  },
+  "note": "Home-page initial POST intercepted to reuse the existing session; no user records were created or modified.",
+  "regression": {
+    "command": ".venv/bin/python -m pytest tests prototype -q",
+    "passed": 240,
+    "python": "3.9.6",
+    "warnings": 3
+  },
+  "clean_python_check": {
+    "command": "output/macos-clean-check/.venv/bin/python -m pytest tests/test_collection_export.py prototype/test_persistence.py -q",
+    "passed": 22,
+    "python": "3.11.15",
+    "warnings": 1
+  },
+  "saved_capture_integrity": {
+    "existing_sessions_unchanged": 2,
+    "existing_photo_blobs_unchanged": 2,
+    "exported_photo_bytes_match_sqlite": true
+  },
+  "phone_gateway": {
+    "existing_gateway_login_status": 200,
+    "unauthenticated_collection_status": 401,
+    "backend_port": 8017,
+    "existing_tunnel_configuration_preserved": true
+  },
+  "limits": [
+    "Browser verification performed on macOS; no native Windows verification claimed.",
+    "Existing demo-2026-10-04 ZIPs predate this source change.",
+    "Does not evaluate OCR or classification accuracy; no model retraining performed.",
+    "Generated photos, records and browser screenshots stay under ignored output/."
+  ]
+}

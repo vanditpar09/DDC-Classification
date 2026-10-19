@@ -1,0 +1,77 @@
+{
+  "request_url": "https://openlibrary.org/works/OL63073W/editions.json?limit=1000",
+  "retrieved_at": "2026-10-08T17:09:34.460861+00:00",
+  "english_code_records": [
+    {
+      "edition": "/books/OL22596607M",
+      "ddc_raw": [
+        "813/.52"
+      ],
+      "parsed_section": "813"
+    },
+    {
+      "edition": "/books/OL864609M",
+      "ddc_raw": [
+        "813/.52"
+      ],
+      "parsed_section": "813"
+    },
+    {
+      "edition": "/books/OL2984420M",
+      "ddc_raw": [
+        "813/.52"
+      ],
+      "parsed_section": "813"
+    },
+    {
+      "edition": "/books/OL4538649M",
+      "ddc_raw": [
+        "813/.5/2"
+      ],
+      "parsed_section": null
+    },
+    {
+      "edition": "/books/OL22570174M",
+      "ddc_raw": [
+        "823/.9/1F"
+      ],
+      "parsed_section": null
+    },
+    {
+      "edition": "/books/OL4938818M",
+      "ddc_raw": [
+        "813/.5/2"
+      ],
+      "parsed_section": null
+    },
+    {
+      "edition": "/books/OL974459M",
+      "ddc_raw": [
+        "813/.52"
+      ],
+      "parsed_section": "813"
+    },
+    {
+      "edition": "/books/OL5688989M",
+      "ddc_raw": [
+        "813/.5/2"
+      ],
+      "parsed_section": null
+    },
+    {
+      "edition": "/books/OL2992065M",
+      "ddc_raw": [
+        "813/.52"
+      ],
+      "parsed_section": "813"
+    },
+    {
+      "edition": "/books/OL1090131M",
+      "ddc_raw": [
+        "813/.52"
+      ],
+      "parsed_section": "813"
+    }
+  ],
+  "note": "Malformed historical notations are rejected by the existing parser; no guessed normalization or classifier training performed."
+}

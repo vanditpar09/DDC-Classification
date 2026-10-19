@@ -1,0 +1,9 @@
+{
+  "source_url": "https://openlibrary.org/search.json?title=Yapparunkalak+karikai&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "final_url": "https://openlibrary.org/search.json?title=Yapparunkalak+karikai&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "retrieved_at": "2026-10-04T03:37:17.912918+00:00",
+  "bytes": 845,
+  "sha256": "7bba4c368f7e856ed4701608e5df2edd1517859c58f6db8492712fcec2d81eaf",
+  "content_type": "application/json",
+  "file": "data/research/multilingual-pilot-v1/review-v3/sources/pm-work-55-catalog-authorless.json"
+}

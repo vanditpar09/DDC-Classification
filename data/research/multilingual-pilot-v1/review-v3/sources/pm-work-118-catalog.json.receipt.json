@@ -1,0 +1,9 @@
+{
+  "source_url": "https://openlibrary.org/search.json?title=%E0%AE%9A%E0%AF%82%E0%AE%9F%E0%AE%BE%E0%AE%AE%E0%AE%A3%E0%AE%BF+%E0%AE%A8%E0%AE%BF%E0%AE%95%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%81&author=%E0%AE%AE%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%B2+%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AF%81%E0%AE%9F%E0%AE%B0%E0%AF%8D&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "final_url": "https://openlibrary.org/search.json?title=%E0%AE%9A%E0%AF%82%E0%AE%9F%E0%AE%BE%E0%AE%AE%E0%AE%A3%E0%AE%BF+%E0%AE%A8%E0%AE%BF%E0%AE%95%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%81&author=%E0%AE%AE%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%B2+%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AF%81%E0%AE%9F%E0%AE%B0%E0%AF%8D&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "retrieved_at": "2026-10-04T03:33:40.032099+00:00",
+  "bytes": 156,
+  "sha256": "a68a51a345fbaef76433e2dc9c3af3f7f73ee9f366a07aa6e9eec27944a0f069",
+  "content_type": "application/json",
+  "file": "data/research/multilingual-pilot-v1/review-v3/sources/pm-work-118-catalog.json"
+}

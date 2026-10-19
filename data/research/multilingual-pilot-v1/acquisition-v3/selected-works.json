@@ -1,0 +1,1122 @@
+[
+  {
+    "work_id": "ncert-fhgp1",
+    "group_id": "ncert-class-6-gp",
+    "title": "Ganita Prakash (Hindi)",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "510",
+    "subject": "Mathematics",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/fhgp1/fhgp101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fhgp101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/fhgp1/fhgp105.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fhgp105.pdf",
+        "chapter": 5
+      },
+      {
+        "file": "books/fhgp1/fhgp110.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fhgp110.pdf",
+        "chapter": 10
+      },
+      {
+        "file": "books/fhgp1/fhgp1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fhgp1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-fmrgp1",
+    "group_id": "ncert-class-6-gp",
+    "title": "Ganita Prakash (Marathi)",
+    "author": "NCERT",
+    "language": "mar",
+    "candidate_ddc_section": "510",
+    "subject": "Mathematics",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/fmrgp1/fmrgp101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fmrgp101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/fmrgp1/fmrgp105.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fmrgp105.pdf",
+        "chapter": 5
+      },
+      {
+        "file": "books/fmrgp1/fmrgp110.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fmrgp110.pdf",
+        "chapter": 10
+      },
+      {
+        "file": "books/fmrgp1/fmrgp1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fmrgp1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-ftmgp1",
+    "group_id": "ncert-class-6-gp",
+    "title": "Ganita Prakash (Tamil)",
+    "author": "NCERT",
+    "language": "tam",
+    "candidate_ddc_section": "510",
+    "subject": "Mathematics",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/ftmgp1/ftmgp101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ftmgp101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/ftmgp1/ftmgp105.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ftmgp105.pdf",
+        "chapter": 5
+      },
+      {
+        "file": "books/ftmgp1/ftmgp110.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ftmgp110.pdf",
+        "chapter": 10
+      },
+      {
+        "file": "books/ftmgp1/ftmgp1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ftmgp1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-fhcu1",
+    "group_id": "ncert-class-6-cu",
+    "title": "Jigyasa",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "500",
+    "subject": "General science",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/fhcu1/fhcu101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fhcu101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/fhcu1/fhcu106.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fhcu106.pdf",
+        "chapter": 6
+      },
+      {
+        "file": "books/fhcu1/fhcu112.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fhcu112.pdf",
+        "chapter": 12
+      },
+      {
+        "file": "books/fhcu1/fhcu1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fhcu1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-fmrcu1",
+    "group_id": "ncert-class-6-cu",
+    "title": "Curiosity (Marathi)",
+    "author": "NCERT",
+    "language": "mar",
+    "candidate_ddc_section": "500",
+    "subject": "General science",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/fmrcu1/fmrcu101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fmrcu101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/fmrcu1/fmrcu106.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fmrcu106.pdf",
+        "chapter": 6
+      },
+      {
+        "file": "books/fmrcu1/fmrcu112.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fmrcu112.pdf",
+        "chapter": 12
+      },
+      {
+        "file": "books/fmrcu1/fmrcu1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/fmrcu1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-ftmcu1",
+    "group_id": "ncert-class-6-cu",
+    "title": "Curiosity (Tamil)",
+    "author": "NCERT",
+    "language": "tam",
+    "candidate_ddc_section": "500",
+    "subject": "General science",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/ftmcu1/ftmcu101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ftmcu101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/ftmcu1/ftmcu106.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ftmcu106.pdf",
+        "chapter": 6
+      },
+      {
+        "file": "books/ftmcu1/ftmcu112.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ftmcu112.pdf",
+        "chapter": 12
+      },
+      {
+        "file": "books/ftmcu1/ftmcu1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ftmcu1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-ghgp1",
+    "group_id": "ncert-class-7-gp",
+    "title": "Ganita Prakash(Hindi)",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "510",
+    "subject": "Mathematics",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/ghgp1/ghgp101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ghgp101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/ghgp1/ghgp104.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ghgp104.pdf",
+        "chapter": 4
+      },
+      {
+        "file": "books/ghgp1/ghgp108.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ghgp108.pdf",
+        "chapter": 8
+      },
+      {
+        "file": "books/ghgp1/ghgp1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ghgp1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-gmrgp1",
+    "group_id": "ncert-class-7-gp",
+    "title": "Ganita Prakash(Marathi)",
+    "author": "NCERT",
+    "language": "mar",
+    "candidate_ddc_section": "510",
+    "subject": "Mathematics",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/gmrgp1/gmrgp101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gmrgp101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/gmrgp1/gmrgp104.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gmrgp104.pdf",
+        "chapter": 4
+      },
+      {
+        "file": "books/gmrgp1/gmrgp108.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gmrgp108.pdf",
+        "chapter": 8
+      },
+      {
+        "file": "books/gmrgp1/gmrgp1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gmrgp1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-gtmgp1",
+    "group_id": "ncert-class-7-gp",
+    "title": "Ganita Prakash(Tamil)",
+    "author": "NCERT",
+    "language": "tam",
+    "candidate_ddc_section": "510",
+    "subject": "Mathematics",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/gtmgp1/gtmgp101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gtmgp101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/gtmgp1/gtmgp104.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gtmgp104.pdf",
+        "chapter": 4
+      },
+      {
+        "file": "books/gtmgp1/gtmgp108.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gtmgp108.pdf",
+        "chapter": 8
+      },
+      {
+        "file": "books/gtmgp1/gtmgp1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gtmgp1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-ghcu1",
+    "group_id": "ncert-class-7-cu",
+    "title": "Jigyasa",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "500",
+    "subject": "General science",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/ghcu1/ghcu101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ghcu101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/ghcu1/ghcu106.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ghcu106.pdf",
+        "chapter": 6
+      },
+      {
+        "file": "books/ghcu1/ghcu112.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ghcu112.pdf",
+        "chapter": 12
+      },
+      {
+        "file": "books/ghcu1/ghcu1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ghcu1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-gmrcu1",
+    "group_id": "ncert-class-7-cu",
+    "title": "Curiosity (Marathi)",
+    "author": "NCERT",
+    "language": "mar",
+    "candidate_ddc_section": "500",
+    "subject": "General science",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/gmrcu1/gmrcu101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gmrcu101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/gmrcu1/gmrcu106.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gmrcu106.pdf",
+        "chapter": 6
+      },
+      {
+        "file": "books/gmrcu1/gmrcu112.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gmrcu112.pdf",
+        "chapter": 12
+      },
+      {
+        "file": "books/gmrcu1/gmrcu1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gmrcu1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-gtmcu1",
+    "group_id": "ncert-class-7-cu",
+    "title": "Curiosity (Tamil)",
+    "author": "NCERT",
+    "language": "tam",
+    "candidate_ddc_section": "500",
+    "subject": "General science",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/gtmcu1/gtmcu101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gtmcu101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/gtmcu1/gtmcu106.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gtmcu106.pdf",
+        "chapter": 6
+      },
+      {
+        "file": "books/gtmcu1/gtmcu112.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gtmcu112.pdf",
+        "chapter": 12
+      },
+      {
+        "file": "books/gtmcu1/gtmcu1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/gtmcu1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-hhgp1",
+    "group_id": "ncert-class-8-gp",
+    "title": "Ganita Prakash Part-I (Hindi)",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "510",
+    "subject": "Mathematics",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/hhgp1/hhgp101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hhgp101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/hhgp1/hhgp103.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hhgp103.pdf",
+        "chapter": 3
+      },
+      {
+        "file": "books/hhgp1/hhgp107.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hhgp107.pdf",
+        "chapter": 7
+      },
+      {
+        "file": "books/hhgp1/hhgp1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hhgp1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-hmrgp1",
+    "group_id": "ncert-class-8-gp",
+    "title": "Ganita Prakash Part-I (Marathi)",
+    "author": "NCERT",
+    "language": "mar",
+    "candidate_ddc_section": "510",
+    "subject": "Mathematics",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/hmrgp1/hmrgp101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hmrgp101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/hmrgp1/hmrgp103.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hmrgp103.pdf",
+        "chapter": 3
+      },
+      {
+        "file": "books/hmrgp1/hmrgp107.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hmrgp107.pdf",
+        "chapter": 7
+      },
+      {
+        "file": "books/hmrgp1/hmrgp1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hmrgp1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-htmgp1",
+    "group_id": "ncert-class-8-gp",
+    "title": "Ganita Prakash Part-I (Tamil)",
+    "author": "NCERT",
+    "language": "tam",
+    "candidate_ddc_section": "510",
+    "subject": "Mathematics",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/htmgp1/htmgp101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/htmgp101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/htmgp1/htmgp103.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/htmgp103.pdf",
+        "chapter": 3
+      },
+      {
+        "file": "books/htmgp1/htmgp107.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/htmgp107.pdf",
+        "chapter": 7
+      },
+      {
+        "file": "books/htmgp1/htmgp1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/htmgp1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-hhcu1",
+    "group_id": "ncert-class-8-cu",
+    "title": "Jigyasa",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "500",
+    "subject": "General science",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/hhcu1/hhcu101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hhcu101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/hhcu1/hhcu106.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hhcu106.pdf",
+        "chapter": 6
+      },
+      {
+        "file": "books/hhcu1/hhcu113.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hhcu113.pdf",
+        "chapter": 13
+      },
+      {
+        "file": "books/hhcu1/hhcu1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hhcu1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-hmrcu1",
+    "group_id": "ncert-class-8-cu",
+    "title": "Curiosity (Marathi)",
+    "author": "NCERT",
+    "language": "mar",
+    "candidate_ddc_section": "500",
+    "subject": "General science",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/hmrcu1/hmrcu101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hmrcu101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/hmrcu1/hmrcu106.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hmrcu106.pdf",
+        "chapter": 6
+      },
+      {
+        "file": "books/hmrcu1/hmrcu113.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hmrcu113.pdf",
+        "chapter": 13
+      },
+      {
+        "file": "books/hmrcu1/hmrcu1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/hmrcu1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-htmcu1",
+    "group_id": "ncert-class-8-cu",
+    "title": "Curiosity (Tamil)",
+    "author": "NCERT",
+    "language": "tam",
+    "candidate_ddc_section": "500",
+    "subject": "General science",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/htmcu1/htmcu101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/htmcu101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/htmcu1/htmcu106.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/htmcu106.pdf",
+        "chapter": 6
+      },
+      {
+        "file": "books/htmcu1/htmcu113.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/htmcu113.pdf",
+        "chapter": 13
+      },
+      {
+        "file": "books/htmcu1/htmcu1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/htmcu1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-khph1",
+    "group_id": "ncert-class-11-physics",
+    "title": "Bhautiki-I",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "530",
+    "subject": "Physics",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/khph1/khph101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khph101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/khph1/khph103.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khph103.pdf",
+        "chapter": 3
+      },
+      {
+        "file": "books/khph1/khph107.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khph107.pdf",
+        "chapter": 7
+      },
+      {
+        "file": "books/khph1/khph1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khph1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-khch1",
+    "group_id": "ncert-class-11-chemistry",
+    "title": "Rasayan Vigyan bhag-I",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "540",
+    "subject": "Chemistry",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/khch1/khch101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khch101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/khch1/khch103.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khch103.pdf",
+        "chapter": 3
+      },
+      {
+        "file": "books/khch1/khch106.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khch106.pdf",
+        "chapter": 6
+      },
+      {
+        "file": "books/khch1/khch1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khch1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-khbo1",
+    "group_id": "ncert-class-11-biology",
+    "title": "Jeev Vigyan",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "570",
+    "subject": "Biology",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/khbo1/khbo101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khbo101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/khbo1/khbo109.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khbo109.pdf",
+        "chapter": 9
+      },
+      {
+        "file": "books/khbo1/khbo119.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khbo119.pdf",
+        "chapter": 19
+      },
+      {
+        "file": "books/khbo1/khbo1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khbo1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-khpy1",
+    "group_id": "ncert-class-11-psychology",
+    "title": "Manovigyan",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "150",
+    "subject": "Psychology",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/khpy1/khpy101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khpy101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/khpy1/khpy104.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khpy104.pdf",
+        "chapter": 4
+      },
+      {
+        "file": "books/khpy1/khpy108.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khpy108.pdf",
+        "chapter": 8
+      },
+      {
+        "file": "books/khpy1/khpy1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khpy1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-khsy1",
+    "group_id": "ncert-class-11-sociology",
+    "title": "Samaj Shastra Parichay-I",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "301",
+    "subject": "Sociology",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/khsy1/khsy101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khsy101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/khsy1/khsy102.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khsy102.pdf",
+        "chapter": 2
+      },
+      {
+        "file": "books/khsy1/khsy105.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khsy105.pdf",
+        "chapter": 5
+      },
+      {
+        "file": "books/khsy1/khsy1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khsy1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-khps1",
+    "group_id": "ncert-class-11-political-theory",
+    "title": "Raajneeti Sidhant",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "320",
+    "subject": "Political theory",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/khps1/khps101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khps101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/khps1/khps104.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khps104.pdf",
+        "chapter": 4
+      },
+      {
+        "file": "books/khps1/khps108.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khps108.pdf",
+        "chapter": 8
+      },
+      {
+        "file": "books/khps1/khps1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khps1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-khec1",
+    "group_id": "ncert-class-11-economics",
+    "title": "Bhartiya Airthryavstha Ka Vikas",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "330",
+    "subject": "Economics",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/khec1/khec101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khec101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/khec1/khec104.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khec104.pdf",
+        "chapter": 4
+      },
+      {
+        "file": "books/khec1/khec108.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khec108.pdf",
+        "chapter": 8
+      },
+      {
+        "file": "books/khec1/khec1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khec1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-khac1",
+    "group_id": "ncert-class-11-accounting",
+    "title": "Lekhashastra-I",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "657",
+    "subject": "Accounting",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/khac1/khac101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khac101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/khac1/khac103.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khac103.pdf",
+        "chapter": 3
+      },
+      {
+        "file": "books/khac1/khac107.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khac107.pdf",
+        "chapter": 7
+      },
+      {
+        "file": "books/khac1/khac1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khac1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-khfa1",
+    "group_id": "ncert-class-11-indian-art-history",
+    "title": "Bhartiya Kala ka parichay",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "709",
+    "subject": "Indian art history",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/khfa1/khfa101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khfa101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/khfa1/khfa104.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khfa104.pdf",
+        "chapter": 4
+      },
+      {
+        "file": "books/khfa1/khfa108.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khfa108.pdf",
+        "chapter": 8
+      },
+      {
+        "file": "books/khfa1/khfa1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khfa1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-khgy2",
+    "group_id": "ncert-class-11-physical-geography",
+    "title": "Bhautique Bhugol ke Mool Sidhant",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "910",
+    "subject": "Physical geography",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/khgy2/khgy201.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khgy201.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/khgy2/khgy207.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khgy207.pdf",
+        "chapter": 7
+      },
+      {
+        "file": "books/khgy2/khgy214.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khgy214.pdf",
+        "chapter": 14
+      },
+      {
+        "file": "books/khgy2/khgy2ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/khgy2ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": true,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  }
+]

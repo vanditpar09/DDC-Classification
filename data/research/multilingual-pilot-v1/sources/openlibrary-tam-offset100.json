@@ -1,0 +1,3839 @@
+{
+  "language": "tam",
+  "url": "https://openlibrary.org/search.json?q=language%3Atam+AND+ddc%3A%5B000+TO+999%5D&offset=100&limit=100&fields=key%2Ctitle%2Cddc%2Cauthor_name%2Clanguage%2Cedition_key%2Ccover_i%2Cebook_access%2Cia%2Ceditions%2Ceditions.key%2Ceditions.title%2Ceditions.language%2Ceditions.ddc%2Ceditions.isbn%2Ceditions.cover_i%2Ceditions.ebook_access",
+  "retrieved_at": "2026-10-03T02:42:21.308482+00:00",
+  "payload_sha256": "e0c10df9c293b2b92531da0c458014c09ce5a075cdb977408d61313a4ed2f443",
+  "response": {
+    "numFound": 846,
+    "start": 100,
+    "numFoundExact": true,
+    "num_found": 846,
+    "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+    "q": "language:tam AND ddc:[000 TO 999]",
+    "offset": 100,
+    "docs": [
+      {
+        "author_name": [
+          "Jayadeva"
+        ],
+        "cover_i": 12860412,
+        "ddc": [
+          "891.21"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL17905005M",
+          "OL16436095M",
+          "OL17049951M"
+        ],
+        "ia": [
+          "gtagovindaloveso0000jaya"
+        ],
+        "key": "/works/OL345901W",
+        "language": [
+          "tam",
+          "hin",
+          "eng"
+        ],
+        "title": "Gitagovinda",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL17905005M",
+              "title": "Jeyatēvarin̲ Kitakōvịntam and Srī Cītārāma vijaya rahaḥ kēḷl.",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "C. T. Kurien",
+          "C T Kurien"
+        ],
+        "ddc": [
+          "338.1095482"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL3931011M",
+          "OL59042251M",
+          "OL2163217M"
+        ],
+        "ia": [
+          "sochara.4950.dynamicofruraltr00000kuri"
+        ],
+        "key": "/works/OL42968W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "Dynamics of rural transformation",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2163217M",
+              "title": "Tamil̲aka kirāmappur̲a mār̲utalkaḷ",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Chandrasekharendra Saraswati Jagatguru Sankaracharya of Kamakoti"
+        ],
+        "ddc": [
+          "294.5921"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2167516M",
+          "OL49901346M",
+          "OL28387726M"
+        ],
+        "key": "/works/OL1763105W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "The Vedas",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2167516M",
+              "title": "The Vedas",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Calmā"
+        ],
+        "cover_i": 12802384,
+        "ddc": [
+          "894.811372"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL38564724M"
+        ],
+        "ia": [
+          "manamiyankal0000calm"
+        ],
+        "key": "/works/OL28169636W",
+        "language": [
+          "tam"
+        ],
+        "title": "Man̲āmiyaṅkaḷ",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL38564724M",
+              "title": "Man̲āmiyaṅkaḷ",
+              "cover_i": 12802384,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789352440443",
+                "9352440447"
+              ],
+              "ebook_access": "printdisabled"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Cukapōtān̲antā Cuvāmi"
+        ],
+        "cover_i": 12729606,
+        "ddc": [
+          "155.9042"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL37853855M"
+        ],
+        "ia": [
+          "ilainanerilakspl0000cuka"
+        ],
+        "key": "/works/OL27731776W",
+        "language": [
+          "tam"
+        ],
+        "title": "Iḷaiñan̲ē, rilāks pḷīs",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL37853855M",
+              "title": "Iḷaiñan̲ē, rilāks pḷīs",
+              "cover_i": 12729606,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788184760842",
+                "8184760841"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sarasvati Nantin̲i Majūmtār"
+        ],
+        "cover_i": 10738057,
+        "ddc": [
+          "823"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL32084265M"
+        ],
+        "ia": [
+          "catyavinpataku0000maju"
+        ],
+        "key": "/works/OL24253494W",
+        "language": [
+          "tam"
+        ],
+        "title": "Catyāvin̲ paṭaku",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL32084265M",
+              "title": "Catyāvin̲ paṭaku",
+              "cover_i": 10738057,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789350462379",
+                "9350462370"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Gill Edwards"
+        ],
+        "cover_i": 10819596,
+        "ddc": [
+          "158.1"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL32151714M"
+        ],
+        "ia": [
+          "valkkaioruparicu0000edwa"
+        ],
+        "key": "/works/OL24306221W",
+        "language": [
+          "tam"
+        ],
+        "title": "Vāl̲kkai oru paricu",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL32151714M",
+              "title": "Vāl̲kkai oru paricu",
+              "cover_i": 10819596,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788183222785",
+                "8183222781"
+              ],
+              "ebook_access": "printdisabled"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ka. Nā Cupramaṇyam"
+        ],
+        "ddc": [
+          "894.81130108"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4076456M"
+        ],
+        "key": "/works/OL22657095W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Tamil short stories",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4076456M",
+              "title": "Tamil short stories",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Harold F. Schiffman"
+        ],
+        "cover_i": 351330,
+        "ddc": [
+          "494.81182421"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL389448M"
+        ],
+        "ia": [
+          "referencegrammar0000schi"
+        ],
+        "key": "/works/OL2007262W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "A reference grammar of spoken Tamil",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL389448M",
+              "title": "A reference grammar of spoken Tamil",
+              "cover_i": 351330,
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "isbn": [
+                "0521640741",
+                "9780521640749"
+              ],
+              "ebook_access": "printdisabled"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "U. Vē Cāminātaiyar"
+        ],
+        "ddc": [
+          "894.8118709"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL513375M",
+          "OL2827204M",
+          "OL16730791M",
+          "OL1687203M",
+          "OL3145982M"
+        ],
+        "key": "/works/OL334380W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "En̲ carittiram",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL513375M",
+              "title": "En̲ carittiram",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Tiruttakkatēvar."
+        ],
+        "cover_i": 1654694,
+        "ddc": [
+          "894.81111"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL21726M",
+          "OL3427911M"
+        ],
+        "key": "/works/OL62788W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Cīvakacintāmaṇi",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL21726M",
+              "title": "Cīvakacintāmaṇi",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "M. Raghava Aiyangar"
+        ],
+        "cover_i": 14919342,
+        "ddc": [
+          "894.81109"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL4923595M",
+          "OL4865148M"
+        ],
+        "ia": [
+          "bwb_W8-AOA-740"
+        ],
+        "key": "/works/OL313823W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Some aspects of Kerala and Tamil literature",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4923595M",
+              "title": "Some aspects of Kerala and Tamil literature",
+              "cover_i": 14919342,
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sowbhagyalakshmi Vaidyanathan",
+          "Vaidyanathan Sowhagyalakshmi",
+          "Murphy, John D."
+        ],
+        "cover_i": 4801157,
+        "ddc": [
+          "494.81186421"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL8384624M",
+          "OL2231342M"
+        ],
+        "key": "/works/OL4814892W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Tamil newspaper reader =",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2231342M",
+              "title": "Tamil newspaper reader =",
+              "cover_i": 4801157,
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "isbn": [
+                "0931745608",
+                "9780931745607"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Radhika Chadha"
+        ],
+        "cover_i": 10646808,
+        "ddc": [
+          "823"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL23121424M",
+          "OL16314829M",
+          "OL23121425M",
+          "OL23121426M"
+        ],
+        "ia": [
+          "naakdaakiyeshanm0000chad"
+        ],
+        "key": "/works/OL5761236W",
+        "language": [
+          "ben",
+          "hin",
+          "eng",
+          "tam"
+        ],
+        "title": "Snoring Shanmugam",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23121426M",
+              "title": "Kurattai Shanmugam",
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788181461926",
+                "8181461924"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sandhya Rao"
+        ],
+        "cover_i": 9327440,
+        "ddc": [
+          "821"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL23121529M",
+          "OL23121528M",
+          "OL3442074M",
+          "OL23121530M"
+        ],
+        "ia": [
+          "jopelochando0000raos"
+        ],
+        "key": "/works/OL2607603W",
+        "language": [
+          "tam",
+          "eng",
+          "hin",
+          "guj"
+        ],
+        "title": "Look, the moon",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23121530M",
+              "title": "Adho Paar, Nila!",
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788181460288",
+                "8181460286"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vayu Naidu."
+        ],
+        "cover_i": 9260855,
+        "ddc": [
+          "398.22095414",
+          "398.2452796095414"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL504198M",
+          "OL23121483M",
+          "OL23121481M",
+          "OL23121482M"
+        ],
+        "ia": [
+          "foonfadomaarkara0000naid"
+        ],
+        "key": "/works/OL2308977W",
+        "language": [
+          "guj",
+          "hin",
+          "eng",
+          "tam"
+        ],
+        "title": "Hiss, don't bite!",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23121483M",
+              "title": "[Hiss, don't bite!]",
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788186895207",
+                "8186895205"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kumarappa, Joseph Cornelius."
+        ],
+        "ddc": [
+          "336.54"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL6521323M",
+          "OL329671M",
+          "OL514729M",
+          "OL645125M"
+        ],
+        "key": "/works/OL1048779W",
+        "language": [
+          "guj",
+          "eng",
+          "tam"
+        ],
+        "title": "Clive to Keynes",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL514729M",
+              "title": "Koḷḷaiyō koḷḷai",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Yāmunācārya."
+        ],
+        "ddc": [
+          "294.543"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4244978M",
+          "OL1831465M",
+          "OL5227930M",
+          "OL3927645M"
+        ],
+        "key": "/works/OL4422553W",
+        "language": [
+          "san",
+          "eng",
+          "tam",
+          "hin"
+        ],
+        "title": "Stotraratna",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4244978M",
+              "title": "Pakavatyāmunācāryaren̲kir̲a Āḷavantāruḷicceyta Stōtraratnamum-Catucclōkiyum",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vētanāyakam Piḷḷai"
+        ],
+        "ddc": [
+          "894.8113"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL61512839M",
+          "OL1378144M",
+          "OL17018M",
+          "OL60442210M"
+        ],
+        "key": "/works/OL43630W",
+        "language": [
+          "tam"
+        ],
+        "title": "Piratāpa Mutaliyār carittiram",
+        "editions": {
+          "numFound": 4,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL61512839M",
+              "title": "Piratāpa Mutaliyār carittiram",
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788123402994",
+                "8123402996"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Tolkāppiyar"
+        ],
+        "ddc": [
+          "494.8115"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL62385089M",
+          "OL61809640M",
+          "OL61290184M",
+          "OL53826299M"
+        ],
+        "key": "/works/OL39564621W",
+        "language": [
+          "tam"
+        ],
+        "title": "தொல்காப்பியம்",
+        "editions": {
+          "numFound": 4,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL62385089M",
+              "title": "தொல்காப்பியம்",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Caturā Rāv"
+        ],
+        "cover_i": 10790119,
+        "ddc": [
+          "823"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL32128211M"
+        ],
+        "ia": [
+          "napiya0000ravc"
+        ],
+        "key": "/works/OL24288059W",
+        "language": [
+          "tam"
+        ],
+        "title": "Nāpiyā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL32128211M",
+              "title": "Nāpiyā",
+              "cover_i": 10790119,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789350464656",
+                "9350464659"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Indira Parthasarathy"
+        ],
+        "cover_i": 4356187,
+        "ddc": [
+          "894.81137"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4863645M",
+          "OL4075032M",
+          "OL14218917M"
+        ],
+        "key": "/works/OL63358W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "Kurutippun̲al",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4075032M",
+              "title": "The river of blood",
+              "cover_i": 4356187,
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "isbn": [
+                "0706907159",
+                "9780706907155"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sandhya Rao"
+        ],
+        "cover_i": 11001532,
+        "ddc": [
+          "796.358"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL23121509M",
+          "OL23121532M",
+          "OL16292169M"
+        ],
+        "ia": [
+          "kirikketcricket0000raos"
+        ],
+        "key": "/works/OL2607600W",
+        "language": [
+          "tam",
+          "ben",
+          "eng"
+        ],
+        "title": "Cricket! =",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23121509M",
+              "title": "Kirikkeṭ! =",
+              "cover_i": 11001532,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788181463258",
+                "8181463250"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Jeeva Raghunath."
+        ],
+        "cover_i": 9327597,
+        "ddc": [
+          "790.1922"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL23121507M",
+          "OL23121506M",
+          "OL23121505M"
+        ],
+        "ia": [
+          "gadagadagudugudu0000jeev"
+        ],
+        "key": "/works/OL11698182W",
+        "language": [
+          "tam",
+          "hin",
+          "guj"
+        ],
+        "title": "Gadagada gudugudu",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23121507M",
+              "title": "Gadagada gudugudu",
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788181461353",
+                "8181461355"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Tiruvaḷḷuvar"
+        ],
+        "ddc": [
+          "894.8111"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL50332956M",
+          "OL60958590M",
+          "OL53088973M"
+        ],
+        "key": "/works/OL37346310W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "Tirukkural",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL60958590M",
+              "title": "Tirukkural",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Melanie Kunz"
+        ],
+        "cover_i": 11041967,
+        "ddc": [
+          "894.8113"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL23121458M",
+          "OL23121459M",
+          "OL23121457M"
+        ],
+        "ia": [
+          "giftfromsea0000kunz"
+        ],
+        "key": "/works/OL13753683W",
+        "language": [
+          "ben",
+          "tam",
+          "hin"
+        ],
+        "title": "A gift from the sea =",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23121459M",
+              "title": "A gift from the sea = Kaṭal tanta paricu",
+              "cover_i": 11041967,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788181461995",
+                "8181461991"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Brigitte Sebastia"
+        ],
+        "ddc": [
+          "616.8910954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL24477272M",
+          "OL23656909M",
+          "OL23645377M"
+        ],
+        "key": "/works/OL15518730W",
+        "language": [
+          "tam",
+          "hin",
+          "san",
+          "eng"
+        ],
+        "title": "Restoring mental health in India",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL24477272M",
+              "title": "Restoring mental health in India",
+              "language": [
+                "eng",
+                "hin",
+                "san",
+                "tam"
+              ],
+              "isbn": [
+                "9780195698756",
+                "0195698754"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Barbara Schuler"
+        ],
+        "ddc": [
+          "294.52114"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23939341M",
+          "OL23914347M",
+          "OL23984186M"
+        ],
+        "key": "/works/OL18736490W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Of death and birth",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23984186M",
+              "title": "Of death and birth",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "isbn": [
+                "9783447058445",
+                "3447058447"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "James Allen"
+        ],
+        "cover_i": 3968883,
+        "ddc": [
+          "158.1"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL517191M",
+          "OL1548654M",
+          "OL513515M"
+        ],
+        "ia": [
+          "frompovertytopow0000alle"
+        ],
+        "key": "/works/OL43023W",
+        "language": [
+          "tam",
+          "eng",
+          "pan"
+        ],
+        "title": "From poverty to power",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL513515M",
+              "title": "Valimaikku mārkkam",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "திருவள்ளுவர்",
+          "கு மோகனராசு"
+        ],
+        "ddc": [
+          "894.8111"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL59422650M",
+          "OL61101786M",
+          "OL59422651M"
+        ],
+        "key": "/works/OL43593082W",
+        "language": [
+          "tam"
+        ],
+        "title": "திருக்குறள்",
+        "editions": {
+          "numFound": 3,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL59422650M",
+              "title": "திருக்குறள்",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "புலியூர் கேசிகன்"
+        ],
+        "ddc": [
+          "894.8111"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL60172098M",
+          "OL61283450M",
+          "OL60450032M"
+        ],
+        "key": "/works/OL44052999W",
+        "language": [
+          "tam"
+        ],
+        "title": "மேலகரம் திரிகூட ராசப்பக் கவிராயர் பாடியருளிய திருக்குற்றாலக் குறவஞ்சி",
+        "editions": {
+          "numFound": 3,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL60172098M",
+              "title": "மேலகரம் திரிகூட ராசப்பக் கவிராயர் பாடியருளிய திருக்குற்றாலக் குறவஞ்சி",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "T. A. Gopinatha Rao"
+        ],
+        "ddc": [
+          "934"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL639469M",
+          "OL45060866M",
+          "OL58360121M"
+        ],
+        "key": "/works/OL18232908W",
+        "language": [
+          "eng",
+          "san",
+          "tam"
+        ],
+        "title": "Travancore archaeological series",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL639469M",
+              "title": "Travancore archaeological series",
+              "language": [
+                "eng",
+                "tam",
+                "san"
+              ],
+              "isbn": [
+                "8188087076",
+                "9788188087075"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ka Kailācapati"
+        ],
+        "ddc": [
+          "894.811"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL43930236M",
+          "OL2826250M",
+          "OL5745698M"
+        ],
+        "key": "/works/OL67808W",
+        "language": [
+          "tam"
+        ],
+        "title": "Oppiyal ilakkiyam",
+        "editions": {
+          "numFound": 3,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL43930236M",
+              "title": "Oppiyal ilakkiyam",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Nandini Nayar"
+        ],
+        "cover_i": 12805248,
+        "ddc": [
+          "823"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL38567459M"
+        ],
+        "ia": [
+          "niluvinperiyapet0000naya"
+        ],
+        "key": "/works/OL28171689W",
+        "language": [
+          "tam"
+        ],
+        "title": "Nīluvin̲ periya peṭṭi",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL38567459M",
+              "title": "Nīluvin̲ periya peṭṭi",
+              "cover_i": 12805248,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789350467039",
+                "9350467038"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Mu Varatarācan̲"
+        ],
+        "ddc": [
+          "811.110936"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4868403M"
+        ],
+        "key": "/works/OL287189W",
+        "language": [
+          "tam"
+        ],
+        "title": "The treatment of nature in Sangam literature (ancient Tamil literature)",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4868403M",
+              "title": "The treatment of nature in Sangam literature (ancient Tamil literature)",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Cōma Vaḷḷiyappan"
+        ],
+        "cover_i": 12885875,
+        "ddc": [
+          "332.6"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL39482046M"
+        ],
+        "ia": [
+          "panampannalampan0000vall"
+        ],
+        "key": "/works/OL28767244W",
+        "language": [
+          "tam"
+        ],
+        "title": "Paṇam paṇṇalām paṇam paṇam",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL39482046M",
+              "title": "Paṇam paṇṇalām paṇam paṇam",
+              "cover_i": 12885875,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788183681735",
+                "8183681735"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Yūmā Vācuki"
+        ],
+        "cover_i": 12977069,
+        "ddc": [
+          "891.73"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL40219548M"
+        ],
+        "ia": [
+          "onayinputtantukk0000unse"
+        ],
+        "key": "/works/OL29242529W",
+        "language": [
+          "tam"
+        ],
+        "title": "Ōnāyin̲ puttāṇṭuk koṇṭāṭṭam",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL40219548M",
+              "title": "Ōnāyin̲ puttāṇṭuk koṇṭāṭṭam",
+              "cover_i": 12977069,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789381908648",
+                "9381908648"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ke Maṇiyanpiḷḷa"
+        ],
+        "cover_i": 12816022,
+        "ddc": [
+          "364.162092"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL38576390M"
+        ],
+        "ia": [
+          "tirutanmaniyanpi0000mani"
+        ],
+        "key": "/works/OL28178478W",
+        "language": [
+          "tam"
+        ],
+        "title": "Tiruṭan̲ Maṇiyan̲piḷḷai",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL38576390M",
+              "title": "Tiruṭan̲ Maṇiyan̲piḷḷai",
+              "cover_i": 12816022,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789382033004",
+                "9382033009"
+              ],
+              "ebook_access": "printdisabled"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Nīla Patmanāpan̲"
+        ],
+        "cover_i": 12156143,
+        "ddc": [
+          "894.811371"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL35334875M"
+        ],
+        "ia": [
+          "talaimuraikal0000patm"
+        ],
+        "key": "/works/OL26184916W",
+        "language": [
+          "tam"
+        ],
+        "title": "Talaimur̲aikaḷ",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL35334875M",
+              "title": "Talaimur̲aikaḷ",
+              "cover_i": 12156143,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789382033196",
+                "938203319X"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "A. C. Bhaktivedanta Swami Srila Prabhupada"
+        ],
+        "cover_i": 12137504,
+        "ddc": [
+          "294.5925"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL35323593M"
+        ],
+        "ia": [
+          "kirusnapurusotta0000acbh"
+        ],
+        "key": "/works/OL26174370W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Kiruṣṇā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL35323593M",
+              "title": "Kiruṣṇā",
+              "cover_i": 12137504,
+              "language": [
+                "tam",
+                "eng"
+              ],
+              "isbn": [
+                "9789382176619",
+                "9789382176626",
+                "9382176616",
+                "9382176624"
+              ],
+              "ebook_access": "printdisabled"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kōpināt"
+        ],
+        "cover_i": 12974432,
+        "ddc": [
+          "158.1"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL40217193M"
+        ],
+        "ia": [
+          "plisintapputtaka0000kopi"
+        ],
+        "key": "/works/OL29240126W",
+        "language": [
+          "tam"
+        ],
+        "title": "Pḷīs! intap puttakattai vāṅkātīṅka !",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL40217193M",
+              "title": "Pḷīs! intap puttakattai vāṅkātīṅka !",
+              "cover_i": 12974432,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788192465722",
+                "9789383067350",
+                "9383067357",
+                "8192465721"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Mukil"
+        ],
+        "cover_i": 12985753,
+        "ddc": [
+          "791.43028092"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL40231123M"
+        ],
+        "key": "/works/OL29255918W",
+        "language": [
+          "tam"
+        ],
+        "title": "Cantirapāpu",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL40231123M",
+              "title": "Cantirapāpu",
+              "cover_i": 12985753,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789382577942",
+                "9382577947"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Esther Syiem"
+        ],
+        "cover_i": 12981542,
+        "ddc": [
+          "398.20954"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL40225802M"
+        ],
+        "ia": [
+          "natikalinottappa0000syie"
+        ],
+        "key": "/works/OL29250175W",
+        "language": [
+          "tam"
+        ],
+        "title": "Natikalin oṭṭappaṅtayam",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL40225802M",
+              "title": "Natikalin oṭṭappaṅtayam",
+              "cover_i": 12981542,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789350465394",
+                "9350465396"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Perumāḷmurukan̲"
+        ],
+        "cover_i": 12894392,
+        "ddc": [
+          "894.811171"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL39486622M"
+        ],
+        "ia": [
+          "kolaiyinpatalkal0000peru"
+        ],
+        "key": "/works/OL28770927W",
+        "language": [
+          "tam"
+        ],
+        "title": "Kōl̲aiyin̲ pāṭalkaḷ",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL39486622M",
+              "title": "Kōl̲aiyin̲ pāṭalkaḷ",
+              "cover_i": 12894392,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789352440542",
+                "9352440544"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Pāratiyār"
+        ],
+        "ddc": [
+          "894.81115"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2830421M"
+        ],
+        "key": "/works/OL303791W",
+        "language": [
+          "fre",
+          "tam"
+        ],
+        "title": "Soupramania Baradi, poète du pays tamoul",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2830421M",
+              "title": "Soupramania Baradi, poète du pays tamoul",
+              "language": [
+                "fre",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Iḷańkōvaṭikaḷ."
+        ],
+        "ddc": [
+          "894.81111"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4700929M"
+        ],
+        "key": "/works/OL6788740W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "The anklet story =",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4700929M",
+              "title": "The anklet story =",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "K. D. Swaminathan"
+        ],
+        "cover_i": 12883194,
+        "ddc": [
+          "954.82"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL2009114M"
+        ],
+        "ia": [
+          "earlysouthindian0000swam"
+        ],
+        "key": "/works/OL4600492W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Early South Indian temple architecture",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2009114M",
+              "title": "Early South Indian temple architecture",
+              "cover_i": 12883194,
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "isbn": [
+                "8185381119",
+                "9788185381114"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Irā Murukan̲"
+        ],
+        "cover_i": 10727131,
+        "ddc": [
+          "894.811371"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL32075312M"
+        ],
+        "ia": [
+          "accutamkecavam0000muru"
+        ],
+        "key": "/works/OL24246736W",
+        "language": [
+          "tam"
+        ],
+        "title": "Accutam kēcavam",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL32075312M",
+              "title": "Accutam kēcavam",
+              "cover_i": 10727131,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789384149529",
+                "9384149527"
+              ],
+              "ebook_access": "printdisabled"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Alankrita Jain"
+        ],
+        "cover_i": 10799452,
+        "ddc": [
+          "823"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL32135901M"
+        ],
+        "ia": [
+          "putapim0000jain"
+        ],
+        "key": "/works/OL24293942W",
+        "language": [
+          "tam"
+        ],
+        "title": "Pūṭapim",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL32135901M",
+              "title": "Pūṭapim",
+              "cover_i": 10799452,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789350461419",
+                "9350461412"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "An̲uṣkā Kālro"
+        ],
+        "cover_i": 10799465,
+        "ddc": [
+          "823"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL32135917M"
+        ],
+        "ia": [
+          "puvikkuttiyinkat0000kalr"
+        ],
+        "key": "/works/OL24293954W",
+        "language": [
+          "tam"
+        ],
+        "title": "Puvikkuṭṭiyin̲ katai",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL32135917M",
+              "title": "Puvikkuṭṭiyin̲ katai",
+              "cover_i": 10799465,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789350462829",
+                "9350462826"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Pa Kan̲akacapāpati"
+        ],
+        "cover_i": 10819614,
+        "ddc": [
+          "306.850954"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL32151728M"
+        ],
+        "ia": [
+          "valuvanakutumpam0000kana"
+        ],
+        "key": "/works/OL24306232W",
+        "language": [
+          "tam"
+        ],
+        "title": "Valuvān̲a kuṭumpam, vaḷamān̲a intiyā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL32151728M",
+              "title": "Valuvān̲a kuṭumpam, vaḷamān̲a intiyā",
+              "cover_i": 10819614,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788184937428",
+                "8184937423"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Bhavna Jain Bhuta"
+        ],
+        "cover_i": 10817357,
+        "ddc": [
+          "823.914"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL32149918M"
+        ],
+        "ia": [
+          "tunkitans0000bhut"
+        ],
+        "key": "/works/OL24304764W",
+        "language": [
+          "tam"
+        ],
+        "title": "Ṭuṅki ṭān̲s",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL32149918M",
+              "title": "Ṭuṅki ṭān̲s",
+              "cover_i": 10817357,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789350466957",
+                "9350466953"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ār Amarēntaran̲"
+        ],
+        "cover_i": 10740176,
+        "ddc": [
+          "823"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL32086092M"
+        ],
+        "ia": [
+          "ciriyincirippu0000amar"
+        ],
+        "key": "/works/OL24254957W",
+        "language": [
+          "tam"
+        ],
+        "title": "Ciriyin̲ cirippu",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL32086092M",
+              "title": "Ciriyin̲ cirippu",
+              "cover_i": 10740176,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788181469540",
+                "8181469542"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "An̲uṣkā Kālro"
+        ],
+        "cover_i": 10773317,
+        "ddc": [
+          "823"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL32113207M"
+        ],
+        "ia": [
+          "kuttikkallinkata0000kalr"
+        ],
+        "key": "/works/OL24275873W",
+        "language": [
+          "tam"
+        ],
+        "title": "Kuṭṭikkallin̲ katai",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL32113207M",
+              "title": "Kuṭṭikkallin̲ katai",
+              "cover_i": 10773317,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789350462911",
+                "9350462915"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "An̲uṣkā Kālro"
+        ],
+        "cover_i": 10789306,
+        "ddc": [
+          "823"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL32127490M"
+        ],
+        "ia": [
+          "muttuvittuvinkat0000kalr"
+        ],
+        "key": "/works/OL24287511W",
+        "language": [
+          "tam"
+        ],
+        "title": "Muttu vittuvin̲ katai",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL32127490M",
+              "title": "Muttu vittuvin̲ katai",
+              "cover_i": 10789306,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789350463000",
+                "9350463008"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Tāṇṭavarāya Cuvāmikaḷ"
+        ],
+        "cover_i": 7425100,
+        "ddc": [
+          "894.81114"
+        ],
+        "ebook_access": "public",
+        "edition_key": [
+          "OL4873414M"
+        ],
+        "ia": [
+          "kaivaljanavanita00tant_0"
+        ],
+        "key": "/works/OL2321212W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "Kaivaljanavanīta",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL4873414M",
+              "title": "Kaivaljanavanīta",
+              "cover_i": 7425100,
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "public"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "N. Ramaswami"
+        ],
+        "cover_i": 3760567,
+        "ddc": [
+          "494.8115"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL504129M"
+        ],
+        "key": "/works/OL1078207W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "Diglossia",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL504129M",
+              "title": "Diglossia",
+              "cover_i": 3760567,
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "isbn": [
+                "8173420424",
+                "9788173420429"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ka Ilakkumi Nārāyaṇan̲"
+        ],
+        "cover_i": 6279646,
+        "ddc": [
+          "954.82"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL164280M"
+        ],
+        "key": "/works/OL1060153W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Salem city",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL164280M",
+              "title": "Salem city",
+              "cover_i": 6279646,
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kamil Zvelebil"
+        ],
+        "ddc": [
+          "294.5089948"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL3931041M"
+        ],
+        "key": "/works/OL1041750W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Tiru Murugan",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3931041M",
+              "title": "Tiru Murugan",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Cāttan̲ār."
+        ],
+        "cover_i": 598090,
+        "ddc": [
+          "894.81111"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL2060522M"
+        ],
+        "ia": [
+          "manimekhalaidanc00catt"
+        ],
+        "key": "/works/OL370963W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "Manimekhalai",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2060522M",
+              "title": "Manimekhalai",
+              "cover_i": 598090,
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "isbn": [
+                "0811210979",
+                "0811210987",
+                "9780811210973",
+                "9780811210980"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kampar"
+        ],
+        "cover_i": 14397250,
+        "ddc": [
+          "894.81111"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL2525256M"
+        ],
+        "ia": [
+          "forestbookoframa0000kamp"
+        ],
+        "key": "/works/OL367188W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "The forest book of the Rāmāyaṇa of Kampan̲",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2525256M",
+              "title": "The forest book of the Rāmāyaṇa of Kampan̲",
+              "cover_i": 14397250,
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "isbn": [
+                "0520060881",
+                "9780520060883"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ānantaraṅkam Piḷḷai"
+        ],
+        "ddc": [
+          "954.029"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL3009896M"
+        ],
+        "key": "/works/OL2321531W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "The private diary of Ananda Ranga Pillai, dubash to Joseph François Dupleix, governor of Pondicherry",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3009896M",
+              "title": "The private diary of Ananda Ranga Pillai, dubash to Joseph François Dupleix, governor of Pondicherry",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Cū In̲n̲āci"
+        ],
+        "ddc": [
+          "275.482"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL947016M"
+        ],
+        "key": "/works/OL3216340W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "Dimensions of Tamil Christian literature",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL947016M",
+              "title": "Dimensions of Tamil Christian literature",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Man̲uṣyaputtiran̲"
+        ],
+        "ddc": [
+          "894.8111"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44178324M"
+        ],
+        "key": "/works/OL32408844W",
+        "language": [
+          "tam"
+        ],
+        "title": "Pulariyin̲ muttaṅkaḷ",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44178324M",
+              "title": "Pulariyin̲ muttaṅkaḷ",
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789385104572",
+                "9385104578"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Āṇṭāḷ."
+        ],
+        "ddc": [
+          "894.81111"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL22846M"
+        ],
+        "key": "/works/OL22299443W",
+        "language": [
+          "tam"
+        ],
+        "title": "Thiruppavai",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL22846M",
+              "title": "Thiruppavai",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "ddc": [
+          "786.94"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL1371019M"
+        ],
+        "key": "/works/OL23492339W",
+        "language": [
+          "mal",
+          "tam",
+          "eng"
+        ],
+        "title": "Mridangam maestro Palakkad Mani Iyer",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1371019M",
+              "title": "Mridangam maestro Palakkad Mani Iyer.",
+              "language": [
+                "eng",
+                "mal",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "க. நா சுப்ரமண்யம்"
+        ],
+        "ddc": [
+          "894.811309"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL58503876M"
+        ],
+        "key": "/works/OL42938871W",
+        "language": [
+          "tam"
+        ],
+        "title": "முதல் ஐந்து தமிழ் நாவல்கள்",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL58503876M",
+              "title": "முதல் ஐந்து தமிழ் நாவல்கள்",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "J. Gnanaseelan Muthuraj"
+        ],
+        "ddc": [
+          "016.2"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL1831431M"
+        ],
+        "key": "/works/OL4422524W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "A bibliography of Christian writings in Tamil in the libraries of U.K. and Europe",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1831431M",
+              "title": "A bibliography of Christian writings in Tamil in the libraries of U.K. and Europe",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "அ. மாணிக்கம்"
+        ],
+        "ddc": [
+          "894.8111"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL60679844M"
+        ],
+        "key": "/works/OL44418640W",
+        "language": [
+          "tam"
+        ],
+        "title": "புறநானூறு",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL60679844M",
+              "title": "புறநானூறு",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Radhika Meganathan."
+        ],
+        "cover_i": 12981908,
+        "ddc": [
+          "894.8113"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL23121468M"
+        ],
+        "ia": [
+          "villagefairgraam0000radh"
+        ],
+        "key": "/works/OL19500752W",
+        "language": [
+          "tam"
+        ],
+        "title": "The village fair =",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23121468M",
+              "title": "The village fair =",
+              "cover_i": 12981908,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788181462244",
+                "8181462246"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Cujātā"
+        ],
+        "cover_i": 13315783,
+        "ddc": [
+          "894.811371"
+        ],
+        "ebook_access": "printdisabled",
+        "edition_key": [
+          "OL27124849M"
+        ],
+        "ia": [
+          "anitvinktalka0000cujt"
+        ],
+        "key": "/works/OL19944426W",
+        "language": [
+          "tam"
+        ],
+        "title": "Aṉitāviṉ Kātalkaḷ",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL27124849M",
+              "title": "Aṉitāviṉ Kātalkaḷ",
+              "cover_i": 13315783,
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788184934007",
+                "8184934009"
+              ],
+              "ebook_access": "printdisabled"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Cujātā"
+        ],
+        "ddc": [
+          "894.811371"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL27124850M"
+        ],
+        "key": "/works/OL19944427W",
+        "language": [
+          "tam"
+        ],
+        "title": "Āryapaṭṭā",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL27124850M",
+              "title": "Āryapaṭṭā",
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788184934090",
+                "8184934092"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Vaṇṇanilavaṉ"
+        ],
+        "ddc": [
+          "894.811371"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL27116842M"
+        ],
+        "key": "/works/OL19936214W",
+        "language": [
+          "tam"
+        ],
+        "title": "Kaṭalpurattil",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL27116842M",
+              "title": "Kaṭalpurattil",
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788183689328",
+                "8183689329"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Tamil Nivētā"
+        ],
+        "ddc": [
+          "894.811"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL27118519M"
+        ],
+        "key": "/works/OL19937943W",
+        "language": [
+          "tam"
+        ],
+        "title": "Nīyākiṭa vantēṉ",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL27118519M",
+              "title": "Nīyākiṭa vantēṉ",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Jeycakti"
+        ],
+        "ddc": [
+          "894.811"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL27118523M"
+        ],
+        "key": "/works/OL19937947W",
+        "language": [
+          "tam"
+        ],
+        "title": "Kaṉinta maṉat tīpaṅkaḷāy!",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL27118523M",
+              "title": "Kaṉinta maṉat tīpaṅkaḷāy!",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Rājēṣkumār"
+        ],
+        "ddc": [
+          "894.811"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL27118527M"
+        ],
+        "key": "/works/OL19937951W",
+        "language": [
+          "tam"
+        ],
+        "title": "Ākāya vītiyilē",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL27118527M",
+              "title": "Ākāya vītiyilē",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Cuntara Rāmacāmi"
+        ],
+        "ddc": [
+          "894.8113"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL27141508M"
+        ],
+        "key": "/works/OL19961273W",
+        "language": [
+          "tam"
+        ],
+        "title": "Vācaṉai",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL27141508M",
+              "title": "Vācaṉai",
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789380240473",
+                "9380240473"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Shekar Dattatri"
+        ],
+        "ddc": [
+          "894.8113"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23121428M"
+        ],
+        "key": "/works/OL19927216W",
+        "language": [
+          "tam"
+        ],
+        "title": "Lai-Lai the baby elephant =",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23121428M",
+              "title": "Lai-Lai the baby elephant =",
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788181462183",
+                "8181462181"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "A. K. Ramanujan"
+        ],
+        "cover_i": 14988565,
+        "ddc": [
+          "894.811110803"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL5546570M"
+        ],
+        "ia": [
+          "interiorlandscap0000unse"
+        ],
+        "key": "/works/OL18349937W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "The interior landscape",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL5546570M",
+              "title": "The interior landscape",
+              "cover_i": 14988565,
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "borrowable"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Indhu."
+        ],
+        "ddc": [
+          "294.5092"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL635654M"
+        ],
+        "key": "/works/OL2596862W",
+        "language": [
+          "tam",
+          "san",
+          "eng"
+        ],
+        "title": "Shri Seshadri Swamigal mahatmyam",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL635654M",
+              "title": "Shri Seshadri Swamigal mahatmyam",
+              "language": [
+                "eng",
+                "san",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ernest T. Abdel-Massih"
+        ],
+        "ddc": [
+          "493.3"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL18143189M",
+          "OL5396107M"
+        ],
+        "key": "/works/OL5917721W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Tamazight verb structure",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL5396107M",
+              "title": "Tamazight verb structure",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "isbn": [
+                "0877501602",
+                "9780877501602"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ka Kailācapati"
+        ],
+        "ddc": [
+          "894.8111109"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL5511714M",
+          "OL16747864M"
+        ],
+        "key": "/works/OL67809W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Tamil heroic poetry",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL16747864M",
+              "title": "Tamil̲ vīranilaik kavitai",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Iravatham Mahadevan"
+        ],
+        "cover_i": 4650987,
+        "ddc": [
+          "494.81117"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44265878M",
+          "OL22545133M"
+        ],
+        "key": "/works/OL6791052W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Early Tamil epigraphy",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44265878M",
+              "title": "Early Tamil epigraphy",
+              "cover_i": 13800896,
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "isbn": [
+                "9789381744147",
+                "9381744149"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Mīrān̲ Maitīn̲"
+        ],
+        "ddc": [
+          "894.811372"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44195989M",
+          "OL31510205M"
+        ],
+        "key": "/works/OL23773991W",
+        "language": [
+          "tam"
+        ],
+        "title": "Kavarn̲ar Pettā",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44195989M",
+              "title": "Kavarn̲ar Pettā",
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9789352440764",
+                "9352440765"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kamla Bhasin"
+        ],
+        "cover_i": 12799446,
+        "ddc": [
+          "891.433"
+        ],
+        "ebook_access": "borrowable",
+        "edition_key": [
+          "OL23121402M",
+          "OL23121403M"
+        ],
+        "ia": [
+          "mlbhl0000bhas"
+        ],
+        "key": "/works/OL1072583W",
+        "language": [
+          "hin",
+          "tam"
+        ],
+        "title": "Mālū Bhālū",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23121403M",
+              "title": "Mālū Bhālū",
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788181461063",
+                "8181461061"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Indira Mukherjee"
+        ],
+        "cover_i": 6256255,
+        "ddc": [
+          "398"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL23121471M",
+          "OL172245M"
+        ],
+        "key": "/works/OL1078619W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "Who will be Ningthou?",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL23121471M",
+              "title": "Who will be Ningthou?",
+              "language": [
+                "tam"
+              ],
+              "isbn": [
+                "9788186896068",
+                "8186896066"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "George Uglow Pope"
+        ],
+        "ddc": [
+          "494.81182421"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4079984M",
+          "OL3152462M"
+        ],
+        "key": "/works/OL1040512W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "A handbook of the Tamil language",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3152462M",
+              "title": "A handbook of the Tamil language",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Kalaiñar Mu Karuṇāniti"
+        ],
+        "ddc": [
+          "894.81117"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2003310M",
+          "OL3150674M"
+        ],
+        "key": "/works/OL1052465W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Poems",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3150674M",
+              "title": "Kalaiñarin̲ kavitaikaḷ",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "M. S. Purnalingam Pillai"
+        ],
+        "ddc": [
+          "894.81109"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL2693244M",
+          "OL643713M"
+        ],
+        "key": "/works/OL1076989W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "Tamil literature",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2693244M",
+              "title": "Tamil literature",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Lakṣmi"
+        ],
+        "ddc": [
+          "894.811371"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL60579551M",
+          "OL47921250M"
+        ],
+        "key": "/works/OL35492970W",
+        "language": [
+          "tam"
+        ],
+        "title": "Pavaḷamalli",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL60579551M",
+              "title": "Pavaḷamalli",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Asoka Mehta"
+        ],
+        "ddc": [
+          "954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL951928M",
+          "OL6504735M"
+        ],
+        "key": "/works/OL352077W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "1857, the great rebellion",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL951928M",
+              "title": "1857, Intiyāvin̲ mut̲al puraṭci",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "S. Parthasarathy"
+        ],
+        "ddc": [
+          "781.542",
+          "482"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL48042533M",
+          "OL60655862M"
+        ],
+        "key": "/works/OL35604675W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "108 cine ragams",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL48042533M",
+              "title": "108 cine ragams",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ulrike Niklas"
+        ],
+        "ddc": [
+          "017.1294811"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL1298507M",
+          "OL1621329M"
+        ],
+        "key": "/works/OL4193552W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "A system for Tamil̲ literature",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL1621329M",
+              "title": "A system for Tamil̲ literature",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "isbn": [
+                "3882800402",
+                "9783882800401"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "S. Rajaram"
+        ],
+        "ddc": [
+          "423.94811"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL18930462M",
+          "OL2361153M"
+        ],
+        "key": "/works/OL3884994W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "English-Tamil pedagogical dictionary",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL2361153M",
+              "title": "English-Tamil pedagogical dictionary",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Irā Taṇṭāyutam"
+        ],
+        "ddc": [
+          "894.8113009"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL4382866M",
+          "OL3152260M"
+        ],
+        "key": "/works/OL3885019W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "A study of the sociological novels in Tamil",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3152260M",
+              "title": "Camūka Nāvalkaḷ",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "V. Devasahayam"
+        ],
+        "ddc": [
+          "230.0954"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL3976478M",
+          "OL21556898M"
+        ],
+        "key": "/works/OL2309707W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Outside the camp",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL3976478M",
+              "title": "Ūrukku veḷiyē.",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Āṇṭāḷ"
+        ],
+        "ddc": [
+          "894.8111"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL43640179M",
+          "OL58580502M"
+        ],
+        "key": "/works/OL31925976W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "Thiruppavai",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL43640179M",
+              "title": "Thiruppavai",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Ki Rājanārāyaṇan̲"
+        ],
+        "ddc": [
+          "894.811371"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL44385616M",
+          "OL44385628M"
+        ],
+        "key": "/works/OL32576436W",
+        "language": [
+          "tam"
+        ],
+        "title": "Ruciyān̲a kataikaḷ",
+        "editions": {
+          "numFound": 2,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL44385616M",
+              "title": "Ruciyān̲a kataikaḷ",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Emile Burns"
+        ],
+        "ddc": [
+          "332.4"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL513878M",
+          "OL6366200M"
+        ],
+        "key": "/works/OL331751W",
+        "language": [
+          "eng",
+          "tam"
+        ],
+        "title": "Money",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL513878M",
+              "title": "Paṇam",
+              "language": [
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      },
+      {
+        "author_name": [
+          "Sadhu Subrahmanya Sastry"
+        ],
+        "ddc": [
+          "954.8"
+        ],
+        "ebook_access": "no_ebook",
+        "edition_key": [
+          "OL3009773M",
+          "OL59679825M"
+        ],
+        "key": "/works/OL22855679W",
+        "language": [
+          "tam",
+          "eng"
+        ],
+        "title": "Early inscriptions",
+        "editions": {
+          "numFound": 1,
+          "start": 0,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "key": "/books/OL59679825M",
+              "title": "Early inscriptions",
+              "language": [
+                "eng",
+                "tam"
+              ],
+              "ebook_access": "no_ebook"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

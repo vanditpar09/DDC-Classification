@@ -1,0 +1,1118 @@
+[
+  {
+    "file": "books/pm0101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0101.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0101.pdf",
+      "retrieved_at": "2026-10-04T02:27:29.654026+00:00",
+      "bytes": 120807,
+      "sha256": "dcd0101a55d0954bc60f66b4a61139c977aa4ca67ba32b5891cf570f12c18f0f",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0101.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0101.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0101.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0101.html",
+      "retrieved_at": "2026-10-04T02:27:29.359143+00:00",
+      "bytes": 45966,
+      "sha256": "6d8e7ecef481e77a9b893777e605d31da131ed751033fe80e4d074d216a04cad",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pmuni0101.html"
+    }
+  },
+  {
+    "file": "books/pm0113.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0113.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0113.pdf",
+      "retrieved_at": "2026-10-04T02:27:29.940604+00:00",
+      "bytes": 216356,
+      "sha256": "fada006437378638e8b74a99d3809e1eb75cae0a304a0697afab4a6aed425944",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0113.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0113.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0113.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0113.html",
+      "retrieved_at": "2026-10-04T02:27:33.826374+00:00",
+      "bytes": 344439,
+      "sha256": "6f093b26a9c679b718e93dd5f357d86a6c86626ea2cc15982fe2c1aef68781ba",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pmuni0113.html"
+    }
+  },
+  {
+    "file": "books/pm0118.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0118.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0118.pdf",
+      "retrieved_at": "2026-10-04T02:27:32.026604+00:00",
+      "bytes": 159521,
+      "sha256": "fa75f1e46360c1c33b6608ddf2aa102684f7c7257a7739f7fc7f8f28ecabe9a3",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0118.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0118.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0118.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0118.html",
+      "retrieved_at": "2026-10-04T02:27:32.400419+00:00",
+      "bytes": 167652,
+      "sha256": "a18ea270770469cd0ad0258d4f1bd6b2d299c3c0f9ba8d42a74ddfba9656cf82",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pmuni0118.html"
+    }
+  },
+  {
+    "file": "books/pm0147.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0147.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0147.pdf",
+      "retrieved_at": "2026-10-04T02:27:34.984319+00:00",
+      "bytes": 151638,
+      "sha256": "16914e7152f3594f7e19c597585111425a93571b6a2a7df709d86ce2fcbbad8f",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0147.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0147.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0147.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0147.html",
+      "retrieved_at": "2026-10-04T02:27:34.315062+00:00",
+      "bytes": 126065,
+      "sha256": "bfc865ddc2e4c8ccc7c65b32ec05416755174979bb81b67b3deb20853bdfa899",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pmuni0147.html"
+    }
+  },
+  {
+    "file": "books/pm0228.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0228.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0228.pdf",
+      "retrieved_at": "2026-10-04T02:27:36.085855+00:00",
+      "bytes": 296713,
+      "sha256": "675e7c8101910ceaa18e3803a399dc3e49e9e16114367d9e549af50df606ab97",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0228.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0228.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0228.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0228.html",
+      "retrieved_at": "2026-10-04T02:27:37.648041+00:00",
+      "bytes": 540447,
+      "sha256": "543adf4a1d6163f4eb28e09af757e3a63a4c5654a29b905151cc15124c21761f",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pmuni0228.html"
+    }
+  },
+  {
+    "file": "books/pm0257.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0257.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0257.pdf",
+      "retrieved_at": "2026-10-04T02:27:38.176143+00:00",
+      "bytes": 744865,
+      "sha256": "c548cd999379c41ba3de640b69e92674c7a9cb63a7d58198d63880938925c379",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0257.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0257.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0257.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0257.html",
+      "retrieved_at": "2026-10-04T02:27:45.094175+00:00",
+      "bytes": 620383,
+      "sha256": "a559d2abaafdc67069cd262693b05de1a4986328afa1b16d8ec64b82a6a04cbb",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pmuni0257.html"
+    }
+  },
+  {
+    "file": "books/pm0258.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0258.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0258.pdf",
+      "retrieved_at": "2026-10-04T02:27:39.690376+00:00",
+      "bytes": 158851,
+      "sha256": "99d343b41174cf8e81799dbc68e446f829d66dc03b5997f81f2983c3191b38a9",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0258.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0258.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0258.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0258.html",
+      "retrieved_at": "2026-10-04T02:27:40.304051+00:00",
+      "bytes": 158522,
+      "sha256": "a98908b4e9852236c41d7d66fde172c0a84b667f17bb94152d605278f19b21b4",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pmuni0258.html"
+    }
+  },
+  {
+    "file": "books/pm0376.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0376.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0376.pdf",
+      "retrieved_at": "2026-10-04T02:27:43.020193+00:00",
+      "bytes": 755300,
+      "sha256": "6372ae921978f6581f2b57ef09dbc59fafebad5767d6286c514e58a20aacebab",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0376.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0376.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0376.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0376.html",
+      "retrieved_at": "2026-10-04T02:27:44.808130+00:00",
+      "bytes": 698022,
+      "sha256": "1088bddb24458d80d92438a6500e7d472fc26f0d1e552519ee6aba932b187b98",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pmuni0376.html"
+    }
+  },
+  {
+    "file": "books/pm0718.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0718.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0718.pdf",
+      "retrieved_at": "2026-10-04T02:27:45.902507+00:00",
+      "bytes": 756399,
+      "sha256": "5cb19a988b511b2e16c4a26eca3c6eba01d6e21297c4e10eb004a7d4a64aded4",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0718.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0718.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0718.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0718.html",
+      "retrieved_at": "2026-10-04T02:27:48.396403+00:00",
+      "bytes": 758589,
+      "sha256": "ee97849a2f234939ebb6c8d2fcb7f81d2f9034ecafd6256424a476b142883934",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pmuni0718.html"
+    }
+  },
+  {
+    "file": "books/pm0719.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0719.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0719.pdf",
+      "retrieved_at": "2026-10-04T02:27:48.376698+00:00",
+      "bytes": 739496,
+      "sha256": "b6a2e23f96dd64aaef12fb7d55da5cef409f7dbdfd5c216ab0970b71692e8229",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0719.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0719.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0719.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0719.html",
+      "retrieved_at": "2026-10-04T02:27:48.578260+00:00",
+      "bytes": 730108,
+      "sha256": "e401bc4161f78e097e58c4475e9286bbec2c58ba81f192c362c4b13a068d3194",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pmuni0719.html"
+    }
+  },
+  {
+    "file": "books/pm0923.pdf",
+    "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0923.pdf",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "books/pmuni0923.html",
+    "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0923.html",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "books/pm0924.pdf",
+    "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0924.pdf",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "books/pmuni0924.html",
+    "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0924.html",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "books/phakiraa.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/phakiraa.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/phakiraa.pdf",
+      "retrieved_at": "2026-10-04T02:29:00.862888+00:00",
+      "bytes": 28341167,
+      "sha256": "05299116dfa87f6b7c67969190656edd604eb393fc762e76e0bdc7c429c05ebf",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/phakiraa.pdf"
+    }
+  },
+  {
+    "file": "books/detective_alpha_saurabh_wagale.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/detective_alpha_saurabh_wagale.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/detective_alpha_saurabh_wagale.pdf",
+      "retrieved_at": "2026-10-04T02:30:16.913175+00:00",
+      "bytes": 1466273,
+      "sha256": "3dcf13edae4e373da8218caacffde73fe13d3be48c9ba3f7a67567d99c9e7cee",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/detective_alpha_saurabh_wagale.pdf"
+    }
+  },
+  {
+    "file": "books/munni_aruna_sabane.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/munni_aruna_sabane.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/munni_aruna_sabane.pdf",
+      "retrieved_at": "2026-10-04T02:30:30.187642+00:00",
+      "bytes": 2591518,
+      "sha256": "62443c0bab404f7d24d3f05899168343e3122a3fdacebc98e6e9f02cfe5e03a7",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/munni_aruna_sabane.pdf"
+    }
+  },
+  {
+    "file": "books/anand_madhu_shirgaonkar.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/anand_madhu_shirgaonkar.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/anand_madhu_shirgaonkar.pdf",
+      "retrieved_at": "2026-10-04T02:30:18.476009+00:00",
+      "bytes": 3684415,
+      "sha256": "448cc10eab66028e81d84b1318580d5835d0ec80bfed61716ce3c0c1af1f4bbd",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/anand_madhu_shirgaonkar.pdf"
+    }
+  },
+  {
+    "file": "books/fullari_vinita_deshpande.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/fullari_vinita_deshpande.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/fullari_vinita_deshpande.pdf",
+      "retrieved_at": "2026-10-04T02:30:21.831242+00:00",
+      "bytes": 1041309,
+      "sha256": "8f448723ad8a8b653a8008258b935814b17a6509363a7d18f6cc0a2e8788f4ec",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/fullari_vinita_deshpande.pdf"
+    }
+  },
+  {
+    "file": "books/saichi_vahi.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/saichi_vahi.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/saichi_vahi.pdf",
+      "retrieved_at": "2026-10-04T02:30:21.807786+00:00",
+      "bytes": 1704093,
+      "sha256": "95babdeb5c9ca826b27d0eedff5bd399ad3d3efb05469b4d3d907d0dd47cbe02",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/saichi_vahi.pdf"
+    }
+  },
+  {
+    "file": "books/hindisamay-226-1.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/226/1/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/226/1/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:05.786444+00:00",
+      "bytes": 451458,
+      "sha256": "b6bf0226bce7c9dffa193b87ed9617f92448ae49fd597455eaadbf77c07ebf37",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-226-1.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-226-2.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/226/2/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/226/2/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:05.363209+00:00",
+      "bytes": 26760,
+      "sha256": "5b63acfe852e9497c92dc74b3b8a5dad2a18afb7ab3f4abf10d1bc5512f1ba8a",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-226-2.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-226-3.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/226/3/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/226/3/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:06.464302+00:00",
+      "bytes": 766440,
+      "sha256": "cc6e5f62746b638b5c1fc3a926a074b10a763e34a0fc18cab8d715a4277edb25",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-226-3.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-226-4.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/226/4/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/226/4/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:06.899797+00:00",
+      "bytes": 617823,
+      "sha256": "9521cb40917318ff8d369184b9c3070c065c4ad3f3198ab78c87399f4abeffb8",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-226-4.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-226-5.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/226/5/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/226/5/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A4%AC%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:06.900038+00:00",
+      "bytes": 27014,
+      "sha256": "f8a7d9ea68260398bc599a37b887586e149c1195703fa1c63ff5c23de96af7b5",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-226-5.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-226-2.query.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=226&pageno=2",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=226&pageno=2",
+      "retrieved_at": "2026-10-04T02:34:47.305350+00:00",
+      "bytes": 813313,
+      "sha256": "49e120c4d2d2001e748fc67c01e495d37ad0c4908ed5ae88fbe5c1070bb3e264",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-226-2.query.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-226-5.query.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=226&pageno=5",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=226&pageno=5",
+      "retrieved_at": "2026-10-04T02:34:47.990125+00:00",
+      "bytes": 709276,
+      "sha256": "5722ea11d7470dc19d17288b2853d6c266aabdab37ee905d376441de4164a7c7",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-226-5.query.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-1.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/1/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/1/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:07.076207+00:00",
+      "bytes": 118396,
+      "sha256": "8dc27fe146f716b0ba3fdaa95fcf41eb8dbd04e23968597a9466bc7c714535ca",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-1.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-2.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/2/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/2/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:07.379336+00:00",
+      "bytes": 26856,
+      "sha256": "c3f130d83c03a62dde4beb7376daf8001a0486b38bb09c6f2e9cb57d0e1bf6af",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-2.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-3.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/3/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/3/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:07.406853+00:00",
+      "bytes": 47521,
+      "sha256": "8a2974df8f1dba4978fb618038f11dd83497c9fb567bf85c59a2d6949cdd9a88",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-3.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-4.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/4/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/4/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:07.632849+00:00",
+      "bytes": 98376,
+      "sha256": "902a3663d88a0412b6cf933a85644b70a37715a0389dbef3cc3627ab9136513b",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-4.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-5.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/5/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/5/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:07.763284+00:00",
+      "bytes": 54080,
+      "sha256": "5ec1d3f39c88db2ec65cc95d4681d9c43ae04fbaaa1e4b78ba9f43380c2f660b",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-5.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-6.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/6/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/6/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:07.825057+00:00",
+      "bytes": 59192,
+      "sha256": "9334162a66829538634206d469aefc32f9d798d56b1a99a810bebaabe7cc3fad",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-6.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-7.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/7/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/7/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:08.059486+00:00",
+      "bytes": 65385,
+      "sha256": "e2fb87a54a029ad72eb9f4503034361c1c4f28cb056e0ce07f30aa476bbccd28",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-7.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-8.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/8/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/8/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:08.262255+00:00",
+      "bytes": 56336,
+      "sha256": "93fa129da7a84c3456b4677934ea9b748e1bbfe1c8f4041e0e41a7536b91040b",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-8.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-9.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/9/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/9/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:08.376096+00:00",
+      "bytes": 108435,
+      "sha256": "eedb78105fd0e3ae887216d0f3e99bb7d404eab52250b562aca532711928ca15",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-9.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-10.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/10/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/10/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:08.693625+00:00",
+      "bytes": 161278,
+      "sha256": "2bccf165020fdf3eddec4399d7c1701edf15a381995f95291b5fcd662a638eb9",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-10.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-11.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/11/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/11/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:09.410131+00:00",
+      "bytes": 132622,
+      "sha256": "7c85d8442eb353497ef04a8b4b1e16522ef2f381f50f2e23775c756d67286309",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-11.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-12.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/12/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/12/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:09.197499+00:00",
+      "bytes": 26761,
+      "sha256": "799656585a93b2ce53f5036051e763eaffbe2429897123d27ae7b36c0549ebbc",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-12.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-13.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/13/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/13/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:09.509616+00:00",
+      "bytes": 48657,
+      "sha256": "4b0bbad3cca01ca8e597884859f37030144c97669246cd477073f7c5d3102da8",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-13.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-14.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/14/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/14/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:09.672106+00:00",
+      "bytes": 53292,
+      "sha256": "1d7ee55e1048af947941180df0329f2e15eb7f34c184333ad4de6fa263170055",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-14.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-15.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/15/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/15/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:09.861867+00:00",
+      "bytes": 62833,
+      "sha256": "1f33788b4b2c33ea13b7d16e79b40bd7b5c435fafbaee6582d5b1ff1f15ea663",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-15.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-16.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/16/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/16/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:09.909388+00:00",
+      "bytes": 26761,
+      "sha256": "bf11e5ece4ac52187819415ffddbe39d6081e0af21493a3880392bf5609e0ba9",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-16.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-17.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/233/17/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/233/17/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:10.202718+00:00",
+      "bytes": 59254,
+      "sha256": "9e21f2b9d3d141975c568e911112c1b1cbbb7febfe2a5ad5e259a19576a0e69e",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-17.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-2.query.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=2",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=2",
+      "retrieved_at": "2026-10-04T02:34:48.383737+00:00",
+      "bytes": 63868,
+      "sha256": "ede121407ce4ece34796608bae4f48e4ea2a60c63af6cbeb34f1f003d8b3f335",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-2.query.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-12.query.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=12",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=12",
+      "retrieved_at": "2026-10-04T02:34:48.921580+00:00",
+      "bytes": 96959,
+      "sha256": "ef3d1921a5454a1cb763c04618f3c4f778b77fd662bba6f057a6b884b4258013",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-12.query.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-233-16.query.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=16",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=233&pageno=16",
+      "retrieved_at": "2026-10-04T02:34:49.332558+00:00",
+      "bytes": 43305,
+      "sha256": "0524b27fab918b5154f1c0719cc19ca59f7c6802761f801533a8fcfa90b6cf0b",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-233-16.query.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-259-1.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/259/1/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/259/1/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:10.566964+00:00",
+      "bytes": 199294,
+      "sha256": "f77797dd9b7eb97d6a22b65073085ca6400f956cfbcb7291769a6a2bc48faa75",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-1.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-259-2.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/259/2/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/259/2/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:10.631752+00:00",
+      "bytes": 96933,
+      "sha256": "af97eb3b3f4fabcae5289808f4d191903f5757b15b06e48d9b69eec8a9565143",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-2.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-259-3.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/259/3/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/259/3/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:10.941581+00:00",
+      "bytes": 164028,
+      "sha256": "fe30fe63e50f1cf1a725a8bb8a2fe8d34156ca76d78839fd9baea8ae8bd38d2d",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-3.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-259-4.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/259/4/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/259/4/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:11.178979+00:00",
+      "bytes": 270329,
+      "sha256": "90a55fbccb89f133b71061340dd1ebe1c76c40bb863ea7dbb75f8063763637c2",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-4.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-259-5.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/259/5/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/259/5/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:11.215754+00:00",
+      "bytes": 198488,
+      "sha256": "b1773346f08b82208ac64602949820b3a5df5af95a7c72f3bce394000dfa043a",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-5.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-259-6.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/259/6/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/259/6/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:11.504250+00:00",
+      "bytes": 147124,
+      "sha256": "f541fb1469e76eb7e42f1b85902049cd8bec3d1773c6653b2a09afd35c519d05",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-6.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-259-7.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/259/7/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/259/7/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:11.587720+00:00",
+      "bytes": 26760,
+      "sha256": "b37b9f08cf46feadd8518b46c565092423e38aabadcc4290976ee1ecb6201a1c",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-7.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-259-8.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/259/8/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/259/8/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:11.576176+00:00",
+      "bytes": 26760,
+      "sha256": "b6e49032f850a9c54c7f844c3b290869f261837d56466dcbe9a8a80c11093770",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-8.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-259-9.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/259/9/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/259/9/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:12.127281+00:00",
+      "bytes": 175480,
+      "sha256": "8a3eaed93c18b5afb9f0e91e4a331e8e09bc78143ee1a6abd5e3aa3841cc96f1",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-9.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-259-10.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/259/10/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/259/10/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:12.747750+00:00",
+      "bytes": 442160,
+      "sha256": "d801a14b2a3a12e7bf3344f74c523d78ad91cf6276a134aeac2b2ecceeb910cf",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-10.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-259-11.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/259/11/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/259/11/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:12.136274+00:00",
+      "bytes": 134712,
+      "sha256": "90b4a2247aa6bf35c8eb6d994c37f0b6dc51653892f386d6567e6f588e48c9b0",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-11.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-259-12.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/259/12/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/259/12/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:12.815730+00:00",
+      "bytes": 216358,
+      "sha256": "c66dce06e9e12e57c94b9c4ca057f0a58293565175399ea24fdbfdced969a2c5",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-12.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-259-7.query.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=259&pageno=7",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=259&pageno=7",
+      "retrieved_at": "2026-10-04T02:34:49.864988+00:00",
+      "bytes": 131873,
+      "sha256": "6dced9f1b6b3380fd42498ca18a2d509372dfa9ad5fa2222b150a0232c2eac5a",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-7.query.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-259-8.query.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=259&pageno=8",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=259&pageno=8",
+      "retrieved_at": "2026-10-04T02:34:50.383230+00:00",
+      "bytes": 156450,
+      "sha256": "2865feb378661d8ffa2e21300146eaad92bee79e3fada96c98f58d887bbd6a58",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-259-8.query.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-1.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/238/1/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/238/1/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:12.914828+00:00",
+      "bytes": 150553,
+      "sha256": "56254c17f667857fdd48e9f5b39e9287930b8e352ffc400266d23eac30a1842c",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-1.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-2.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/238/2/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/238/2/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:13.307724+00:00",
+      "bytes": 114873,
+      "sha256": "fe5ec4938ed6f994591c775bd673fda7b72f1334e8aaed4542574c51193bbb56",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-2.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-3.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/238/3/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/238/3/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:13.295552+00:00",
+      "bytes": 74520,
+      "sha256": "276beef9a08973083ed8ae7ff8508630a87c763ec87f7e2c7bcd2613738fe5d5",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-3.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-4.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/238/4/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/238/4/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:13.326616+00:00",
+      "bytes": 26760,
+      "sha256": "26b5f2ff62100845bdd515fedb07f5925a90a1d371e5695a2585e0d2ef9017fc",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-4.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-5.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/238/5/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/238/5/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:13.897765+00:00",
+      "bytes": 239587,
+      "sha256": "5ac954e39a19fc9cb41a4339692c75a10fc624550dbfdce7b71f671b754ef10f",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-5.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-6.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/238/6/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/238/6/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:13.792233+00:00",
+      "bytes": 26760,
+      "sha256": "dfccea28f250edb368a116c4da0d31db2ad9f1dda09a6c08a255a20bfd8272a1",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-6.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-7.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/238/7/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/238/7/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:13.810978+00:00",
+      "bytes": 26760,
+      "sha256": "d6c5fa9a4d268bc6558475d9999ee6de99e1feaa1a09f49c13cd34a0af1ee4f8",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-7.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-8.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/238/8/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/238/8/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:14.372255+00:00",
+      "bytes": 113341,
+      "sha256": "e012cfc26fe192ee1b83ee838ab65597d50bb252e828cadb7cd86f23b8e1c2f7",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-8.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-9.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/238/9/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/238/9/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:14.416727+00:00",
+      "bytes": 125031,
+      "sha256": "c95e183bf9f053389e938d8f4482ae44ce441763b7933def56c37445b619f0bf",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-9.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-10.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/238/10/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/238/10/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:14.670888+00:00",
+      "bytes": 160906,
+      "sha256": "5f33f336c10277148054d2ccc094dfff43bcbff5dad049d4cdd631e2fbd3d8cf",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-10.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-11.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/238/11/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/238/11/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:14.963727+00:00",
+      "bytes": 67234,
+      "sha256": "a3fde2e412b15bfe87f49781f0020f0dfcea38d4a3e848f232a0069b9fb13b8f",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-11.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-12.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/238/12/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "final_url": "https://hindisamay.com/content/238/12/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6--%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF-1.cspx",
+      "retrieved_at": "2026-10-04T02:32:15.158487+00:00",
+      "bytes": 132227,
+      "sha256": "20007053ff91143f0891cc3475cada107581ec26abc56464b32e4f57e9fd025c",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-12.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-4.query.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=4",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=4",
+      "retrieved_at": "2026-10-04T02:34:50.898191+00:00",
+      "bytes": 132711,
+      "sha256": "a70d9862b2a02625d4a5de0ee41b4f07203451890dd99d78312947a1efc6c973",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-4.query.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-6.query.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=6",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=6",
+      "retrieved_at": "2026-10-04T02:34:51.345713+00:00",
+      "bytes": 115962,
+      "sha256": "bf88c5375be4746cd141f07b7cc75c2341622f3ca4024d2e5eaad1d6e482ad70",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-6.query.html"
+    }
+  },
+  {
+    "file": "books/hindisamay-238-7.query.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=7",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=238&pageno=7",
+      "retrieved_at": "2026-10-04T02:34:51.806138+00:00",
+      "bytes": 110725,
+      "sha256": "d296089bc2cead3cf358d5673c539fa95742195379d76a0f401d1e08e147712a",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/hindisamay-238-7.query.html"
+    }
+  },
+  {
+    "file": "books/pm0148.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0148.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0148.pdf",
+      "retrieved_at": "2026-10-04T02:41:08.150497+00:00",
+      "bytes": 606554,
+      "sha256": "76867c8a688d56dc35546d3a14673535323ccff135c1cea78f77844173e2cd52",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0148.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0148.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0148.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0148.html",
+      "retrieved_at": "2026-10-04T02:41:11.703870+00:00",
+      "bytes": 1357431,
+      "sha256": "d799043d59e9828de155dca2116b1feed19ae6350d065aa87133de2ff163848b",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v1/books/pmuni0148.html"
+    }
+  }
+]

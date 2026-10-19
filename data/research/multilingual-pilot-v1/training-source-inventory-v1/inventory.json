@@ -1,0 +1,3351 @@
+{
+  "model": "native_silver_v2",
+  "model_sha256": "cf2e4d18dbe43ad9431a965bc1a6213a0bcfbecac5b5c8830e73cb9a48f6cc86",
+  "dataset": "data/research/multilingual-pilot-v1/silver-pilot-v2/books.jsonl",
+  "dataset_sha256": "7b92f3c0eb7ef85a7e4d30c6644bbb80a176bc23828f5146caf0ebda19a74530",
+  "scope": "Original source PDFs in multilingual-pilot-v1; generated output/report/package PDFs excluded.",
+  "interpretation": "Fitting used prepared text/OCR passages, not entire PDFs. Native labels are silver, not independently verified gold.",
+  "locked_test_passage_contents_read": false,
+  "original_pdfs_committed": false,
+  "summary": {
+    "total_local_source_pdfs": 175,
+    "fitting_source_pdfs": 68,
+    "fitting_pdf_editions": 34,
+    "native_fitting_editions": 53,
+    "native_fitting_work_groups": 49,
+    "native_fitting_passages": 156,
+    "fitting_editions_using_publisher_text_without_pdf_provenance": 19,
+    "development_source_pdfs": 18,
+    "locked_test_source_pdfs": 16,
+    "other_source_pdfs": 73,
+    "fitting_pdf_bytes": 355797968,
+    "original_catalog_fitting_records": 3061
+  },
+  "pdfs": [
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/anand_madhu_shirgaonkar.pdf",
+      "bytes": 3684415,
+      "sha256": "448cc10eab66028e81d84b1318580d5835d0ec80bfed61716ce3c0c1af1f4bbd",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-anand_madhu_shirgaonkar",
+          "title": "आनंद",
+          "language": "mar",
+          "partition": "development",
+          "page": 134,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-anand_madhu_shirgaonkar/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-anand_madhu_shirgaonkar",
+          "title": "आनंद",
+          "language": "mar",
+          "partition": "development",
+          "page": 268,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-anand_madhu_shirgaonkar/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-anand_madhu_shirgaonkar",
+          "title": "आनंद",
+          "language": "mar",
+          "partition": "development",
+          "page": 403,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-anand_madhu_shirgaonkar/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/anand_madhu_shirgaonkar.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/detective_alpha_saurabh_wagale.pdf",
+      "bytes": 1466273,
+      "sha256": "3dcf13edae4e373da8218caacffde73fe13d3be48c9ba3f7a67567d99c9e7cee",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-detective_alpha_saurabh_wagale",
+          "title": "डिटेक्टिव्ह अल्फा आणि रत्नजडित खंजिराचे रहस्य",
+          "language": "mar",
+          "partition": "train",
+          "page": 23,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-detective_alpha_saurabh_wagale/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-detective_alpha_saurabh_wagale",
+          "title": "डिटेक्टिव्ह अल्फा आणि रत्नजडित खंजिराचे रहस्य",
+          "language": "mar",
+          "partition": "train",
+          "page": 46,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-detective_alpha_saurabh_wagale/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-detective_alpha_saurabh_wagale",
+          "title": "डिटेक्टिव्ह अल्फा आणि रत्नजडित खंजिराचे रहस्य",
+          "language": "mar",
+          "partition": "train",
+          "page": 70,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-detective_alpha_saurabh_wagale/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/detective_alpha_saurabh_wagale.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/fullari_vinita_deshpande.pdf",
+      "bytes": 1041309,
+      "sha256": "8f448723ad8a8b653a8008258b935814b17a6509363a7d18f6cc0a2e8788f4ec",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-fullari_vinita_deshpande",
+          "title": "फुल्लारी",
+          "language": "mar",
+          "partition": "train",
+          "page": 20,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-fullari_vinita_deshpande/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-fullari_vinita_deshpande",
+          "title": "फुल्लारी",
+          "language": "mar",
+          "partition": "train",
+          "page": 40,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-fullari_vinita_deshpande/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-fullari_vinita_deshpande",
+          "title": "फुल्लारी",
+          "language": "mar",
+          "partition": "train",
+          "page": 61,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-fullari_vinita_deshpande/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/fullari_vinita_deshpande.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/munni_aruna_sabane.pdf",
+      "bytes": 2591518,
+      "sha256": "62443c0bab404f7d24d3f05899168343e3122a3fdacebc98e6e9f02cfe5e03a7",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-munni_aruna_sabane",
+          "title": "मुन्नी",
+          "language": "mar",
+          "partition": "train",
+          "page": 82,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-munni_aruna_sabane/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-munni_aruna_sabane",
+          "title": "मुन्नी",
+          "language": "mar",
+          "partition": "train",
+          "page": 164,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-munni_aruna_sabane/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-munni_aruna_sabane",
+          "title": "मुन्नी",
+          "language": "mar",
+          "partition": "train",
+          "page": 245,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-munni_aruna_sabane/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/munni_aruna_sabane.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/phakiraa.pdf",
+      "bytes": 28341167,
+      "sha256": "05299116dfa87f6b7c67969190656edd604eb393fc762e76e0bdc7c429c05ebf",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/phakiraa.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0101.pdf",
+      "bytes": 120807,
+      "sha256": "dcd0101a55d0954bc60f66b4a61139c977aa4ca67ba32b5891cf570f12c18f0f",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0101.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0113.pdf",
+      "bytes": 216356,
+      "sha256": "fada006437378638e8b74a99d3809e1eb75cae0a304a0697afab4a6aed425944",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0113.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0118.pdf",
+      "bytes": 159521,
+      "sha256": "fa75f1e46360c1c33b6608ddf2aa102684f7c7257a7739f7fc7f8f28ecabe9a3",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0118.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0147.pdf",
+      "bytes": 151638,
+      "sha256": "16914e7152f3594f7e19c597585111425a93571b6a2a7df709d86ce2fcbbad8f",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "pm-work-147",
+          "title": "நன்னூல்",
+          "language": "tam",
+          "partition": "train",
+          "page": 9,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/pm-work-147/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "pm-work-147",
+          "title": "நன்னூல்",
+          "language": "tam",
+          "partition": "train",
+          "page": 18,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/pm-work-147/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "pm-work-147",
+          "title": "நன்னூல்",
+          "language": "tam",
+          "partition": "train",
+          "page": 27,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/pm-work-147/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0147.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0148.pdf",
+      "bytes": 606554,
+      "sha256": "76867c8a688d56dc35546d3a14673535323ccff135c1cea78f77844173e2cd52",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0148.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0228.pdf",
+      "bytes": 296713,
+      "sha256": "675e7c8101910ceaa18e3803a399dc3e49e9e16114367d9e549af50df606ab97",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0228.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0257.pdf",
+      "bytes": 744865,
+      "sha256": "c548cd999379c41ba3de640b69e92674c7a9cb63a7d58198d63880938925c379",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0257.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0258.pdf",
+      "bytes": 158851,
+      "sha256": "99d343b41174cf8e81799dbc68e446f829d66dc03b5997f81f2983c3191b38a9",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0258.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0376.pdf",
+      "bytes": 755300,
+      "sha256": "6372ae921978f6581f2b57ef09dbc59fafebad5767d6286c514e58a20aacebab",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0376.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0718.pdf",
+      "bytes": 756399,
+      "sha256": "5cb19a988b511b2e16c4a26eca3c6eba01d6e21297c4e10eb004a7d4a64aded4",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0718.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/pm0719.pdf",
+      "bytes": 739496,
+      "sha256": "b6a2e23f96dd64aaef12fb7d55da5cef409f7dbdfd5c216ab0970b71692e8229",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0719.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v1/books/saichi_vahi.pdf",
+      "bytes": 1704093,
+      "sha256": "95babdeb5c9ca826b27d0eedff5bd399ad3d3efb05469b4d3d907d0dd47cbe02",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/saichi_vahi.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/aindrajal_supriya_joshi.pdf",
+      "bytes": 1676896,
+      "sha256": "a90f362ac7db53a8b9be9cde99087576aebf7c00268811d0e7c2ef4ca98ad5ee",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-aindrajal_supriya_joshi",
+          "title": "ऐंद्रजाल",
+          "language": "mar",
+          "partition": "development",
+          "page": 39,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-aindrajal_supriya_joshi/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-aindrajal_supriya_joshi",
+          "title": "ऐंद्रजाल",
+          "language": "mar",
+          "partition": "development",
+          "page": 78,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-aindrajal_supriya_joshi/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-aindrajal_supriya_joshi",
+          "title": "ऐंद्रजाल",
+          "language": "mar",
+          "partition": "development",
+          "page": 116,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-aindrajal_supriya_joshi/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/aindrajal_supriya_joshi.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/baap_the_grat_hero_manohar_surwade.pdf",
+      "bytes": 2038573,
+      "sha256": "46dd97e2b085f501f82fe5a58a94316ca9f022cc1eaa0ec99dc7ab6c8ab237cd",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-baap_the_grat_hero_manohar_surwade",
+          "title": "बाप : ग्रेट हिरो",
+          "language": "mar",
+          "partition": "development",
+          "page": 61,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-baap_the_grat_hero_manohar_surwade/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-baap_the_grat_hero_manohar_surwade",
+          "title": "बाप : ग्रेट हिरो",
+          "language": "mar",
+          "partition": "development",
+          "page": 122,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-baap_the_grat_hero_manohar_surwade/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-baap_the_grat_hero_manohar_surwade",
+          "title": "बाप : ग्रेट हिरो",
+          "language": "mar",
+          "partition": "development",
+          "page": 184,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-baap_the_grat_hero_manohar_surwade/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/baap_the_grat_hero_manohar_surwade.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/bhoot_bangalyache_rahasya_akshay_jadhav.pdf",
+      "bytes": 1653120,
+      "sha256": "cbfb85cd91c3b4b338a6c4b4b9fe657c3b88757e741cde6fb58759c392543eb0",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-bhoot_bangalyache_rahasya_akshay_jadhav",
+          "title": "गुप्तहेर सत्यवीर आणि भूतबंगल्याचे रहस्य",
+          "language": "mar",
+          "partition": "train",
+          "page": 30,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-bhoot_bangalyache_rahasya_akshay_jadhav/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-bhoot_bangalyache_rahasya_akshay_jadhav",
+          "title": "गुप्तहेर सत्यवीर आणि भूतबंगल्याचे रहस्य",
+          "language": "mar",
+          "partition": "train",
+          "page": 61,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-bhoot_bangalyache_rahasya_akshay_jadhav/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-bhoot_bangalyache_rahasya_akshay_jadhav",
+          "title": "गुप्तहेर सत्यवीर आणि भूतबंगल्याचे रहस्य",
+          "language": "mar",
+          "partition": "train",
+          "page": 92,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-bhoot_bangalyache_rahasya_akshay_jadhav/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/bhoot_bangalyache_rahasya_akshay_jadhav.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/europe_kavadse_maneesha_dikshit.pdf",
+      "bytes": 2433639,
+      "sha256": "423955b4515bf1252a88f39cbbc09a03d4e225e975b43e7763a60719bc34eccb",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-europe_kavadse_maneesha_dikshit",
+          "title": "युरोप-कवडसे",
+          "language": "mar",
+          "partition": "train",
+          "page": 32,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-europe_kavadse_maneesha_dikshit/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-europe_kavadse_maneesha_dikshit",
+          "title": "युरोप-कवडसे",
+          "language": "mar",
+          "partition": "train",
+          "page": 64,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-europe_kavadse_maneesha_dikshit/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-europe_kavadse_maneesha_dikshit",
+          "title": "युरोप-कवडसे",
+          "language": "mar",
+          "partition": "train",
+          "page": 96,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-europe_kavadse_maneesha_dikshit/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/europe_kavadse_maneesha_dikshit.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/hirana_arun_kulakarni.pdf",
+      "bytes": 1808364,
+      "sha256": "6bcc5e228dcd72d7320d83b3e6e78604656e3dd11c86f9f137d660b5059e5bef",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-hirana_arun_kulakarni",
+          "title": "हिरणं",
+          "language": "mar",
+          "partition": "test",
+          "page": 29,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-hirana_arun_kulakarni/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-hirana_arun_kulakarni",
+          "title": "हिरणं",
+          "language": "mar",
+          "partition": "test",
+          "page": 58,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-hirana_arun_kulakarni/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-hirana_arun_kulakarni",
+          "title": "हिरणं",
+          "language": "mar",
+          "partition": "test",
+          "page": 88,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-hirana_arun_kulakarni/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/hirana_arun_kulakarni.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/iblis_suraj_gatade.pdf",
+      "bytes": 3258610,
+      "sha256": "b19b5c93ba47d91eecfc79964e45320b5749b3fdb4412cbdd80c2e85f66d203c",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-iblis_suraj_gatade",
+          "title": "इब्लिस",
+          "language": "mar",
+          "partition": "train",
+          "page": 115,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-iblis_suraj_gatade/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-iblis_suraj_gatade",
+          "title": "इब्लिस",
+          "language": "mar",
+          "partition": "train",
+          "page": 230,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-iblis_suraj_gatade/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-iblis_suraj_gatade",
+          "title": "इब्लिस",
+          "language": "mar",
+          "partition": "train",
+          "page": 345,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-iblis_suraj_gatade/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/iblis_suraj_gatade.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/ishany_bharat_neelima_kulkarni.pdf",
+      "bytes": 2322494,
+      "sha256": "ab0d27126aa07af053aee42dc0e5247e7e81cb1dfab613a53358b600e545fef0",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-ishany_bharat_neelima_kulkarni",
+          "title": "रंग ईशान्येचे",
+          "language": "mar",
+          "partition": "train",
+          "page": 30,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-ishany_bharat_neelima_kulkarni/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/ishany_bharat_neelima_kulkarni.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/keral_shailesh_purohit.pdf",
+      "bytes": 9174400,
+      "sha256": "07a4d113cf8b110f7ddd5f552ca71caf35fa6d8147c99b18afbb7f9c73eb600b",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-keral_shailesh_purohit",
+          "title": "दक्षिण केरळ अर्थात कोची – मुन्नार – तेक्कडी – आलप्पुळा",
+          "language": "mar",
+          "partition": "train",
+          "page": 16,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-keral_shailesh_purohit/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-keral_shailesh_purohit",
+          "title": "दक्षिण केरळ अर्थात कोची – मुन्नार – तेक्कडी – आलप्पुळा",
+          "language": "mar",
+          "partition": "train",
+          "page": 33,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-keral_shailesh_purohit/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-keral_shailesh_purohit",
+          "title": "दक्षिण केरळ अर्थात कोची – मुन्नार – तेक्कडी – आलप्पुळा",
+          "language": "mar",
+          "partition": "train",
+          "page": 50,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-keral_shailesh_purohit/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/keral_shailesh_purohit.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/khidkee_saurabh_wagle.pdf",
+      "bytes": 1631168,
+      "sha256": "8522feee2dccc16ed258b468947ed2990a00e6ed6ca777729c584890fc50fb4b",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-khidkee_saurabh_wagle",
+          "title": "डिटेक्टिव्ह अल्फा आणि अर्धप्रकाशित खिडकी",
+          "language": "mar",
+          "partition": "train",
+          "page": 41,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-khidkee_saurabh_wagle/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-khidkee_saurabh_wagle",
+          "title": "डिटेक्टिव्ह अल्फा आणि अर्धप्रकाशित खिडकी",
+          "language": "mar",
+          "partition": "train",
+          "page": 82,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-khidkee_saurabh_wagle/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-khidkee_saurabh_wagle",
+          "title": "डिटेक्टिव्ह अल्फा आणि अर्धप्रकाशित खिडकी",
+          "language": "mar",
+          "partition": "train",
+          "page": 124,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-khidkee_saurabh_wagle/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/khidkee_saurabh_wagle.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/maaat_ketakee_shah.pdf",
+      "bytes": 1111948,
+      "sha256": "059727a40cd532c8f4e14582f67881da76ae3870d26e4c2962ad30f6efdc5b09",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-maaat_ketakee_shah",
+          "title": "मात",
+          "language": "mar",
+          "partition": "train",
+          "page": 22,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-maaat_ketakee_shah/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-maaat_ketakee_shah",
+          "title": "मात",
+          "language": "mar",
+          "partition": "train",
+          "page": 45,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-maaat_ketakee_shah/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-maaat_ketakee_shah",
+          "title": "मात",
+          "language": "mar",
+          "partition": "train",
+          "page": 68,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-maaat_ketakee_shah/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/maaat_ketakee_shah.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/mb_canada_bb_desai.pdf",
+      "bytes": 4049570,
+      "sha256": "e5e7872685d1739fd72c4fcb747df45a393bdbb05ff6667f692dddc51e139edc",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-mb_canada_bb_desai",
+          "title": "मला भावलेला कॅनडा",
+          "language": "mar",
+          "partition": "train",
+          "page": 33,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-mb_canada_bb_desai/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-mb_canada_bb_desai",
+          "title": "मला भावलेला कॅनडा",
+          "language": "mar",
+          "partition": "train",
+          "page": 66,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-mb_canada_bb_desai/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-mb_canada_bb_desai",
+          "title": "मला भावलेला कॅनडा",
+          "language": "mar",
+          "partition": "train",
+          "page": 98,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-mb_canada_bb_desai/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/mb_canada_bb_desai.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/omega_upgraded_abhishek_thamke.pdf",
+      "bytes": 1437794,
+      "sha256": "a220bdb842a6a81aeff11cf9f29662cd4fd62d76d7a3f23d0ad65faad13d36c5",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-omega_upgraded_abhishek_thamke",
+          "title": "ओमेगा अपग्रेडेड",
+          "language": "mar",
+          "partition": "train",
+          "page": 58,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-omega_upgraded_abhishek_thamke/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-omega_upgraded_abhishek_thamke",
+          "title": "ओमेगा अपग्रेडेड",
+          "language": "mar",
+          "partition": "train",
+          "page": 116,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-omega_upgraded_abhishek_thamke/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-omega_upgraded_abhishek_thamke",
+          "title": "ओमेगा अपग्रेडेड",
+          "language": "mar",
+          "partition": "train",
+          "page": 174,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-omega_upgraded_abhishek_thamke/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/omega_upgraded_abhishek_thamke.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/parimarjan_sudhir_karkhanis.pdf",
+      "bytes": 1457408,
+      "sha256": "c041181c8bfdfe26c5295de1390baffa950e86f46043d2898f1b0c94c5cd6aad",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-parimarjan_sudhir_karkhanis",
+          "title": "परिमार्जन",
+          "language": "mar",
+          "partition": "train",
+          "page": 24,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-parimarjan_sudhir_karkhanis/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-parimarjan_sudhir_karkhanis",
+          "title": "परिमार्जन",
+          "language": "mar",
+          "partition": "train",
+          "page": 48,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-parimarjan_sudhir_karkhanis/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-parimarjan_sudhir_karkhanis",
+          "title": "परिमार्जन",
+          "language": "mar",
+          "partition": "train",
+          "page": 71,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-parimarjan_sudhir_karkhanis/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/parimarjan_sudhir_karkhanis.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pinjaraa_sanjay_bansode.pdf",
+      "bytes": 1273567,
+      "sha256": "c266c9e61f7ee471e7802bdd40b592307e66e0cd6a9814b4e07c17ee996773bc",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "esahity-pinjaraa_sanjay_bansode",
+          "title": "पिंजरा",
+          "language": "mar",
+          "partition": "train",
+          "page": 14,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-pinjaraa_sanjay_bansode/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-pinjaraa_sanjay_bansode",
+          "title": "पिंजरा",
+          "language": "mar",
+          "partition": "train",
+          "page": 28,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-pinjaraa_sanjay_bansode/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "esahity-pinjaraa_sanjay_bansode",
+          "title": "पिंजरा",
+          "language": "mar",
+          "partition": "train",
+          "page": 41,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/esahity-pinjaraa_sanjay_bansode/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/pinjaraa_sanjay_bansode.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0055.pdf",
+      "bytes": 119105,
+      "sha256": "9ab4c8febff47ce5eb1958965116eaf40a814c53c5033ac3ea515623f5f363fe",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0055.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0145.pdf",
+      "bytes": 126504,
+      "sha256": "5db4dabac64628e7dc82bde4115eec178785a12272ed4376d196363af4d7e8e5",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0145.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0172.pdf",
+      "bytes": 508935,
+      "sha256": "c26a0e9353f5a0824141971517d84bfba845f2d719ba265adbfcb169ad4095a3",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0172.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0217.pdf",
+      "bytes": 598017,
+      "sha256": "46d2a8a54247d69e1fdf76a03030f5e950450d0242455c18cb1049f2791dbac6",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0217.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0263.pdf",
+      "bytes": 230723,
+      "sha256": "20c14366dea453a9c1b99a35740018c8ce144f91568cc78d597d820e260c6cf0",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0263.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0295.pdf",
+      "bytes": 195941,
+      "sha256": "d94a157533dfbb35006fd28f6221c18d46932a76617f779de7195c4baef2db80",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0295.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0301.pdf",
+      "bytes": 184933,
+      "sha256": "e93322171f04819c32693463dedc00869df9028c41d229c96d047da4980f66bd",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0301.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0404.pdf",
+      "bytes": 1034688,
+      "sha256": "73190cb6cef9077dfa3b59429b4081748504c896a1edc3aebf5b36853f1e0c58",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0404.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0410.pdf",
+      "bytes": 397341,
+      "sha256": "b26d2e44155d4ad02c1159d291d005f83393af522dddf3b604ea2e7614e753af",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0410.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0413.pdf",
+      "bytes": 577112,
+      "sha256": "bf33bc15d989337c29efcda8008b59fa2beeaebc849c7b397c4331b50da309c1",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "pm-work-413",
+          "title": "வேளிர் வரலாறு",
+          "language": "tam",
+          "partition": "train",
+          "page": 48,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/pm-work-413/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "pm-work-413",
+          "title": "வேளிர் வரலாறு",
+          "language": "tam",
+          "partition": "train",
+          "page": 71,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/pm-work-413/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0413.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0695.pdf",
+      "bytes": 439517,
+      "sha256": "8e5d387b01289e9e0b63fbe0abf85522840b983f72f44a70947c3c9ae870ede6",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0695.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0732.pdf",
+      "bytes": 642567,
+      "sha256": "788e04d069cf6e6fd0de0cbd4d6390273070ef2bf1703194e09a6da688c0d912",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0732.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0734.pdf",
+      "bytes": 959707,
+      "sha256": "55d807a83ac860a1b6dc3695566dbeebfd24ff41b8c59e12254b596537a10d5d",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0734.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0758.pdf",
+      "bytes": 385748,
+      "sha256": "cfa3fb3c13b7a380425d01c236e3d404430b13cbf223607d2b8df5243fac3556",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0758.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0839.pdf",
+      "bytes": 913161,
+      "sha256": "4aa0de95ec15cdb4c608bc8bc288431a2d1a31fb8c556a54a63641455de7109a",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "pm-work-839",
+          "title": "நெற்றிக் கண் (2 பாகங்களாக)",
+          "language": "tam",
+          "partition": "train",
+          "page": 49,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/pm-work-839/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "pm-work-839",
+          "title": "நெற்றிக் கண் (2 பாகங்களாக)",
+          "language": "tam",
+          "partition": "train",
+          "page": 98,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/pm-work-839/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        },
+        {
+          "work_id": "pm-work-839",
+          "title": "நெற்றிக் கண் (2 பாகங்களாக)",
+          "language": "tam",
+          "partition": "train",
+          "page": 147,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/pm-work-839/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0839.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0902.pdf",
+      "bytes": 442361,
+      "sha256": "018fddc4d5eb5663ccfd91c4ce1fd39b06424a81896e6f728f626f63a00bb1c1",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0902.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhcu1/fhcu101.pdf",
+      "bytes": 3040802,
+      "sha256": "1fdf63f1eb1562fcc1feae9912bf7d4f8aeb3904e762cf5b435953f2e1dbe8d6",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-fhcu1",
+          "title": "Jigyasa",
+          "language": "hin",
+          "partition": "train",
+          "page": 4,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-fhcu1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhcu101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhcu1/fhcu106.pdf",
+      "bytes": 7438368,
+      "sha256": "4ca8aa672a3012d6d084ecd9402b2f621807c2c2f5c230e7e8a1d139f3617bad",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-fhcu1",
+          "title": "Jigyasa",
+          "language": "hin",
+          "partition": "train",
+          "page": 10,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-fhcu1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhcu106.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhcu1/fhcu112.pdf",
+      "bytes": 8300375,
+      "sha256": "ee8d1b18e9b4a59629e780809586a5eb2e8ab2468b141d9a2a6e3052c3ade359",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-fhcu1",
+          "title": "Jigyasa",
+          "language": "hin",
+          "partition": "train",
+          "page": 12,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-fhcu1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhcu112.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhcu1/fhcu1ps.pdf",
+      "bytes": 3217821,
+      "sha256": "de18a3f0383c4a8923c8bf87d323befc9ca4d755e89df010670f3cdf37b29a46",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhcu1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhgp1/fhgp101.pdf",
+      "bytes": 1215475,
+      "sha256": "691c407f1c2e5366275de0ec238a4b88beea196540e5c341cb6a3e76a6d2d9a4",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-fhgp1",
+          "title": "Ganita Prakash (Hindi)",
+          "language": "hin",
+          "partition": "development",
+          "page": 6,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-fhgp1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhgp101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhgp1/fhgp105.pdf",
+      "bytes": 2281656,
+      "sha256": "c9215282c8609cf0dd95198e3b8bac51771ef5e799c9da06a30bc7009ec2c9c7",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-fhgp1",
+          "title": "Ganita Prakash (Hindi)",
+          "language": "hin",
+          "partition": "development",
+          "page": 11,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-fhgp1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhgp105.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhgp1/fhgp110.pdf",
+      "bytes": 4488391,
+      "sha256": "900dcf3fb1d1cc85cf2e1fe77ff4d7caf52a82ce11701fd6148e86f95b149adb",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-fhgp1",
+          "title": "Ganita Prakash (Hindi)",
+          "language": "hin",
+          "partition": "development",
+          "page": 22,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-fhgp1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhgp110.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fhgp1/fhgp1ps.pdf",
+      "bytes": 2500432,
+      "sha256": "a8c73a75f317efb4b2950c065c8fbe13be5adc9bb7cdb63cc5dc56364b2e93e6",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fhgp1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrcu1/fmrcu101.pdf",
+      "bytes": 9207247,
+      "sha256": "2329c820cae85619974244cc47852e251bfdd0b505a33f864a9b950142480307",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-fmrcu1",
+          "title": "Curiosity (Marathi)",
+          "language": "mar",
+          "partition": "train",
+          "page": 4,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-fmrcu1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrcu101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrcu1/fmrcu106.pdf",
+      "bytes": 23378234,
+      "sha256": "be92e2fb1232f894ccf13b0bccdbc13fb8f952f37eadc0df366cb6c0d733843e",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-fmrcu1",
+          "title": "Curiosity (Marathi)",
+          "language": "mar",
+          "partition": "train",
+          "page": 11,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-fmrcu1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrcu106.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrcu1/fmrcu112.pdf",
+      "bytes": 26620621,
+      "sha256": "760dffff708cd1ad5bed5c758d004bc42a018010415e75999e9d37ba8cd3b286",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-fmrcu1",
+          "title": "Curiosity (Marathi)",
+          "language": "mar",
+          "partition": "train",
+          "page": 12,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-fmrcu1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrcu112.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrcu1/fmrcu1ps.pdf",
+      "bytes": 5649622,
+      "sha256": "8fa77732780e1e8adae71b92e5003998027bf6384b490dab94c689725b70428b",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrcu1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrgp1/fmrgp101.pdf",
+      "bytes": 1559166,
+      "sha256": "f61db24df27b59a7361d7148f9b82e99bf364b647a7b12c425da9b90482f29f8",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-fmrgp1",
+          "title": "Ganita Prakash (Marathi)",
+          "language": "mar",
+          "partition": "development",
+          "page": 6,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-fmrgp1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrgp101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrgp1/fmrgp105.pdf",
+      "bytes": 3444162,
+      "sha256": "52d380d819f9170aa36a5ff14a0e6d7c46d739fd6c98c2f6c25b720c6b201fd8",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-fmrgp1",
+          "title": "Ganita Prakash (Marathi)",
+          "language": "mar",
+          "partition": "development",
+          "page": 11,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-fmrgp1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrgp105.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrgp1/fmrgp110.pdf",
+      "bytes": 8694558,
+      "sha256": "ef35d01777d2c8110972a1196efbe8fd6e710400fd1bde503a722e8917c1e733",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-fmrgp1",
+          "title": "Ganita Prakash (Marathi)",
+          "language": "mar",
+          "partition": "development",
+          "page": 22,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-fmrgp1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrgp110.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/fmrgp1/fmrgp1ps.pdf",
+      "bytes": 4057837,
+      "sha256": "e4a22661a59e2313811dd9d666460392bd3f502c12ebd046f6dd80704d53d149",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/fmrgp1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmcu1/ftmcu101.pdf",
+      "bytes": 9154604,
+      "sha256": "b0683ce7d5fb858eca7ef4350ed680026ef026983bba7ba4ddd923e046cb65cd",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ftmcu1",
+          "title": "Curiosity (Tamil)",
+          "language": "tam",
+          "partition": "train",
+          "page": 4,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ftmcu1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmcu101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmcu1/ftmcu106.pdf",
+      "bytes": 23073114,
+      "sha256": "0cbb649866a2783d1c396cba3dbb62a702bc9eb0fce606da74a7560e1ab9cdc7",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ftmcu1",
+          "title": "Curiosity (Tamil)",
+          "language": "tam",
+          "partition": "train",
+          "page": 11,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ftmcu1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmcu106.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmcu1/ftmcu112.pdf",
+      "bytes": 26996459,
+      "sha256": "fc07140ecabd507ef827625af2e2e15821e0952250f50d54ea46b7f9836fdc43",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ftmcu1",
+          "title": "Curiosity (Tamil)",
+          "language": "tam",
+          "partition": "train",
+          "page": 12,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ftmcu1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmcu112.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmcu1/ftmcu1ps.pdf",
+      "bytes": 5718444,
+      "sha256": "93369c194dd65b02f34e0d06f55d0bc46f74179e4e7e4238575924b8c6606415",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmcu1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmgp1/ftmgp101.pdf",
+      "bytes": 1085735,
+      "sha256": "f8975ab2e6910c5c2468a28f658e3c26de30e9bc5b492736801774a3336e40e6",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ftmgp1",
+          "title": "Ganita Prakash (Tamil)",
+          "language": "tam",
+          "partition": "development",
+          "page": 6,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ftmgp1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmgp101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmgp1/ftmgp105.pdf",
+      "bytes": 2138109,
+      "sha256": "fc2d791ed1b73648ab72d513df353317d1fbd65232ece43b88ca38407a66cd05",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ftmgp1",
+          "title": "Ganita Prakash (Tamil)",
+          "language": "tam",
+          "partition": "development",
+          "page": 11,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ftmgp1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmgp105.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmgp1/ftmgp110.pdf",
+      "bytes": 3825528,
+      "sha256": "00938d7801917644e42d336ce60b26a6ab31a647c2a12979d2d487e02146f79d",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ftmgp1",
+          "title": "Ganita Prakash (Tamil)",
+          "language": "tam",
+          "partition": "development",
+          "page": 22,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ftmgp1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmgp110.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ftmgp1/ftmgp1ps.pdf",
+      "bytes": 3020576,
+      "sha256": "f5dc4891690c3959ba9ec27333548f28c8afb63cf2ec080b8934c2d161f9e84d",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ftmgp1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghcu1/ghcu101.pdf",
+      "bytes": 1584307,
+      "sha256": "5b1292be16b3212da537e3ba3fb51f76a6a52537d0aa729aaa7fbe28513a6aa1",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ghcu1",
+          "title": "Jigyasa",
+          "language": "hin",
+          "partition": "test",
+          "page": 3,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ghcu1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghcu101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghcu1/ghcu106.pdf",
+      "bytes": 4167642,
+      "sha256": "99a5781464f9c7d3a824eba2ca01d7661e696037fa45b8de3955651a8a9f6ef0",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ghcu1",
+          "title": "Jigyasa",
+          "language": "hin",
+          "partition": "test",
+          "page": 8,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ghcu1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghcu106.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghcu1/ghcu112.pdf",
+      "bytes": 5466945,
+      "sha256": "7e70fd6fd34f0af9a27b58161851cfe47fbbae2770be6aa3b14747e614ec631d",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ghcu1",
+          "title": "Jigyasa",
+          "language": "hin",
+          "partition": "test",
+          "page": 10,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ghcu1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghcu112.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghcu1/ghcu1ps.pdf",
+      "bytes": 4035918,
+      "sha256": "68c5024ad6963d53e60e201bd8af577c4e454cf31674c18d936170039a6afdcb",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghcu1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghgp1/ghgp101.pdf",
+      "bytes": 9692276,
+      "sha256": "e76c95903c955a47c4443b19cb119e5478e885fe81d56aad819c1dfb397ed86d",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ghgp1",
+          "title": "Ganita Prakash(Hindi)",
+          "language": "hin",
+          "partition": "test",
+          "page": 12,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ghgp1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghgp101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghgp1/ghgp104.pdf",
+      "bytes": 4148409,
+      "sha256": "d8bd19f09d31035fdd6a6c3d5bc71d27f249ff1dba83badbf53010076c02997b",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ghgp1",
+          "title": "Ganita Prakash(Hindi)",
+          "language": "hin",
+          "partition": "test",
+          "page": 12,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ghgp1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghgp104.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghgp1/ghgp108.pdf",
+      "bytes": 7519347,
+      "sha256": "2a8bedb7a506aa17d26683a391e1f04cdb8f87963b979955efc9588314dad5c2",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ghgp1",
+          "title": "Ganita Prakash(Hindi)",
+          "language": "hin",
+          "partition": "test",
+          "page": 16,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ghgp1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghgp108.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/ghgp1/ghgp1ps.pdf",
+      "bytes": 5455926,
+      "sha256": "c910aad560ce2eb744cdeeab77651e924be2f2e3f1dc2e4ccc3b868d2a35c229",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ghgp1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrcu1/gmrcu101.pdf",
+      "bytes": 5732125,
+      "sha256": "115c8bc2588f8db6f1e38ad2243b40ed7b0d13f061e80a0223c989746f228449",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-gmrcu1",
+          "title": "Curiosity (Marathi)",
+          "language": "mar",
+          "partition": "test",
+          "page": 3,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-gmrcu1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrcu101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrcu1/gmrcu106.pdf",
+      "bytes": 10245342,
+      "sha256": "e5d3f82071177915b97d4bbecaabcf0e75d9d68eb167cdbd5670b67f909e4d98",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-gmrcu1",
+          "title": "Curiosity (Marathi)",
+          "language": "mar",
+          "partition": "test",
+          "page": 8,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-gmrcu1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrcu106.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrcu1/gmrcu112.pdf",
+      "bytes": 17316181,
+      "sha256": "7e42d6ba98012135ebd88ebe52098a8dbb291f96045efb0174b11bfcc50da721",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-gmrcu1",
+          "title": "Curiosity (Marathi)",
+          "language": "mar",
+          "partition": "test",
+          "page": 10,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-gmrcu1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrcu112.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrcu1/gmrcu1ps.pdf",
+      "bytes": 10014450,
+      "sha256": "d5a9316486c18af0a73e7600a6ac2a5c309f9ccceef51f2c4c2e04953573bdb5",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrcu1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrgp1/gmrgp101.pdf",
+      "bytes": 9562853,
+      "sha256": "26e6703d023c66b3c64bc2a8af89bd8e24e9483e85b591b267f2dbb4732f2814",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-gmrgp1",
+          "title": "Ganita Prakash(Marathi)",
+          "language": "mar",
+          "partition": "test",
+          "page": 12,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-gmrgp1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrgp101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrgp1/gmrgp104.pdf",
+      "bytes": 3784998,
+      "sha256": "ed9a08cc6ff9d02b9f478c32e5445e56a466a1d826e886504da01bb7484bfecf",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-gmrgp1",
+          "title": "Ganita Prakash(Marathi)",
+          "language": "mar",
+          "partition": "test",
+          "page": 12,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-gmrgp1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrgp104.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrgp1/gmrgp108.pdf",
+      "bytes": 5753331,
+      "sha256": "9b8b9335b2cc5733a010c0921b51f00a7948c57610638ee78771415f1fb38862",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-gmrgp1",
+          "title": "Ganita Prakash(Marathi)",
+          "language": "mar",
+          "partition": "test",
+          "page": 15,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-gmrgp1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrgp108.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gmrgp1/gmrgp1ps.pdf",
+      "bytes": 4934111,
+      "sha256": "e63833371e52f5d252a889fb388c47ca85419903172958d83c5c1303bfcf1904",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gmrgp1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gtmcu1/gtmcu101.pdf",
+      "bytes": 5788800,
+      "sha256": "9486048adabf07ef459377160dd6412520d09a3d5a845270a4d71cc9f5c06bae",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-gtmcu1",
+          "title": "Curiosity (Tamil)",
+          "language": "tam",
+          "partition": "test",
+          "page": 3,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-gtmcu1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gtmcu101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gtmcu1/gtmcu106.pdf",
+      "bytes": 10398742,
+      "sha256": "0d9aa1258f8f6b85c109c8bd9b5f0465e4b8d26acda3951117b9b1a7d789d5fe",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-gtmcu1",
+          "title": "Curiosity (Tamil)",
+          "language": "tam",
+          "partition": "test",
+          "page": 8,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-gtmcu1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gtmcu106.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gtmcu1/gtmcu112.pdf",
+      "bytes": 17422100,
+      "sha256": "d2a4aa6c3f4e345b287504d9a569ef0865788335a04fc0bc6f934d987564ba7d",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "test"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-gtmcu1",
+          "title": "Curiosity (Tamil)",
+          "language": "tam",
+          "partition": "test",
+          "page": 10,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-gtmcu1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gtmcu112.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gtmcu1/gtmcu1ps.pdf",
+      "bytes": 9959746,
+      "sha256": "6cb13fe1a3f95496875c6ce3461bbd8db69a75d8068974071c9fb4b1e370c68a",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gtmcu1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gtmgp1/gtmgp101.pdf",
+      "bytes": 8761303,
+      "sha256": "a41aab2019399078d4babf37efdc93cf7c5c544462379e005e807e1a31967368",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gtmgp101.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gtmgp1/gtmgp104.pdf",
+      "bytes": 3863673,
+      "sha256": "6147ee823332ceb228181b640d5612c7e7cfe927c0dd8644767ad46dad3390c7",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gtmgp104.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/gtmgp1/gtmgp1ps.pdf",
+      "bytes": 4965324,
+      "sha256": "79a9b0fdeb2695621527cd93ca57548450313aa4796b1c9cf5848f4f709e83c6",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/gtmgp1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhcu1/hhcu101.pdf",
+      "bytes": 1686252,
+      "sha256": "865fcededf7c58ff98669f4e4d1691b967c791902076ca922a5932b141366b5d",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-hhcu1",
+          "title": "Jigyasa",
+          "language": "hin",
+          "partition": "development",
+          "page": 4,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-hhcu1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhcu101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhcu1/hhcu106.pdf",
+      "bytes": 4516876,
+      "sha256": "3c40ba693224eb664a7f8d47121bb9592cf1ec9c66af596391d868adf4ce8014",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-hhcu1",
+          "title": "Jigyasa",
+          "language": "hin",
+          "partition": "development",
+          "page": 9,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-hhcu1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhcu106.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhcu1/hhcu113.pdf",
+      "bytes": 4063391,
+      "sha256": "8b29c8e723b1263d9f3c474ccd0c6d336430c4b3c24ffacaa4f7da7a3eba1d2a",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-hhcu1",
+          "title": "Jigyasa",
+          "language": "hin",
+          "partition": "development",
+          "page": 10,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-hhcu1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhcu113.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhcu1/hhcu1ps.pdf",
+      "bytes": 2725977,
+      "sha256": "0d1a75894904e6c927e3e899db188ea8ee8fd2b25b35b9b1d614318eb6815dee",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhcu1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhgp1/hhgp101.pdf",
+      "bytes": 2748242,
+      "sha256": "384e7107448be90581c78be73d40f9adbff2cf58e7ac424d5f9185a770936c4d",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-hhgp1",
+          "title": "Ganita Prakash Part-I (Hindi)",
+          "language": "hin",
+          "partition": "train",
+          "page": 9,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-hhgp1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhgp101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhgp1/hhgp103.pdf",
+      "bytes": 8106106,
+      "sha256": "636993bae8374bb34828061a88dd81a8d8a51d3832f81ec5c965c10c9473b9c1",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-hhgp1",
+          "title": "Ganita Prakash Part-I (Hindi)",
+          "language": "hin",
+          "partition": "train",
+          "page": 17,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-hhgp1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhgp103.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhgp1/hhgp107.pdf",
+      "bytes": 4089471,
+      "sha256": "4a86511ef9f76d3b1cc64cf89b74f67e98f531a31f53c432b8d150929d4c5a80",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-hhgp1",
+          "title": "Ganita Prakash Part-I (Hindi)",
+          "language": "hin",
+          "partition": "train",
+          "page": 11,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-hhgp1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhgp107.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hhgp1/hhgp1ps.pdf",
+      "bytes": 4948112,
+      "sha256": "6b0ac4377f6b300e3b66481f56793f0707affc0488756c90cefb25fbe7e82666",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hhgp1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hmrcu1/hmrcu101.pdf",
+      "bytes": 5458629,
+      "sha256": "5692d79677bf9b5579d0b24eb8a7d4b0060b1e328fd369d34cf6e9e90bb50be6",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hmrcu101.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hmrcu1/hmrcu106.pdf",
+      "bytes": 8593807,
+      "sha256": "e7438c3f1121e06a4a85fef912d1ea3d61ccd9753a718751699f47bccb6f8448",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hmrcu106.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hmrcu1/hmrcu113.pdf",
+      "bytes": 12233556,
+      "sha256": "1df6c48f20e17705c020005ddf898d600da3078b2b7dec720ad675f3757cdd33",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hmrcu113.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hmrgp1/hmrgp101.pdf",
+      "bytes": 5290826,
+      "sha256": "4dbc2f305ba3e6da3f71003f80fa238b9a4cbdf8635b8888ad874d184fd2e8f3",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-hmrgp1",
+          "title": "Ganita Prakash Part-I (Marathi)",
+          "language": "mar",
+          "partition": "train",
+          "page": 9,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-hmrgp1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hmrgp101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hmrgp1/hmrgp103.pdf",
+      "bytes": 21734518,
+      "sha256": "ab988a464df62fb0eac16905d5c1da18893788ebdc54dcc7fefcdab83d8398d0",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-hmrgp1",
+          "title": "Ganita Prakash Part-I (Marathi)",
+          "language": "mar",
+          "partition": "train",
+          "page": 17,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-hmrgp1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hmrgp103.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hmrgp1/hmrgp107.pdf",
+      "bytes": 6762173,
+      "sha256": "c024b442148bf853d48097f9f3041fb7e5a2c0175f2a5a21c53d1d16c4aa93e6",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-hmrgp1",
+          "title": "Ganita Prakash Part-I (Marathi)",
+          "language": "mar",
+          "partition": "train",
+          "page": 11,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-hmrgp1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hmrgp107.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/hmrgp1/hmrgp1ps.pdf",
+      "bytes": 5068688,
+      "sha256": "20817e4dc90f95061ef97342cb84cd9ff88d8efc9a7d683836f173ddccb39881",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/hmrgp1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmcu1/htmcu101.pdf",
+      "bytes": 5497835,
+      "sha256": "d9073a8b95faead6c0cea69eb6a756e01b0cf8e9ae3602c9432c466bd0265441",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-htmcu1",
+          "title": "Curiosity (Tamil)",
+          "language": "tam",
+          "partition": "development",
+          "page": 4,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-htmcu1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmcu101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmcu1/htmcu106.pdf",
+      "bytes": 8522537,
+      "sha256": "39f6d66a38ed7d9a9f20eee6baf0b1e9ce6ea3e3abba1dd5cdd3d43bf56dc5a0",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-htmcu1",
+          "title": "Curiosity (Tamil)",
+          "language": "tam",
+          "partition": "development",
+          "page": 9,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-htmcu1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmcu106.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmcu1/htmcu113.pdf",
+      "bytes": 12303045,
+      "sha256": "21d30976fd048906f2f170999ed43cb9edf36646713d80b8b67dd295eb4cbc06",
+      "used_for_current_model_fitting": false,
+      "partitions": [
+        "development"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-htmcu1",
+          "title": "Curiosity (Tamil)",
+          "language": "tam",
+          "partition": "development",
+          "page": 10,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-htmcu1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmcu113.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmcu1/htmcu1ps.pdf",
+      "bytes": 7477930,
+      "sha256": "3acd78ec122ec0635082a0e47a448127aad74d6e1b27046f79860ffec3e62472",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmcu1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmgp1/htmgp101.pdf",
+      "bytes": 5342181,
+      "sha256": "0aab92170a468eca43faa24a1553aebdce926d7b3ae85aa0816e3de062ed9950",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-htmgp1",
+          "title": "Ganita Prakash Part-I (Tamil)",
+          "language": "tam",
+          "partition": "train",
+          "page": 9,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-htmgp1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmgp101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmgp1/htmgp103.pdf",
+      "bytes": 21616819,
+      "sha256": "7ba26746f1122faa711fb4dd5d281a157f76aad56a2a002d3faeae2bfa15d017",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-htmgp1",
+          "title": "Ganita Prakash Part-I (Tamil)",
+          "language": "tam",
+          "partition": "train",
+          "page": 17,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-htmgp1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmgp103.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmgp1/htmgp107.pdf",
+      "bytes": 6773110,
+      "sha256": "191d55b2700c88e2927e198518fcf942f6f1001ee3276f652e29ce4e20b51439",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-htmgp1",
+          "title": "Ganita Prakash Part-I (Tamil)",
+          "language": "tam",
+          "partition": "train",
+          "page": 11,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-htmgp1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmgp107.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/htmgp1/htmgp1ps.pdf",
+      "bytes": 4767294,
+      "sha256": "9379a24d3f35ebd41dbf6f5d03f2d4f1006c1c02e6df62e384b680593c1021a6",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/htmgp1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khac1/khac101.pdf",
+      "bytes": 2043250,
+      "sha256": "a37da97358e8e48ac023c10faaeba7948a1a2435d94e7aac91a9e0118afb8055",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khac1",
+          "title": "Lekhashastra-I",
+          "language": "hin",
+          "partition": "train",
+          "page": 12,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khac1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khac101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khac1/khac103.pdf",
+      "bytes": 4285919,
+      "sha256": "c514578e53c372327e8a226eb0910d779ba04de3380cad63f21359716f0cbfa5",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khac1",
+          "title": "Lekhashastra-I",
+          "language": "hin",
+          "partition": "train",
+          "page": 28,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khac1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khac103.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khac1/khac107.pdf",
+      "bytes": 4352179,
+      "sha256": "19d6f32dc825eb0a297e20b98e392a86977f658f0da131ec44435f055ac50454",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khac1",
+          "title": "Lekhashastra-I",
+          "language": "hin",
+          "partition": "train",
+          "page": 28,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khac1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khac107.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khac1/khac1ps.pdf",
+      "bytes": 1749931,
+      "sha256": "83f751e5f8570a18f67161d1182caade6de3fb539d97113635b1c962af91f24f",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khac1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khbo1/khbo101.pdf",
+      "bytes": 723044,
+      "sha256": "f6de620e83320bca82008fea1e8f78c853676346d705ebcbbf2e768381caf122",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khbo1",
+          "title": "Jeev Vigyan",
+          "language": "hin",
+          "partition": "train",
+          "page": 4,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khbo1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khbo101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khbo1/khbo109.pdf",
+      "bytes": 1265520,
+      "sha256": "f0c5f574fc6d7e3506db08bf3af9591b366f59f1f26ab72264dd5b6c2b169e77",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khbo1",
+          "title": "Jeev Vigyan",
+          "language": "hin",
+          "partition": "train",
+          "page": 8,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khbo1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khbo109.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khbo1/khbo119.pdf",
+      "bytes": 1349390,
+      "sha256": "c625fb99c218423eca9f1115f8f6c2559efe58db44d9516b1238542106840d2e",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khbo1",
+          "title": "Jeev Vigyan",
+          "language": "hin",
+          "partition": "train",
+          "page": 7,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khbo1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khbo119.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khbo1/khbo1ps.pdf",
+      "bytes": 1591749,
+      "sha256": "4eadf45f2384d08cfafe0683b5ea64ae3541a104dbf1322a74931261410230c5",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khbo1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khch1/khch101.pdf",
+      "bytes": 9110310,
+      "sha256": "b1af3b16e51831c0f655a151bb92f5e5fcf2a4da561449dcc77f5887fb783c42",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khch1",
+          "title": "Rasayan Vigyan bhag-I",
+          "language": "hin",
+          "partition": "train",
+          "page": 14,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khch1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khch101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khch1/khch103.pdf",
+      "bytes": 3192980,
+      "sha256": "1f1dc743e6e1a1526959124eaea7e392c9165ffb6726396b95c61747266c73ea",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khch1",
+          "title": "Rasayan Vigyan bhag-I",
+          "language": "hin",
+          "partition": "train",
+          "page": 14,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khch1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khch103.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khch1/khch106.pdf",
+      "bytes": 5240452,
+      "sha256": "ee54c7e6609a1bb28207220e7cd3c354ad291bda842ab24e6e69401d7218f40e",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khch1",
+          "title": "Rasayan Vigyan bhag-I",
+          "language": "hin",
+          "partition": "train",
+          "page": 23,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khch1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khch106.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khch1/khch1ps.pdf",
+      "bytes": 1495974,
+      "sha256": "26cf78eddba62d29d0eee8b62739681fe59983a16829113846047d0a4e261f5e",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khch1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khec1/khec101.pdf",
+      "bytes": 1635113,
+      "sha256": "770896d406f41983ea5a517101ef82b027cedd647454cd13ed4e83e1f09a51d5",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khec1",
+          "title": "Bhartiya Airthryavstha Ka Vikas",
+          "language": "hin",
+          "partition": "train",
+          "page": 8,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khec1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khec101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khec1/khec104.pdf",
+      "bytes": 1692987,
+      "sha256": "dc8612f2e390b02410d1ddd008ebc6155fda8ffcc5358c30d1b9e671afe7c285",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khec1",
+          "title": "Bhartiya Airthryavstha Ka Vikas",
+          "language": "hin",
+          "partition": "train",
+          "page": 10,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khec1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khec104.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khec1/khec108.pdf",
+      "bytes": 1521321,
+      "sha256": "80f71c6805c7f527aaf4974f0e6779c59a274b1b935e754ca5e689cf7a4e7b22",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khec1",
+          "title": "Bhartiya Airthryavstha Ka Vikas",
+          "language": "hin",
+          "partition": "train",
+          "page": 10,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khec1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khec108.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khec1/khec1ps.pdf",
+      "bytes": 1678031,
+      "sha256": "80217007f725ed4e263e9732b2e51a43d40e4b238bcf6be4b79c274f541e0ead",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khec1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khfa1/khfa101.pdf",
+      "bytes": 2504229,
+      "sha256": "a857237027b0e4813217228f287a641810e3078bdf3ed8a723be0c7fd42d1cd9",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khfa1",
+          "title": "Bhartiya Kala ka parichay",
+          "language": "hin",
+          "partition": "train",
+          "page": 4,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khfa1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khfa101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khfa1/khfa104.pdf",
+      "bytes": 17667395,
+      "sha256": "4e0a39d9d70ab243bffa3fd72f3d5424c8360a8402be8ae7250cab3a8d883532",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khfa1",
+          "title": "Bhartiya Kala ka parichay",
+          "language": "hin",
+          "partition": "train",
+          "page": 17,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khfa1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khfa104.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khfa1/khfa108.pdf",
+      "bytes": 6826354,
+      "sha256": "4214affeba9fdb8ca01579050436ddba087c8531314cca772a7cc09b3e9d418d",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khfa1",
+          "title": "Bhartiya Kala ka parichay",
+          "language": "hin",
+          "partition": "train",
+          "page": 12,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khfa1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khfa108.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khfa1/khfa1ps.pdf",
+      "bytes": 3288949,
+      "sha256": "3a40d9848dfaed0a8c4afd451f09188529c69556f3d36c21e0e66c1becc4a7ec",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khfa1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khgy2/khgy201.pdf",
+      "bytes": 1073791,
+      "sha256": "a7f0faa5e19acc36853c966f64dc6978e832512da03d22be0e5ce1df3b767d71",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khgy201.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khgy2/khgy207.pdf",
+      "bytes": 403729,
+      "sha256": "617bad29b2ac38d3e76879c06d479ebad69e249975c32e53b8e713efa5a8c09c",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khgy207.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khgy2/khgy214.pdf",
+      "bytes": 1037213,
+      "sha256": "a06c59ef4b996a7dd7ef41ebb8f09fe771df17cdd3e8594050e4f685fed52e32",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khgy214.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khgy2/khgy2ps.pdf",
+      "bytes": 816418,
+      "sha256": "7772e4942d548f5c8078fb347e1134fa2c01c54d74aab6fd71570ae04bbe0972",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khgy2ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khph1/khph101.pdf",
+      "bytes": 1004584,
+      "sha256": "c67c7083043102e2d90f3488ad40bda3dc15733f034986386bd3109584072002",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khph1",
+          "title": "Bhautiki-I",
+          "language": "hin",
+          "partition": "train",
+          "page": 6,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khph1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khph101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khph1/khph103.pdf",
+      "bytes": 1936625,
+      "sha256": "070e43220444c088734ee2dc0663b17a93d7b8729782ad40b7592b2620d4d023",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khph1",
+          "title": "Bhautiki-I",
+          "language": "hin",
+          "partition": "train",
+          "page": 11,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khph1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khph103.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khph1/khph107.pdf",
+      "bytes": 1547938,
+      "sha256": "680c02417dd686b27836caf2e0c7136edbc455d47c7371a74af5233f90529bed",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khph1",
+          "title": "Bhautiki-I",
+          "language": "hin",
+          "partition": "train",
+          "page": 9,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khph1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khph107.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khph1/khph1ps.pdf",
+      "bytes": 1817741,
+      "sha256": "a1eddec152eecf398aa2506dc918e8f9649ab3fd99a5669d28400d3a5bd594fd",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khph1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khps1/khps101.pdf",
+      "bytes": 1749059,
+      "sha256": "f9a1b0b80031ddedf795dff2f1d10a8509275984268afa0c078fe03ea47205ab",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khps1",
+          "title": "Raajneeti Sidhant",
+          "language": "hin",
+          "partition": "train",
+          "page": 8,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khps1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khps101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khps1/khps104.pdf",
+      "bytes": 2029072,
+      "sha256": "5e0cde0eabb1a28cf4f2596b04ad23a12d4d67f7c9e7c476c7a414c3fce4055a",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khps1",
+          "title": "Raajneeti Sidhant",
+          "language": "hin",
+          "partition": "train",
+          "page": 6,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khps1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khps104.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khps1/khps108.pdf",
+      "bytes": 2347693,
+      "sha256": "5ff349cdc1fd8ac6268c6f35cc815f43dd6508f5e376af2462572b8122ca4494",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khps1",
+          "title": "Raajneeti Sidhant",
+          "language": "hin",
+          "partition": "train",
+          "page": 10,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khps1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khps108.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khps1/khps1ps.pdf",
+      "bytes": 1686678,
+      "sha256": "4a245af998973ddc2acf44f35db4c6abce047324983c58ca90ecfcd0a3995fcc",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khps1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khpy1/khpy101.pdf",
+      "bytes": 2011449,
+      "sha256": "02eaa404f205e78b1ba1874b4aa7cea6088b3dc89bd3ac99e58fcd06d6e5c60e",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khpy1",
+          "title": "Manovigyan",
+          "language": "hin",
+          "partition": "train",
+          "page": 10,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khpy1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khpy101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khpy1/khpy104.pdf",
+      "bytes": 2000378,
+      "sha256": "875b094145cef8d97494e59eeeec8cc6270adf036bd833b021b84f6fa2756cfa",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khpy1",
+          "title": "Manovigyan",
+          "language": "hin",
+          "partition": "train",
+          "page": 9,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khpy1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khpy104.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khpy1/khpy108.pdf",
+      "bytes": 1633319,
+      "sha256": "9c02492f9eae92352897ee0d0c9f7c4a0d1a97ecc12c7662af73faee5c5f3e5b",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khpy1",
+          "title": "Manovigyan",
+          "language": "hin",
+          "partition": "train",
+          "page": 6,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khpy1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khpy108.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khpy1/khpy1ps.pdf",
+      "bytes": 1600465,
+      "sha256": "4433cbf1002486a1ee91d0f73f8cbb0f38ea3cb829154c643a482ec01c0e3e45",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khpy1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khsy1/khsy101.pdf",
+      "bytes": 4835241,
+      "sha256": "16ea3e6c0135c18b6aa6d45b5af8dd064b1c4166b49180830d815876927f83e5",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khsy1",
+          "title": "Samaj Shastra Parichay-I",
+          "language": "hin",
+          "partition": "train",
+          "page": 13,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khsy1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khsy101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khsy1/khsy102.pdf",
+      "bytes": 2177728,
+      "sha256": "8a522e25141c468d52f330e093078bb919d243df6ed896db2a9a80dc316833cb",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khsy1",
+          "title": "Samaj Shastra Parichay-I",
+          "language": "hin",
+          "partition": "train",
+          "page": 10,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khsy1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khsy102.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khsy1/khsy105.pdf",
+      "bytes": 2100537,
+      "sha256": "dc9a8d500b2ac5cdf3528abcca22737f2d4b00b7d2fbab55861f097f471351c3",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-khsy1",
+          "title": "Samaj Shastra Parichay-I",
+          "language": "hin",
+          "partition": "train",
+          "page": 12,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-khsy1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khsy105.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v3/books/khsy1/khsy1ps.pdf",
+      "bytes": 1908927,
+      "sha256": "425a62868e40804b0ec956a25a340e618b9ef11fbba47354367166b164d8eca4",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/khsy1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v4/books/ihmh1/ihmh101.pdf",
+      "bytes": 1464604,
+      "sha256": "8b2d44ef67fcb2b955ef0a35fb03034ebaf0b899cec6f415d9cb017ab00a138e",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ihmh1",
+          "title": "Ganita Manjari (Hindi)",
+          "language": "hin",
+          "partition": "train",
+          "page": 8,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ihmh1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ihmh101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v4/books/ihmh1/ihmh104.pdf",
+      "bytes": 2588681,
+      "sha256": "d0ac84635beeb59af9fbdd5ead4e43f36fcb07e969b8f9a5c1830a33de900ce1",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ihmh1",
+          "title": "Ganita Manjari (Hindi)",
+          "language": "hin",
+          "partition": "train",
+          "page": 12,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ihmh1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ihmh104.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v4/books/ihmh1/ihmh108.pdf",
+      "bytes": 2731135,
+      "sha256": "febd7a127ccd8e6c6579808787af9ff421af119e779ee8247916e91cd1c8c680",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-ihmh1",
+          "title": "Ganita Manjari (Hindi)",
+          "language": "hin",
+          "partition": "train",
+          "page": 14,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-ihmh1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ihmh108.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v4/books/ihmh1/ihmh1ps.pdf",
+      "bytes": 2785002,
+      "sha256": "2f5f7b7dacc24e7a51c5d951f6106950ee4dd1d910c6740770be1583ba23fa33",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/ihmh1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v4/books/jhmh1/jhmh101.pdf",
+      "bytes": 1041506,
+      "sha256": "c5dcccb4219568bd996bd5b8bd352f2dd402f78821b870c39fc8b253e0369c8a",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-jhmh1",
+          "title": "Ganit",
+          "language": "hin",
+          "partition": "train",
+          "page": 6,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-jhmh1/passage-1.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/jhmh101.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v4/books/jhmh1/jhmh107.pdf",
+      "bytes": 1403349,
+      "sha256": "b6750de18ec3c553445b0d2bdb98e48550b86c6e8dced847048e380415e362e4",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-jhmh1",
+          "title": "Ganit",
+          "language": "hin",
+          "partition": "train",
+          "page": 8,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-jhmh1/passage-2.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/jhmh107.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v4/books/jhmh1/jhmh114.pdf",
+      "bytes": 1566628,
+      "sha256": "075d5ae9fc2ef24ac8582f8643e313a5de5bf358e0be76315a5e5f0625fe46c6",
+      "used_for_current_model_fitting": true,
+      "partitions": [
+        "train"
+      ],
+      "passage_uses": [
+        {
+          "work_id": "ncert-jhmh1",
+          "title": "Ganit",
+          "language": "hin",
+          "partition": "train",
+          "page": 9,
+          "passage": "data/research/multilingual-pilot-v1/silver-pilot-v2/texts/ncert-jhmh1/passage-3.txt",
+          "method": "machine_ocr_240dpi"
+        }
+      ],
+      "source_url": "https://ncert.nic.in/textbook/pdf/jhmh114.pdf",
+      "role": "passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/acquisition-v4/books/jhmh1/jhmh1ps.pdf",
+      "bytes": 2444868,
+      "sha256": "c3a94c7c347882f6e2634434bfda01dc23584a1c46afe3db0927e6395126c9ee",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://ncert.nic.in/textbook/pdf/jhmh1ps.pdf",
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/intake-v1/label-review-v2/sources/iitgn-hindi-catalog.pdf",
+      "bytes": 1889738,
+      "sha256": "3d0fcb47c0b4fb9b2c4f5e3fb2a4f6ae9cc64ed3febbe95a0b10298be4c6bc0a",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": null,
+      "role": "reference_only"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/intake-v1/label-review-v2/sources/oclc-ddc23-summaries.pdf",
+      "bytes": 1791716,
+      "sha256": "87d9b5a163404878b05b675271a4b86ec3218e7646aa155657beac303c2bc455",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": null,
+      "role": "reference_only"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/intake-v1/label-review-v2/sources/vivekanand-marathi-catalog.pdf",
+      "bytes": 471963,
+      "sha256": "5f1436db02df07c5abe01b40cddf7e32cc2fcf25f6aa2aa2f64d8807e6a60b95",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": null,
+      "role": "reference_only"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/pdf-inbox/dasbodh_khand_2.pdf",
+      "bytes": 3138862,
+      "sha256": "0265036325d75847a308c39428eb6954d2a5be6a2a15d4ecc4d8a381712d74ca",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": null,
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/pdf-inbox/gandhi-autobiography-hindi.pdf",
+      "bytes": 3311306,
+      "sha256": "51fa6a24da5a3733f8c675351b98f7d85d8ea8769df4d55341a0cc9baf77a6b9",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": null,
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/pdf-inbox/godan_by_premchand.pdf",
+      "bytes": 2469030,
+      "sha256": "ea60e2269dc153d0b503014ca5878f81fe1a2492e55f9abd6109660d5e446b9d",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": null,
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/pdf-inbox/ponniyin-selvan.pdf",
+      "bytes": 11644914,
+      "sha256": "875ac51e939665c421a1445c7b0d18e07b76f5a1f7ee2d6ea99c906e6dcdac82",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": null,
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/pdf-inbox/shyamachi_aai.pdf",
+      "bytes": 1552113,
+      "sha256": "9dcf9536b454ed97a388616f7250f8f81afa572143cf0420681252ac8fd2b9c1",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": null,
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/pdf-inbox/tolkappiyar.pdf",
+      "bytes": 251008,
+      "sha256": "30e71124b13493be9b94eb6588debfa80c206aae65d42a5e9057fdb859e8b722",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": null,
+      "role": "collected_not_used_as_pdf_passage_source"
+    },
+    {
+      "path": "data/research/multilingual-pilot-v1/review-v3/sources/ddc23-summaries.pdf",
+      "bytes": 1791716,
+      "sha256": "87d9b5a163404878b05b675271a4b86ec3218e7646aa155657beac303c2bc455",
+      "used_for_current_model_fitting": false,
+      "partitions": [],
+      "passage_uses": [],
+      "source_url": "https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf",
+      "role": "reference_only"
+    }
+  ]
+}

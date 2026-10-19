@@ -1,0 +1,8 @@
+# Optional local scene-text readers; matches the project's torch 2.8 runtime.
+easyocr==1.7.2
+torchvision==0.23.0
+opencv-python-headless==4.11.0.86
+# RapidOCR declares opencv-python; align both distributions' shared cv2 files.
+opencv-python==4.11.0.86
+rapidocr==3.4.0
+onnxruntime==1.19.2

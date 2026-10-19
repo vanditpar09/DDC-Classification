@@ -1,0 +1,879 @@
+[
+  {
+    "file": "books/pm0055.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0055.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0055.pdf",
+      "retrieved_at": "2026-10-04T03:08:43.301033+00:00",
+      "bytes": 119105,
+      "sha256": "9ab4c8febff47ce5eb1958965116eaf40a814c53c5033ac3ea515623f5f363fe",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0055.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0055.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0055.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0055.html",
+      "retrieved_at": "2026-10-04T03:08:42.853048+00:00",
+      "bytes": 43164,
+      "sha256": "a70f3bed65a53bc97b90e79e54e2143d33f8a36878de81047dd6ec8e7acce2e9",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0055.html"
+    }
+  },
+  {
+    "file": "books/pm0145.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0145.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0145.pdf",
+      "retrieved_at": "2026-10-04T03:08:43.237497+00:00",
+      "bytes": 126504,
+      "sha256": "5db4dabac64628e7dc82bde4115eec178785a12272ed4376d196363af4d7e8e5",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0145.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0145.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0145.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0145.html",
+      "retrieved_at": "2026-10-04T03:08:44.299521+00:00",
+      "bytes": 36868,
+      "sha256": "f85e83296bd23caee7222a30d5df1cd5475bb7f3f82bd76eb29b129003cfcf1e",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0145.html"
+    }
+  },
+  {
+    "file": "books/pm0172.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0172.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0172.pdf",
+      "retrieved_at": "2026-10-04T03:08:45.670896+00:00",
+      "bytes": 508935,
+      "sha256": "c26a0e9353f5a0824141971517d84bfba845f2d719ba265adbfcb169ad4095a3",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0172.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0172.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0172.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0172.html",
+      "retrieved_at": "2026-10-04T03:08:49.300838+00:00",
+      "bytes": 1082893,
+      "sha256": "c7b97b91d1b1456d5ce88c401b6a8ad52d2077644cd5fb6b56c5dbb1c5433d65",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0172.html"
+    }
+  },
+  {
+    "file": "books/pm0217.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0217.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0217.pdf",
+      "retrieved_at": "2026-10-04T03:08:48.551474+00:00",
+      "bytes": 598017,
+      "sha256": "46d2a8a54247d69e1fdf76a03030f5e950450d0242455c18cb1049f2791dbac6",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0217.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0217.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0217.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0217.html",
+      "retrieved_at": "2026-10-04T03:08:57.499700+00:00",
+      "bytes": 1428807,
+      "sha256": "7ad30f37392c89c2b3168a2f5a8fe723b15461266fb066d8e928007579115969",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0217.html"
+    }
+  },
+  {
+    "file": "books/pm0263.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0263.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0263.pdf",
+      "retrieved_at": "2026-10-04T03:08:51.226925+00:00",
+      "bytes": 230723,
+      "sha256": "20c14366dea453a9c1b99a35740018c8ce144f91568cc78d597d820e260c6cf0",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0263.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0263.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0263.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0263.html",
+      "retrieved_at": "2026-10-04T03:08:51.721374+00:00",
+      "bytes": 282703,
+      "sha256": "da9358ac69946d5a02bc8acb4a13441cc0d2ea52580937d5901c532d2e1d0dfa",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0263.html"
+    }
+  },
+  {
+    "file": "books/pm0295.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0295.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0295.pdf",
+      "retrieved_at": "2026-10-04T03:08:53.359808+00:00",
+      "bytes": 195941,
+      "sha256": "d94a157533dfbb35006fd28f6221c18d46932a76617f779de7195c4baef2db80",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0295.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0295.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0295.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0295.html",
+      "retrieved_at": "2026-10-04T03:08:53.770916+00:00",
+      "bytes": 129964,
+      "sha256": "c92d94df9fbb71fa2db88cd05bb46ae4392a3eb607dd1b48604e1e0dd14507f1",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0295.html"
+    }
+  },
+  {
+    "file": "books/pm0301.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0301.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0301.pdf",
+      "retrieved_at": "2026-10-04T03:08:55.422328+00:00",
+      "bytes": 184933,
+      "sha256": "e93322171f04819c32693463dedc00869df9028c41d229c96d047da4980f66bd",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0301.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0301.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0301.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0301.html",
+      "retrieved_at": "2026-10-04T03:08:55.573444+00:00",
+      "bytes": 44073,
+      "sha256": "9fc557d6f1652442056eac1d242f21b61a776bf8e4c227ae7d722e693b930730",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0301.html"
+    }
+  },
+  {
+    "file": "books/pm0404.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0404.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0404.pdf",
+      "retrieved_at": "2026-10-04T03:08:58.472568+00:00",
+      "bytes": 1034688,
+      "sha256": "73190cb6cef9077dfa3b59429b4081748504c896a1edc3aebf5b36853f1e0c58",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0404.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0404.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0404.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0404.html",
+      "retrieved_at": "2026-10-04T03:08:58.394652+00:00",
+      "bytes": 672095,
+      "sha256": "5acd01c76b0b1fe15d2144b983017078c7123462911405cdbeb6ad818618affb",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0404.html"
+    }
+  },
+  {
+    "file": "books/pm0410.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0410.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0410.pdf",
+      "retrieved_at": "2026-10-04T03:09:00.744863+00:00",
+      "bytes": 397341,
+      "sha256": "b26d2e44155d4ad02c1159d291d005f83393af522dddf3b604ea2e7614e753af",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0410.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0410.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0410.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0410.html",
+      "retrieved_at": "2026-10-04T03:09:06.757187+00:00",
+      "bytes": 238252,
+      "sha256": "c8d21b15e3f601fb5a79610008c125cf8fdd538cfbf39f9ad159b98c85ebc583",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0410.html"
+    }
+  },
+  {
+    "file": "books/pm0413.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0413.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0413.pdf",
+      "retrieved_at": "2026-10-04T03:09:09.245778+00:00",
+      "bytes": 577112,
+      "sha256": "bf33bc15d989337c29efcda8008b59fa2beeaebc849c7b397c4331b50da309c1",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0413.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0413.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0413.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0413.html",
+      "retrieved_at": "2026-10-04T03:09:03.441079+00:00",
+      "bytes": 398081,
+      "sha256": "579df23d6903b7f0220e50e775b8f07fd266a9e34cda7639f5397b3faf05eebe",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0413.html"
+    }
+  },
+  {
+    "file": "books/pm0695.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0695.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0695.pdf",
+      "retrieved_at": "2026-10-04T03:09:08.642916+00:00",
+      "bytes": 439517,
+      "sha256": "8e5d387b01289e9e0b63fbe0abf85522840b983f72f44a70947c3c9ae870ede6",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0695.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0695.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0695.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0695.html",
+      "retrieved_at": "2026-10-04T03:09:08.996991+00:00",
+      "bytes": 235920,
+      "sha256": "393b5e93bb9ab0c8f2bc77d19e6d8bdac7252c4044cdb3a35ce3b8362b1c464b",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0695.html"
+    }
+  },
+  {
+    "file": "books/pm0732.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0732.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0732.pdf",
+      "retrieved_at": "2026-10-04T03:09:11.124275+00:00",
+      "bytes": 642567,
+      "sha256": "788e04d069cf6e6fd0de0cbd4d6390273070ef2bf1703194e09a6da688c0d912",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0732.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0732.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0732.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0732.html",
+      "retrieved_at": "2026-10-04T03:09:11.661518+00:00",
+      "bytes": 559660,
+      "sha256": "fa2bc03d30ffa46edce6d4d791fddfbee0faef18307ae85e20bc0db7f4277909",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0732.html"
+    }
+  },
+  {
+    "file": "books/pm0734.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0734.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0734.pdf",
+      "retrieved_at": "2026-10-04T03:09:12.164608+00:00",
+      "bytes": 959707,
+      "sha256": "55d807a83ac860a1b6dc3695566dbeebfd24ff41b8c59e12254b596537a10d5d",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0734.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0734.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0734.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0734.html",
+      "retrieved_at": "2026-10-04T03:09:13.816312+00:00",
+      "bytes": 938968,
+      "sha256": "db3de76c2fbb65b89c92a9cb2cff7bed1f42912023e4fe153584a95228b8490f",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0734.html"
+    }
+  },
+  {
+    "file": "books/pm0758.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0758.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0758.pdf",
+      "retrieved_at": "2026-10-04T03:09:13.963912+00:00",
+      "bytes": 385748,
+      "sha256": "cfa3fb3c13b7a380425d01c236e3d404430b13cbf223607d2b8df5243fac3556",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0758.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0758.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0758.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0758.html",
+      "retrieved_at": "2026-10-04T03:09:14.578553+00:00",
+      "bytes": 267689,
+      "sha256": "7bad4329039f5f25c4cc7cff6f290e6ddeb1bb92a735e19282213a104630211b",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0758.html"
+    }
+  },
+  {
+    "file": "books/pm0839.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0839.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0839.pdf",
+      "retrieved_at": "2026-10-04T03:09:16.382436+00:00",
+      "bytes": 913161,
+      "sha256": "4aa0de95ec15cdb4c608bc8bc288431a2d1a31fb8c556a54a63641455de7109a",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0839.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0839.html",
+    "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0839.html",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "books/pm0902.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0902.pdf",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0902.pdf",
+      "retrieved_at": "2026-10-04T03:09:17.294983+00:00",
+      "bytes": 442361,
+      "sha256": "018fddc4d5eb5663ccfd91c4ce1fd39b06424a81896e6f728f626f63a00bb1c1",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pm0902.pdf"
+    }
+  },
+  {
+    "file": "books/pmuni0902.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0902.html",
+      "final_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0902.html",
+      "retrieved_at": "2026-10-04T03:09:17.286103+00:00",
+      "bytes": 308205,
+      "sha256": "b895c27b393de1322b420c97fc6aadc6f384c1218edce84a9e782bea0521ed3b",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pmuni0902.html"
+    }
+  },
+  {
+    "file": "books/iblis_suraj_gatade.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/iblis_suraj_gatade.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/iblis_suraj_gatade.pdf",
+      "retrieved_at": "2026-10-04T03:09:19.085513+00:00",
+      "bytes": 3258610,
+      "sha256": "b19b5c93ba47d91eecfc79964e45320b5749b3fdb4412cbdd80c2e85f66d203c",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/iblis_suraj_gatade.pdf"
+    }
+  },
+  {
+    "file": "books/aindrajal_supriya_joshi.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/aindrajal_supriya_joshi.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/aindrajal_supriya_joshi.pdf",
+      "retrieved_at": "2026-10-04T03:09:26.614907+00:00",
+      "bytes": 1676896,
+      "sha256": "a90f362ac7db53a8b9be9cde99087576aebf7c00268811d0e7c2ef4ca98ad5ee",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/aindrajal_supriya_joshi.pdf"
+    }
+  },
+  {
+    "file": "books/baap_the_grat_hero_manohar_surwade.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/baap_the_grat_hero_manohar_surwade.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/baap_the_grat_hero_manohar_surwade.pdf",
+      "retrieved_at": "2026-10-04T03:09:19.844777+00:00",
+      "bytes": 2038573,
+      "sha256": "46dd97e2b085f501f82fe5a58a94316ca9f022cc1eaa0ec99dc7ab6c8ab237cd",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/baap_the_grat_hero_manohar_surwade.pdf"
+    }
+  },
+  {
+    "file": "books/omega_upgraded_abhishek_thamke.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/omega_upgraded_abhishek_thamke.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/omega_upgraded_abhishek_thamke.pdf",
+      "retrieved_at": "2026-10-04T03:09:21.106679+00:00",
+      "bytes": 1437794,
+      "sha256": "a220bdb842a6a81aeff11cf9f29662cd4fd62d76d7a3f23d0ad65faad13d36c5",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/omega_upgraded_abhishek_thamke.pdf"
+    }
+  },
+  {
+    "file": "books/khidkee_saurabh_wagle.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/khidkee_saurabh_wagle.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/khidkee_saurabh_wagle.pdf",
+      "retrieved_at": "2026-10-04T03:09:22.432773+00:00",
+      "bytes": 1631168,
+      "sha256": "8522feee2dccc16ed258b468947ed2990a00e6ed6ca777729c584890fc50fb4b",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/khidkee_saurabh_wagle.pdf"
+    }
+  },
+  {
+    "file": "books/hirana_arun_kulakarni.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/hirana_arun_kulakarni.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/hirana_arun_kulakarni.pdf",
+      "retrieved_at": "2026-10-04T03:09:23.317769+00:00",
+      "bytes": 1808364,
+      "sha256": "6bcc5e228dcd72d7320d83b3e6e78604656e3dd11c86f9f137d660b5059e5bef",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/hirana_arun_kulakarni.pdf"
+    }
+  },
+  {
+    "file": "books/maaat_ketakee_shah.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/maaat_ketakee_shah.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/maaat_ketakee_shah.pdf",
+      "retrieved_at": "2026-10-04T03:09:24.102155+00:00",
+      "bytes": 1111948,
+      "sha256": "059727a40cd532c8f4e14582f67881da76ae3870d26e4c2962ad30f6efdc5b09",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/maaat_ketakee_shah.pdf"
+    }
+  },
+  {
+    "file": "books/pinjaraa_sanjay_bansode.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/pinjaraa_sanjay_bansode.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/pinjaraa_sanjay_bansode.pdf",
+      "retrieved_at": "2026-10-04T03:09:25.298175+00:00",
+      "bytes": 1273567,
+      "sha256": "c266c9e61f7ee471e7802bdd40b592307e66e0cd6a9814b4e07c17ee996773bc",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/pinjaraa_sanjay_bansode.pdf"
+    }
+  },
+  {
+    "file": "books/parimarjan_sudhir_karkhanis.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/parimarjan_sudhir_karkhanis.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/parimarjan_sudhir_karkhanis.pdf",
+      "retrieved_at": "2026-10-04T03:09:27.106571+00:00",
+      "bytes": 1457408,
+      "sha256": "c041181c8bfdfe26c5295de1390baffa950e86f46043d2898f1b0c94c5cd6aad",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/parimarjan_sudhir_karkhanis.pdf"
+    }
+  },
+  {
+    "file": "books/bhoot_bangalyache_rahasya_akshay_jadhav.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/bhoot_bangalyache_rahasya_akshay_jadhav.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/bhoot_bangalyache_rahasya_akshay_jadhav.pdf",
+      "retrieved_at": "2026-10-04T03:09:28.720064+00:00",
+      "bytes": 1653120,
+      "sha256": "cbfb85cd91c3b4b338a6c4b4b9fe657c3b88757e741cde6fb58759c392543eb0",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/bhoot_bangalyache_rahasya_akshay_jadhav.pdf"
+    }
+  },
+  {
+    "file": "catalogs/hindi-1.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/Devrani%20jethani%20ki%20kahani.htm",
+      "final_url": "https://hindisamay.com/upanyas/Devrani%20jethani%20ki%20kahani.htm",
+      "retrieved_at": "2026-10-04T03:07:39.900348+00:00",
+      "bytes": 111266,
+      "sha256": "246f802c794fb9aeab31c9d5b9f523a128135c5e2a8afad6b44e75615396586b",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-1.html"
+    }
+  },
+  {
+    "file": "books/devrani-part-2.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/Devrani%20jethani%20ki%20kahani2.htm",
+      "final_url": "https://hindisamay.com/upanyas/Devrani%20jethani%20ki%20kahani2.htm",
+      "retrieved_at": "2026-10-04T03:15:34.052922+00:00",
+      "bytes": 119384,
+      "sha256": "2d22364e7b6d876d00eb02899697b47f441b295e296d201c65bab2a064c884f5",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/devrani-part-2.html"
+    }
+  },
+  {
+    "file": "catalogs/hindi-2.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/suraj_ka_satava_ghoda.htm",
+      "final_url": "https://hindisamay.com/upanyas/suraj_ka_satava_ghoda.htm",
+      "retrieved_at": "2026-10-04T03:07:40.060713+00:00",
+      "bytes": 337260,
+      "sha256": "f01c0e3d784b7fdc3d1638140abe23e7184101ab2f11b8f3e2b3328213cdb7ff",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-2.html"
+    }
+  },
+  {
+    "file": "catalogs/hindi-3.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/daud.htm",
+      "final_url": "https://hindisamay.com/upanyas/daud.htm",
+      "retrieved_at": "2026-10-04T03:07:40.481861+00:00",
+      "bytes": 311965,
+      "sha256": "b1f3f6ec59ca6c15562a35dad9d59531ec5ffef0c175bd3af7f833f4a9c3f227",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-3.html"
+    }
+  },
+  {
+    "file": "catalogs/hindi-4.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/pariksha_guru.htm",
+      "final_url": "https://hindisamay.com/upanyas/pariksha_guru.htm",
+      "retrieved_at": "2026-10-04T03:07:40.857808+00:00",
+      "bytes": 997941,
+      "sha256": "90a8b8780f9959e5e46d02254bd174bf7672729b6c26e2602a717ff7f38fcf85",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-4.html"
+    }
+  },
+  {
+    "file": "catalogs/hindi-5.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/shahar-mein-curfew.htm",
+      "final_url": "https://hindisamay.com/upanyas/shahar-mein-curfew.htm",
+      "retrieved_at": "2026-10-04T03:07:41.223724+00:00",
+      "bytes": 475572,
+      "sha256": "c5f83b57714e4970912d05713bdc0fa227b7c9f9725d29ce890a989c78538d50",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-5.html"
+    }
+  },
+  {
+    "file": "catalogs/hindi-6.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/hariodh%20Samagra/adhkhila-phool.htm",
+      "final_url": "https://hindisamay.com/hariodh%20Samagra/adhkhila-phool.htm",
+      "retrieved_at": "2026-10-04T03:07:41.683148+00:00",
+      "bytes": 822345,
+      "sha256": "0b5073403fb6f7768d5ad479e341cde921b21bf296b34452690e8471bc3b7919",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-6.html"
+    }
+  },
+  {
+    "file": "books/theth-hindi-novel.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/hariodh%20Samagra/Theth-hindi-ka-That-novel.htm",
+      "final_url": "https://hindisamay.com/hariodh%20Samagra/Theth-hindi-ka-That-novel.htm",
+      "retrieved_at": "2026-10-04T03:15:34.510668+00:00",
+      "bytes": 633262,
+      "sha256": "f3b68fc453f542982d5c09bfbcbfb858f98c26dc78cd0e2d729bc094940d4d8c",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/theth-hindi-novel.html"
+    }
+  },
+  {
+    "file": "catalogs/hindi-1232.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=1232&pageno=1",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=1232&pageno=1",
+      "retrieved_at": "2026-10-04T03:07:42.492510+00:00",
+      "bytes": 735675,
+      "sha256": "f547d3b0c352ed1ed52f30ea64a71333aab5ed5f7763cf784156fb600f31ee05",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-1232.html"
+    }
+  },
+  {
+    "file": "books/kankal-part-2.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=1232&pageno=2",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=1232&pageno=2",
+      "retrieved_at": "2026-10-04T03:18:18.091002+00:00",
+      "bytes": 26742,
+      "sha256": "a245bf70131acd57d83feb8dd13519bdd2bf7af47ea8235b8c7f98576579c365",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/kankal-part-2.html"
+    }
+  },
+  {
+    "file": "books/kankal-part-3.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=1232&pageno=3",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=1232&pageno=3",
+      "retrieved_at": "2026-10-04T03:18:18.031519+00:00",
+      "bytes": 26838,
+      "sha256": "e5dd7f82ad97f812bb75ed16e25299bea3f39b2cd1860a30c783d58fe1fc589a",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/kankal-part-3.html"
+    }
+  },
+  {
+    "file": "books/kankal-part-4.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=1232&pageno=4",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=1232&pageno=4",
+      "retrieved_at": "2026-10-04T03:17:50.401617+00:00",
+      "bytes": 26742,
+      "sha256": "e6f8735136285866675d54b2245ce9195a429f98efc1750f1b4c5d51245caafd",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/kankal-part-4.html"
+    }
+  },
+  {
+    "file": "books/kankal-part-2.linked.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/1232/2/%E0%A4%9C%E0%A4%AF%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%A6-JAISHANKER-PRASAD-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%95%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE-%E0%A4%96%E0%A4%82%E0%A4%A1.cspx",
+      "final_url": "https://hindisamay.com/content/1232/2/%E0%A4%9C%E0%A4%AF%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%A6-JAISHANKER-PRASAD-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%95%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE-%E0%A4%96%E0%A4%82%E0%A4%A1.cspx",
+      "retrieved_at": "2026-10-04T03:21:13.815143+00:00",
+      "bytes": 483090,
+      "sha256": "91ea69b85df27491cc6a33a4b0f29607e055374da159eec0a39222c6adabbc54",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/kankal-part-2.linked.html"
+    }
+  },
+  {
+    "file": "books/kankal-part-3.linked.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/1232/3/%E0%A4%9C%E0%A4%AF%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%A6-JAISHANKER-PRASAD-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%95%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE-%E0%A4%96%E0%A4%82%E0%A4%A1.cspx",
+      "final_url": "https://hindisamay.com/content/1232/3/%E0%A4%9C%E0%A4%AF%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%A6-JAISHANKER-PRASAD-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%95%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE-%E0%A4%96%E0%A4%82%E0%A4%A1.cspx",
+      "retrieved_at": "2026-10-04T03:21:13.413242+00:00",
+      "bytes": 26761,
+      "sha256": "a3c2ac3511fc0a8344b81ec01885747fa3ddef5dcdcbc77444fd77ecddac141a",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/kankal-part-3.linked.html"
+    }
+  },
+  {
+    "file": "books/kankal-part-4.linked.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/content/1232/4/%E0%A4%9C%E0%A4%AF%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%A6-JAISHANKER-PRASAD-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%95%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE-%E0%A4%96%E0%A4%82%E0%A4%A1.cspx",
+      "final_url": "https://hindisamay.com/content/1232/4/%E0%A4%9C%E0%A4%AF%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%A6-JAISHANKER-PRASAD-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%95%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE-%E0%A4%96%E0%A4%82%E0%A4%A1.cspx",
+      "retrieved_at": "2026-10-04T03:21:14.225403+00:00",
+      "bytes": 522329,
+      "sha256": "ba735b97e80f7d51cb592da12db160a563b4316aae2f679160783263073ced8b",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/kankal-part-4.linked.html"
+    }
+  },
+  {
+    "file": "catalogs/hindi-11865.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=11865&pageno=1",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=11865&pageno=1",
+      "retrieved_at": "2026-10-04T03:07:43.084224+00:00",
+      "bytes": 2221559,
+      "sha256": "ce200191b3c2a3c4f3fe14bab103a7533ed9ffd46083d09d4d9e368290ebb38d",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-11865.html"
+    }
+  },
+  {
+    "file": "catalogs/des-birana-part-1.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag1.htm",
+      "final_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag1.htm",
+      "retrieved_at": "2026-10-04T03:15:34.053068+00:00",
+      "bytes": 198356,
+      "sha256": "8e447480bf6d22ff25bc0a494bfc190948c802c0e9b82b7bee76eb7ac5e0df78",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/des-birana-part-1.html"
+    }
+  },
+  {
+    "file": "books/des-birana-part-2.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag2.htm",
+      "final_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag2.htm",
+      "retrieved_at": "2026-10-04T03:17:50.917255+00:00",
+      "bytes": 140725,
+      "sha256": "e47e1dfdd3f985e5669e945e982e857b6d351ed1119e84291ad2292868e5bd9e",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/des-birana-part-2.html"
+    }
+  },
+  {
+    "file": "books/des-birana-part-3.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag3.htm",
+      "final_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag3.htm",
+      "retrieved_at": "2026-10-04T03:17:51.450533+00:00",
+      "bytes": 164438,
+      "sha256": "e42bfde0efa290303fd7dbc9c30af5b2d8c40f1efb2f3c4f692d129021c2a5c3",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/des-birana-part-3.html"
+    }
+  },
+  {
+    "file": "books/des-birana-part-4.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag4.htm",
+      "final_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag4.htm",
+      "retrieved_at": "2026-10-04T03:17:51.968380+00:00",
+      "bytes": 187644,
+      "sha256": "9c4b21af25db4096a491a51870175da11786f850c11a677ed538de04015286c1",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/des-birana-part-4.html"
+    }
+  },
+  {
+    "file": "books/des-birana-part-5.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag5.htm",
+      "final_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag5.htm",
+      "retrieved_at": "2026-10-04T03:17:52.595810+00:00",
+      "bytes": 166891,
+      "sha256": "7f577a44103fc44d78d817fdffa4e30318a6115752945efeb79f8504558c75a8",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/des-birana-part-5.html"
+    }
+  },
+  {
+    "file": "books/des-birana-part-6.html",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag6.htm",
+      "final_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag6.htm",
+      "retrieved_at": "2026-10-04T03:17:53.279224+00:00",
+      "bytes": 228430,
+      "sha256": "b515b8eb757791c93a2bcb8b685eca9c8335d63c2abdc3960d4431b6f57a5d47",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/des-birana-part-6.html"
+    }
+  },
+  {
+    "file": "books/europe_kavadse_maneesha_dikshit.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/europe_kavadse_maneesha_dikshit.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/europe_kavadse_maneesha_dikshit.pdf",
+      "retrieved_at": "2026-10-04T03:17:56.091151+00:00",
+      "bytes": 2433639,
+      "sha256": "423955b4515bf1252a88f39cbbc09a03d4e225e975b43e7763a60719bc34eccb",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/europe_kavadse_maneesha_dikshit.pdf"
+    }
+  },
+  {
+    "file": "books/keral_shailesh_purohit.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/keral_shailesh_purohit.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/keral_shailesh_purohit.pdf",
+      "retrieved_at": "2026-10-04T03:17:59.479835+00:00",
+      "bytes": 9174400,
+      "sha256": "07a4d113cf8b110f7ddd5f552ca71caf35fa6d8147c99b18afbb7f9c73eb600b",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/keral_shailesh_purohit.pdf"
+    }
+  },
+  {
+    "file": "books/mb_canada_bb_desai.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/mb_canada_bb_desai.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/mb_canada_bb_desai.pdf",
+      "retrieved_at": "2026-10-04T03:18:02.481367+00:00",
+      "bytes": 4049570,
+      "sha256": "e5e7872685d1739fd72c4fcb747df45a393bdbb05ff6667f692dddc51e139edc",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/mb_canada_bb_desai.pdf"
+    }
+  },
+  {
+    "file": "books/ishany_bharat_neelima_kulkarni.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/ishany_bharat_neelima_kulkarni.pdf",
+      "final_url": "https://www.esahity.com/uploads/5/0/1/2/501218/ishany_bharat_neelima_kulkarni.pdf",
+      "retrieved_at": "2026-10-04T03:18:05.867775+00:00",
+      "bytes": 2322494,
+      "sha256": "ab0d27126aa07af053aee42dc0e5247e7e81cb1dfab613a53358b600e545fef0",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/books/ishany_bharat_neelima_kulkarni.pdf"
+    }
+  }
+]

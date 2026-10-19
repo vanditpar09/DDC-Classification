@@ -1,0 +1,82 @@
+[
+  {
+    "work_id": "ncert-ihmh1",
+    "group_id": "ncert-class-9-mathematics",
+    "title": "Ganita Manjari (Hindi)",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "510",
+    "subject": "Mathematics",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/ihmh1/ihmh101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ihmh101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/ihmh1/ihmh104.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ihmh104.pdf",
+        "chapter": 4
+      },
+      {
+        "file": "books/ihmh1/ihmh108.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ihmh108.pdf",
+        "chapter": 8
+      },
+      {
+        "file": "books/ihmh1/ihmh1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/ihmh1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  },
+  {
+    "work_id": "ncert-jhmh1",
+    "group_id": "ncert-class-10-mathematics",
+    "title": "Ganit",
+    "author": "NCERT",
+    "language": "hin",
+    "candidate_ddc_section": "510",
+    "subject": "Mathematics",
+    "catalog_url": "https://ncert.nic.in/textbook.php",
+    "files": [
+      {
+        "file": "books/jhmh1/jhmh101.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/jhmh101.pdf",
+        "chapter": 1
+      },
+      {
+        "file": "books/jhmh1/jhmh107.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/jhmh107.pdf",
+        "chapter": 7
+      },
+      {
+        "file": "books/jhmh1/jhmh114.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/jhmh114.pdf",
+        "chapter": 14
+      },
+      {
+        "file": "books/jhmh1/jhmh1ps.pdf",
+        "source_url": "https://ncert.nic.in/textbook/pdf/jhmh1ps.pdf",
+        "chapter": 0
+      }
+    ],
+    "label_basis": "Assistant broad subject mapping from publisher index and sampled chapter content; not numeric catalog evidence",
+    "label_hold": false,
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "coverage_status": "Three selected chapters plus front matter; NOT a complete book",
+    "training_rights_status": "Not established by public access; original notices retained",
+    "group_resolution_status": "Publisher translations grouped by grade and subject; Part I shares the original textbook family"
+  }
+]

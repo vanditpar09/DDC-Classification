@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-04T08:11:36.720258+00:00",
+  "regression_tests_passed": 191,
+  "candidate_deserialization_checked": true,
+  "finite_parameters_checked": true,
+  "real_local_ocr_languages": [
+    "hin",
+    "mar",
+    "tam"
+  ],
+  "browser_verified": true,
+  "browser_screenshot_sha256": "79a973a95bd2e0ef18f72be9947b05d54e7eaea8d5f07fb336928669a201b1bf",
+  "physical_phone_test": false,
+  "locked_test_evaluated": false,
+  "baseline_unchanged": true,
+  "candidate_sha256": "cf2e4d18dbe43ad9431a965bc1a6213a0bcfbecac5b5c8830e73cb9a48f6cc86",
+  "baseline_sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+}

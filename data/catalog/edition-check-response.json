@@ -1,0 +1,1401 @@
+{
+  "request_url": "https://openlibrary.org/api/books?bibkeys=OLID%3AOL28581875M%2COLID%3AOL37753690M%2COLID%3AOL39477397M%2COLID%3AOL38132381M&jscmd=data&format=json",
+  "response": {
+    "OLID:OL28581875M": {
+      "url": "http://openlibrary.org/books/OL28581875M/Pride_and_Prejudice",
+      "key": "/books/OL28581875M",
+      "title": "Pride and Prejudice",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL21594A/Jane_Austen",
+          "name": "Jane Austen"
+        }
+      ],
+      "number_of_pages": 432,
+      "pagination": "ix, 415p.",
+      "identifiers": {
+        "goodreads": [
+          "60501345"
+        ],
+        "amazon": [
+          "B01HSMDO9G"
+        ],
+        "isbn_10": [
+          "0393264882"
+        ],
+        "isbn_13": [
+          "9780393264883"
+        ],
+        "lccn": [
+          "2015050973"
+        ],
+        "oclc": [
+          "1037300017",
+          "934627858"
+        ],
+        "openlibrary": [
+          "OL28581875M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PR4034.P7 2016",
+          "PR4034 .P7 2016"
+        ],
+        "dewey_decimal_class": [
+          "823.7"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "W. W. Norton & Company"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "New York"
+        }
+      ],
+      "publish_date": "2016",
+      "subjects": [
+        {
+          "name": "British and irish fiction (fictional works by one author)",
+          "url": "https://openlibrary.org/subjects/british_and_irish_fiction_(fictional_works_by_one_author)"
+        },
+        {
+          "name": "Brothers and sisters",
+          "url": "https://openlibrary.org/subjects/brothers_and_sisters"
+        },
+        {
+          "name": "Children's fiction",
+          "url": "https://openlibrary.org/subjects/children's_fiction"
+        },
+        {
+          "name": "Courtship",
+          "url": "https://openlibrary.org/subjects/courtship"
+        },
+        {
+          "name": "Drama",
+          "url": "https://openlibrary.org/subjects/drama"
+        },
+        {
+          "name": "English fiction",
+          "url": "https://openlibrary.org/subjects/english_fiction"
+        },
+        {
+          "name": "English literature",
+          "url": "https://openlibrary.org/subjects/english_literature"
+        },
+        {
+          "name": "Families",
+          "url": "https://openlibrary.org/subjects/families"
+        },
+        {
+          "name": "Family",
+          "url": "https://openlibrary.org/subjects/family"
+        },
+        {
+          "name": "Family life",
+          "url": "https://openlibrary.org/subjects/family_life"
+        },
+        {
+          "name": "Family relations",
+          "url": "https://openlibrary.org/subjects/family_relations"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Fiction Classics",
+          "url": "https://openlibrary.org/subjects/fiction_classics"
+        },
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        },
+        {
+          "name": "Interpersonal relations",
+          "url": "https://openlibrary.org/subjects/interpersonal_relations"
+        },
+        {
+          "name": "Juvenile fiction",
+          "url": "https://openlibrary.org/subjects/juvenile_fiction"
+        },
+        {
+          "name": "Literary Fiction",
+          "url": "https://openlibrary.org/subjects/literary_fiction"
+        },
+        {
+          "name": "love stories",
+          "url": "https://openlibrary.org/subjects/love_stories"
+        },
+        {
+          "name": "manners",
+          "url": "https://openlibrary.org/subjects/manners"
+        },
+        {
+          "name": "Manners and customs",
+          "url": "https://openlibrary.org/subjects/manners_and_customs"
+        },
+        {
+          "name": "marriage",
+          "url": "https://openlibrary.org/subjects/marriage"
+        },
+        {
+          "name": "Romance",
+          "url": "https://openlibrary.org/subjects/romance"
+        },
+        {
+          "name": "Sisters",
+          "url": "https://openlibrary.org/subjects/sisters"
+        },
+        {
+          "name": "Social classes",
+          "url": "https://openlibrary.org/subjects/social_classes"
+        },
+        {
+          "name": "Social life and customs",
+          "url": "https://openlibrary.org/subjects/social_life_and_customs"
+        },
+        {
+          "name": "Upper class",
+          "url": "https://openlibrary.org/subjects/upper_class"
+        },
+        {
+          "name": "wealth",
+          "url": "https://openlibrary.org/subjects/wealth"
+        },
+        {
+          "name": "Women in England",
+          "url": "https://openlibrary.org/subjects/women_in_england"
+        },
+        {
+          "name": "young ladies",
+          "url": "https://openlibrary.org/subjects/young_ladies"
+        },
+        {
+          "name": "Young women",
+          "url": "https://openlibrary.org/subjects/young_women"
+        },
+        {
+          "name": "entail",
+          "url": "https://openlibrary.org/subjects/entail"
+        },
+        {
+          "name": "Pride and prejudice (Austen, Jane)",
+          "url": "https://openlibrary.org/subjects/pride_and_prejudice_(austen,_jane)"
+        },
+        {
+          "name": "Austen, jane, 1775-1817",
+          "url": "https://openlibrary.org/subjects/austen,_jane,_1775-1817"
+        },
+        {
+          "name": "Bennet, elizabeth (fictitious character), fiction",
+          "url": "https://openlibrary.org/subjects/bennet,_elizabeth_(fictitious_character),_fiction"
+        },
+        {
+          "name": "England, fiction",
+          "url": "https://openlibrary.org/subjects/england,_fiction"
+        },
+        {
+          "name": "Young women, fiction",
+          "url": "https://openlibrary.org/subjects/young_women,_fiction"
+        },
+        {
+          "name": "Darcy, fitzwilliam (fictitious character), fiction",
+          "url": "https://openlibrary.org/subjects/darcy,_fitzwilliam_(fictitious_character),_fiction"
+        },
+        {
+          "name": "Sisters, fiction",
+          "url": "https://openlibrary.org/subjects/sisters,_fiction"
+        },
+        {
+          "name": "Austen, jane , 1775-1817",
+          "url": "https://openlibrary.org/subjects/austen,_jane_,_1775-1817"
+        },
+        {
+          "name": "Bennet, elizabeth",
+          "url": "https://openlibrary.org/subjects/bennet,_elizabeth"
+        },
+        {
+          "name": "Darcy, fitzwilliam",
+          "url": "https://openlibrary.org/subjects/darcy,_fitzwilliam"
+        },
+        {
+          "name": "Young women--fiction",
+          "url": "https://openlibrary.org/subjects/young_women--fiction"
+        },
+        {
+          "name": "Courtship--fiction",
+          "url": "https://openlibrary.org/subjects/courtship--fiction"
+        },
+        {
+          "name": "Sisters--fiction",
+          "url": "https://openlibrary.org/subjects/sisters--fiction"
+        },
+        {
+          "name": "Social classes--fiction",
+          "url": "https://openlibrary.org/subjects/social_classes--fiction"
+        },
+        {
+          "name": "Young women in literature",
+          "url": "https://openlibrary.org/subjects/young_women_in_literature"
+        },
+        {
+          "name": "Courtship in literature",
+          "url": "https://openlibrary.org/subjects/courtship_in_literature"
+        },
+        {
+          "name": "Pr4034 .p7 2001",
+          "url": "https://openlibrary.org/subjects/pr4034_.p7_2001"
+        },
+        {
+          "name": "823/.7",
+          "url": "https://openlibrary.org/subjects/823/.7"
+        },
+        {
+          "name": "Mothers and daughters",
+          "url": "https://openlibrary.org/subjects/mothers_and_daughters"
+        },
+        {
+          "name": "Man-woman relationships",
+          "url": "https://openlibrary.org/subjects/man-woman_relationships"
+        },
+        {
+          "name": "Mate selection",
+          "url": "https://openlibrary.org/subjects/mate_selection"
+        },
+        {
+          "name": "Rich people",
+          "url": "https://openlibrary.org/subjects/rich_people"
+        },
+        {
+          "name": "Gentry",
+          "url": "https://openlibrary.org/subjects/gentry"
+        },
+        {
+          "name": "Economic aspects",
+          "url": "https://openlibrary.org/subjects/economic_aspects"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "England",
+          "url": "https://openlibrary.org/subjects/place:england"
+        },
+        {
+          "name": "Brighton",
+          "url": "https://openlibrary.org/subjects/place:brighton"
+        },
+        {
+          "name": "Derbyshire",
+          "url": "https://openlibrary.org/subjects/place:derbyshire"
+        },
+        {
+          "name": "Hertfordshire",
+          "url": "https://openlibrary.org/subjects/place:hertfordshire"
+        },
+        {
+          "name": "Meryton",
+          "url": "https://openlibrary.org/subjects/place:meryton"
+        },
+        {
+          "name": "Longbourn",
+          "url": "https://openlibrary.org/subjects/place:longbourn"
+        },
+        {
+          "name": "Netherfield",
+          "url": "https://openlibrary.org/subjects/place:netherfield"
+        },
+        {
+          "name": "Pemberley",
+          "url": "https://openlibrary.org/subjects/place:pemberley"
+        },
+        {
+          "name": "Great Britain",
+          "url": "https://openlibrary.org/subjects/place:great_britain"
+        },
+        {
+          "name": "Ying guo",
+          "url": "https://openlibrary.org/subjects/place:ying_guo"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Elizabeth Bennet",
+          "url": "https://openlibrary.org/subjects/person:elizabeth_bennet"
+        },
+        {
+          "name": "Fitzwilliam Darcy",
+          "url": "https://openlibrary.org/subjects/person:fitzwilliam_darcy"
+        },
+        {
+          "name": "Charlotte Lucas",
+          "url": "https://openlibrary.org/subjects/person:charlotte_lucas"
+        },
+        {
+          "name": "George Wickham",
+          "url": "https://openlibrary.org/subjects/person:george_wickham"
+        },
+        {
+          "name": "Mr. Bennet",
+          "url": "https://openlibrary.org/subjects/person:mr._bennet"
+        },
+        {
+          "name": "Mrs. Bennet",
+          "url": "https://openlibrary.org/subjects/person:mrs._bennet"
+        },
+        {
+          "name": "Jane Bennet",
+          "url": "https://openlibrary.org/subjects/person:jane_bennet"
+        },
+        {
+          "name": "Mary Bennet",
+          "url": "https://openlibrary.org/subjects/person:mary_bennet"
+        },
+        {
+          "name": "Catherine Bennet",
+          "url": "https://openlibrary.org/subjects/person:catherine_bennet"
+        },
+        {
+          "name": "Lydia Bennet",
+          "url": "https://openlibrary.org/subjects/person:lydia_bennet"
+        },
+        {
+          "name": "Charles Bingley",
+          "url": "https://openlibrary.org/subjects/person:charles_bingley"
+        },
+        {
+          "name": "Caroline Bingley",
+          "url": "https://openlibrary.org/subjects/person:caroline_bingley"
+        },
+        {
+          "name": "William Collins",
+          "url": "https://openlibrary.org/subjects/person:william_collins"
+        },
+        {
+          "name": "Catherine de Bourgh",
+          "url": "https://openlibrary.org/subjects/person:catherine_de_bourgh"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "1789-1820",
+          "url": "https://openlibrary.org/subjects/time:1789-1820"
+        },
+        {
+          "name": "19th century",
+          "url": "https://openlibrary.org/subjects/time:19th_century"
+        }
+      ],
+      "links": [
+        {
+          "title": "Pride and Prejudice",
+          "url": "https://love-books-review.com/blog/pride-and-prejudice-by-jane-austen/"
+        }
+      ],
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/prideprejudiceau0000aust",
+          "availability": "restricted",
+          "formats": {}
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/12648573-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/12648573-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/12648573-L.jpg"
+      }
+    },
+    "OLID:OL37753690M": {
+      "url": "http://openlibrary.org/books/OL37753690M/A_Thousand_Splendid_Suns",
+      "key": "/books/OL37753690M",
+      "title": "A Thousand Splendid Suns",
+      "subtitle": "A Novel",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL1412764A/Khaled_Hosseini",
+          "name": "Khaled Hosseini"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "1442364203"
+        ],
+        "isbn_13": [
+          "9781442364202"
+        ],
+        "openlibrary": [
+          "OL37753690M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Simon & Schuster Audio"
+        }
+      ],
+      "publish_date": "May 21, 2013",
+      "subjects": [
+        {
+          "name": "desertion",
+          "url": "https://openlibrary.org/subjects/desertion"
+        },
+        {
+          "name": "Sufism",
+          "url": "https://openlibrary.org/subjects/sufism"
+        },
+        {
+          "name": "Pashhtuns",
+          "url": "https://openlibrary.org/subjects/pashhtuns"
+        },
+        {
+          "name": "domestic abuse",
+          "url": "https://openlibrary.org/subjects/domestic_abuse"
+        },
+        {
+          "name": "Tajiks",
+          "url": "https://openlibrary.org/subjects/tajiks"
+        },
+        {
+          "name": "Taliban",
+          "url": "https://openlibrary.org/subjects/taliban"
+        },
+        {
+          "name": "Pinocchio",
+          "url": "https://openlibrary.org/subjects/pinocchio"
+        },
+        {
+          "name": "Literature",
+          "url": "https://openlibrary.org/subjects/literature"
+        },
+        {
+          "name": "Families",
+          "url": "https://openlibrary.org/subjects/families"
+        },
+        {
+          "name": "Family",
+          "url": "https://openlibrary.org/subjects/family"
+        },
+        {
+          "name": "Intergenerational relations",
+          "url": "https://openlibrary.org/subjects/intergenerational_relations"
+        },
+        {
+          "name": "Women",
+          "url": "https://openlibrary.org/subjects/women"
+        },
+        {
+          "name": "Loss (Psychology)",
+          "url": "https://openlibrary.org/subjects/loss_(psychology)"
+        },
+        {
+          "name": "Family relationships",
+          "url": "https://openlibrary.org/subjects/family_relationships"
+        },
+        {
+          "name": "Family sagas",
+          "url": "https://openlibrary.org/subjects/family_sagas"
+        },
+        {
+          "name": "Friendship",
+          "url": "https://openlibrary.org/subjects/friendship"
+        },
+        {
+          "name": "Families -- Fiction.",
+          "url": "https://openlibrary.org/subjects/families_--_fiction."
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Ehefrau",
+          "url": "https://openlibrary.org/subjects/ehefrau"
+        },
+        {
+          "name": "Social conditions",
+          "url": "https://openlibrary.org/subjects/social_conditions"
+        },
+        {
+          "name": "Arranged marriage",
+          "url": "https://openlibrary.org/subjects/arranged_marriage"
+        },
+        {
+          "name": "Ehemann",
+          "url": "https://openlibrary.org/subjects/ehemann"
+        },
+        {
+          "name": "Unterdrückung",
+          "url": "https://openlibrary.org/subjects/unterdrückung"
+        },
+        {
+          "name": "Family life",
+          "url": "https://openlibrary.org/subjects/family_life"
+        },
+        {
+          "name": "Afghanistan, fiction",
+          "url": "https://openlibrary.org/subjects/afghanistan,_fiction"
+        },
+        {
+          "name": "Fiction, family life",
+          "url": "https://openlibrary.org/subjects/fiction,_family_life"
+        },
+        {
+          "name": "Modern & contemporary fiction (post c 1945)",
+          "url": "https://openlibrary.org/subjects/modern_&_contemporary_fiction_(post_c_1945)"
+        },
+        {
+          "name": "General",
+          "url": "https://openlibrary.org/subjects/general"
+        },
+        {
+          "name": "Frauenfreundschaft",
+          "url": "https://openlibrary.org/subjects/frauenfreundschaft"
+        },
+        {
+          "name": "Altersunterschied",
+          "url": "https://openlibrary.org/subjects/altersunterschied"
+        },
+        {
+          "name": "Large type books",
+          "url": "https://openlibrary.org/subjects/large_type_books"
+        },
+        {
+          "name": "nyt:trade-fiction-paperback=2008-12-14",
+          "url": "https://openlibrary.org/subjects/nyt:trade-fiction-paperback=2008-12-14"
+        },
+        {
+          "name": "New York Times bestseller",
+          "url": "https://openlibrary.org/subjects/new_york_times_bestseller"
+        },
+        {
+          "name": "New York Times reviewed",
+          "url": "https://openlibrary.org/subjects/new_york_times_reviewed"
+        },
+        {
+          "name": "Familia",
+          "url": "https://openlibrary.org/subjects/familia"
+        },
+        {
+          "name": "Novela",
+          "url": "https://openlibrary.org/subjects/novela"
+        },
+        {
+          "name": "Afganistán",
+          "url": "https://openlibrary.org/subjects/afganistán"
+        },
+        {
+          "name": "Fiction, family life, general",
+          "url": "https://openlibrary.org/subjects/fiction,_family_life,_general"
+        },
+        {
+          "name": "Fictional Works",
+          "url": "https://openlibrary.org/subjects/fictional_works"
+        },
+        {
+          "name": "Social life and customs",
+          "url": "https://openlibrary.org/subjects/social_life_and_customs"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Afghanistan",
+          "url": "https://openlibrary.org/subjects/place:afghanistan"
+        },
+        {
+          "name": "Herat",
+          "url": "https://openlibrary.org/subjects/place:herat"
+        },
+        {
+          "name": "Kabul",
+          "url": "https://openlibrary.org/subjects/place:kabul"
+        },
+        {
+          "name": "Murree",
+          "url": "https://openlibrary.org/subjects/place:murree"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Mariam",
+          "url": "https://openlibrary.org/subjects/person:mariam"
+        },
+        {
+          "name": "Laila",
+          "url": "https://openlibrary.org/subjects/person:laila"
+        },
+        {
+          "name": "Rasheed",
+          "url": "https://openlibrary.org/subjects/person:rasheed"
+        },
+        {
+          "name": "Tariq",
+          "url": "https://openlibrary.org/subjects/person:tariq"
+        },
+        {
+          "name": "Nana",
+          "url": "https://openlibrary.org/subjects/person:nana"
+        },
+        {
+          "name": "Mullah Faizullah",
+          "url": "https://openlibrary.org/subjects/person:mullah_faizullah"
+        },
+        {
+          "name": "Jalil",
+          "url": "https://openlibrary.org/subjects/person:jalil"
+        },
+        {
+          "name": "Hakim",
+          "url": "https://openlibrary.org/subjects/person:hakim"
+        },
+        {
+          "name": "Fariba",
+          "url": "https://openlibrary.org/subjects/person:fariba"
+        },
+        {
+          "name": "Aziza",
+          "url": "https://openlibrary.org/subjects/person:aziza"
+        },
+        {
+          "name": "Zalmai",
+          "url": "https://openlibrary.org/subjects/person:zalmai"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "1959",
+          "url": "https://openlibrary.org/subjects/time:1959"
+        },
+        {
+          "name": "1978",
+          "url": "https://openlibrary.org/subjects/time:1978"
+        },
+        {
+          "name": "1976",
+          "url": "https://openlibrary.org/subjects/time:1976"
+        },
+        {
+          "name": "1989",
+          "url": "https://openlibrary.org/subjects/time:1989"
+        },
+        {
+          "name": "1987",
+          "url": "https://openlibrary.org/subjects/time:1987"
+        },
+        {
+          "name": "1993",
+          "url": "https://openlibrary.org/subjects/time:1993"
+        },
+        {
+          "name": "1997",
+          "url": "https://openlibrary.org/subjects/time:1997"
+        }
+      ],
+      "excerpts": [
+        {
+          "text": "Mariam was five years old the first time she heard the word harami.",
+          "comment": "first sentence"
+        }
+      ],
+      "notes": "Source title: A Thousand Splendid Suns: A Novel",
+      "links": [
+        {
+          "title": "khaledhosseini.com/books/a-thousand-splendid-suns/",
+          "url": "https://khaledhosseini.com/books/a-thousand-splendid-suns/"
+        },
+        {
+          "title": "A Thousand Splendid Suns - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns"
+        },
+        {
+          "title": "Behind the veil",
+          "url": "https://www.theguardian.com/books/2007/may/19/featuresreviews.guardianreview21"
+        },
+        {
+          "title": "A Thousand Splendid Suns - CliffsNotes",
+          "url": "https://www.cliffsnotes.com/literature/t/a-thousand-splendid-suns/book-summary"
+        },
+        {
+          "title": "A thousand splendid suns door Khaled Hosseini (Zeker Weten Goed ...",
+          "url": "https://www.scholieren.com/verslag/zekerwetengoed/a-thousand-splendid-suns-khaled-hosseini"
+        },
+        {
+          "title": "A Thousand Splendid Suns by Khaled Hosseini - Interview | | BookPage",
+          "url": "https://bookpage.com/interviews/8408-khaled-hosseini-fiction#.XO-LMRYzZhE"
+        },
+        {
+          "title": "New York Times review",
+          "url": "http://www.nytimes.com/2007/05/29/books/29kaku.html"
+        },
+        {
+          "title": "New York Times review",
+          "url": "http://www.nytimes.com/2007/06/03/books/review/See-t.html"
+        }
+      ]
+    },
+    "OLID:OL39477397M": {
+      "url": "http://openlibrary.org/books/OL39477397M/A_Thousand_Splendid_Suns",
+      "key": "/books/OL39477397M",
+      "title": "A Thousand Splendid Suns",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL1412764A/Khaled_Hosseini",
+          "name": "Khaled Hosseini"
+        }
+      ],
+      "number_of_pages": 384,
+      "identifiers": {
+        "isbn_10": [
+          "1594489513"
+        ],
+        "isbn_13": [
+          "9781594489518"
+        ],
+        "openlibrary": [
+          "OL39477397M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Brand: Riverhead Books"
+        },
+        {
+          "name": "Riverhead Hardcover"
+        }
+      ],
+      "publish_date": "May 22, 2007",
+      "subjects": [
+        {
+          "name": "desertion",
+          "url": "https://openlibrary.org/subjects/desertion"
+        },
+        {
+          "name": "Sufism",
+          "url": "https://openlibrary.org/subjects/sufism"
+        },
+        {
+          "name": "Pashhtuns",
+          "url": "https://openlibrary.org/subjects/pashhtuns"
+        },
+        {
+          "name": "domestic abuse",
+          "url": "https://openlibrary.org/subjects/domestic_abuse"
+        },
+        {
+          "name": "Tajiks",
+          "url": "https://openlibrary.org/subjects/tajiks"
+        },
+        {
+          "name": "Taliban",
+          "url": "https://openlibrary.org/subjects/taliban"
+        },
+        {
+          "name": "Pinocchio",
+          "url": "https://openlibrary.org/subjects/pinocchio"
+        },
+        {
+          "name": "Literature",
+          "url": "https://openlibrary.org/subjects/literature"
+        },
+        {
+          "name": "Families",
+          "url": "https://openlibrary.org/subjects/families"
+        },
+        {
+          "name": "Family",
+          "url": "https://openlibrary.org/subjects/family"
+        },
+        {
+          "name": "Intergenerational relations",
+          "url": "https://openlibrary.org/subjects/intergenerational_relations"
+        },
+        {
+          "name": "Women",
+          "url": "https://openlibrary.org/subjects/women"
+        },
+        {
+          "name": "Loss (Psychology)",
+          "url": "https://openlibrary.org/subjects/loss_(psychology)"
+        },
+        {
+          "name": "Family relationships",
+          "url": "https://openlibrary.org/subjects/family_relationships"
+        },
+        {
+          "name": "Family sagas",
+          "url": "https://openlibrary.org/subjects/family_sagas"
+        },
+        {
+          "name": "Friendship",
+          "url": "https://openlibrary.org/subjects/friendship"
+        },
+        {
+          "name": "Families -- Fiction.",
+          "url": "https://openlibrary.org/subjects/families_--_fiction."
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Ehefrau",
+          "url": "https://openlibrary.org/subjects/ehefrau"
+        },
+        {
+          "name": "Social conditions",
+          "url": "https://openlibrary.org/subjects/social_conditions"
+        },
+        {
+          "name": "Arranged marriage",
+          "url": "https://openlibrary.org/subjects/arranged_marriage"
+        },
+        {
+          "name": "Ehemann",
+          "url": "https://openlibrary.org/subjects/ehemann"
+        },
+        {
+          "name": "Unterdrückung",
+          "url": "https://openlibrary.org/subjects/unterdrückung"
+        },
+        {
+          "name": "Family life",
+          "url": "https://openlibrary.org/subjects/family_life"
+        },
+        {
+          "name": "Afghanistan, fiction",
+          "url": "https://openlibrary.org/subjects/afghanistan,_fiction"
+        },
+        {
+          "name": "Fiction, family life",
+          "url": "https://openlibrary.org/subjects/fiction,_family_life"
+        },
+        {
+          "name": "Modern & contemporary fiction (post c 1945)",
+          "url": "https://openlibrary.org/subjects/modern_&_contemporary_fiction_(post_c_1945)"
+        },
+        {
+          "name": "General",
+          "url": "https://openlibrary.org/subjects/general"
+        },
+        {
+          "name": "Frauenfreundschaft",
+          "url": "https://openlibrary.org/subjects/frauenfreundschaft"
+        },
+        {
+          "name": "Altersunterschied",
+          "url": "https://openlibrary.org/subjects/altersunterschied"
+        },
+        {
+          "name": "Large type books",
+          "url": "https://openlibrary.org/subjects/large_type_books"
+        },
+        {
+          "name": "nyt:trade-fiction-paperback=2008-12-14",
+          "url": "https://openlibrary.org/subjects/nyt:trade-fiction-paperback=2008-12-14"
+        },
+        {
+          "name": "New York Times bestseller",
+          "url": "https://openlibrary.org/subjects/new_york_times_bestseller"
+        },
+        {
+          "name": "New York Times reviewed",
+          "url": "https://openlibrary.org/subjects/new_york_times_reviewed"
+        },
+        {
+          "name": "Familia",
+          "url": "https://openlibrary.org/subjects/familia"
+        },
+        {
+          "name": "Novela",
+          "url": "https://openlibrary.org/subjects/novela"
+        },
+        {
+          "name": "Afganistán",
+          "url": "https://openlibrary.org/subjects/afganistán"
+        },
+        {
+          "name": "Fiction, family life, general",
+          "url": "https://openlibrary.org/subjects/fiction,_family_life,_general"
+        },
+        {
+          "name": "Fictional Works",
+          "url": "https://openlibrary.org/subjects/fictional_works"
+        },
+        {
+          "name": "Social life and customs",
+          "url": "https://openlibrary.org/subjects/social_life_and_customs"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Afghanistan",
+          "url": "https://openlibrary.org/subjects/place:afghanistan"
+        },
+        {
+          "name": "Herat",
+          "url": "https://openlibrary.org/subjects/place:herat"
+        },
+        {
+          "name": "Kabul",
+          "url": "https://openlibrary.org/subjects/place:kabul"
+        },
+        {
+          "name": "Murree",
+          "url": "https://openlibrary.org/subjects/place:murree"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Mariam",
+          "url": "https://openlibrary.org/subjects/person:mariam"
+        },
+        {
+          "name": "Laila",
+          "url": "https://openlibrary.org/subjects/person:laila"
+        },
+        {
+          "name": "Rasheed",
+          "url": "https://openlibrary.org/subjects/person:rasheed"
+        },
+        {
+          "name": "Tariq",
+          "url": "https://openlibrary.org/subjects/person:tariq"
+        },
+        {
+          "name": "Nana",
+          "url": "https://openlibrary.org/subjects/person:nana"
+        },
+        {
+          "name": "Mullah Faizullah",
+          "url": "https://openlibrary.org/subjects/person:mullah_faizullah"
+        },
+        {
+          "name": "Jalil",
+          "url": "https://openlibrary.org/subjects/person:jalil"
+        },
+        {
+          "name": "Hakim",
+          "url": "https://openlibrary.org/subjects/person:hakim"
+        },
+        {
+          "name": "Fariba",
+          "url": "https://openlibrary.org/subjects/person:fariba"
+        },
+        {
+          "name": "Aziza",
+          "url": "https://openlibrary.org/subjects/person:aziza"
+        },
+        {
+          "name": "Zalmai",
+          "url": "https://openlibrary.org/subjects/person:zalmai"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "1959",
+          "url": "https://openlibrary.org/subjects/time:1959"
+        },
+        {
+          "name": "1978",
+          "url": "https://openlibrary.org/subjects/time:1978"
+        },
+        {
+          "name": "1976",
+          "url": "https://openlibrary.org/subjects/time:1976"
+        },
+        {
+          "name": "1989",
+          "url": "https://openlibrary.org/subjects/time:1989"
+        },
+        {
+          "name": "1987",
+          "url": "https://openlibrary.org/subjects/time:1987"
+        },
+        {
+          "name": "1993",
+          "url": "https://openlibrary.org/subjects/time:1993"
+        },
+        {
+          "name": "1997",
+          "url": "https://openlibrary.org/subjects/time:1997"
+        }
+      ],
+      "excerpts": [
+        {
+          "text": "Mariam was five years old the first time she heard the word harami.",
+          "comment": "first sentence"
+        }
+      ],
+      "notes": "Source title: A Thousand Splendid Suns: (International export edition)",
+      "links": [
+        {
+          "title": "khaledhosseini.com/books/a-thousand-splendid-suns/",
+          "url": "https://khaledhosseini.com/books/a-thousand-splendid-suns/"
+        },
+        {
+          "title": "A Thousand Splendid Suns - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns"
+        },
+        {
+          "title": "Behind the veil",
+          "url": "https://www.theguardian.com/books/2007/may/19/featuresreviews.guardianreview21"
+        },
+        {
+          "title": "A Thousand Splendid Suns - CliffsNotes",
+          "url": "https://www.cliffsnotes.com/literature/t/a-thousand-splendid-suns/book-summary"
+        },
+        {
+          "title": "A thousand splendid suns door Khaled Hosseini (Zeker Weten Goed ...",
+          "url": "https://www.scholieren.com/verslag/zekerwetengoed/a-thousand-splendid-suns-khaled-hosseini"
+        },
+        {
+          "title": "A Thousand Splendid Suns by Khaled Hosseini - Interview | | BookPage",
+          "url": "https://bookpage.com/interviews/8408-khaled-hosseini-fiction#.XO-LMRYzZhE"
+        },
+        {
+          "title": "New York Times review",
+          "url": "http://www.nytimes.com/2007/05/29/books/29kaku.html"
+        },
+        {
+          "title": "New York Times review",
+          "url": "http://www.nytimes.com/2007/06/03/books/review/See-t.html"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/15160111-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/15160111-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/15160111-L.jpg"
+      }
+    },
+    "OLID:OL38132381M": {
+      "url": "http://openlibrary.org/books/OL38132381M/A_Thousand_Splendid_Suns",
+      "key": "/books/OL38132381M",
+      "title": "A Thousand Splendid Suns",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL1412764A/Khaled_Hosseini",
+          "name": "Khaled Hosseini"
+        }
+      ],
+      "identifiers": {
+        "isbn_10": [
+          "1847371167"
+        ],
+        "isbn_13": [
+          "9781847371164"
+        ],
+        "openlibrary": [
+          "OL38132381M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Simon & Schuster Audio"
+        }
+      ],
+      "publish_date": "May 23, 2007",
+      "subjects": [
+        {
+          "name": "desertion",
+          "url": "https://openlibrary.org/subjects/desertion"
+        },
+        {
+          "name": "Sufism",
+          "url": "https://openlibrary.org/subjects/sufism"
+        },
+        {
+          "name": "Pashhtuns",
+          "url": "https://openlibrary.org/subjects/pashhtuns"
+        },
+        {
+          "name": "domestic abuse",
+          "url": "https://openlibrary.org/subjects/domestic_abuse"
+        },
+        {
+          "name": "Tajiks",
+          "url": "https://openlibrary.org/subjects/tajiks"
+        },
+        {
+          "name": "Taliban",
+          "url": "https://openlibrary.org/subjects/taliban"
+        },
+        {
+          "name": "Pinocchio",
+          "url": "https://openlibrary.org/subjects/pinocchio"
+        },
+        {
+          "name": "Literature",
+          "url": "https://openlibrary.org/subjects/literature"
+        },
+        {
+          "name": "Families",
+          "url": "https://openlibrary.org/subjects/families"
+        },
+        {
+          "name": "Family",
+          "url": "https://openlibrary.org/subjects/family"
+        },
+        {
+          "name": "Intergenerational relations",
+          "url": "https://openlibrary.org/subjects/intergenerational_relations"
+        },
+        {
+          "name": "Women",
+          "url": "https://openlibrary.org/subjects/women"
+        },
+        {
+          "name": "Loss (Psychology)",
+          "url": "https://openlibrary.org/subjects/loss_(psychology)"
+        },
+        {
+          "name": "Family relationships",
+          "url": "https://openlibrary.org/subjects/family_relationships"
+        },
+        {
+          "name": "Family sagas",
+          "url": "https://openlibrary.org/subjects/family_sagas"
+        },
+        {
+          "name": "Friendship",
+          "url": "https://openlibrary.org/subjects/friendship"
+        },
+        {
+          "name": "Families -- Fiction.",
+          "url": "https://openlibrary.org/subjects/families_--_fiction."
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Ehefrau",
+          "url": "https://openlibrary.org/subjects/ehefrau"
+        },
+        {
+          "name": "Social conditions",
+          "url": "https://openlibrary.org/subjects/social_conditions"
+        },
+        {
+          "name": "Arranged marriage",
+          "url": "https://openlibrary.org/subjects/arranged_marriage"
+        },
+        {
+          "name": "Ehemann",
+          "url": "https://openlibrary.org/subjects/ehemann"
+        },
+        {
+          "name": "Unterdrückung",
+          "url": "https://openlibrary.org/subjects/unterdrückung"
+        },
+        {
+          "name": "Family life",
+          "url": "https://openlibrary.org/subjects/family_life"
+        },
+        {
+          "name": "Afghanistan, fiction",
+          "url": "https://openlibrary.org/subjects/afghanistan,_fiction"
+        },
+        {
+          "name": "Fiction, family life",
+          "url": "https://openlibrary.org/subjects/fiction,_family_life"
+        },
+        {
+          "name": "Modern & contemporary fiction (post c 1945)",
+          "url": "https://openlibrary.org/subjects/modern_&_contemporary_fiction_(post_c_1945)"
+        },
+        {
+          "name": "General",
+          "url": "https://openlibrary.org/subjects/general"
+        },
+        {
+          "name": "Frauenfreundschaft",
+          "url": "https://openlibrary.org/subjects/frauenfreundschaft"
+        },
+        {
+          "name": "Altersunterschied",
+          "url": "https://openlibrary.org/subjects/altersunterschied"
+        },
+        {
+          "name": "Large type books",
+          "url": "https://openlibrary.org/subjects/large_type_books"
+        },
+        {
+          "name": "nyt:trade-fiction-paperback=2008-12-14",
+          "url": "https://openlibrary.org/subjects/nyt:trade-fiction-paperback=2008-12-14"
+        },
+        {
+          "name": "New York Times bestseller",
+          "url": "https://openlibrary.org/subjects/new_york_times_bestseller"
+        },
+        {
+          "name": "New York Times reviewed",
+          "url": "https://openlibrary.org/subjects/new_york_times_reviewed"
+        },
+        {
+          "name": "Familia",
+          "url": "https://openlibrary.org/subjects/familia"
+        },
+        {
+          "name": "Novela",
+          "url": "https://openlibrary.org/subjects/novela"
+        },
+        {
+          "name": "Afganistán",
+          "url": "https://openlibrary.org/subjects/afganistán"
+        },
+        {
+          "name": "Fiction, family life, general",
+          "url": "https://openlibrary.org/subjects/fiction,_family_life,_general"
+        },
+        {
+          "name": "Fictional Works",
+          "url": "https://openlibrary.org/subjects/fictional_works"
+        },
+        {
+          "name": "Social life and customs",
+          "url": "https://openlibrary.org/subjects/social_life_and_customs"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Afghanistan",
+          "url": "https://openlibrary.org/subjects/place:afghanistan"
+        },
+        {
+          "name": "Herat",
+          "url": "https://openlibrary.org/subjects/place:herat"
+        },
+        {
+          "name": "Kabul",
+          "url": "https://openlibrary.org/subjects/place:kabul"
+        },
+        {
+          "name": "Murree",
+          "url": "https://openlibrary.org/subjects/place:murree"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Mariam",
+          "url": "https://openlibrary.org/subjects/person:mariam"
+        },
+        {
+          "name": "Laila",
+          "url": "https://openlibrary.org/subjects/person:laila"
+        },
+        {
+          "name": "Rasheed",
+          "url": "https://openlibrary.org/subjects/person:rasheed"
+        },
+        {
+          "name": "Tariq",
+          "url": "https://openlibrary.org/subjects/person:tariq"
+        },
+        {
+          "name": "Nana",
+          "url": "https://openlibrary.org/subjects/person:nana"
+        },
+        {
+          "name": "Mullah Faizullah",
+          "url": "https://openlibrary.org/subjects/person:mullah_faizullah"
+        },
+        {
+          "name": "Jalil",
+          "url": "https://openlibrary.org/subjects/person:jalil"
+        },
+        {
+          "name": "Hakim",
+          "url": "https://openlibrary.org/subjects/person:hakim"
+        },
+        {
+          "name": "Fariba",
+          "url": "https://openlibrary.org/subjects/person:fariba"
+        },
+        {
+          "name": "Aziza",
+          "url": "https://openlibrary.org/subjects/person:aziza"
+        },
+        {
+          "name": "Zalmai",
+          "url": "https://openlibrary.org/subjects/person:zalmai"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "1959",
+          "url": "https://openlibrary.org/subjects/time:1959"
+        },
+        {
+          "name": "1978",
+          "url": "https://openlibrary.org/subjects/time:1978"
+        },
+        {
+          "name": "1976",
+          "url": "https://openlibrary.org/subjects/time:1976"
+        },
+        {
+          "name": "1989",
+          "url": "https://openlibrary.org/subjects/time:1989"
+        },
+        {
+          "name": "1987",
+          "url": "https://openlibrary.org/subjects/time:1987"
+        },
+        {
+          "name": "1993",
+          "url": "https://openlibrary.org/subjects/time:1993"
+        },
+        {
+          "name": "1997",
+          "url": "https://openlibrary.org/subjects/time:1997"
+        }
+      ],
+      "excerpts": [
+        {
+          "text": "Mariam was five years old the first time she heard the word harami.",
+          "comment": "first sentence"
+        }
+      ],
+      "links": [
+        {
+          "title": "khaledhosseini.com/books/a-thousand-splendid-suns/",
+          "url": "https://khaledhosseini.com/books/a-thousand-splendid-suns/"
+        },
+        {
+          "title": "A Thousand Splendid Suns - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns"
+        },
+        {
+          "title": "Behind the veil",
+          "url": "https://www.theguardian.com/books/2007/may/19/featuresreviews.guardianreview21"
+        },
+        {
+          "title": "A Thousand Splendid Suns - CliffsNotes",
+          "url": "https://www.cliffsnotes.com/literature/t/a-thousand-splendid-suns/book-summary"
+        },
+        {
+          "title": "A thousand splendid suns door Khaled Hosseini (Zeker Weten Goed ...",
+          "url": "https://www.scholieren.com/verslag/zekerwetengoed/a-thousand-splendid-suns-khaled-hosseini"
+        },
+        {
+          "title": "A Thousand Splendid Suns by Khaled Hosseini - Interview | | BookPage",
+          "url": "https://bookpage.com/interviews/8408-khaled-hosseini-fiction#.XO-LMRYzZhE"
+        },
+        {
+          "title": "New York Times review",
+          "url": "http://www.nytimes.com/2007/05/29/books/29kaku.html"
+        },
+        {
+          "title": "New York Times review",
+          "url": "http://www.nytimes.com/2007/06/03/books/review/See-t.html"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13277289-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13277289-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13277289-L.jpg"
+      }
+    }
+  }
+}

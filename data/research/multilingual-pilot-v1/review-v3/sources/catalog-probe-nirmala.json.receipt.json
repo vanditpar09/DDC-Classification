@@ -1,0 +1,9 @@
+{
+  "source_url": "https://openlibrary.org/search.json?title=Nirmala&author=Premchand&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "final_url": "https://openlibrary.org/search.json?title=Nirmala&author=Premchand&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "retrieved_at": "2026-10-04T03:32:27.203551+00:00",
+  "bytes": 1088,
+  "sha256": "c7491d7f04c954675b0aee7f848d4f662c813e8acced5669787cbf6c88178133",
+  "content_type": "application/json",
+  "file": "data/research/multilingual-pilot-v1/review-v3/sources/catalog-probe-nirmala.json"
+}

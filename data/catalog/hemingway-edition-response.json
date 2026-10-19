@@ -1,0 +1,1012 @@
+{
+  "request_url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9789355563187%2COLID%3AOL22596607M%2COLID%3AOL864609M&jscmd=data&format=json",
+  "retrieved_at": "2026-10-08T17:10:56.829422+00:00",
+  "response": {
+    "ISBN:9789355563187": {
+      "url": "http://openlibrary.org/books/OL47196111M/The_Old_Man_and_the_Sea",
+      "key": "/books/OL47196111M",
+      "title": "The Old Man and the Sea",
+      "subtitle": "Ernest Hemingway's tale of the Sea",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL13640A/Ernest_Hemingway",
+          "name": "Ernest Hemingway"
+        }
+      ],
+      "number_of_pages": 64,
+      "identifiers": {
+        "isbn_10": [
+          "9355563183"
+        ],
+        "isbn_13": [
+          "9789355563187"
+        ],
+        "openlibrary": [
+          "OL47196111M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Edugorilla Community Pvt.Ltd"
+        }
+      ],
+      "publish_date": "Jun 07, 2022",
+      "subjects": [
+        {
+          "name": "American Sea stories",
+          "url": "https://openlibrary.org/subjects/american_sea_stories"
+        },
+        {
+          "name": "Male friendship",
+          "url": "https://openlibrary.org/subjects/male_friendship"
+        },
+        {
+          "name": "Fishers",
+          "url": "https://openlibrary.org/subjects/fishers"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Ameriška književnost",
+          "url": "https://openlibrary.org/subjects/ameriška_književnost"
+        },
+        {
+          "name": "American fiction",
+          "url": "https://openlibrary.org/subjects/american_fiction"
+        },
+        {
+          "name": "Ancianos",
+          "url": "https://openlibrary.org/subjects/ancianos"
+        },
+        {
+          "name": "Open Library Staff Picks",
+          "url": "https://openlibrary.org/subjects/open_library_staff_picks"
+        },
+        {
+          "name": "Fishing stories",
+          "url": "https://openlibrary.org/subjects/fishing_stories"
+        },
+        {
+          "name": "Pescadores",
+          "url": "https://openlibrary.org/subjects/pescadores"
+        },
+        {
+          "name": "Older men",
+          "url": "https://openlibrary.org/subjects/older_men"
+        },
+        {
+          "name": "open_syllabus_project",
+          "url": "https://openlibrary.org/subjects/open_syllabus_project"
+        },
+        {
+          "name": "Kratka proza",
+          "url": "https://openlibrary.org/subjects/kratka_proza"
+        },
+        {
+          "name": "Friendship",
+          "url": "https://openlibrary.org/subjects/friendship"
+        },
+        {
+          "name": "Amistad entre hombres",
+          "url": "https://openlibrary.org/subjects/amistad_entre_hombres"
+        },
+        {
+          "name": "Ficción",
+          "url": "https://openlibrary.org/subjects/ficción"
+        },
+        {
+          "name": "Bildungsromans",
+          "url": "https://openlibrary.org/subjects/bildungsromans"
+        },
+        {
+          "name": "American literature",
+          "url": "https://openlibrary.org/subjects/american_literature"
+        },
+        {
+          "name": "Libros en letra grande",
+          "url": "https://openlibrary.org/subjects/libros_en_letra_grande"
+        },
+        {
+          "name": "Alegorías",
+          "url": "https://openlibrary.org/subjects/alegorías"
+        },
+        {
+          "name": "Historias de aventuras",
+          "url": "https://openlibrary.org/subjects/historias_de_aventuras"
+        },
+        {
+          "name": "Novela",
+          "url": "https://openlibrary.org/subjects/novela"
+        },
+        {
+          "name": "Literatura estadounidense",
+          "url": "https://openlibrary.org/subjects/literatura_estadounidense"
+        },
+        {
+          "name": "Novela estadounidense",
+          "url": "https://openlibrary.org/subjects/novela_estadounidense"
+        },
+        {
+          "name": "Reading Level-Grade 11",
+          "url": "https://openlibrary.org/subjects/reading_level-grade_11"
+        },
+        {
+          "name": "Reading Level-Grade 12",
+          "url": "https://openlibrary.org/subjects/reading_level-grade_12"
+        },
+        {
+          "name": "American fiction (fictional works by one author)",
+          "url": "https://openlibrary.org/subjects/american_fiction_(fictional_works_by_one_author)"
+        },
+        {
+          "name": "Cuba, fiction",
+          "url": "https://openlibrary.org/subjects/cuba,_fiction"
+        },
+        {
+          "name": "Friendship, fiction",
+          "url": "https://openlibrary.org/subjects/friendship,_fiction"
+        },
+        {
+          "name": "Old man and the sea (Hemingway, Ernest)",
+          "url": "https://openlibrary.org/subjects/old_man_and_the_sea_(hemingway,_ernest)"
+        },
+        {
+          "name": "Hombres",
+          "url": "https://openlibrary.org/subjects/hombres"
+        },
+        {
+          "name": "Amistad",
+          "url": "https://openlibrary.org/subjects/amistad"
+        },
+        {
+          "name": "Allegories",
+          "url": "https://openlibrary.org/subjects/allegories"
+        },
+        {
+          "name": "Metaphorical tales",
+          "url": "https://openlibrary.org/subjects/metaphorical_tales"
+        },
+        {
+          "name": "Big game fishing",
+          "url": "https://openlibrary.org/subjects/big_game_fishing"
+        },
+        {
+          "name": "Aged men",
+          "url": "https://openlibrary.org/subjects/aged_men"
+        },
+        {
+          "name": "Psychology",
+          "url": "https://openlibrary.org/subjects/psychology"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "American Fishing stories",
+          "url": "https://openlibrary.org/subjects/american_fishing_stories"
+        },
+        {
+          "name": "Older men in literature",
+          "url": "https://openlibrary.org/subjects/older_men_in_literature"
+        },
+        {
+          "name": "Translations from English",
+          "url": "https://openlibrary.org/subjects/translations_from_english"
+        },
+        {
+          "name": "Chinese fiction",
+          "url": "https://openlibrary.org/subjects/chinese_fiction"
+        },
+        {
+          "name": "Marlins",
+          "url": "https://openlibrary.org/subjects/marlins"
+        },
+        {
+          "name": "Courage in men",
+          "url": "https://openlibrary.org/subjects/courage_in_men"
+        },
+        {
+          "name": "Pêcheurs",
+          "url": "https://openlibrary.org/subjects/pêcheurs"
+        },
+        {
+          "name": "Romans, nouvelles",
+          "url": "https://openlibrary.org/subjects/romans,_nouvelles"
+        },
+        {
+          "name": "Hommes âgés",
+          "url": "https://openlibrary.org/subjects/hommes_âgés"
+        },
+        {
+          "name": "Sea stories",
+          "url": "https://openlibrary.org/subjects/sea_stories"
+        },
+        {
+          "name": "Translations into Swahili",
+          "url": "https://openlibrary.org/subjects/translations_into_swahili"
+        },
+        {
+          "name": "Swahili fiction",
+          "url": "https://openlibrary.org/subjects/swahili_fiction"
+        },
+        {
+          "name": "Fishers--cuba--fiction",
+          "url": "https://openlibrary.org/subjects/fishers--cuba--fiction"
+        },
+        {
+          "name": "Older men--cuba--fiction",
+          "url": "https://openlibrary.org/subjects/older_men--cuba--fiction"
+        },
+        {
+          "name": "Friendship--fiction",
+          "url": "https://openlibrary.org/subjects/friendship--fiction"
+        },
+        {
+          "name": "Fishers--fiction",
+          "url": "https://openlibrary.org/subjects/fishers--fiction"
+        },
+        {
+          "name": "Older men--fiction",
+          "url": "https://openlibrary.org/subjects/older_men--fiction"
+        },
+        {
+          "name": "Male friendship--fiction",
+          "url": "https://openlibrary.org/subjects/male_friendship--fiction"
+        },
+        {
+          "name": "Ps3515.e37 o4 1995",
+          "url": "https://openlibrary.org/subjects/ps3515.e37_o4_1995"
+        },
+        {
+          "name": "813/.52",
+          "url": "https://openlibrary.org/subjects/813/.52"
+        },
+        {
+          "name": "Taoism",
+          "url": "https://openlibrary.org/subjects/taoism"
+        },
+        {
+          "name": "Zhongguo ren min da xue. Wai guo yu jiao yan shi",
+          "url": "https://openlibrary.org/subjects/zhongguo_ren_min_da_xue._wai_guo_yu_jiao_yan_shi"
+        },
+        {
+          "name": "Translations into Persian",
+          "url": "https://openlibrary.org/subjects/translations_into_persian"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Cuba",
+          "url": "https://openlibrary.org/subjects/place:cuba"
+        },
+        {
+          "name": "Gulf Stream",
+          "url": "https://openlibrary.org/subjects/place:gulf_stream"
+        },
+        {
+          "name": "Straits of Florida",
+          "url": "https://openlibrary.org/subjects/place:straits_of_florida"
+        },
+        {
+          "name": "Swahili",
+          "url": "https://openlibrary.org/subjects/place:swahili"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Ernest Hemingway (1899-1961)",
+          "url": "https://openlibrary.org/subjects/person:ernest_hemingway_(1899-1961)"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ],
+      "notes": "Source title: The Old Man and the Sea: Ernest Hemingway's tale of the Sea",
+      "links": [
+        {
+          "title": "Ernest Hemingway’s The Old Man and the Sea",
+          "url": "https://love-books-review.com/blog/the-old-man-and-the-sea/"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/13622151-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/13622151-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/13622151-L.jpg"
+      }
+    },
+    "OLID:OL22596607M": {
+      "url": "http://openlibrary.org/books/OL22596607M/The_Old_Man_and_the_Sea",
+      "key": "/books/OL22596607M",
+      "title": "The Old Man and the Sea",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL13640A/Ernest_Hemingway",
+          "name": "Ernest Hemingway"
+        }
+      ],
+      "number_of_pages": 128,
+      "pagination": "127p.",
+      "by_statement": "Ernest Hemingway",
+      "identifiers": {
+        "goodreads": [
+          "386299"
+        ],
+        "librarything": [
+          "4933"
+        ],
+        "isbn_10": [
+          "0684801221"
+        ],
+        "isbn_13": [
+          "9780684801223"
+        ],
+        "openlibrary": [
+          "OL22596607M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PS3515.E37 O4 1995"
+        ],
+        "dewey_decimal_class": [
+          "813/.52"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Scribner Paperback Fiction"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "New York, USA"
+        }
+      ],
+      "publish_date": "1980",
+      "subjects": [
+        {
+          "name": "American Sea stories",
+          "url": "https://openlibrary.org/subjects/american_sea_stories"
+        },
+        {
+          "name": "Male friendship",
+          "url": "https://openlibrary.org/subjects/male_friendship"
+        },
+        {
+          "name": "Fishers",
+          "url": "https://openlibrary.org/subjects/fishers"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Ameriška književnost",
+          "url": "https://openlibrary.org/subjects/ameriška_književnost"
+        },
+        {
+          "name": "American fiction",
+          "url": "https://openlibrary.org/subjects/american_fiction"
+        },
+        {
+          "name": "Ancianos",
+          "url": "https://openlibrary.org/subjects/ancianos"
+        },
+        {
+          "name": "Open Library Staff Picks",
+          "url": "https://openlibrary.org/subjects/open_library_staff_picks"
+        },
+        {
+          "name": "Fishing stories",
+          "url": "https://openlibrary.org/subjects/fishing_stories"
+        },
+        {
+          "name": "Pescadores",
+          "url": "https://openlibrary.org/subjects/pescadores"
+        },
+        {
+          "name": "Older men",
+          "url": "https://openlibrary.org/subjects/older_men"
+        },
+        {
+          "name": "open_syllabus_project",
+          "url": "https://openlibrary.org/subjects/open_syllabus_project"
+        },
+        {
+          "name": "Kratka proza",
+          "url": "https://openlibrary.org/subjects/kratka_proza"
+        },
+        {
+          "name": "Friendship",
+          "url": "https://openlibrary.org/subjects/friendship"
+        },
+        {
+          "name": "Amistad entre hombres",
+          "url": "https://openlibrary.org/subjects/amistad_entre_hombres"
+        },
+        {
+          "name": "Ficción",
+          "url": "https://openlibrary.org/subjects/ficción"
+        },
+        {
+          "name": "Bildungsromans",
+          "url": "https://openlibrary.org/subjects/bildungsromans"
+        },
+        {
+          "name": "American literature",
+          "url": "https://openlibrary.org/subjects/american_literature"
+        },
+        {
+          "name": "Libros en letra grande",
+          "url": "https://openlibrary.org/subjects/libros_en_letra_grande"
+        },
+        {
+          "name": "Alegorías",
+          "url": "https://openlibrary.org/subjects/alegorías"
+        },
+        {
+          "name": "Historias de aventuras",
+          "url": "https://openlibrary.org/subjects/historias_de_aventuras"
+        },
+        {
+          "name": "Novela",
+          "url": "https://openlibrary.org/subjects/novela"
+        },
+        {
+          "name": "Literatura estadounidense",
+          "url": "https://openlibrary.org/subjects/literatura_estadounidense"
+        },
+        {
+          "name": "Novela estadounidense",
+          "url": "https://openlibrary.org/subjects/novela_estadounidense"
+        },
+        {
+          "name": "Reading Level-Grade 11",
+          "url": "https://openlibrary.org/subjects/reading_level-grade_11"
+        },
+        {
+          "name": "Reading Level-Grade 12",
+          "url": "https://openlibrary.org/subjects/reading_level-grade_12"
+        },
+        {
+          "name": "American fiction (fictional works by one author)",
+          "url": "https://openlibrary.org/subjects/american_fiction_(fictional_works_by_one_author)"
+        },
+        {
+          "name": "Cuba, fiction",
+          "url": "https://openlibrary.org/subjects/cuba,_fiction"
+        },
+        {
+          "name": "Friendship, fiction",
+          "url": "https://openlibrary.org/subjects/friendship,_fiction"
+        },
+        {
+          "name": "Old man and the sea (Hemingway, Ernest)",
+          "url": "https://openlibrary.org/subjects/old_man_and_the_sea_(hemingway,_ernest)"
+        },
+        {
+          "name": "Hombres",
+          "url": "https://openlibrary.org/subjects/hombres"
+        },
+        {
+          "name": "Amistad",
+          "url": "https://openlibrary.org/subjects/amistad"
+        },
+        {
+          "name": "Allegories",
+          "url": "https://openlibrary.org/subjects/allegories"
+        },
+        {
+          "name": "Metaphorical tales",
+          "url": "https://openlibrary.org/subjects/metaphorical_tales"
+        },
+        {
+          "name": "Big game fishing",
+          "url": "https://openlibrary.org/subjects/big_game_fishing"
+        },
+        {
+          "name": "Aged men",
+          "url": "https://openlibrary.org/subjects/aged_men"
+        },
+        {
+          "name": "Psychology",
+          "url": "https://openlibrary.org/subjects/psychology"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "American Fishing stories",
+          "url": "https://openlibrary.org/subjects/american_fishing_stories"
+        },
+        {
+          "name": "Older men in literature",
+          "url": "https://openlibrary.org/subjects/older_men_in_literature"
+        },
+        {
+          "name": "Translations from English",
+          "url": "https://openlibrary.org/subjects/translations_from_english"
+        },
+        {
+          "name": "Chinese fiction",
+          "url": "https://openlibrary.org/subjects/chinese_fiction"
+        },
+        {
+          "name": "Marlins",
+          "url": "https://openlibrary.org/subjects/marlins"
+        },
+        {
+          "name": "Courage in men",
+          "url": "https://openlibrary.org/subjects/courage_in_men"
+        },
+        {
+          "name": "Pêcheurs",
+          "url": "https://openlibrary.org/subjects/pêcheurs"
+        },
+        {
+          "name": "Romans, nouvelles",
+          "url": "https://openlibrary.org/subjects/romans,_nouvelles"
+        },
+        {
+          "name": "Hommes âgés",
+          "url": "https://openlibrary.org/subjects/hommes_âgés"
+        },
+        {
+          "name": "Sea stories",
+          "url": "https://openlibrary.org/subjects/sea_stories"
+        },
+        {
+          "name": "Translations into Swahili",
+          "url": "https://openlibrary.org/subjects/translations_into_swahili"
+        },
+        {
+          "name": "Swahili fiction",
+          "url": "https://openlibrary.org/subjects/swahili_fiction"
+        },
+        {
+          "name": "Fishers--cuba--fiction",
+          "url": "https://openlibrary.org/subjects/fishers--cuba--fiction"
+        },
+        {
+          "name": "Older men--cuba--fiction",
+          "url": "https://openlibrary.org/subjects/older_men--cuba--fiction"
+        },
+        {
+          "name": "Friendship--fiction",
+          "url": "https://openlibrary.org/subjects/friendship--fiction"
+        },
+        {
+          "name": "Fishers--fiction",
+          "url": "https://openlibrary.org/subjects/fishers--fiction"
+        },
+        {
+          "name": "Older men--fiction",
+          "url": "https://openlibrary.org/subjects/older_men--fiction"
+        },
+        {
+          "name": "Male friendship--fiction",
+          "url": "https://openlibrary.org/subjects/male_friendship--fiction"
+        },
+        {
+          "name": "Ps3515.e37 o4 1995",
+          "url": "https://openlibrary.org/subjects/ps3515.e37_o4_1995"
+        },
+        {
+          "name": "813/.52",
+          "url": "https://openlibrary.org/subjects/813/.52"
+        },
+        {
+          "name": "Taoism",
+          "url": "https://openlibrary.org/subjects/taoism"
+        },
+        {
+          "name": "Zhongguo ren min da xue. Wai guo yu jiao yan shi",
+          "url": "https://openlibrary.org/subjects/zhongguo_ren_min_da_xue._wai_guo_yu_jiao_yan_shi"
+        },
+        {
+          "name": "Translations into Persian",
+          "url": "https://openlibrary.org/subjects/translations_into_persian"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Cuba",
+          "url": "https://openlibrary.org/subjects/place:cuba"
+        },
+        {
+          "name": "Gulf Stream",
+          "url": "https://openlibrary.org/subjects/place:gulf_stream"
+        },
+        {
+          "name": "Straits of Florida",
+          "url": "https://openlibrary.org/subjects/place:straits_of_florida"
+        },
+        {
+          "name": "Swahili",
+          "url": "https://openlibrary.org/subjects/place:swahili"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Ernest Hemingway (1899-1961)",
+          "url": "https://openlibrary.org/subjects/person:ernest_hemingway_(1899-1961)"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ],
+      "excerpts": [
+        {
+          "text": "He was an old man who fished alone in a skiff in the Gulf Stream and he had gone eighty-four days now without taking a fish.",
+          "comment": "",
+          "first_sentence": true
+        }
+      ],
+      "links": [
+        {
+          "title": "Ernest Hemingway’s The Old Man and the Sea",
+          "url": "https://love-books-review.com/blog/the-old-man-and-the-sea/"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/15176072-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/15176072-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/15176072-L.jpg"
+      }
+    },
+    "OLID:OL864609M": {
+      "url": "http://openlibrary.org/books/OL864609M/The_Old_Man_and_The_Sea",
+      "key": "/books/OL864609M",
+      "title": "The Old Man and The Sea",
+      "authors": [
+        {
+          "url": "http://openlibrary.org/authors/OL13640A/Ernest_Hemingway",
+          "name": "Ernest Hemingway"
+        }
+      ],
+      "number_of_pages": 127,
+      "pagination": "127 p. ;",
+      "by_statement": "Ernest Hemingway.",
+      "identifiers": {
+        "goodreads": [
+          "386299"
+        ],
+        "librarything": [
+          "4933"
+        ],
+        "isbn_10": [
+          "0684801221"
+        ],
+        "lccn": [
+          "95148450"
+        ],
+        "openlibrary": [
+          "OL864609M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "PS3515.E37 O4 1995"
+        ],
+        "dewey_decimal_class": [
+          "813/.52"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Scribner Paperback Fiction"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "New York"
+        }
+      ],
+      "publish_date": "1995",
+      "subjects": [
+        {
+          "name": "American Sea stories",
+          "url": "https://openlibrary.org/subjects/american_sea_stories"
+        },
+        {
+          "name": "Male friendship",
+          "url": "https://openlibrary.org/subjects/male_friendship"
+        },
+        {
+          "name": "Fishers",
+          "url": "https://openlibrary.org/subjects/fishers"
+        },
+        {
+          "name": "Fiction",
+          "url": "https://openlibrary.org/subjects/fiction"
+        },
+        {
+          "name": "Ameriška književnost",
+          "url": "https://openlibrary.org/subjects/ameriška_književnost"
+        },
+        {
+          "name": "American fiction",
+          "url": "https://openlibrary.org/subjects/american_fiction"
+        },
+        {
+          "name": "Ancianos",
+          "url": "https://openlibrary.org/subjects/ancianos"
+        },
+        {
+          "name": "Open Library Staff Picks",
+          "url": "https://openlibrary.org/subjects/open_library_staff_picks"
+        },
+        {
+          "name": "Fishing stories",
+          "url": "https://openlibrary.org/subjects/fishing_stories"
+        },
+        {
+          "name": "Pescadores",
+          "url": "https://openlibrary.org/subjects/pescadores"
+        },
+        {
+          "name": "Older men",
+          "url": "https://openlibrary.org/subjects/older_men"
+        },
+        {
+          "name": "open_syllabus_project",
+          "url": "https://openlibrary.org/subjects/open_syllabus_project"
+        },
+        {
+          "name": "Kratka proza",
+          "url": "https://openlibrary.org/subjects/kratka_proza"
+        },
+        {
+          "name": "Friendship",
+          "url": "https://openlibrary.org/subjects/friendship"
+        },
+        {
+          "name": "Amistad entre hombres",
+          "url": "https://openlibrary.org/subjects/amistad_entre_hombres"
+        },
+        {
+          "name": "Ficción",
+          "url": "https://openlibrary.org/subjects/ficción"
+        },
+        {
+          "name": "Bildungsromans",
+          "url": "https://openlibrary.org/subjects/bildungsromans"
+        },
+        {
+          "name": "American literature",
+          "url": "https://openlibrary.org/subjects/american_literature"
+        },
+        {
+          "name": "Libros en letra grande",
+          "url": "https://openlibrary.org/subjects/libros_en_letra_grande"
+        },
+        {
+          "name": "Alegorías",
+          "url": "https://openlibrary.org/subjects/alegorías"
+        },
+        {
+          "name": "Historias de aventuras",
+          "url": "https://openlibrary.org/subjects/historias_de_aventuras"
+        },
+        {
+          "name": "Novela",
+          "url": "https://openlibrary.org/subjects/novela"
+        },
+        {
+          "name": "Literatura estadounidense",
+          "url": "https://openlibrary.org/subjects/literatura_estadounidense"
+        },
+        {
+          "name": "Novela estadounidense",
+          "url": "https://openlibrary.org/subjects/novela_estadounidense"
+        },
+        {
+          "name": "Reading Level-Grade 11",
+          "url": "https://openlibrary.org/subjects/reading_level-grade_11"
+        },
+        {
+          "name": "Reading Level-Grade 12",
+          "url": "https://openlibrary.org/subjects/reading_level-grade_12"
+        },
+        {
+          "name": "American fiction (fictional works by one author)",
+          "url": "https://openlibrary.org/subjects/american_fiction_(fictional_works_by_one_author)"
+        },
+        {
+          "name": "Cuba, fiction",
+          "url": "https://openlibrary.org/subjects/cuba,_fiction"
+        },
+        {
+          "name": "Friendship, fiction",
+          "url": "https://openlibrary.org/subjects/friendship,_fiction"
+        },
+        {
+          "name": "Old man and the sea (Hemingway, Ernest)",
+          "url": "https://openlibrary.org/subjects/old_man_and_the_sea_(hemingway,_ernest)"
+        },
+        {
+          "name": "Hombres",
+          "url": "https://openlibrary.org/subjects/hombres"
+        },
+        {
+          "name": "Amistad",
+          "url": "https://openlibrary.org/subjects/amistad"
+        },
+        {
+          "name": "Allegories",
+          "url": "https://openlibrary.org/subjects/allegories"
+        },
+        {
+          "name": "Metaphorical tales",
+          "url": "https://openlibrary.org/subjects/metaphorical_tales"
+        },
+        {
+          "name": "Big game fishing",
+          "url": "https://openlibrary.org/subjects/big_game_fishing"
+        },
+        {
+          "name": "Aged men",
+          "url": "https://openlibrary.org/subjects/aged_men"
+        },
+        {
+          "name": "Psychology",
+          "url": "https://openlibrary.org/subjects/psychology"
+        },
+        {
+          "name": "History and criticism",
+          "url": "https://openlibrary.org/subjects/history_and_criticism"
+        },
+        {
+          "name": "American Fishing stories",
+          "url": "https://openlibrary.org/subjects/american_fishing_stories"
+        },
+        {
+          "name": "Older men in literature",
+          "url": "https://openlibrary.org/subjects/older_men_in_literature"
+        },
+        {
+          "name": "Translations from English",
+          "url": "https://openlibrary.org/subjects/translations_from_english"
+        },
+        {
+          "name": "Chinese fiction",
+          "url": "https://openlibrary.org/subjects/chinese_fiction"
+        },
+        {
+          "name": "Marlins",
+          "url": "https://openlibrary.org/subjects/marlins"
+        },
+        {
+          "name": "Courage in men",
+          "url": "https://openlibrary.org/subjects/courage_in_men"
+        },
+        {
+          "name": "Pêcheurs",
+          "url": "https://openlibrary.org/subjects/pêcheurs"
+        },
+        {
+          "name": "Romans, nouvelles",
+          "url": "https://openlibrary.org/subjects/romans,_nouvelles"
+        },
+        {
+          "name": "Hommes âgés",
+          "url": "https://openlibrary.org/subjects/hommes_âgés"
+        },
+        {
+          "name": "Sea stories",
+          "url": "https://openlibrary.org/subjects/sea_stories"
+        },
+        {
+          "name": "Translations into Swahili",
+          "url": "https://openlibrary.org/subjects/translations_into_swahili"
+        },
+        {
+          "name": "Swahili fiction",
+          "url": "https://openlibrary.org/subjects/swahili_fiction"
+        },
+        {
+          "name": "Fishers--cuba--fiction",
+          "url": "https://openlibrary.org/subjects/fishers--cuba--fiction"
+        },
+        {
+          "name": "Older men--cuba--fiction",
+          "url": "https://openlibrary.org/subjects/older_men--cuba--fiction"
+        },
+        {
+          "name": "Friendship--fiction",
+          "url": "https://openlibrary.org/subjects/friendship--fiction"
+        },
+        {
+          "name": "Fishers--fiction",
+          "url": "https://openlibrary.org/subjects/fishers--fiction"
+        },
+        {
+          "name": "Older men--fiction",
+          "url": "https://openlibrary.org/subjects/older_men--fiction"
+        },
+        {
+          "name": "Male friendship--fiction",
+          "url": "https://openlibrary.org/subjects/male_friendship--fiction"
+        },
+        {
+          "name": "Ps3515.e37 o4 1995",
+          "url": "https://openlibrary.org/subjects/ps3515.e37_o4_1995"
+        },
+        {
+          "name": "813/.52",
+          "url": "https://openlibrary.org/subjects/813/.52"
+        },
+        {
+          "name": "Taoism",
+          "url": "https://openlibrary.org/subjects/taoism"
+        },
+        {
+          "name": "Zhongguo ren min da xue. Wai guo yu jiao yan shi",
+          "url": "https://openlibrary.org/subjects/zhongguo_ren_min_da_xue._wai_guo_yu_jiao_yan_shi"
+        },
+        {
+          "name": "Translations into Persian",
+          "url": "https://openlibrary.org/subjects/translations_into_persian"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Cuba",
+          "url": "https://openlibrary.org/subjects/place:cuba"
+        },
+        {
+          "name": "Gulf Stream",
+          "url": "https://openlibrary.org/subjects/place:gulf_stream"
+        },
+        {
+          "name": "Straits of Florida",
+          "url": "https://openlibrary.org/subjects/place:straits_of_florida"
+        },
+        {
+          "name": "Swahili",
+          "url": "https://openlibrary.org/subjects/place:swahili"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Ernest Hemingway (1899-1961)",
+          "url": "https://openlibrary.org/subjects/person:ernest_hemingway_(1899-1961)"
+        }
+      ],
+      "subject_times": [
+        {
+          "name": "20th century",
+          "url": "https://openlibrary.org/subjects/time:20th_century"
+        }
+      ],
+      "links": [
+        {
+          "title": "Ernest Hemingway’s The Old Man and the Sea",
+          "url": "https://love-books-review.com/blog/the-old-man-and-the-sea/"
+        }
+      ],
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/oldmansea00hemi_0",
+          "availability": "restricted",
+          "formats": {}
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/7884851-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/7884851-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/7884851-L.jpg"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "previous_holdouts_preserved": true,
+  "changes": [
+    {
+      "work_id": "esahity-anand_madhu_shirgaonkar",
+      "language": "mar",
+      "old_partition": "train",
+      "new_partition": "development"
+    },
+    {
+      "work_id": "esahity-aindrajal_supriya_joshi",
+      "language": "mar",
+      "old_partition": "train",
+      "new_partition": "development"
+    },
+    {
+      "work_id": "esahity-baap_the_grat_hero_manohar_surwade",
+      "language": "mar",
+      "old_partition": "train",
+      "new_partition": "development"
+    }
+  ],
+  "reason": "Development-language coverage correction; no earlier held-out work enters fitting",
+  "fresh_test_claim": false
+}

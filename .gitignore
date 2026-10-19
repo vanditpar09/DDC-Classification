@@ -1,0 +1,66 @@
+# Local Python and notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+# Experiments, temporary copies and trained models
+backups/
+*.zip
+*.joblib
+*.pkl
+*.log
+.pytest_cache/
+tmp/pdfs/
+# Trained model artifacts (serialized outside git)
+models/*
+# Preserve the small native pilot artifact; encoder/cache weights remain local.
+!models/native_silver_v2/
+models/native_silver_v2/*
+!models/native_silver_v2/classifier.joblib
+!models/native_silver_v2/metadata.json
+# Generated reports and patent forms are retained locally.
+output/
+# OCR pipeline working directories
+data/ocr_inbox/
+data/ocr_processed/
+data/ocr_archive/
+data/ocr_review_queue/
+# Secrets and credentials
+*.secret
+.secrets.baseline
+*.key
+*.pem
+# Original acquired books and intermediate image/text working copies stay local.
+# Keep source receipts, curated training excerpts, reviews and measured reports.
+data/research/multilingual-pilot-v1/**/*.pdf
+data/research/multilingual-pilot-v1/**/*.epub
+data/research/multilingual-pilot-v1/acquisition-v*/downloads/
+data/research/multilingual-pilot-v1/acquisition-v*/samples/
+data/research/multilingual-pilot-v1/intake-v1/samples/
+data/research/multilingual-pilot-v1/review-v3/samples/
+data/research/multilingual-pilot-v1/text-repair-v1/
+# Four small fixtures are needed to run the packaged/clone smoke checks.
+!data/research/multilingual-pilot-v1/text-repair-v1/
+data/research/multilingual-pilot-v1/text-repair-v1/*
+!data/research/multilingual-pilot-v1/text-repair-v1/ncert-fhgp1-chapter-1/
+data/research/multilingual-pilot-v1/text-repair-v1/ncert-fhgp1-chapter-1/*
+!data/research/multilingual-pilot-v1/text-repair-v1/ncert-fhgp1-chapter-1/page-6.png
+!data/research/multilingual-pilot-v1/text-repair-v1/esahity-anand_madhu_shirgaonkar/
+data/research/multilingual-pilot-v1/text-repair-v1/esahity-anand_madhu_shirgaonkar/*
+!data/research/multilingual-pilot-v1/text-repair-v1/esahity-anand_madhu_shirgaonkar/page-134.png
+!data/research/multilingual-pilot-v1/review-v3/samples/
+data/research/multilingual-pilot-v1/review-v3/samples/*
+!data/research/multilingual-pilot-v1/review-v3/samples/pm-work-118/
+data/research/multilingual-pilot-v1/review-v3/samples/pm-work-118/*
+!data/research/multilingual-pilot-v1/review-v3/samples/pm-work-118/pm0118-page-11.png
+# Full extraction intermediates are preserved on disk, not duplicated in Git.
+data/research/multilingual-pilot-v1/acquisition-v*/prepared/
+data/research/multilingual-pilot-v1/intake-v1/text/
+data/research/multilingual-pilot-v1/intake-v1/prepared-v1/images/
+data/research/multilingual-pilot-v1/intake-v1/prepared-v1/text/
+data/research/multilingual-pilot-v1/intake-v1/identity-v1/pages/
+data/research/multilingual-pilot-v1/intake-v1/identity-v1/*frontmatter.png

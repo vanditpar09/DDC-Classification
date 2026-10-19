@@ -1,0 +1,11 @@
+{
+  "reviewer": "assistant",
+  "human_checked": false,
+  "method": "Visual review of first selected chapter page for all 28 editions; publisher index and native script agree with proposed broad subjects",
+  "notes": [
+    "Marathi chapter numbering differs from Hindi/Tamil in some translated science files; no page alignment is claimed.",
+    "Physical geography held due 550/910 ambiguity.",
+    "Missing Tamil math chapter and Marathi science front matter exclude those editions from v1."
+  ],
+  "gold_numeric_labels": 0
+}

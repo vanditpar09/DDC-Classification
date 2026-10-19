@@ -1,0 +1,58 @@
+[
+  {
+    "work_id": "pm-work-718",
+    "reason": "Source begins at chapter 17; edition extent unresolved"
+  },
+  {
+    "work_id": "esahity-phakiraa",
+    "reason": "Anthology membership unresolved"
+  },
+  {
+    "work_id": "esahity-saichi_vahi",
+    "reason": "Unreadable stylized OCR"
+  },
+  {
+    "work_id": "pm-work-55",
+    "reason": "Prosody/grammar boundary unresolved"
+  },
+  {
+    "work_id": "pm-work-145",
+    "reason": "Rhetoric/grammar boundary unresolved"
+  },
+  {
+    "work_id": "pm-work-263",
+    "reason": "Prosody/grammar boundary unresolved"
+  },
+  {
+    "work_id": "pm-work-295",
+    "reason": "494 versus 894 numeric conflict"
+  },
+  {
+    "work_id": "pm-work-301",
+    "reason": "494 versus 894 numeric conflict"
+  },
+  {
+    "work_id": "pm-work-410",
+    "reason": "Poetics boundary and unreadable source passages"
+  },
+  {
+    "work_id": "pm-work-695",
+    "reason": "Prosody/grammar boundary unresolved"
+  },
+  {
+    "work_id": "hindisamay-v2-1232",
+    "reason": "Missing publisher part 3"
+  },
+  {
+    "work_id": "ncert-gtmgp1",
+    "reason": "Missing selected NCERT source file"
+  },
+  {
+    "work_id": "ncert-hmrcu1",
+    "reason": "Missing selected NCERT source file"
+  },
+  {
+    "work_id": "ncert-khgy2",
+    "reason": "Physical geography crosses 550/910; hold pending adjudication"
+  }
+]

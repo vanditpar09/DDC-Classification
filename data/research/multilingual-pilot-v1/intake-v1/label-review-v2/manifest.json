@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-10-04T02:02:12.123863+00:00",
+  "files": {
+    "README.md": "6d79a80f95d14c0e730dd2dd99bc091fdc4b8c63d1c6ccd18300681fab6b873a",
+    "decisions.jsonl": "11b62b502d94aae82ba9543badf9de552e9560190ccf900d980ebfa3b43f7919",
+    "evidence.json": "b91612ff2ebbaaefe504b92b0f10677cae6909dab62bdfff11e341b74a44d953",
+    "pages/iitgn-hindi-catalog-page-28.png": "023866c9893a38ded36c369d58211b6c571626ec4ed163711e6062f1e78ff560",
+    "pages/iitgn-hindi-catalog-page-28.txt": "6c4bb164691b0be234591237b9719da240d8df162b2e7f8443a50482eb333a30",
+    "pages/oclc-ddc23-summaries-page-13.png": "543d054a1d40b65f7c6c6ee0c1b23f09e9aead40a6ebfedb5ddb518c5dc798be",
+    "pages/oclc-ddc23-summaries-page-13.txt": "dbe4ffe6a01de6dcf68b0a5f4a4e883b7a3f9a953d834e7008ab99964bc71d7c",
+    "pages/vivekanand-marathi-catalog-page-93.png": "afb9e27b83b1f686ed09404e47fab66ce402afa8f1ae0d1fb7aee162d7c6d248",
+    "pages/vivekanand-marathi-catalog-page-93.txt": "7ab45be7f8c34970d7c5c29f3f2c34c42d792a6d5b31832b32b9dc0c652d6ee0",
+    "policy.json": "55811d9b215d03ceeca45671c3c03c4464d57e9d8f66051b858b3e1b922757a7",
+    "readiness.json": "430a7348a815028b987c061ecbf631c27fd4a9a13af27f183d8e42e91f396d53",
+    "rendered-pages.json": "561c2ec3d63529ae174d994e0157cf347304feb95b2559f0767ac53156a7ec46",
+    "sources/iitgn-hindi-catalog.pdf": "3d0fcb47c0b4fb9b2c4f5e3fb2a4f6ae9cc64ed3febbe95a0b10298be4c6bc0a",
+    "sources/oclc-ddc23-summaries.pdf": "87d9b5a163404878b05b675271a4b86ec3218e7646aa155657beac303c2bc455",
+    "sources/retrieval.json": "85747165e511e0e8cef66cb39ca80b31e911c5bdb3e69b2e06a834bcade8ec8c",
+    "sources/vivekanand-marathi-catalog.pdf": "5f1436db02df07c5abe01b40cddf7e32cc2fcf25f6aa2aa2f64d8807e6a60b95"
+  },
+  "artifact_count": 16,
+  "previous_evidence_sha256": "4ec3ef166ddb12511d23837457ce58c1b6a5948dcee31acf37b186175edb6cd4",
+  "previous_proposals_sha256": "592ccba1e93ffc604b99bb86b89d4ea08428af843c2fc9e34b64a2874a1c2c70",
+  "identity_packet_manifest_sha256": "ef93623412c3b6fa359406c4ea71d1626afd749e505fa5f4b3b6d2e2dda3054a",
+  "updated_document_hashes": {
+    "data/research/multilingual-pilot-v1/README.md": "027ffe5d3971e6d2374922ee50eefe8e56288585f0067377a607cfeeee583775",
+    "docs/MULTILINGUAL_NEXT_STEPS.md": "a9c555eff1c4c8937f49b644ed4d130f3aca5be52797e48592d4fabc101e210a"
+  },
+  "checks": {
+    "source_books_unchanged": true,
+    "previous_snapshot_intact": true,
+    "identity_snapshot_intact": true,
+    "model_weights_unchanged": true,
+    "decision_count": 8,
+    "new_evidence_count": 9,
+    "verified_label_count": 0,
+    "training_eligible_count": 0,
+    "missing_active_sections": 5,
+    "affected_books": 6
+  }
+}

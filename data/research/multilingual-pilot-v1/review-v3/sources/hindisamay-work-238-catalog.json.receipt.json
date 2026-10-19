@@ -1,0 +1,9 @@
+{
+  "source_url": "https://openlibrary.org/search.json?title=Prema&author=Premchand&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "final_url": "https://openlibrary.org/search.json?title=Prema&author=Premchand&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "retrieved_at": "2026-10-04T03:33:55.868524+00:00",
+  "bytes": 955,
+  "sha256": "6f6e3daf9ca2cc5f573a18d75288d7e73829f04d8d5d445c9ba200a0a6326f43",
+  "content_type": "application/json",
+  "file": "data/research/multilingual-pilot-v1/review-v3/sources/hindisamay-work-238-catalog.json"
+}

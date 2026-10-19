@@ -1,0 +1,1187 @@
+{
+  "inventory_sha256": "4820c55c80d3f43f5ff36458dd46b0bdaecd641809a83586fc24b396d53519c0",
+  "samples": [
+    {
+      "file": "dasbodh_khand_2.pdf",
+      "source_sha256": "0265036325d75847a308c39428eb6954d2a5be6a2a15d4ecc4d8a381712d74ca",
+      "expected_language": "mar",
+      "ground_truth_ddc": null,
+      "accuracy": null,
+      "sample_source": "rendered_pdf_page",
+      "pdf_page": 10,
+      "dpi": 200,
+      "image_path": "dasbodh_khand_2-page-10.png",
+      "image_sha256": "be13e87039f6e90a60c0865dcd19281d0f82c9cbeeabf4bf940efc17622e1d70",
+      "ocr_language": "eng+mar",
+      "ocr_quality": {
+        "ocr_confidence": 87.81428571428572,
+        "word_count": 70,
+        "median_character_height": 45.0,
+        "sharpness": 1961.9618641093623,
+        "script": null,
+        "script_mismatch": false,
+        "suggested_languages": [],
+        "region": {
+          "left": 385,
+          "top": 1080,
+          "width": 584,
+          "height": 180,
+          "image_width": 1339,
+          "image_height": 2339
+        }
+      },
+      "ocr_work": {
+        "ocr_passes": 1,
+        "pixels": 3131921,
+        "seconds": 0.673800125
+      },
+      "ocr_error": null,
+      "nonempty_ocr": true,
+      "raw_sample_path": "dasbodh_khand_2.raw-sample.txt",
+      "raw_sample_chars": 493,
+      "sample_sha256": "2fd52f6f2d746d2f7c00629b756ab953f63bfb0eac4ebd2abe9f42d4200f2c40",
+      "prediction": {
+        "label": "200",
+        "score": 0.6696919426046354,
+        "margin": 0.5073309600728391,
+        "entropy": 0.5156168619060159,
+        "top3": [
+          {
+            "label": "200",
+            "name": "Religion",
+            "score": 0.6696919426046354
+          },
+          {
+            "label": "100",
+            "name": "Philosophy & psychology",
+            "score": 0.16236098253179634
+          },
+          {
+            "label": "400",
+            "name": "Language",
+            "score": 0.03514082161540609
+          }
+        ],
+        "token_count": 184,
+        "truncated": false,
+        "hierarchy": {
+          "path": [
+            {
+              "level": 1,
+              "label": "200",
+              "score": 0.6696919426046354,
+              "margin": 0.5073309600728391,
+              "supported": true,
+              "review_ready": true,
+              "path_score": 0.6696919426046354,
+              "top3": [
+                {
+                  "label": "200",
+                  "score": 0.6696919426046354
+                },
+                {
+                  "label": "100",
+                  "score": 0.16236098253179634
+                },
+                {
+                  "label": "400",
+                  "score": 0.03514082161540609
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "parent": "200",
+              "label": "220",
+              "supported": true,
+              "score": 0.3339126248271684,
+              "margin": 0.001253640115262633,
+              "path_score": 0.22361859438071918,
+              "review_ready": false,
+              "training_groups": 34,
+              "top3": [
+                {
+                  "label": "220",
+                  "score": 0.3339126248271684
+                },
+                {
+                  "label": "290",
+                  "score": 0.33265898471190575
+                },
+                {
+                  "label": "240",
+                  "score": 0.10448034484514679
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            },
+            {
+              "level": 3,
+              "parent": "220",
+              "label": null,
+              "supported": false,
+              "score": 0.5261949694773623,
+              "margin": 0.31821495551243606,
+              "path_score": 0.1176669794447332,
+              "review_ready": false,
+              "training_groups": 0,
+              "top3": [
+                {
+                  "label": null,
+                  "score": 0.5261949694773623
+                },
+                {
+                  "label": "220",
+                  "score": 0.2079800139649263
+                },
+                {
+                  "label": "227",
+                  "score": 0.1448063212141172
+                }
+              ],
+              "reason": "Rare or unsupported child class"
+            }
+          ],
+          "review_level": 1,
+          "target_level": 3,
+          "needs_finer_evidence": true,
+          "score_note": "L2/L3 scores are conditional on the displayed parent. Thresholds are experimental."
+        },
+        "inference_seconds": 4.34694975,
+        "model_version": {
+          "name": "hierarchy_v1",
+          "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+        }
+      },
+      "prediction_error": null
+    },
+    {
+      "file": "gandhi-autobiography-hindi.pdf",
+      "source_sha256": "51fa6a24da5a3733f8c675351b98f7d85d8ea8769df4d55341a0cc9baf77a6b9",
+      "expected_language": "hin",
+      "ground_truth_ddc": null,
+      "accuracy": null,
+      "sample_source": "rendered_pdf_page",
+      "pdf_page": 10,
+      "dpi": 200,
+      "image_path": "gandhi-autobiography-hindi-page-10.png",
+      "image_sha256": "8b0afcec46516cdb56755c46d667521a22926a2f0e487cd7c1de9a242e27b6f7",
+      "ocr_language": "eng+hin",
+      "ocr_quality": {
+        "ocr_confidence": 92.42487046632124,
+        "word_count": 386,
+        "median_character_height": 41.0,
+        "sharpness": 4456.333261294825,
+        "script": null,
+        "script_mismatch": false,
+        "suggested_languages": [],
+        "region": {
+          "left": 0,
+          "top": 517,
+          "width": 1654,
+          "height": 1822,
+          "image_width": 1654,
+          "image_height": 2339
+        }
+      },
+      "ocr_work": {
+        "ocr_passes": 1,
+        "pixels": 3868706,
+        "seconds": 2.1393650830000004
+      },
+      "ocr_error": null,
+      "nonempty_ocr": true,
+      "raw_sample_path": "gandhi-autobiography-hindi.raw-sample.txt",
+      "raw_sample_chars": 1799,
+      "sample_sha256": "edbf92c88474f18fc3878499d174fd8d2414dc112fbf0dc3c3ee47515088b3a9",
+      "prediction": {
+        "label": "400",
+        "score": 0.5338102935636372,
+        "margin": 0.34346862733697864,
+        "entropy": 0.6615387814783145,
+        "top3": [
+          {
+            "label": "400",
+            "name": "Language",
+            "score": 0.5338102935636372
+          },
+          {
+            "label": "800",
+            "name": "Literature",
+            "score": 0.19034166622665855
+          },
+          {
+            "label": "100",
+            "name": "Philosophy & psychology",
+            "score": 0.07218008551309114
+          }
+        ],
+        "token_count": 546,
+        "truncated": true,
+        "hierarchy": {
+          "path": [
+            {
+              "level": 1,
+              "label": "400",
+              "score": 0.5338102935636372,
+              "margin": 0.34346862733697864,
+              "supported": true,
+              "review_ready": false,
+              "path_score": 0.5338102935636372,
+              "top3": [
+                {
+                  "label": "400",
+                  "score": 0.5338102935636372
+                },
+                {
+                  "label": "800",
+                  "score": 0.19034166622665855
+                },
+                {
+                  "label": "100",
+                  "score": 0.07218008551309114
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "parent": "400",
+              "label": "420",
+              "supported": true,
+              "score": 0.8044356885039095,
+              "margin": 0.7204731062802469,
+              "path_score": 0.4294160510333385,
+              "review_ready": false,
+              "training_groups": 205,
+              "top3": [
+                {
+                  "label": "420",
+                  "score": 0.8044356885039095
+                },
+                {
+                  "label": "410",
+                  "score": 0.08396258222366257
+                },
+                {
+                  "label": "490",
+                  "score": 0.05712032821440669
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            },
+            {
+              "level": 3,
+              "parent": "420",
+              "label": "428",
+              "supported": true,
+              "score": 0.9513738507546505,
+              "margin": 0.9279422867729125,
+              "path_score": 0.4085352020474428,
+              "review_ready": false,
+              "training_groups": 155,
+              "top3": [
+                {
+                  "label": "428",
+                  "score": 0.9513738507546505
+                },
+                {
+                  "label": "421",
+                  "score": 0.02343156398173811
+                },
+                {
+                  "label": null,
+                  "score": 0.011911629250361733
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            }
+          ],
+          "review_level": 0,
+          "target_level": 3,
+          "needs_finer_evidence": true,
+          "score_note": "L2/L3 scores are conditional on the displayed parent. Thresholds are experimental."
+        },
+        "inference_seconds": 0.13955137499999992,
+        "model_version": {
+          "name": "hierarchy_v1",
+          "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+        }
+      },
+      "prediction_error": null
+    },
+    {
+      "file": "godan_by_premchand.pdf",
+      "source_sha256": "ea60e2269dc153d0b503014ca5878f81fe1a2492e55f9abd6109660d5e446b9d",
+      "expected_language": "hin",
+      "ground_truth_ddc": null,
+      "accuracy": null,
+      "sample_source": "rendered_pdf_page",
+      "pdf_page": 10,
+      "dpi": 200,
+      "image_path": "godan_by_premchand-page-10.png",
+      "image_sha256": "587671869074613377f1653b6925ed8732be107b6f2ccbc136567255a233152d",
+      "ocr_language": "eng+hin",
+      "ocr_quality": {
+        "ocr_confidence": 91.82113821138212,
+        "word_count": 369,
+        "median_character_height": 26.0,
+        "sharpness": 7729.467868574813,
+        "script": null,
+        "script_mismatch": false,
+        "suggested_languages": [],
+        "region": {
+          "left": 226,
+          "top": 193,
+          "width": 759,
+          "height": 1234,
+          "image_width": 1100,
+          "image_height": 1700
+        }
+      },
+      "ocr_work": {
+        "ocr_passes": 1,
+        "pixels": 1870000,
+        "seconds": 2.0278882080000002
+      },
+      "ocr_error": null,
+      "nonempty_ocr": true,
+      "raw_sample_path": "godan_by_premchand.raw-sample.txt",
+      "raw_sample_chars": 1736,
+      "sample_sha256": "b973c5aaebf8e8fe7870bf46793de186430ed9d484df09c6f65159203065391f",
+      "prediction": {
+        "label": "800",
+        "score": 0.4131831457438236,
+        "margin": 0.23895958918886928,
+        "entropy": 0.7651511574803856,
+        "top3": [
+          {
+            "label": "800",
+            "name": "Literature",
+            "score": 0.4131831457438236
+          },
+          {
+            "label": "200",
+            "name": "Religion",
+            "score": 0.1742235565549543
+          },
+          {
+            "label": "600",
+            "name": "Technology",
+            "score": 0.12917621798495488
+          }
+        ],
+        "token_count": 589,
+        "truncated": true,
+        "hierarchy": {
+          "path": [
+            {
+              "level": 1,
+              "label": "800",
+              "score": 0.4131831457438236,
+              "margin": 0.23895958918886928,
+              "supported": true,
+              "review_ready": false,
+              "path_score": 0.4131831457438236,
+              "top3": [
+                {
+                  "label": "800",
+                  "score": 0.4131831457438236
+                },
+                {
+                  "label": "200",
+                  "score": 0.1742235565549543
+                },
+                {
+                  "label": "600",
+                  "score": 0.12917621798495488
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "parent": "800",
+              "label": "820",
+              "supported": true,
+              "score": 0.565639263938162,
+              "margin": 0.1856562418998341,
+              "path_score": 0.23371261043019068,
+              "review_ready": false,
+              "training_groups": 198,
+              "top3": [
+                {
+                  "label": "820",
+                  "score": 0.565639263938162
+                },
+                {
+                  "label": "810",
+                  "score": 0.3799830220383279
+                },
+                {
+                  "label": "800",
+                  "score": 0.017064593235961958
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            },
+            {
+              "level": 3,
+              "parent": "820",
+              "label": "823",
+              "supported": true,
+              "score": 0.8958934046591691,
+              "margin": 0.8364733134303837,
+              "path_score": 0.20938158627008557,
+              "review_ready": false,
+              "training_groups": 179,
+              "top3": [
+                {
+                  "label": "823",
+                  "score": 0.8958934046591691
+                },
+                {
+                  "label": null,
+                  "score": 0.059420091228785485
+                },
+                {
+                  "label": "821",
+                  "score": 0.044686504112045417
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            }
+          ],
+          "review_level": 0,
+          "target_level": 3,
+          "needs_finer_evidence": true,
+          "score_note": "L2/L3 scores are conditional on the displayed parent. Thresholds are experimental."
+        },
+        "inference_seconds": 0.15744591699999866,
+        "model_version": {
+          "name": "hierarchy_v1",
+          "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+        }
+      },
+      "prediction_error": null
+    },
+    {
+      "file": "pg1228-images-3.epub",
+      "source_sha256": "410f0371c6d65a218ebc400b0c354db83685df1203a4c2ec8f16845d09abed08",
+      "expected_language": "eng",
+      "ground_truth_ddc": null,
+      "accuracy": null,
+      "sample_source": "epub_spine_text",
+      "spine_ordinal": 4,
+      "sample_limit_chars": 2500,
+      "nonempty_text": true,
+      "raw_sample_path": "pg1228-images-3.raw-sample.txt",
+      "raw_sample_chars": 2500,
+      "sample_sha256": "65cd64615af166b45ca58cec27eb34ef6cc65ca43c5720cd186c13eaeceb621f",
+      "prediction": {
+        "label": "500",
+        "score": 0.5660091228578904,
+        "margin": 0.38283028621520554,
+        "entropy": 0.5800171554919313,
+        "top3": [
+          {
+            "label": "500",
+            "name": "Science",
+            "score": 0.5660091228578904
+          },
+          {
+            "label": "600",
+            "name": "Technology",
+            "score": 0.18317883664268483
+          },
+          {
+            "label": "100",
+            "name": "Philosophy & psychology",
+            "score": 0.13997636985809978
+          }
+        ],
+        "token_count": 582,
+        "truncated": true,
+        "hierarchy": {
+          "path": [
+            {
+              "level": 1,
+              "label": "500",
+              "score": 0.5660091228578904,
+              "margin": 0.38283028621520554,
+              "supported": true,
+              "review_ready": false,
+              "path_score": 0.5660091228578904,
+              "top3": [
+                {
+                  "label": "500",
+                  "score": 0.5660091228578904
+                },
+                {
+                  "label": "600",
+                  "score": 0.18317883664268483
+                },
+                {
+                  "label": "100",
+                  "score": 0.13997636985809978
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "parent": "500",
+              "label": "590",
+              "supported": true,
+              "score": 0.3534054833134342,
+              "margin": 0.1688827523837497,
+              "path_score": 0.2000307276234057,
+              "review_ready": false,
+              "training_groups": 122,
+              "top3": [
+                {
+                  "label": "590",
+                  "score": 0.3534054833134342
+                },
+                {
+                  "label": "570",
+                  "score": 0.1845227309296845
+                },
+                {
+                  "label": "510",
+                  "score": 0.11642083652455552
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            },
+            {
+              "level": 3,
+              "parent": "590",
+              "label": "599",
+              "supported": true,
+              "score": 0.6471215570968631,
+              "margin": 0.5208003033898639,
+              "path_score": 0.1294441959268768,
+              "review_ready": false,
+              "training_groups": 54,
+              "top3": [
+                {
+                  "label": "599",
+                  "score": 0.6471215570968631
+                },
+                {
+                  "label": "591",
+                  "score": 0.1263212537069992
+                },
+                {
+                  "label": "597",
+                  "score": 0.062448741588750425
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            }
+          ],
+          "review_level": 0,
+          "target_level": 3,
+          "needs_finer_evidence": true,
+          "score_note": "L2/L3 scores are conditional on the displayed parent. Thresholds are experimental."
+        },
+        "inference_seconds": 0.1768552089999993,
+        "model_version": {
+          "name": "hierarchy_v1",
+          "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+        }
+      },
+      "prediction_error": null
+    },
+    {
+      "file": "pg1342-images-3.epub",
+      "source_sha256": "d401ad6b118e84d01b8dd1a3d034fd41784feb14c50f1f7a0fc17f3263fa8e9f",
+      "expected_language": "eng",
+      "ground_truth_ddc": null,
+      "accuracy": null,
+      "sample_source": "epub_spine_text",
+      "spine_ordinal": 3,
+      "sample_limit_chars": 2500,
+      "nonempty_text": true,
+      "raw_sample_path": "pg1342-images-3.raw-sample.txt",
+      "raw_sample_chars": 2500,
+      "sample_sha256": "ba22448a983d1d9cc9ba6b258ecce1562d23848382cbc888db9f371e101793f9",
+      "prediction": {
+        "label": "800",
+        "score": 0.2917347217300792,
+        "margin": 0.07976420764873765,
+        "entropy": 0.8160461056554843,
+        "top3": [
+          {
+            "label": "800",
+            "name": "Literature",
+            "score": 0.2917347217300792
+          },
+          {
+            "label": "700",
+            "name": "Arts & recreation",
+            "score": 0.21197051408134154
+          },
+          {
+            "label": "400",
+            "name": "Language",
+            "score": 0.19622209894932893
+          }
+        ],
+        "token_count": 621,
+        "truncated": true,
+        "hierarchy": {
+          "path": [
+            {
+              "level": 1,
+              "label": "800",
+              "score": 0.2917347217300792,
+              "margin": 0.07976420764873765,
+              "supported": true,
+              "review_ready": false,
+              "path_score": 0.2917347217300792,
+              "top3": [
+                {
+                  "label": "800",
+                  "score": 0.2917347217300792
+                },
+                {
+                  "label": "700",
+                  "score": 0.21197051408134154
+                },
+                {
+                  "label": "400",
+                  "score": 0.19622209894932893
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "parent": "800",
+              "label": "820",
+              "supported": true,
+              "score": 0.4969417870126356,
+              "margin": 0.15744105027814653,
+              "path_score": 0.14497517395017953,
+              "review_ready": false,
+              "training_groups": 198,
+              "top3": [
+                {
+                  "label": "820",
+                  "score": 0.4969417870126356
+                },
+                {
+                  "label": "810",
+                  "score": 0.33950073673448905
+                },
+                {
+                  "label": "800",
+                  "score": 0.0789448602135248
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            },
+            {
+              "level": 3,
+              "parent": "820",
+              "label": "823",
+              "supported": true,
+              "score": 0.9079765213854833,
+              "margin": 0.85475912340211,
+              "path_score": 0.13163405413053936,
+              "review_ready": false,
+              "training_groups": 179,
+              "top3": [
+                {
+                  "label": "823",
+                  "score": 0.9079765213854833
+                },
+                {
+                  "label": null,
+                  "score": 0.05321739798337332
+                },
+                {
+                  "label": "821",
+                  "score": 0.03880608063114336
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            }
+          ],
+          "review_level": 0,
+          "target_level": 3,
+          "needs_finer_evidence": true,
+          "score_note": "L2/L3 scores are conditional on the displayed parent. Thresholds are experimental."
+        },
+        "inference_seconds": 0.17860891700000003,
+        "model_version": {
+          "name": "hierarchy_v1",
+          "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+        }
+      },
+      "prediction_error": null
+    },
+    {
+      "file": "ponniyin-selvan.pdf",
+      "source_sha256": "875ac51e939665c421a1445c7b0d18e07b76f5a1f7ee2d6ea99c906e6dcdac82",
+      "expected_language": "tam",
+      "ground_truth_ddc": null,
+      "accuracy": null,
+      "sample_source": "rendered_pdf_page",
+      "pdf_page": 15,
+      "dpi": 200,
+      "image_path": "ponniyin-selvan-page-15.png",
+      "image_sha256": "f921d0cf1cb876005825b6aaf87101c5993342ed13549b605d3ea001d24a1de6",
+      "ocr_language": "eng+tam",
+      "ocr_quality": {
+        "ocr_confidence": 93.4375,
+        "word_count": 272,
+        "median_character_height": 33.0,
+        "sharpness": 8238.583663013867,
+        "script": null,
+        "script_mismatch": false,
+        "suggested_languages": [],
+        "region": {
+          "left": 327,
+          "top": 601,
+          "width": 1008,
+          "height": 1277,
+          "image_width": 1654,
+          "image_height": 2339
+        }
+      },
+      "ocr_work": {
+        "ocr_passes": 1,
+        "pixels": 3868706,
+        "seconds": 1.900894417
+      },
+      "ocr_error": null,
+      "nonempty_ocr": true,
+      "raw_sample_path": "ponniyin-selvan.raw-sample.txt",
+      "raw_sample_chars": 2516,
+      "sample_sha256": "7de876dd19bdd09608709589e677caa5b42122c140a321391623ae74aca6a2ec",
+      "prediction": {
+        "label": "800",
+        "score": 0.3542460724817263,
+        "margin": 0.09373012179255708,
+        "entropy": 0.7727980447681214,
+        "top3": [
+          {
+            "label": "800",
+            "name": "Literature",
+            "score": 0.3542460724817263
+          },
+          {
+            "label": "900",
+            "name": "History & geography",
+            "score": 0.2605159506891692
+          },
+          {
+            "label": "500",
+            "name": "Science",
+            "score": 0.12868055943103157
+          }
+        ],
+        "token_count": 698,
+        "truncated": true,
+        "hierarchy": {
+          "path": [
+            {
+              "level": 1,
+              "label": "800",
+              "score": 0.3542460724817263,
+              "margin": 0.09373012179255708,
+              "supported": true,
+              "review_ready": false,
+              "path_score": 0.3542460724817263,
+              "top3": [
+                {
+                  "label": "800",
+                  "score": 0.3542460724817263
+                },
+                {
+                  "label": "900",
+                  "score": 0.2605159506891692
+                },
+                {
+                  "label": "500",
+                  "score": 0.12868055943103157
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "parent": "800",
+              "label": "820",
+              "supported": true,
+              "score": 0.7822040914356818,
+              "margin": 0.6108846983405001,
+              "path_score": 0.2770927272702274,
+              "review_ready": false,
+              "training_groups": 198,
+              "top3": [
+                {
+                  "label": "820",
+                  "score": 0.7822040914356818
+                },
+                {
+                  "label": "810",
+                  "score": 0.17131939309518168
+                },
+                {
+                  "label": "840",
+                  "score": 0.014051142097795795
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            },
+            {
+              "level": 3,
+              "parent": "820",
+              "label": "823",
+              "supported": true,
+              "score": 0.9103561066288686,
+              "margin": 0.8489928197081555,
+              "path_score": 0.25225305637289913,
+              "review_ready": false,
+              "training_groups": 179,
+              "top3": [
+                {
+                  "label": "823",
+                  "score": 0.9103561066288686
+                },
+                {
+                  "label": "821",
+                  "score": 0.06136328692071299
+                },
+                {
+                  "label": null,
+                  "score": 0.0282806064504183
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            }
+          ],
+          "review_level": 0,
+          "target_level": 3,
+          "needs_finer_evidence": true,
+          "score_note": "L2/L3 scores are conditional on the displayed parent. Thresholds are experimental."
+        },
+        "inference_seconds": 0.17884804199999849,
+        "model_version": {
+          "name": "hierarchy_v1",
+          "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+        }
+      },
+      "prediction_error": null
+    },
+    {
+      "file": "shyamachi_aai.pdf",
+      "source_sha256": "9dcf9536b454ed97a388616f7250f8f81afa572143cf0420681252ac8fd2b9c1",
+      "expected_language": "mar",
+      "ground_truth_ddc": null,
+      "accuracy": null,
+      "sample_source": "rendered_pdf_page",
+      "pdf_page": 10,
+      "dpi": 200,
+      "image_path": "shyamachi_aai-page-10.png",
+      "image_sha256": "e47163734d0b722e5f275c55c32eb78b3025f211259f52c4595626404be9440a",
+      "ocr_language": "eng+mar",
+      "ocr_quality": {
+        "ocr_confidence": 94.99230769230769,
+        "word_count": 260,
+        "median_character_height": 33.0,
+        "sharpness": 5020.959282286086,
+        "script": null,
+        "script_mismatch": false,
+        "suggested_languages": [],
+        "region": {
+          "left": 180,
+          "top": 83,
+          "width": 1294,
+          "height": 1995,
+          "image_width": 1654,
+          "image_height": 2339
+        }
+      },
+      "ocr_work": {
+        "ocr_passes": 1,
+        "pixels": 3868706,
+        "seconds": 1.6980365409999987
+      },
+      "ocr_error": null,
+      "nonempty_ocr": true,
+      "raw_sample_path": "shyamachi_aai.raw-sample.txt",
+      "raw_sample_chars": 1890,
+      "sample_sha256": "2285c3d12903a42cc483677d8c8eabed39135aa4051f6605dda6e96ff79256cd",
+      "prediction": {
+        "label": "700",
+        "score": 0.4435839959880482,
+        "margin": 0.25616263964699804,
+        "entropy": 0.7412859643171873,
+        "top3": [
+          {
+            "label": "700",
+            "name": "Arts & recreation",
+            "score": 0.4435839959880482
+          },
+          {
+            "label": "200",
+            "name": "Religion",
+            "score": 0.18742135634105014
+          },
+          {
+            "label": "900",
+            "name": "History & geography",
+            "score": 0.12275861013108615
+          }
+        ],
+        "token_count": 551,
+        "truncated": true,
+        "hierarchy": {
+          "path": [
+            {
+              "level": 1,
+              "label": "700",
+              "score": 0.4435839959880482,
+              "margin": 0.25616263964699804,
+              "supported": true,
+              "review_ready": false,
+              "path_score": 0.4435839959880482,
+              "top3": [
+                {
+                  "label": "700",
+                  "score": 0.4435839959880482
+                },
+                {
+                  "label": "200",
+                  "score": 0.18742135634105014
+                },
+                {
+                  "label": "900",
+                  "score": 0.12275861013108615
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "parent": "700",
+              "label": "790",
+              "supported": true,
+              "score": 0.39790378481276717,
+              "margin": 0.15098620856108239,
+              "path_score": 0.17650375088601572,
+              "review_ready": false,
+              "training_groups": 142,
+              "top3": [
+                {
+                  "label": "790",
+                  "score": 0.39790378481276717
+                },
+                {
+                  "label": "740",
+                  "score": 0.24691757625168478
+                },
+                {
+                  "label": "780",
+                  "score": 0.18035842314594042
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            },
+            {
+              "level": 3,
+              "parent": "790",
+              "label": "796",
+              "supported": true,
+              "score": 0.5627658665751631,
+              "margin": 0.2613536211778123,
+              "path_score": 0.09933028632113536,
+              "review_ready": false,
+              "training_groups": 85,
+              "top3": [
+                {
+                  "label": "796",
+                  "score": 0.5627658665751631
+                },
+                {
+                  "label": "791",
+                  "score": 0.30141224539735084
+                },
+                {
+                  "label": "792",
+                  "score": 0.047482985881813385
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            }
+          ],
+          "review_level": 0,
+          "target_level": 3,
+          "needs_finer_evidence": true,
+          "score_note": "L2/L3 scores are conditional on the displayed parent. Thresholds are experimental."
+        },
+        "inference_seconds": 0.1556071249999995,
+        "model_version": {
+          "name": "hierarchy_v1",
+          "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+        }
+      },
+      "prediction_error": null
+    },
+    {
+      "file": "tolkappiyar.pdf",
+      "source_sha256": "30e71124b13493be9b94eb6588debfa80c206aae65d42a5e9057fdb859e8b722",
+      "expected_language": "tam",
+      "ground_truth_ddc": null,
+      "accuracy": null,
+      "sample_source": "rendered_pdf_page",
+      "pdf_page": 10,
+      "dpi": 200,
+      "image_path": "tolkappiyar-page-10.png",
+      "image_sha256": "47e34fa1e0c659232f7a33d871a61acfdf538df79c88411121c6d23ae9bf974d",
+      "ocr_language": "eng+tam",
+      "ocr_quality": {
+        "ocr_confidence": 93.69182389937107,
+        "word_count": 159,
+        "median_character_height": 32.0,
+        "sharpness": 3644.7778960372516,
+        "script": null,
+        "script_mismatch": false,
+        "suggested_languages": [],
+        "region": {
+          "left": 137,
+          "top": 88,
+          "width": 1238,
+          "height": 2040,
+          "image_width": 1653,
+          "image_height": 2339
+        }
+      },
+      "ocr_work": {
+        "ocr_passes": 1,
+        "pixels": 3866367,
+        "seconds": 0.7260489159999963
+      },
+      "ocr_error": null,
+      "nonempty_ocr": true,
+      "raw_sample_path": "tolkappiyar.raw-sample.txt",
+      "raw_sample_chars": 1081,
+      "sample_sha256": "e3167c47c27f012a9b794c7923d9ae545f066ce933340da6cb0ebb75cd33fed0",
+      "prediction": {
+        "label": "200",
+        "score": 0.2609465548187386,
+        "margin": 0.003231760639168857,
+        "entropy": 0.8053584779950235,
+        "top3": [
+          {
+            "label": "200",
+            "name": "Religion",
+            "score": 0.2609465548187386
+          },
+          {
+            "label": "400",
+            "name": "Language",
+            "score": 0.2577147941795697
+          },
+          {
+            "label": "600",
+            "name": "Technology",
+            "score": 0.14623710081823726
+          }
+        ],
+        "token_count": 374,
+        "truncated": false,
+        "hierarchy": {
+          "path": [
+            {
+              "level": 1,
+              "label": "200",
+              "score": 0.2609465548187386,
+              "margin": 0.003231760639168857,
+              "supported": true,
+              "review_ready": false,
+              "path_score": 0.2609465548187386,
+              "top3": [
+                {
+                  "label": "200",
+                  "score": 0.2609465548187386
+                },
+                {
+                  "label": "400",
+                  "score": 0.2577147941795697
+                },
+                {
+                  "label": "600",
+                  "score": 0.14623710081823726
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "parent": "200",
+              "label": "290",
+              "supported": true,
+              "score": 0.46554699053817505,
+              "margin": 0.30189834194799386,
+              "path_score": 0.12148288328716866,
+              "review_ready": false,
+              "training_groups": 60,
+              "top3": [
+                {
+                  "label": "290",
+                  "score": 0.46554699053817505
+                },
+                {
+                  "label": "220",
+                  "score": 0.1636486485901812
+                },
+                {
+                  "label": "240",
+                  "score": 0.12290738170434692
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            },
+            {
+              "level": 3,
+              "parent": "290",
+              "label": "294",
+              "supported": true,
+              "score": 0.3583233737265396,
+              "margin": 0.020628257761989455,
+              "path_score": 0.04353015658948573,
+              "review_ready": false,
+              "training_groups": 21,
+              "top3": [
+                {
+                  "label": "294",
+                  "score": 0.3583233737265396
+                },
+                {
+                  "label": "297",
+                  "score": 0.33769511596455015
+                },
+                {
+                  "label": null,
+                  "score": 0.18084562520646583
+                }
+              ],
+              "reason": "Conditional suggestion; human review required"
+            }
+          ],
+          "review_level": 0,
+          "target_level": 3,
+          "needs_finer_evidence": true,
+          "score_note": "L2/L3 scores are conditional on the displayed parent. Thresholds are experimental."
+        },
+        "inference_seconds": 0.10063424999999881,
+        "model_version": {
+          "name": "hierarchy_v1",
+          "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b"
+        }
+      },
+      "prediction_error": null
+    }
+  ],
+  "complete": true,
+  "note": "Functional test on book excerpts/rasterized PDFs only. No human-verified transcriptions or DDC labels, no training, no accuracy measurement, and no physical camera capture."
+}

@@ -1,0 +1,3154 @@
+{
+  "dataset_sha256": "56706f35e2db101d912edbefabcbc495442d8e18ecb33b29ecef101a232d0673",
+  "splits": {
+    "train": 3061,
+    "calibration": 542,
+    "test": 1007,
+    "historical_reserved": 424
+  },
+  "fixed_C": 10.0,
+  "minimum_training_groups": 5,
+  "head_counts": {
+    "2": 10,
+    "3": 58
+  },
+  "predictable_labels": {
+    "2": 70,
+    "3": 149
+  },
+  "calibration": {
+    "2": {
+      "books": 541,
+      "temperature": 0.7644061456163199,
+      "conditional_nll_before": 1.0344769977030703,
+      "conditional_nll_after": 1.0028407303866196,
+      "note": "One shared temperature per level, true-parent calibration; not a validated acceptance policy."
+    },
+    "3": {
+      "books": 512,
+      "temperature": 0.8011282707919023,
+      "conditional_nll_before": 0.8907723406704214,
+      "conditional_nll_after": 0.8788196236110081,
+      "note": "One shared temperature per level, true-parent calibration; not a validated acceptance policy."
+    }
+  },
+  "evaluation": {
+    "metadata": {
+      "1": {
+        "books": 1007,
+        "excluded_ambiguous": 0,
+        "accuracy": 0.6534260178748759,
+        "macro_f1": 0.6528523168094255,
+        "supported_truth_books": 1007,
+        "suggestion_coverage": 1.0,
+        "review_ready_books": 294,
+        "review_ready_accuracy": 0.9217687074829932,
+        "per_label": {
+          "000": {
+            "books": 105,
+            "correct": 60
+          },
+          "100": {
+            "books": 98,
+            "correct": 61
+          },
+          "200": {
+            "books": 104,
+            "correct": 87
+          },
+          "300": {
+            "books": 105,
+            "correct": 57
+          },
+          "400": {
+            "books": 96,
+            "correct": 68
+          },
+          "500": {
+            "books": 105,
+            "correct": 74
+          },
+          "600": {
+            "books": 92,
+            "correct": 57
+          },
+          "700": {
+            "books": 92,
+            "correct": 56
+          },
+          "800": {
+            "books": 100,
+            "correct": 60
+          },
+          "900": {
+            "books": 110,
+            "correct": 78
+          }
+        }
+      },
+      "2": {
+        "books": 1001,
+        "excluded_ambiguous": 6,
+        "accuracy": 0.47352647352647353,
+        "macro_f1": 0.2768970547352793,
+        "supported_truth_books": 969,
+        "suggestion_coverage": 1.0,
+        "review_ready_books": 145,
+        "review_ready_accuracy": 0.8620689655172413,
+        "per_label": {
+          "000": {
+            "books": 70,
+            "correct": 51
+          },
+          "010": {
+            "books": 3,
+            "correct": 0
+          },
+          "020": {
+            "books": 6,
+            "correct": 1
+          },
+          "030": {
+            "books": 2,
+            "correct": 0
+          },
+          "060": {
+            "books": 2,
+            "correct": 0
+          },
+          "070": {
+            "books": 19,
+            "correct": 1
+          },
+          "090": {
+            "books": 3,
+            "correct": 0
+          },
+          "110": {
+            "books": 1,
+            "correct": 0
+          },
+          "120": {
+            "books": 4,
+            "correct": 0
+          },
+          "130": {
+            "books": 9,
+            "correct": 1
+          },
+          "150": {
+            "books": 57,
+            "correct": 40
+          },
+          "160": {
+            "books": 1,
+            "correct": 0
+          },
+          "170": {
+            "books": 12,
+            "correct": 3
+          },
+          "180": {
+            "books": 2,
+            "correct": 2
+          },
+          "190": {
+            "books": 11,
+            "correct": 7
+          },
+          "200": {
+            "books": 14,
+            "correct": 0
+          },
+          "210": {
+            "books": 3,
+            "correct": 0
+          },
+          "220": {
+            "books": 12,
+            "correct": 10
+          },
+          "230": {
+            "books": 14,
+            "correct": 4
+          },
+          "240": {
+            "books": 11,
+            "correct": 5
+          },
+          "250": {
+            "books": 7,
+            "correct": 0
+          },
+          "260": {
+            "books": 9,
+            "correct": 0
+          },
+          "270": {
+            "books": 3,
+            "correct": 1
+          },
+          "280": {
+            "books": 9,
+            "correct": 2
+          },
+          "290": {
+            "books": 21,
+            "correct": 15
+          },
+          "300": {
+            "books": 16,
+            "correct": 5
+          },
+          "320": {
+            "books": 17,
+            "correct": 4
+          },
+          "330": {
+            "books": 28,
+            "correct": 14
+          },
+          "340": {
+            "books": 12,
+            "correct": 7
+          },
+          "350": {
+            "books": 4,
+            "correct": 0
+          },
+          "360": {
+            "books": 9,
+            "correct": 0
+          },
+          "370": {
+            "books": 14,
+            "correct": 6
+          },
+          "380": {
+            "books": 1,
+            "correct": 0
+          },
+          "390": {
+            "books": 3,
+            "correct": 0
+          },
+          "400": {
+            "books": 6,
+            "correct": 0
+          },
+          "410": {
+            "books": 16,
+            "correct": 11
+          },
+          "420": {
+            "books": 61,
+            "correct": 39
+          },
+          "430": {
+            "books": 1,
+            "correct": 0
+          },
+          "460": {
+            "books": 1,
+            "correct": 0
+          },
+          "480": {
+            "books": 2,
+            "correct": 0
+          },
+          "490": {
+            "books": 9,
+            "correct": 1
+          },
+          "500": {
+            "books": 8,
+            "correct": 3
+          },
+          "510": {
+            "books": 8,
+            "correct": 5
+          },
+          "520": {
+            "books": 5,
+            "correct": 3
+          },
+          "530": {
+            "books": 11,
+            "correct": 8
+          },
+          "540": {
+            "books": 6,
+            "correct": 2
+          },
+          "550": {
+            "books": 12,
+            "correct": 3
+          },
+          "560": {
+            "books": 4,
+            "correct": 4
+          },
+          "570": {
+            "books": 9,
+            "correct": 4
+          },
+          "580": {
+            "books": 6,
+            "correct": 1
+          },
+          "590": {
+            "books": 36,
+            "correct": 27
+          },
+          "600": {
+            "books": 3,
+            "correct": 0
+          },
+          "610": {
+            "books": 26,
+            "correct": 17
+          },
+          "620": {
+            "books": 15,
+            "correct": 10
+          },
+          "630": {
+            "books": 6,
+            "correct": 2
+          },
+          "640": {
+            "books": 12,
+            "correct": 3
+          },
+          "650": {
+            "books": 17,
+            "correct": 8
+          },
+          "660": {
+            "books": 9,
+            "correct": 2
+          },
+          "670": {
+            "books": 1,
+            "correct": 0
+          },
+          "680": {
+            "books": 2,
+            "correct": 0
+          },
+          "690": {
+            "books": 1,
+            "correct": 0
+          },
+          "700": {
+            "books": 9,
+            "correct": 4
+          },
+          "710": {
+            "books": 1,
+            "correct": 0
+          },
+          "720": {
+            "books": 2,
+            "correct": 0
+          },
+          "740": {
+            "books": 21,
+            "correct": 8
+          },
+          "750": {
+            "books": 1,
+            "correct": 0
+          },
+          "770": {
+            "books": 1,
+            "correct": 0
+          },
+          "780": {
+            "books": 13,
+            "correct": 9
+          },
+          "790": {
+            "books": 44,
+            "correct": 29
+          },
+          "800": {
+            "books": 2,
+            "correct": 0
+          },
+          "810": {
+            "books": 32,
+            "correct": 9
+          },
+          "820": {
+            "books": 58,
+            "correct": 26
+          },
+          "840": {
+            "books": 2,
+            "correct": 0
+          },
+          "850": {
+            "books": 2,
+            "correct": 0
+          },
+          "860": {
+            "books": 3,
+            "correct": 0
+          },
+          "900": {
+            "books": 6,
+            "correct": 0
+          },
+          "910": {
+            "books": 39,
+            "correct": 28
+          },
+          "920": {
+            "books": 2,
+            "correct": 0
+          },
+          "930": {
+            "books": 7,
+            "correct": 2
+          },
+          "940": {
+            "books": 24,
+            "correct": 10
+          },
+          "950": {
+            "books": 10,
+            "correct": 5
+          },
+          "960": {
+            "books": 2,
+            "correct": 1
+          },
+          "970": {
+            "books": 15,
+            "correct": 11
+          },
+          "980": {
+            "books": 3,
+            "correct": 0
+          }
+        }
+      },
+      "3": {
+        "books": 998,
+        "excluded_ambiguous": 9,
+        "accuracy": 0.280561122244489,
+        "macro_f1": 0.08412454355051036,
+        "supported_truth_books": 761,
+        "suggestion_coverage": 0.906813627254509,
+        "review_ready_books": 85,
+        "review_ready_accuracy": 0.7411764705882353,
+        "per_label": {
+          "001": {
+            "books": 9,
+            "correct": 0
+          },
+          "002": {
+            "books": 2,
+            "correct": 0
+          },
+          "003": {
+            "books": 1,
+            "correct": 0
+          },
+          "004": {
+            "books": 10,
+            "correct": 0
+          },
+          "005": {
+            "books": 19,
+            "correct": 12
+          },
+          "006": {
+            "books": 29,
+            "correct": 24
+          },
+          "011": {
+            "books": 2,
+            "correct": 0
+          },
+          "016": {
+            "books": 1,
+            "correct": 0
+          },
+          "020": {
+            "books": 1,
+            "correct": 0
+          },
+          "025": {
+            "books": 1,
+            "correct": 0
+          },
+          "027": {
+            "books": 2,
+            "correct": 0
+          },
+          "028": {
+            "books": 2,
+            "correct": 0
+          },
+          "032": {
+            "books": 2,
+            "correct": 0
+          },
+          "069": {
+            "books": 2,
+            "correct": 0
+          },
+          "070": {
+            "books": 16,
+            "correct": 1
+          },
+          "071": {
+            "books": 1,
+            "correct": 0
+          },
+          "079": {
+            "books": 2,
+            "correct": 0
+          },
+          "091": {
+            "books": 2,
+            "correct": 0
+          },
+          "098": {
+            "books": 1,
+            "correct": 0
+          },
+          "111": {
+            "books": 1,
+            "correct": 0
+          },
+          "121": {
+            "books": 1,
+            "correct": 0
+          },
+          "126": {
+            "books": 1,
+            "correct": 0
+          },
+          "128": {
+            "books": 2,
+            "correct": 0
+          },
+          "133": {
+            "books": 9,
+            "correct": 1
+          },
+          "150": {
+            "books": 7,
+            "correct": 1
+          },
+          "152": {
+            "books": 6,
+            "correct": 0
+          },
+          "153": {
+            "books": 9,
+            "correct": 2
+          },
+          "154": {
+            "books": 2,
+            "correct": 0
+          },
+          "155": {
+            "books": 7,
+            "correct": 0
+          },
+          "158": {
+            "books": 26,
+            "correct": 20
+          },
+          "160": {
+            "books": 1,
+            "correct": 0
+          },
+          "170": {
+            "books": 5,
+            "correct": 2
+          },
+          "174": {
+            "books": 5,
+            "correct": 0
+          },
+          "179": {
+            "books": 2,
+            "correct": 0
+          },
+          "183": {
+            "books": 1,
+            "correct": 0
+          },
+          "185": {
+            "books": 1,
+            "correct": 0
+          },
+          "190": {
+            "books": 1,
+            "correct": 0
+          },
+          "191": {
+            "books": 1,
+            "correct": 0
+          },
+          "192": {
+            "books": 3,
+            "correct": 0
+          },
+          "193": {
+            "books": 5,
+            "correct": 2
+          },
+          "194": {
+            "books": 1,
+            "correct": 0
+          },
+          "200": {
+            "books": 2,
+            "correct": 0
+          },
+          "201": {
+            "books": 4,
+            "correct": 0
+          },
+          "202": {
+            "books": 2,
+            "correct": 0
+          },
+          "203": {
+            "books": 1,
+            "correct": 0
+          },
+          "204": {
+            "books": 4,
+            "correct": 0
+          },
+          "209": {
+            "books": 1,
+            "correct": 0
+          },
+          "210": {
+            "books": 1,
+            "correct": 0
+          },
+          "211": {
+            "books": 1,
+            "correct": 0
+          },
+          "212": {
+            "books": 1,
+            "correct": 0
+          },
+          "220": {
+            "books": 5,
+            "correct": 1
+          },
+          "221": {
+            "books": 1,
+            "correct": 0
+          },
+          "222": {
+            "books": 3,
+            "correct": 0
+          },
+          "224": {
+            "books": 1,
+            "correct": 0
+          },
+          "225": {
+            "books": 1,
+            "correct": 0
+          },
+          "227": {
+            "books": 1,
+            "correct": 0
+          },
+          "230": {
+            "books": 3,
+            "correct": 0
+          },
+          "231": {
+            "books": 4,
+            "correct": 0
+          },
+          "232": {
+            "books": 2,
+            "correct": 0
+          },
+          "234": {
+            "books": 2,
+            "correct": 0
+          },
+          "235": {
+            "books": 1,
+            "correct": 0
+          },
+          "236": {
+            "books": 1,
+            "correct": 0
+          },
+          "242": {
+            "books": 3,
+            "correct": 0
+          },
+          "248": {
+            "books": 8,
+            "correct": 4
+          },
+          "252": {
+            "books": 2,
+            "correct": 0
+          },
+          "253": {
+            "books": 5,
+            "correct": 0
+          },
+          "261": {
+            "books": 5,
+            "correct": 0
+          },
+          "262": {
+            "books": 2,
+            "correct": 0
+          },
+          "263": {
+            "books": 1,
+            "correct": 0
+          },
+          "269": {
+            "books": 1,
+            "correct": 0
+          },
+          "270": {
+            "books": 2,
+            "correct": 1
+          },
+          "271": {
+            "books": 1,
+            "correct": 0
+          },
+          "281": {
+            "books": 2,
+            "correct": 0
+          },
+          "282": {
+            "books": 4,
+            "correct": 1
+          },
+          "284": {
+            "books": 1,
+            "correct": 0
+          },
+          "287": {
+            "books": 1,
+            "correct": 0
+          },
+          "289": {
+            "books": 1,
+            "correct": 0
+          },
+          "294": {
+            "books": 8,
+            "correct": 7
+          },
+          "296": {
+            "books": 6,
+            "correct": 2
+          },
+          "297": {
+            "books": 4,
+            "correct": 2
+          },
+          "299": {
+            "books": 3,
+            "correct": 0
+          },
+          "302": {
+            "books": 2,
+            "correct": 0
+          },
+          "303": {
+            "books": 3,
+            "correct": 0
+          },
+          "305": {
+            "books": 6,
+            "correct": 4
+          },
+          "306": {
+            "books": 4,
+            "correct": 0
+          },
+          "307": {
+            "books": 1,
+            "correct": 0
+          },
+          "320": {
+            "books": 5,
+            "correct": 1
+          },
+          "321": {
+            "books": 1,
+            "correct": 0
+          },
+          "322": {
+            "books": 2,
+            "correct": 0
+          },
+          "323": {
+            "books": 2,
+            "correct": 0
+          },
+          "324": {
+            "books": 1,
+            "correct": 0
+          },
+          "326": {
+            "books": 1,
+            "correct": 0
+          },
+          "327": {
+            "books": 4,
+            "correct": 0
+          },
+          "329": {
+            "books": 1,
+            "correct": 0
+          },
+          "330": {
+            "books": 3,
+            "correct": 0
+          },
+          "331": {
+            "books": 2,
+            "correct": 0
+          },
+          "332": {
+            "books": 6,
+            "correct": 2
+          },
+          "333": {
+            "books": 1,
+            "correct": 0
+          },
+          "336": {
+            "books": 3,
+            "correct": 0
+          },
+          "338": {
+            "books": 12,
+            "correct": 4
+          },
+          "339": {
+            "books": 1,
+            "correct": 0
+          },
+          "340": {
+            "books": 2,
+            "correct": 0
+          },
+          "341": {
+            "books": 1,
+            "correct": 0
+          },
+          "342": {
+            "books": 2,
+            "correct": 0
+          },
+          "343": {
+            "books": 3,
+            "correct": 0
+          },
+          "344": {
+            "books": 1,
+            "correct": 0
+          },
+          "345": {
+            "books": 3,
+            "correct": 0
+          },
+          "353": {
+            "books": 1,
+            "correct": 0
+          },
+          "355": {
+            "books": 2,
+            "correct": 0
+          },
+          "358": {
+            "books": 1,
+            "correct": 0
+          },
+          "362": {
+            "books": 6,
+            "correct": 0
+          },
+          "363": {
+            "books": 1,
+            "correct": 0
+          },
+          "364": {
+            "books": 2,
+            "correct": 0
+          },
+          "370": {
+            "books": 4,
+            "correct": 1
+          },
+          "371": {
+            "books": 2,
+            "correct": 0
+          },
+          "372": {
+            "books": 1,
+            "correct": 0
+          },
+          "375": {
+            "books": 1,
+            "correct": 0
+          },
+          "376": {
+            "books": 1,
+            "correct": 0
+          },
+          "378": {
+            "books": 4,
+            "correct": 0
+          },
+          "379": {
+            "books": 1,
+            "correct": 0
+          },
+          "388": {
+            "books": 1,
+            "correct": 0
+          },
+          "394": {
+            "books": 1,
+            "correct": 0
+          },
+          "398": {
+            "books": 2,
+            "correct": 0
+          },
+          "401": {
+            "books": 5,
+            "correct": 0
+          },
+          "404": {
+            "books": 1,
+            "correct": 0
+          },
+          "414": {
+            "books": 2,
+            "correct": 0
+          },
+          "415": {
+            "books": 1,
+            "correct": 0
+          },
+          "417": {
+            "books": 2,
+            "correct": 0
+          },
+          "418": {
+            "books": 10,
+            "correct": 8
+          },
+          "419": {
+            "books": 1,
+            "correct": 0
+          },
+          "420": {
+            "books": 3,
+            "correct": 0
+          },
+          "421": {
+            "books": 13,
+            "correct": 0
+          },
+          "425": {
+            "books": 1,
+            "correct": 0
+          },
+          "427": {
+            "books": 2,
+            "correct": 0
+          },
+          "428": {
+            "books": 42,
+            "correct": 32
+          },
+          "437": {
+            "books": 1,
+            "correct": 0
+          },
+          "468": {
+            "books": 1,
+            "correct": 0
+          },
+          "482": {
+            "books": 1,
+            "correct": 0
+          },
+          "487": {
+            "books": 1,
+            "correct": 0
+          },
+          "495": {
+            "books": 7,
+            "correct": 1
+          },
+          "499": {
+            "books": 2,
+            "correct": 0
+          },
+          "500": {
+            "books": 2,
+            "correct": 1
+          },
+          "503": {
+            "books": 1,
+            "correct": 0
+          },
+          "507": {
+            "books": 2,
+            "correct": 0
+          },
+          "508": {
+            "books": 2,
+            "correct": 0
+          },
+          "509": {
+            "books": 1,
+            "correct": 0
+          },
+          "510": {
+            "books": 3,
+            "correct": 0
+          },
+          "511": {
+            "books": 1,
+            "correct": 0
+          },
+          "513": {
+            "books": 2,
+            "correct": 0
+          },
+          "515": {
+            "books": 1,
+            "correct": 0
+          },
+          "516": {
+            "books": 1,
+            "correct": 0
+          },
+          "520": {
+            "books": 1,
+            "correct": 1
+          },
+          "521": {
+            "books": 1,
+            "correct": 0
+          },
+          "522": {
+            "books": 1,
+            "correct": 0
+          },
+          "523": {
+            "books": 2,
+            "correct": 1
+          },
+          "530": {
+            "books": 4,
+            "correct": 2
+          },
+          "535": {
+            "books": 3,
+            "correct": 0
+          },
+          "537": {
+            "books": 2,
+            "correct": 0
+          },
+          "539": {
+            "books": 2,
+            "correct": 0
+          },
+          "541": {
+            "books": 2,
+            "correct": 0
+          },
+          "543": {
+            "books": 1,
+            "correct": 0
+          },
+          "546": {
+            "books": 2,
+            "correct": 0
+          },
+          "547": {
+            "books": 1,
+            "correct": 0
+          },
+          "550": {
+            "books": 6,
+            "correct": 3
+          },
+          "551": {
+            "books": 4,
+            "correct": 0
+          },
+          "557": {
+            "books": 2,
+            "correct": 0
+          },
+          "567": {
+            "books": 4,
+            "correct": 4
+          },
+          "571": {
+            "books": 3,
+            "correct": 0
+          },
+          "572": {
+            "books": 1,
+            "correct": 0
+          },
+          "573": {
+            "books": 1,
+            "correct": 0
+          },
+          "577": {
+            "books": 1,
+            "correct": 0
+          },
+          "578": {
+            "books": 1,
+            "correct": 0
+          },
+          "579": {
+            "books": 2,
+            "correct": 2
+          },
+          "580": {
+            "books": 3,
+            "correct": 1
+          },
+          "581": {
+            "books": 2,
+            "correct": 0
+          },
+          "583": {
+            "books": 1,
+            "correct": 0
+          },
+          "590": {
+            "books": 2,
+            "correct": 0
+          },
+          "591": {
+            "books": 5,
+            "correct": 2
+          },
+          "595": {
+            "books": 5,
+            "correct": 0
+          },
+          "597": {
+            "books": 8,
+            "correct": 1
+          },
+          "598": {
+            "books": 4,
+            "correct": 0
+          },
+          "599": {
+            "books": 12,
+            "correct": 8
+          },
+          "600": {
+            "books": 2,
+            "correct": 0
+          },
+          "604": {
+            "books": 1,
+            "correct": 0
+          },
+          "610": {
+            "books": 5,
+            "correct": 2
+          },
+          "612": {
+            "books": 2,
+            "correct": 0
+          },
+          "613": {
+            "books": 4,
+            "correct": 0
+          },
+          "614": {
+            "books": 1,
+            "correct": 0
+          },
+          "616": {
+            "books": 11,
+            "correct": 7
+          },
+          "617": {
+            "books": 1,
+            "correct": 0
+          },
+          "618": {
+            "books": 1,
+            "correct": 0
+          },
+          "620": {
+            "books": 2,
+            "correct": 2
+          },
+          "621": {
+            "books": 3,
+            "correct": 0
+          },
+          "623": {
+            "books": 3,
+            "correct": 0
+          },
+          "624": {
+            "books": 1,
+            "correct": 1
+          },
+          "628": {
+            "books": 1,
+            "correct": 1
+          },
+          "629": {
+            "books": 5,
+            "correct": 2
+          },
+          "631": {
+            "books": 2,
+            "correct": 0
+          },
+          "635": {
+            "books": 2,
+            "correct": 0
+          },
+          "636": {
+            "books": 2,
+            "correct": 0
+          },
+          "640": {
+            "books": 3,
+            "correct": 0
+          },
+          "641": {
+            "books": 4,
+            "correct": 3
+          },
+          "643": {
+            "books": 1,
+            "correct": 0
+          },
+          "646": {
+            "books": 4,
+            "correct": 0
+          },
+          "650": {
+            "books": 4,
+            "correct": 0
+          },
+          "658": {
+            "books": 13,
+            "correct": 7
+          },
+          "660": {
+            "books": 3,
+            "correct": 0
+          },
+          "662": {
+            "books": 1,
+            "correct": 0
+          },
+          "664": {
+            "books": 2,
+            "correct": 0
+          },
+          "665": {
+            "books": 3,
+            "correct": 0
+          },
+          "670": {
+            "books": 1,
+            "correct": 0
+          },
+          "681": {
+            "books": 1,
+            "correct": 0
+          },
+          "686": {
+            "books": 1,
+            "correct": 0
+          },
+          "691": {
+            "books": 1,
+            "correct": 0
+          },
+          "700": {
+            "books": 3,
+            "correct": 0
+          },
+          "701": {
+            "books": 1,
+            "correct": 0
+          },
+          "707": {
+            "books": 1,
+            "correct": 0
+          },
+          "709": {
+            "books": 4,
+            "correct": 0
+          },
+          "712": {
+            "books": 1,
+            "correct": 0
+          },
+          "720": {
+            "books": 2,
+            "correct": 0
+          },
+          "741": {
+            "books": 13,
+            "correct": 7
+          },
+          "743": {
+            "books": 1,
+            "correct": 0
+          },
+          "744": {
+            "books": 1,
+            "correct": 0
+          },
+          "745": {
+            "books": 1,
+            "correct": 0
+          },
+          "746": {
+            "books": 5,
+            "correct": 0
+          },
+          "759": {
+            "books": 1,
+            "correct": 0
+          },
+          "778": {
+            "books": 1,
+            "correct": 0
+          },
+          "780": {
+            "books": 4,
+            "correct": 2
+          },
+          "781": {
+            "books": 2,
+            "correct": 0
+          },
+          "782": {
+            "books": 6,
+            "correct": 4
+          },
+          "783": {
+            "books": 1,
+            "correct": 0
+          },
+          "791": {
+            "books": 4,
+            "correct": 1
+          },
+          "792": {
+            "books": 6,
+            "correct": 0
+          },
+          "794": {
+            "books": 6,
+            "correct": 1
+          },
+          "796": {
+            "books": 25,
+            "correct": 19
+          },
+          "797": {
+            "books": 2,
+            "correct": 0
+          },
+          "798": {
+            "books": 1,
+            "correct": 0
+          },
+          "808": {
+            "books": 1,
+            "correct": 0
+          },
+          "809": {
+            "books": 1,
+            "correct": 0
+          },
+          "811": {
+            "books": 2,
+            "correct": 0
+          },
+          "813": {
+            "books": 30,
+            "correct": 8
+          },
+          "821": {
+            "books": 1,
+            "correct": 0
+          },
+          "822": {
+            "books": 1,
+            "correct": 0
+          },
+          "823": {
+            "books": 55,
+            "correct": 26
+          },
+          "843": {
+            "books": 2,
+            "correct": 0
+          },
+          "853": {
+            "books": 2,
+            "correct": 0
+          },
+          "863": {
+            "books": 3,
+            "correct": 0
+          },
+          "907": {
+            "books": 1,
+            "correct": 0
+          },
+          "909": {
+            "books": 5,
+            "correct": 0
+          },
+          "910": {
+            "books": 10,
+            "correct": 1
+          },
+          "911": {
+            "books": 1,
+            "correct": 0
+          },
+          "914": {
+            "books": 17,
+            "correct": 13
+          },
+          "915": {
+            "books": 2,
+            "correct": 0
+          },
+          "916": {
+            "books": 2,
+            "correct": 0
+          },
+          "917": {
+            "books": 5,
+            "correct": 4
+          },
+          "919": {
+            "books": 2,
+            "correct": 0
+          },
+          "929": {
+            "books": 2,
+            "correct": 0
+          },
+          "930": {
+            "books": 1,
+            "correct": 0
+          },
+          "932": {
+            "books": 2,
+            "correct": 0
+          },
+          "935": {
+            "books": 1,
+            "correct": 0
+          },
+          "938": {
+            "books": 2,
+            "correct": 0
+          },
+          "939": {
+            "books": 1,
+            "correct": 0
+          },
+          "940": {
+            "books": 8,
+            "correct": 5
+          },
+          "942": {
+            "books": 5,
+            "correct": 0
+          },
+          "943": {
+            "books": 4,
+            "correct": 0
+          },
+          "946": {
+            "books": 1,
+            "correct": 0
+          },
+          "947": {
+            "books": 5,
+            "correct": 0
+          },
+          "949": {
+            "books": 1,
+            "correct": 0
+          },
+          "951": {
+            "books": 3,
+            "correct": 0
+          },
+          "954": {
+            "books": 1,
+            "correct": 0
+          },
+          "955": {
+            "books": 1,
+            "correct": 0
+          },
+          "956": {
+            "books": 3,
+            "correct": 0
+          },
+          "959": {
+            "books": 2,
+            "correct": 0
+          },
+          "962": {
+            "books": 2,
+            "correct": 0
+          },
+          "971": {
+            "books": 1,
+            "correct": 0
+          },
+          "972": {
+            "books": 3,
+            "correct": 0
+          },
+          "973": {
+            "books": 4,
+            "correct": 1
+          },
+          "974": {
+            "books": 2,
+            "correct": 1
+          },
+          "975": {
+            "books": 1,
+            "correct": 0
+          },
+          "976": {
+            "books": 1,
+            "correct": 0
+          },
+          "977": {
+            "books": 1,
+            "correct": 0
+          },
+          "979": {
+            "books": 2,
+            "correct": 0
+          },
+          "982": {
+            "books": 1,
+            "correct": 0
+          },
+          "984": {
+            "books": 1,
+            "correct": 0
+          },
+          "986": {
+            "books": 1,
+            "correct": 0
+          }
+        }
+      }
+    },
+    "cover": {
+      "1": {
+        "books": 1007,
+        "excluded_ambiguous": 0,
+        "accuracy": 0.5521350546176763,
+        "macro_f1": 0.5518977420603959,
+        "supported_truth_books": 1007,
+        "suggestion_coverage": 1.0,
+        "review_ready_books": 195,
+        "review_ready_accuracy": 0.882051282051282,
+        "per_label": {
+          "000": {
+            "books": 105,
+            "correct": 64
+          },
+          "100": {
+            "books": 98,
+            "correct": 40
+          },
+          "200": {
+            "books": 104,
+            "correct": 78
+          },
+          "300": {
+            "books": 105,
+            "correct": 50
+          },
+          "400": {
+            "books": 96,
+            "correct": 57
+          },
+          "500": {
+            "books": 105,
+            "correct": 58
+          },
+          "600": {
+            "books": 92,
+            "correct": 52
+          },
+          "700": {
+            "books": 92,
+            "correct": 42
+          },
+          "800": {
+            "books": 100,
+            "correct": 50
+          },
+          "900": {
+            "books": 110,
+            "correct": 65
+          }
+        }
+      },
+      "2": {
+        "books": 1001,
+        "excluded_ambiguous": 6,
+        "accuracy": 0.37662337662337664,
+        "macro_f1": 0.20647063786125686,
+        "supported_truth_books": 969,
+        "suggestion_coverage": 1.0,
+        "review_ready_books": 91,
+        "review_ready_accuracy": 0.8021978021978022,
+        "per_label": {
+          "000": {
+            "books": 70,
+            "correct": 53
+          },
+          "010": {
+            "books": 3,
+            "correct": 0
+          },
+          "020": {
+            "books": 6,
+            "correct": 2
+          },
+          "030": {
+            "books": 2,
+            "correct": 0
+          },
+          "060": {
+            "books": 2,
+            "correct": 0
+          },
+          "070": {
+            "books": 19,
+            "correct": 1
+          },
+          "090": {
+            "books": 3,
+            "correct": 0
+          },
+          "110": {
+            "books": 1,
+            "correct": 0
+          },
+          "120": {
+            "books": 4,
+            "correct": 0
+          },
+          "130": {
+            "books": 9,
+            "correct": 1
+          },
+          "150": {
+            "books": 57,
+            "correct": 28
+          },
+          "160": {
+            "books": 1,
+            "correct": 0
+          },
+          "170": {
+            "books": 12,
+            "correct": 3
+          },
+          "180": {
+            "books": 2,
+            "correct": 0
+          },
+          "190": {
+            "books": 11,
+            "correct": 4
+          },
+          "200": {
+            "books": 14,
+            "correct": 1
+          },
+          "210": {
+            "books": 3,
+            "correct": 0
+          },
+          "220": {
+            "books": 12,
+            "correct": 8
+          },
+          "230": {
+            "books": 14,
+            "correct": 3
+          },
+          "240": {
+            "books": 11,
+            "correct": 3
+          },
+          "250": {
+            "books": 7,
+            "correct": 0
+          },
+          "260": {
+            "books": 9,
+            "correct": 0
+          },
+          "270": {
+            "books": 3,
+            "correct": 1
+          },
+          "280": {
+            "books": 9,
+            "correct": 0
+          },
+          "290": {
+            "books": 21,
+            "correct": 11
+          },
+          "300": {
+            "books": 16,
+            "correct": 6
+          },
+          "320": {
+            "books": 17,
+            "correct": 1
+          },
+          "330": {
+            "books": 28,
+            "correct": 10
+          },
+          "340": {
+            "books": 12,
+            "correct": 5
+          },
+          "350": {
+            "books": 4,
+            "correct": 0
+          },
+          "360": {
+            "books": 9,
+            "correct": 0
+          },
+          "370": {
+            "books": 14,
+            "correct": 6
+          },
+          "380": {
+            "books": 1,
+            "correct": 0
+          },
+          "390": {
+            "books": 3,
+            "correct": 0
+          },
+          "400": {
+            "books": 6,
+            "correct": 0
+          },
+          "410": {
+            "books": 16,
+            "correct": 9
+          },
+          "420": {
+            "books": 61,
+            "correct": 31
+          },
+          "430": {
+            "books": 1,
+            "correct": 0
+          },
+          "460": {
+            "books": 1,
+            "correct": 0
+          },
+          "480": {
+            "books": 2,
+            "correct": 0
+          },
+          "490": {
+            "books": 9,
+            "correct": 2
+          },
+          "500": {
+            "books": 8,
+            "correct": 3
+          },
+          "510": {
+            "books": 8,
+            "correct": 2
+          },
+          "520": {
+            "books": 5,
+            "correct": 3
+          },
+          "530": {
+            "books": 11,
+            "correct": 4
+          },
+          "540": {
+            "books": 6,
+            "correct": 0
+          },
+          "550": {
+            "books": 12,
+            "correct": 3
+          },
+          "560": {
+            "books": 4,
+            "correct": 3
+          },
+          "570": {
+            "books": 9,
+            "correct": 3
+          },
+          "580": {
+            "books": 6,
+            "correct": 1
+          },
+          "590": {
+            "books": 36,
+            "correct": 22
+          },
+          "600": {
+            "books": 3,
+            "correct": 0
+          },
+          "610": {
+            "books": 26,
+            "correct": 16
+          },
+          "620": {
+            "books": 15,
+            "correct": 10
+          },
+          "630": {
+            "books": 6,
+            "correct": 3
+          },
+          "640": {
+            "books": 12,
+            "correct": 1
+          },
+          "650": {
+            "books": 17,
+            "correct": 5
+          },
+          "660": {
+            "books": 9,
+            "correct": 2
+          },
+          "670": {
+            "books": 1,
+            "correct": 0
+          },
+          "680": {
+            "books": 2,
+            "correct": 0
+          },
+          "690": {
+            "books": 1,
+            "correct": 0
+          },
+          "700": {
+            "books": 9,
+            "correct": 3
+          },
+          "710": {
+            "books": 1,
+            "correct": 0
+          },
+          "720": {
+            "books": 2,
+            "correct": 0
+          },
+          "740": {
+            "books": 21,
+            "correct": 4
+          },
+          "750": {
+            "books": 1,
+            "correct": 0
+          },
+          "770": {
+            "books": 1,
+            "correct": 0
+          },
+          "780": {
+            "books": 13,
+            "correct": 2
+          },
+          "790": {
+            "books": 44,
+            "correct": 25
+          },
+          "800": {
+            "books": 2,
+            "correct": 0
+          },
+          "810": {
+            "books": 32,
+            "correct": 2
+          },
+          "820": {
+            "books": 58,
+            "correct": 28
+          },
+          "840": {
+            "books": 2,
+            "correct": 0
+          },
+          "850": {
+            "books": 2,
+            "correct": 0
+          },
+          "860": {
+            "books": 3,
+            "correct": 0
+          },
+          "900": {
+            "books": 6,
+            "correct": 0
+          },
+          "910": {
+            "books": 39,
+            "correct": 24
+          },
+          "920": {
+            "books": 2,
+            "correct": 0
+          },
+          "930": {
+            "books": 7,
+            "correct": 3
+          },
+          "940": {
+            "books": 24,
+            "correct": 8
+          },
+          "950": {
+            "books": 10,
+            "correct": 3
+          },
+          "960": {
+            "books": 2,
+            "correct": 0
+          },
+          "970": {
+            "books": 15,
+            "correct": 5
+          },
+          "980": {
+            "books": 3,
+            "correct": 0
+          }
+        }
+      },
+      "3": {
+        "books": 998,
+        "excluded_ambiguous": 9,
+        "accuracy": 0.23446893787575152,
+        "macro_f1": 0.07713530041162979,
+        "supported_truth_books": 761,
+        "suggestion_coverage": 0.9248496993987976,
+        "review_ready_books": 62,
+        "review_ready_accuracy": 0.6935483870967742,
+        "per_label": {
+          "001": {
+            "books": 9,
+            "correct": 0
+          },
+          "002": {
+            "books": 2,
+            "correct": 0
+          },
+          "003": {
+            "books": 1,
+            "correct": 0
+          },
+          "004": {
+            "books": 10,
+            "correct": 0
+          },
+          "005": {
+            "books": 19,
+            "correct": 12
+          },
+          "006": {
+            "books": 29,
+            "correct": 25
+          },
+          "011": {
+            "books": 2,
+            "correct": 0
+          },
+          "016": {
+            "books": 1,
+            "correct": 0
+          },
+          "020": {
+            "books": 1,
+            "correct": 0
+          },
+          "025": {
+            "books": 1,
+            "correct": 0
+          },
+          "027": {
+            "books": 2,
+            "correct": 0
+          },
+          "028": {
+            "books": 2,
+            "correct": 0
+          },
+          "032": {
+            "books": 2,
+            "correct": 0
+          },
+          "069": {
+            "books": 2,
+            "correct": 0
+          },
+          "070": {
+            "books": 16,
+            "correct": 1
+          },
+          "071": {
+            "books": 1,
+            "correct": 0
+          },
+          "079": {
+            "books": 2,
+            "correct": 0
+          },
+          "091": {
+            "books": 2,
+            "correct": 0
+          },
+          "098": {
+            "books": 1,
+            "correct": 0
+          },
+          "111": {
+            "books": 1,
+            "correct": 0
+          },
+          "121": {
+            "books": 1,
+            "correct": 0
+          },
+          "126": {
+            "books": 1,
+            "correct": 0
+          },
+          "128": {
+            "books": 2,
+            "correct": 0
+          },
+          "133": {
+            "books": 9,
+            "correct": 1
+          },
+          "150": {
+            "books": 7,
+            "correct": 2
+          },
+          "152": {
+            "books": 6,
+            "correct": 0
+          },
+          "153": {
+            "books": 9,
+            "correct": 2
+          },
+          "154": {
+            "books": 2,
+            "correct": 0
+          },
+          "155": {
+            "books": 7,
+            "correct": 0
+          },
+          "158": {
+            "books": 26,
+            "correct": 13
+          },
+          "160": {
+            "books": 1,
+            "correct": 0
+          },
+          "170": {
+            "books": 5,
+            "correct": 0
+          },
+          "174": {
+            "books": 5,
+            "correct": 0
+          },
+          "179": {
+            "books": 2,
+            "correct": 0
+          },
+          "183": {
+            "books": 1,
+            "correct": 0
+          },
+          "185": {
+            "books": 1,
+            "correct": 0
+          },
+          "190": {
+            "books": 1,
+            "correct": 0
+          },
+          "191": {
+            "books": 1,
+            "correct": 0
+          },
+          "192": {
+            "books": 3,
+            "correct": 0
+          },
+          "193": {
+            "books": 5,
+            "correct": 2
+          },
+          "194": {
+            "books": 1,
+            "correct": 0
+          },
+          "200": {
+            "books": 2,
+            "correct": 1
+          },
+          "201": {
+            "books": 4,
+            "correct": 0
+          },
+          "202": {
+            "books": 2,
+            "correct": 0
+          },
+          "203": {
+            "books": 1,
+            "correct": 0
+          },
+          "204": {
+            "books": 4,
+            "correct": 0
+          },
+          "209": {
+            "books": 1,
+            "correct": 0
+          },
+          "210": {
+            "books": 1,
+            "correct": 0
+          },
+          "211": {
+            "books": 1,
+            "correct": 0
+          },
+          "212": {
+            "books": 1,
+            "correct": 0
+          },
+          "220": {
+            "books": 5,
+            "correct": 0
+          },
+          "221": {
+            "books": 1,
+            "correct": 0
+          },
+          "222": {
+            "books": 3,
+            "correct": 0
+          },
+          "224": {
+            "books": 1,
+            "correct": 0
+          },
+          "225": {
+            "books": 1,
+            "correct": 0
+          },
+          "227": {
+            "books": 1,
+            "correct": 0
+          },
+          "230": {
+            "books": 3,
+            "correct": 0
+          },
+          "231": {
+            "books": 4,
+            "correct": 0
+          },
+          "232": {
+            "books": 2,
+            "correct": 1
+          },
+          "234": {
+            "books": 2,
+            "correct": 0
+          },
+          "235": {
+            "books": 1,
+            "correct": 0
+          },
+          "236": {
+            "books": 1,
+            "correct": 0
+          },
+          "242": {
+            "books": 3,
+            "correct": 0
+          },
+          "248": {
+            "books": 8,
+            "correct": 2
+          },
+          "252": {
+            "books": 2,
+            "correct": 0
+          },
+          "253": {
+            "books": 5,
+            "correct": 0
+          },
+          "261": {
+            "books": 5,
+            "correct": 0
+          },
+          "262": {
+            "books": 2,
+            "correct": 0
+          },
+          "263": {
+            "books": 1,
+            "correct": 0
+          },
+          "269": {
+            "books": 1,
+            "correct": 0
+          },
+          "270": {
+            "books": 2,
+            "correct": 1
+          },
+          "271": {
+            "books": 1,
+            "correct": 0
+          },
+          "281": {
+            "books": 2,
+            "correct": 0
+          },
+          "282": {
+            "books": 4,
+            "correct": 0
+          },
+          "284": {
+            "books": 1,
+            "correct": 0
+          },
+          "287": {
+            "books": 1,
+            "correct": 0
+          },
+          "289": {
+            "books": 1,
+            "correct": 0
+          },
+          "294": {
+            "books": 8,
+            "correct": 5
+          },
+          "296": {
+            "books": 6,
+            "correct": 2
+          },
+          "297": {
+            "books": 4,
+            "correct": 2
+          },
+          "299": {
+            "books": 3,
+            "correct": 0
+          },
+          "302": {
+            "books": 2,
+            "correct": 0
+          },
+          "303": {
+            "books": 3,
+            "correct": 0
+          },
+          "305": {
+            "books": 6,
+            "correct": 5
+          },
+          "306": {
+            "books": 4,
+            "correct": 0
+          },
+          "307": {
+            "books": 1,
+            "correct": 0
+          },
+          "320": {
+            "books": 5,
+            "correct": 1
+          },
+          "321": {
+            "books": 1,
+            "correct": 0
+          },
+          "322": {
+            "books": 2,
+            "correct": 0
+          },
+          "323": {
+            "books": 2,
+            "correct": 0
+          },
+          "324": {
+            "books": 1,
+            "correct": 0
+          },
+          "326": {
+            "books": 1,
+            "correct": 0
+          },
+          "327": {
+            "books": 4,
+            "correct": 0
+          },
+          "329": {
+            "books": 1,
+            "correct": 0
+          },
+          "330": {
+            "books": 3,
+            "correct": 0
+          },
+          "331": {
+            "books": 2,
+            "correct": 0
+          },
+          "332": {
+            "books": 6,
+            "correct": 1
+          },
+          "333": {
+            "books": 1,
+            "correct": 0
+          },
+          "336": {
+            "books": 3,
+            "correct": 0
+          },
+          "338": {
+            "books": 12,
+            "correct": 2
+          },
+          "339": {
+            "books": 1,
+            "correct": 0
+          },
+          "340": {
+            "books": 2,
+            "correct": 0
+          },
+          "341": {
+            "books": 1,
+            "correct": 0
+          },
+          "342": {
+            "books": 2,
+            "correct": 0
+          },
+          "343": {
+            "books": 3,
+            "correct": 0
+          },
+          "344": {
+            "books": 1,
+            "correct": 0
+          },
+          "345": {
+            "books": 3,
+            "correct": 0
+          },
+          "353": {
+            "books": 1,
+            "correct": 0
+          },
+          "355": {
+            "books": 2,
+            "correct": 0
+          },
+          "358": {
+            "books": 1,
+            "correct": 0
+          },
+          "362": {
+            "books": 6,
+            "correct": 0
+          },
+          "363": {
+            "books": 1,
+            "correct": 0
+          },
+          "364": {
+            "books": 2,
+            "correct": 0
+          },
+          "370": {
+            "books": 4,
+            "correct": 2
+          },
+          "371": {
+            "books": 2,
+            "correct": 0
+          },
+          "372": {
+            "books": 1,
+            "correct": 0
+          },
+          "375": {
+            "books": 1,
+            "correct": 0
+          },
+          "376": {
+            "books": 1,
+            "correct": 0
+          },
+          "378": {
+            "books": 4,
+            "correct": 0
+          },
+          "379": {
+            "books": 1,
+            "correct": 0
+          },
+          "388": {
+            "books": 1,
+            "correct": 0
+          },
+          "394": {
+            "books": 1,
+            "correct": 0
+          },
+          "398": {
+            "books": 2,
+            "correct": 0
+          },
+          "401": {
+            "books": 5,
+            "correct": 0
+          },
+          "404": {
+            "books": 1,
+            "correct": 0
+          },
+          "414": {
+            "books": 2,
+            "correct": 0
+          },
+          "415": {
+            "books": 1,
+            "correct": 0
+          },
+          "417": {
+            "books": 2,
+            "correct": 0
+          },
+          "418": {
+            "books": 10,
+            "correct": 6
+          },
+          "419": {
+            "books": 1,
+            "correct": 0
+          },
+          "420": {
+            "books": 3,
+            "correct": 0
+          },
+          "421": {
+            "books": 13,
+            "correct": 0
+          },
+          "425": {
+            "books": 1,
+            "correct": 0
+          },
+          "427": {
+            "books": 2,
+            "correct": 0
+          },
+          "428": {
+            "books": 42,
+            "correct": 24
+          },
+          "437": {
+            "books": 1,
+            "correct": 0
+          },
+          "468": {
+            "books": 1,
+            "correct": 0
+          },
+          "482": {
+            "books": 1,
+            "correct": 0
+          },
+          "487": {
+            "books": 1,
+            "correct": 0
+          },
+          "495": {
+            "books": 7,
+            "correct": 2
+          },
+          "499": {
+            "books": 2,
+            "correct": 0
+          },
+          "500": {
+            "books": 2,
+            "correct": 1
+          },
+          "503": {
+            "books": 1,
+            "correct": 0
+          },
+          "507": {
+            "books": 2,
+            "correct": 0
+          },
+          "508": {
+            "books": 2,
+            "correct": 0
+          },
+          "509": {
+            "books": 1,
+            "correct": 0
+          },
+          "510": {
+            "books": 3,
+            "correct": 0
+          },
+          "511": {
+            "books": 1,
+            "correct": 0
+          },
+          "513": {
+            "books": 2,
+            "correct": 0
+          },
+          "515": {
+            "books": 1,
+            "correct": 0
+          },
+          "516": {
+            "books": 1,
+            "correct": 0
+          },
+          "520": {
+            "books": 1,
+            "correct": 1
+          },
+          "521": {
+            "books": 1,
+            "correct": 0
+          },
+          "522": {
+            "books": 1,
+            "correct": 0
+          },
+          "523": {
+            "books": 2,
+            "correct": 1
+          },
+          "530": {
+            "books": 4,
+            "correct": 1
+          },
+          "535": {
+            "books": 3,
+            "correct": 0
+          },
+          "537": {
+            "books": 2,
+            "correct": 0
+          },
+          "539": {
+            "books": 2,
+            "correct": 0
+          },
+          "541": {
+            "books": 2,
+            "correct": 0
+          },
+          "543": {
+            "books": 1,
+            "correct": 0
+          },
+          "546": {
+            "books": 2,
+            "correct": 0
+          },
+          "547": {
+            "books": 1,
+            "correct": 0
+          },
+          "550": {
+            "books": 6,
+            "correct": 3
+          },
+          "551": {
+            "books": 4,
+            "correct": 0
+          },
+          "557": {
+            "books": 2,
+            "correct": 0
+          },
+          "567": {
+            "books": 4,
+            "correct": 3
+          },
+          "571": {
+            "books": 3,
+            "correct": 0
+          },
+          "572": {
+            "books": 1,
+            "correct": 0
+          },
+          "573": {
+            "books": 1,
+            "correct": 0
+          },
+          "577": {
+            "books": 1,
+            "correct": 0
+          },
+          "578": {
+            "books": 1,
+            "correct": 0
+          },
+          "579": {
+            "books": 2,
+            "correct": 2
+          },
+          "580": {
+            "books": 3,
+            "correct": 1
+          },
+          "581": {
+            "books": 2,
+            "correct": 0
+          },
+          "583": {
+            "books": 1,
+            "correct": 0
+          },
+          "590": {
+            "books": 2,
+            "correct": 0
+          },
+          "591": {
+            "books": 5,
+            "correct": 3
+          },
+          "595": {
+            "books": 5,
+            "correct": 1
+          },
+          "597": {
+            "books": 8,
+            "correct": 1
+          },
+          "598": {
+            "books": 4,
+            "correct": 0
+          },
+          "599": {
+            "books": 12,
+            "correct": 4
+          },
+          "600": {
+            "books": 2,
+            "correct": 0
+          },
+          "604": {
+            "books": 1,
+            "correct": 0
+          },
+          "610": {
+            "books": 5,
+            "correct": 2
+          },
+          "612": {
+            "books": 2,
+            "correct": 1
+          },
+          "613": {
+            "books": 4,
+            "correct": 0
+          },
+          "614": {
+            "books": 1,
+            "correct": 0
+          },
+          "616": {
+            "books": 11,
+            "correct": 5
+          },
+          "617": {
+            "books": 1,
+            "correct": 0
+          },
+          "618": {
+            "books": 1,
+            "correct": 0
+          },
+          "620": {
+            "books": 2,
+            "correct": 2
+          },
+          "621": {
+            "books": 3,
+            "correct": 0
+          },
+          "623": {
+            "books": 3,
+            "correct": 0
+          },
+          "624": {
+            "books": 1,
+            "correct": 1
+          },
+          "628": {
+            "books": 1,
+            "correct": 1
+          },
+          "629": {
+            "books": 5,
+            "correct": 2
+          },
+          "631": {
+            "books": 2,
+            "correct": 0
+          },
+          "635": {
+            "books": 2,
+            "correct": 0
+          },
+          "636": {
+            "books": 2,
+            "correct": 1
+          },
+          "640": {
+            "books": 3,
+            "correct": 0
+          },
+          "641": {
+            "books": 4,
+            "correct": 1
+          },
+          "643": {
+            "books": 1,
+            "correct": 0
+          },
+          "646": {
+            "books": 4,
+            "correct": 0
+          },
+          "650": {
+            "books": 4,
+            "correct": 0
+          },
+          "658": {
+            "books": 13,
+            "correct": 5
+          },
+          "660": {
+            "books": 3,
+            "correct": 0
+          },
+          "662": {
+            "books": 1,
+            "correct": 0
+          },
+          "664": {
+            "books": 2,
+            "correct": 0
+          },
+          "665": {
+            "books": 3,
+            "correct": 0
+          },
+          "670": {
+            "books": 1,
+            "correct": 0
+          },
+          "681": {
+            "books": 1,
+            "correct": 0
+          },
+          "686": {
+            "books": 1,
+            "correct": 0
+          },
+          "691": {
+            "books": 1,
+            "correct": 0
+          },
+          "700": {
+            "books": 3,
+            "correct": 0
+          },
+          "701": {
+            "books": 1,
+            "correct": 0
+          },
+          "707": {
+            "books": 1,
+            "correct": 0
+          },
+          "709": {
+            "books": 4,
+            "correct": 0
+          },
+          "712": {
+            "books": 1,
+            "correct": 0
+          },
+          "720": {
+            "books": 2,
+            "correct": 0
+          },
+          "741": {
+            "books": 13,
+            "correct": 4
+          },
+          "743": {
+            "books": 1,
+            "correct": 0
+          },
+          "744": {
+            "books": 1,
+            "correct": 0
+          },
+          "745": {
+            "books": 1,
+            "correct": 0
+          },
+          "746": {
+            "books": 5,
+            "correct": 0
+          },
+          "759": {
+            "books": 1,
+            "correct": 0
+          },
+          "778": {
+            "books": 1,
+            "correct": 0
+          },
+          "780": {
+            "books": 4,
+            "correct": 1
+          },
+          "781": {
+            "books": 2,
+            "correct": 0
+          },
+          "782": {
+            "books": 6,
+            "correct": 1
+          },
+          "783": {
+            "books": 1,
+            "correct": 0
+          },
+          "791": {
+            "books": 4,
+            "correct": 2
+          },
+          "792": {
+            "books": 6,
+            "correct": 0
+          },
+          "794": {
+            "books": 6,
+            "correct": 1
+          },
+          "796": {
+            "books": 25,
+            "correct": 17
+          },
+          "797": {
+            "books": 2,
+            "correct": 0
+          },
+          "798": {
+            "books": 1,
+            "correct": 0
+          },
+          "808": {
+            "books": 1,
+            "correct": 0
+          },
+          "809": {
+            "books": 1,
+            "correct": 0
+          },
+          "811": {
+            "books": 2,
+            "correct": 0
+          },
+          "813": {
+            "books": 30,
+            "correct": 2
+          },
+          "821": {
+            "books": 1,
+            "correct": 0
+          },
+          "822": {
+            "books": 1,
+            "correct": 0
+          },
+          "823": {
+            "books": 55,
+            "correct": 27
+          },
+          "843": {
+            "books": 2,
+            "correct": 0
+          },
+          "853": {
+            "books": 2,
+            "correct": 0
+          },
+          "863": {
+            "books": 3,
+            "correct": 0
+          },
+          "907": {
+            "books": 1,
+            "correct": 0
+          },
+          "909": {
+            "books": 5,
+            "correct": 0
+          },
+          "910": {
+            "books": 10,
+            "correct": 1
+          },
+          "911": {
+            "books": 1,
+            "correct": 0
+          },
+          "914": {
+            "books": 17,
+            "correct": 13
+          },
+          "915": {
+            "books": 2,
+            "correct": 0
+          },
+          "916": {
+            "books": 2,
+            "correct": 0
+          },
+          "917": {
+            "books": 5,
+            "correct": 3
+          },
+          "919": {
+            "books": 2,
+            "correct": 0
+          },
+          "929": {
+            "books": 2,
+            "correct": 0
+          },
+          "930": {
+            "books": 1,
+            "correct": 0
+          },
+          "932": {
+            "books": 2,
+            "correct": 0
+          },
+          "935": {
+            "books": 1,
+            "correct": 0
+          },
+          "938": {
+            "books": 2,
+            "correct": 0
+          },
+          "939": {
+            "books": 1,
+            "correct": 0
+          },
+          "940": {
+            "books": 8,
+            "correct": 3
+          },
+          "942": {
+            "books": 5,
+            "correct": 0
+          },
+          "943": {
+            "books": 4,
+            "correct": 0
+          },
+          "946": {
+            "books": 1,
+            "correct": 0
+          },
+          "947": {
+            "books": 5,
+            "correct": 0
+          },
+          "949": {
+            "books": 1,
+            "correct": 0
+          },
+          "951": {
+            "books": 3,
+            "correct": 0
+          },
+          "954": {
+            "books": 1,
+            "correct": 0
+          },
+          "955": {
+            "books": 1,
+            "correct": 0
+          },
+          "956": {
+            "books": 3,
+            "correct": 0
+          },
+          "959": {
+            "books": 2,
+            "correct": 0
+          },
+          "962": {
+            "books": 2,
+            "correct": 0
+          },
+          "971": {
+            "books": 1,
+            "correct": 0
+          },
+          "972": {
+            "books": 3,
+            "correct": 0
+          },
+          "973": {
+            "books": 4,
+            "correct": 0
+          },
+          "974": {
+            "books": 2,
+            "correct": 1
+          },
+          "975": {
+            "books": 1,
+            "correct": 0
+          },
+          "976": {
+            "books": 1,
+            "correct": 0
+          },
+          "977": {
+            "books": 1,
+            "correct": 0
+          },
+          "979": {
+            "books": 2,
+            "correct": 0
+          },
+          "982": {
+            "books": 1,
+            "correct": 0
+          },
+          "984": {
+            "books": 1,
+            "correct": 0
+          },
+          "986": {
+            "books": 1,
+            "correct": 0
+          }
+        }
+      }
+    }
+  },
+  "limitations": [
+    "Catalog prefixes are weak labels, not newly verified librarian labels.",
+    "Previously inspected test set: development benchmark, not fresh validation.",
+    "Only supported classes can be suggested; unsupported/rare outcomes fall back.",
+    "C=10 and five-group minimum fixed before this benchmark; no fine-level model search.",
+    "Conditional heads propagate parent errors; scores and routing thresholds need independent validation.",
+    "Metadata removes catalog-number subject entries; cover is clean text, not OCR.",
+    "No measured Indian-language book accuracy, decimal-code assignment or patentability finding."
+  ]
+}

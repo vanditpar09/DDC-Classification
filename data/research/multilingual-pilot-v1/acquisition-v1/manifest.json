@@ -1,0 +1,1767 @@
+{
+  "collection": "acquisition-v1",
+  "file_count": 348,
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 8010,
+      "sha256": "f253dd770ac98f7b596ab7d9340cdc052380d2f33c518b4cf571fbd32a2d25b7"
+    },
+    {
+      "file": "anna-search-log.json",
+      "bytes": 945,
+      "sha256": "8a0b0ac6882501d0f07c443e593883e476197b1e81f7f14e97dd049cd1da429e"
+    },
+    {
+      "file": "books/anand_madhu_shirgaonkar.pdf",
+      "bytes": 3684415,
+      "sha256": "448cc10eab66028e81d84b1318580d5835d0ec80bfed61716ce3c0c1af1f4bbd"
+    },
+    {
+      "file": "books/anand_madhu_shirgaonkar.pdf.receipt.json",
+      "bytes": 479,
+      "sha256": "f61f3d2b22a3ad20c8067707b9d5be008bfaa741c5b740c797a1102ef778593b"
+    },
+    {
+      "file": "books/detective_alpha_saurabh_wagale.pdf",
+      "bytes": 1466273,
+      "sha256": "3dcf13edae4e373da8218caacffde73fe13d3be48c9ba3f7a67567d99c9e7cee"
+    },
+    {
+      "file": "books/detective_alpha_saurabh_wagale.pdf.receipt.json",
+      "bytes": 500,
+      "sha256": "726950a3f0a6cf6419c4d26f7af4336d35295841f8cdaa89d727a0849b973642"
+    },
+    {
+      "file": "books/fullari_vinita_deshpande.pdf",
+      "bytes": 1041309,
+      "sha256": "8f448723ad8a8b653a8008258b935814b17a6509363a7d18f6cc0a2e8788f4ec"
+    },
+    {
+      "file": "books/fullari_vinita_deshpande.pdf.receipt.json",
+      "bytes": 482,
+      "sha256": "ce70f0f962e9d2499a29f49068d97e09a50662a9b2ba1d7530da71fe3e1b7ba2"
+    },
+    {
+      "file": "books/hindisamay-226-1.html",
+      "bytes": 451458,
+      "sha256": "b6bf0226bce7c9dffa193b87ed9617f92448ae49fd597455eaadbf77c07ebf37"
+    },
+    {
+      "file": "books/hindisamay-226-1.html.receipt.json",
+      "bytes": 991,
+      "sha256": "64bf12f7696bd92ca57deb9b1a81092b5ad3d12175ee611671c31fc69b199a51"
+    },
+    {
+      "file": "books/hindisamay-226-2.html",
+      "bytes": 26760,
+      "sha256": "5b63acfe852e9497c92dc74b3b8a5dad2a18afb7ab3f4abf10d1bc5512f1ba8a"
+    },
+    {
+      "file": "books/hindisamay-226-2.html.receipt.json",
+      "bytes": 990,
+      "sha256": "a1200feec1d81e96712f0cb0022513f4291a553e01151249b0e88bd8064482d0"
+    },
+    {
+      "file": "books/hindisamay-226-2.query.html",
+      "bytes": 813313,
+      "sha256": "49e120c4d2d2001e748fc67c01e495d37ad0c4908ed5ae88fbe5c1070bb3e264"
+    },
+    {
+      "file": "books/hindisamay-226-2.query.html.receipt.json",
+      "bytes": 453,
+      "sha256": "d930de4172c179cd512f6cc90ed82f8e9f4cd72a650cd21ba085bc04673ca139"
+    },
+    {
+      "file": "books/hindisamay-226-3.html",
+      "bytes": 766440,
+      "sha256": "cc6e5f62746b638b5c1fc3a926a074b10a763e34a0fc18cab8d715a4277edb25"
+    },
+    {
+      "file": "books/hindisamay-226-3.html.receipt.json",
+      "bytes": 991,
+      "sha256": "183d60789e1dea8bacf671727a7fce3c30e89a7cbe1da74eb61138e8dd2b6658"
+    },
+    {
+      "file": "books/hindisamay-226-4.html",
+      "bytes": 617823,
+      "sha256": "9521cb40917318ff8d369184b9c3070c065c4ad3f3198ab78c87399f4abeffb8"
+    },
+    {
+      "file": "books/hindisamay-226-4.html.receipt.json",
+      "bytes": 991,
+      "sha256": "0fadb6d5eb5bf20edb7c432f71ff375358b23a0bf0ea8de74ff524e5c58ef0cd"
+    },
+    {
+      "file": "books/hindisamay-226-5.html",
+      "bytes": 27014,
+      "sha256": "f8a7d9ea68260398bc599a37b887586e149c1195703fa1c63ff5c23de96af7b5"
+    },
+    {
+      "file": "books/hindisamay-226-5.html.receipt.json",
+      "bytes": 990,
+      "sha256": "c089722fe2b7e6812b1b5de011433faf6e88c91c3d5a49955120968acfc0a4ec"
+    },
+    {
+      "file": "books/hindisamay-226-5.query.html",
+      "bytes": 709276,
+      "sha256": "5722ea11d7470dc19d17288b2853d6c266aabdab37ee905d376441de4164a7c7"
+    },
+    {
+      "file": "books/hindisamay-226-5.query.html.receipt.json",
+      "bytes": 453,
+      "sha256": "4f0ad9b38c8f7d78368fc8aa4dbaa163da6ae16b540575f35d1e33fce9a06cb9"
+    },
+    {
+      "file": "books/hindisamay-233-1.html",
+      "bytes": 118396,
+      "sha256": "8dc27fe146f716b0ba3fdaa95fcf41eb8dbd04e23968597a9466bc7c714535ca"
+    },
+    {
+      "file": "books/hindisamay-233-1.html.receipt.json",
+      "bytes": 1099,
+      "sha256": "353bc4d6af4ed91344d541e3dc4cf2ef140c3773bf08b416f7045b7f9656b401"
+    },
+    {
+      "file": "books/hindisamay-233-10.html",
+      "bytes": 161278,
+      "sha256": "2bccf165020fdf3eddec4399d7c1701edf15a381995f95291b5fcd662a638eb9"
+    },
+    {
+      "file": "books/hindisamay-233-10.html.receipt.json",
+      "bytes": 1102,
+      "sha256": "39c13f9877596cc71ce356a4a55330b94992f63dc6a6eadb6a412802d2c28da7"
+    },
+    {
+      "file": "books/hindisamay-233-11.html",
+      "bytes": 132622,
+      "sha256": "7c85d8442eb353497ef04a8b4b1e16522ef2f381f50f2e23775c756d67286309"
+    },
+    {
+      "file": "books/hindisamay-233-11.html.receipt.json",
+      "bytes": 1102,
+      "sha256": "dfed88a0ef785c393f2e8eaf610ff054f824ae2e9891f9b5197013295b8abc52"
+    },
+    {
+      "file": "books/hindisamay-233-12.html",
+      "bytes": 26761,
+      "sha256": "799656585a93b2ce53f5036051e763eaffbe2429897123d27ae7b36c0549ebbc"
+    },
+    {
+      "file": "books/hindisamay-233-12.html.receipt.json",
+      "bytes": 1101,
+      "sha256": "57d48d1afaa66a5fcab8e34722ba9ffc1cc9707f80525823f060044c6a6d99c0"
+    },
+    {
+      "file": "books/hindisamay-233-12.query.html",
+      "bytes": 96959,
+      "sha256": "ef3d1921a5454a1cb763c04618f3c4f778b77fd662bba6f057a6b884b4258013"
+    },
+    {
+      "file": "books/hindisamay-233-12.query.html.receipt.json",
+      "bytes": 455,
+      "sha256": "01a3bce4c84329a4737bf881fe714362c9be3614dcb3e85564feaef938374ab3"
+    },
+    {
+      "file": "books/hindisamay-233-13.html",
+      "bytes": 48657,
+      "sha256": "4b0bbad3cca01ca8e597884859f37030144c97669246cd477073f7c5d3102da8"
+    },
+    {
+      "file": "books/hindisamay-233-13.html.receipt.json",
+      "bytes": 1101,
+      "sha256": "29db27dce6f921b5124ef5b6c953bf2eab43e6e462c885165e2ddd1715a14aff"
+    },
+    {
+      "file": "books/hindisamay-233-14.html",
+      "bytes": 53292,
+      "sha256": "1d7ee55e1048af947941180df0329f2e15eb7f34c184333ad4de6fa263170055"
+    },
+    {
+      "file": "books/hindisamay-233-14.html.receipt.json",
+      "bytes": 1101,
+      "sha256": "f0593e459cdff7ec06a029de041ed9028adb860c6eb39f0715db12cda3309218"
+    },
+    {
+      "file": "books/hindisamay-233-15.html",
+      "bytes": 62833,
+      "sha256": "1f33788b4b2c33ea13b7d16e79b40bd7b5c435fafbaee6582d5b1ff1f15ea663"
+    },
+    {
+      "file": "books/hindisamay-233-15.html.receipt.json",
+      "bytes": 1101,
+      "sha256": "b1d8b11184453cc50eaabc6f0bc5925f7775300bd35ada9fd8d67b2c62c69114"
+    },
+    {
+      "file": "books/hindisamay-233-16.html",
+      "bytes": 26761,
+      "sha256": "bf11e5ece4ac52187819415ffddbe39d6081e0af21493a3880392bf5609e0ba9"
+    },
+    {
+      "file": "books/hindisamay-233-16.html.receipt.json",
+      "bytes": 1101,
+      "sha256": "6efb022c16696869b0a9037b3eb0f78f9551994538fed74715fdb62ba6bf14c6"
+    },
+    {
+      "file": "books/hindisamay-233-16.query.html",
+      "bytes": 43305,
+      "sha256": "0524b27fab918b5154f1c0719cc19ca59f7c6802761f801533a8fcfa90b6cf0b"
+    },
+    {
+      "file": "books/hindisamay-233-16.query.html.receipt.json",
+      "bytes": 455,
+      "sha256": "2b81fb050cb94ca3c5f777930c9ff6a56fc801fbb23c7b19ed184dc597fdd207"
+    },
+    {
+      "file": "books/hindisamay-233-17.html",
+      "bytes": 59254,
+      "sha256": "9e21f2b9d3d141975c568e911112c1b1cbbb7febfe2a5ad5e259a19576a0e69e"
+    },
+    {
+      "file": "books/hindisamay-233-17.html.receipt.json",
+      "bytes": 1101,
+      "sha256": "d04f5e10ced8792a631a16733505d0f40687b49e7ec1b59e36b18fa49ecf7f32"
+    },
+    {
+      "file": "books/hindisamay-233-2.html",
+      "bytes": 26856,
+      "sha256": "c3f130d83c03a62dde4beb7376daf8001a0486b38bb09c6f2e9cb57d0e1bf6af"
+    },
+    {
+      "file": "books/hindisamay-233-2.html.receipt.json",
+      "bytes": 1098,
+      "sha256": "058036482cce83a4936d8a00d7c44de289dced84eaafd45fcbb60e88ff433c8b"
+    },
+    {
+      "file": "books/hindisamay-233-2.query.html",
+      "bytes": 63868,
+      "sha256": "ede121407ce4ece34796608bae4f48e4ea2a60c63af6cbeb34f1f003d8b3f335"
+    },
+    {
+      "file": "books/hindisamay-233-2.query.html.receipt.json",
+      "bytes": 452,
+      "sha256": "31ddda8f5f69eddc7bd7d991f3b1ac5ca55994d9ebb86bba2b93ba01c9f700c9"
+    },
+    {
+      "file": "books/hindisamay-233-3.html",
+      "bytes": 47521,
+      "sha256": "8a2974df8f1dba4978fb618038f11dd83497c9fb567bf85c59a2d6949cdd9a88"
+    },
+    {
+      "file": "books/hindisamay-233-3.html.receipt.json",
+      "bytes": 1098,
+      "sha256": "af971cd1139f8b0e02288f78d40ae4d50ca152db09d56fc347b2db9f664eb760"
+    },
+    {
+      "file": "books/hindisamay-233-4.html",
+      "bytes": 98376,
+      "sha256": "902a3663d88a0412b6cf933a85644b70a37715a0389dbef3cc3627ab9136513b"
+    },
+    {
+      "file": "books/hindisamay-233-4.html.receipt.json",
+      "bytes": 1098,
+      "sha256": "2575688a3bb4052fb0a0e6bf8d3666b977bc77cdc9ff496fe6a882e8748de5ad"
+    },
+    {
+      "file": "books/hindisamay-233-5.html",
+      "bytes": 54080,
+      "sha256": "5ec1d3f39c88db2ec65cc95d4681d9c43ae04fbaaa1e4b78ba9f43380c2f660b"
+    },
+    {
+      "file": "books/hindisamay-233-5.html.receipt.json",
+      "bytes": 1098,
+      "sha256": "42769195ca3a1f18d129a664abc3eee3155ae4a93bac3ed51dd6c43be97087d7"
+    },
+    {
+      "file": "books/hindisamay-233-6.html",
+      "bytes": 59192,
+      "sha256": "9334162a66829538634206d469aefc32f9d798d56b1a99a810bebaabe7cc3fad"
+    },
+    {
+      "file": "books/hindisamay-233-6.html.receipt.json",
+      "bytes": 1098,
+      "sha256": "060f6ba0d31b0bb717e8234c80ecaeddec02181616c8692dfbe5e1ccacc1155c"
+    },
+    {
+      "file": "books/hindisamay-233-7.html",
+      "bytes": 65385,
+      "sha256": "e2fb87a54a029ad72eb9f4503034361c1c4f28cb056e0ce07f30aa476bbccd28"
+    },
+    {
+      "file": "books/hindisamay-233-7.html.receipt.json",
+      "bytes": 1098,
+      "sha256": "a94a4cfe4f1bf6b81d1cbc2e2c4893df46e3bfb3364c213606375a4f92194420"
+    },
+    {
+      "file": "books/hindisamay-233-8.html",
+      "bytes": 56336,
+      "sha256": "93fa129da7a84c3456b4677934ea9b748e1bbfe1c8f4041e0e41a7536b91040b"
+    },
+    {
+      "file": "books/hindisamay-233-8.html.receipt.json",
+      "bytes": 1098,
+      "sha256": "83452258bae27433abe2453b5eab301d03a42a458ef9c3b0e6fea0af34378446"
+    },
+    {
+      "file": "books/hindisamay-233-9.html",
+      "bytes": 108435,
+      "sha256": "eedb78105fd0e3ae887216d0f3e99bb7d404eab52250b562aca532711928ca15"
+    },
+    {
+      "file": "books/hindisamay-233-9.html.receipt.json",
+      "bytes": 1099,
+      "sha256": "52753305e76bab654c5233e34355e4f0693919ca2fcc3d5a582609a441261a82"
+    },
+    {
+      "file": "books/hindisamay-238-1.html",
+      "bytes": 150553,
+      "sha256": "56254c17f667857fdd48e9f5b39e9287930b8e352ffc400266d23eac30a1842c"
+    },
+    {
+      "file": "books/hindisamay-238-1.html.receipt.json",
+      "bytes": 1045,
+      "sha256": "4c282fb31e083c573d0266765793314963bd8f6292a18ecaf3fabad278e90135"
+    },
+    {
+      "file": "books/hindisamay-238-10.html",
+      "bytes": 160906,
+      "sha256": "5f33f336c10277148054d2ccc094dfff43bcbff5dad049d4cdd631e2fbd3d8cf"
+    },
+    {
+      "file": "books/hindisamay-238-10.html.receipt.json",
+      "bytes": 1048,
+      "sha256": "4d238c4fd4c5aaae5e7166128cab96fe9d30653d0d0a1fdc3c099a4a51772ff1"
+    },
+    {
+      "file": "books/hindisamay-238-11.html",
+      "bytes": 67234,
+      "sha256": "a3fde2e412b15bfe87f49781f0020f0dfcea38d4a3e848f232a0069b9fb13b8f"
+    },
+    {
+      "file": "books/hindisamay-238-11.html.receipt.json",
+      "bytes": 1047,
+      "sha256": "f1cb4a8eb50f590551b196d2033b293dd06bdb61b2524e63ad5e377a603fc89d"
+    },
+    {
+      "file": "books/hindisamay-238-12.html",
+      "bytes": 132227,
+      "sha256": "20007053ff91143f0891cc3475cada107581ec26abc56464b32e4f57e9fd025c"
+    },
+    {
+      "file": "books/hindisamay-238-12.html.receipt.json",
+      "bytes": 1048,
+      "sha256": "60594facb29bc896bd46fe77b8b6088fc79f2488a51f02370da7db6d49e2c7d1"
+    },
+    {
+      "file": "books/hindisamay-238-2.html",
+      "bytes": 114873,
+      "sha256": "fe5ec4938ed6f994591c775bd673fda7b72f1334e8aaed4542574c51193bbb56"
+    },
+    {
+      "file": "books/hindisamay-238-2.html.receipt.json",
+      "bytes": 1045,
+      "sha256": "11bbbf484d8a3c54b8eb2abacf68348e3d4b1888fd4a23ee7c6e614391865570"
+    },
+    {
+      "file": "books/hindisamay-238-3.html",
+      "bytes": 74520,
+      "sha256": "276beef9a08973083ed8ae7ff8508630a87c763ec87f7e2c7bcd2613738fe5d5"
+    },
+    {
+      "file": "books/hindisamay-238-3.html.receipt.json",
+      "bytes": 1044,
+      "sha256": "34c66754ff7cd34673f62e2c23e612f2d28d3dc816efa3b47551b73b67be7e65"
+    },
+    {
+      "file": "books/hindisamay-238-4.html",
+      "bytes": 26760,
+      "sha256": "26b5f2ff62100845bdd515fedb07f5925a90a1d371e5695a2585e0d2ef9017fc"
+    },
+    {
+      "file": "books/hindisamay-238-4.html.receipt.json",
+      "bytes": 1044,
+      "sha256": "f1ccd7d94e535b72a092a075644747ca4e3b1b2c5cb663aa71ea5375c6428b27"
+    },
+    {
+      "file": "books/hindisamay-238-4.query.html",
+      "bytes": 132711,
+      "sha256": "a70d9862b2a02625d4a5de0ee41b4f07203451890dd99d78312947a1efc6c973"
+    },
+    {
+      "file": "books/hindisamay-238-4.query.html.receipt.json",
+      "bytes": 453,
+      "sha256": "27e1008379b04f4ee2766e6c8a07d2935bd5fed8518662be4e5fdfceb2f028ef"
+    },
+    {
+      "file": "books/hindisamay-238-5.html",
+      "bytes": 239587,
+      "sha256": "5ac954e39a19fc9cb41a4339692c75a10fc624550dbfdce7b71f671b754ef10f"
+    },
+    {
+      "file": "books/hindisamay-238-5.html.receipt.json",
+      "bytes": 1045,
+      "sha256": "bc4e2307501055475c9ddb309c267d685021f2b15581d848ea9d38757d047685"
+    },
+    {
+      "file": "books/hindisamay-238-6.html",
+      "bytes": 26760,
+      "sha256": "dfccea28f250edb368a116c4da0d31db2ad9f1dda09a6c08a255a20bfd8272a1"
+    },
+    {
+      "file": "books/hindisamay-238-6.html.receipt.json",
+      "bytes": 1044,
+      "sha256": "fe4f57a61ae300223d3fa311529c6d2b8870619ed86abe77b5d11b1c278aec6e"
+    },
+    {
+      "file": "books/hindisamay-238-6.query.html",
+      "bytes": 115962,
+      "sha256": "bf88c5375be4746cd141f07b7cc75c2341622f3ca4024d2e5eaad1d6e482ad70"
+    },
+    {
+      "file": "books/hindisamay-238-6.query.html.receipt.json",
+      "bytes": 453,
+      "sha256": "a02857fa52c27c1f231299dd5f87525973776c30048b59002b5264c16dfffb3d"
+    },
+    {
+      "file": "books/hindisamay-238-7.html",
+      "bytes": 26760,
+      "sha256": "d6c5fa9a4d268bc6558475d9999ee6de99e1feaa1a09f49c13cd34a0af1ee4f8"
+    },
+    {
+      "file": "books/hindisamay-238-7.html.receipt.json",
+      "bytes": 1044,
+      "sha256": "b42492797036bd9b3af168e247d542fb94f0c4c0859d2305497c374eecd33c90"
+    },
+    {
+      "file": "books/hindisamay-238-7.query.html",
+      "bytes": 110725,
+      "sha256": "d296089bc2cead3cf358d5673c539fa95742195379d76a0f401d1e08e147712a"
+    },
+    {
+      "file": "books/hindisamay-238-7.query.html.receipt.json",
+      "bytes": 453,
+      "sha256": "941fb4522fb31c76a5f68d12284f134f3ed761a4f3da61602bbc08a1be6eb3c6"
+    },
+    {
+      "file": "books/hindisamay-238-8.html",
+      "bytes": 113341,
+      "sha256": "e012cfc26fe192ee1b83ee838ab65597d50bb252e828cadb7cd86f23b8e1c2f7"
+    },
+    {
+      "file": "books/hindisamay-238-8.html.receipt.json",
+      "bytes": 1045,
+      "sha256": "ff83c2c9cb35410cb4d1faec97115dc3f5e59d3440eaace49c6f1aca672ca99a"
+    },
+    {
+      "file": "books/hindisamay-238-9.html",
+      "bytes": 125031,
+      "sha256": "c95e183bf9f053389e938d8f4482ae44ce441763b7933def56c37445b619f0bf"
+    },
+    {
+      "file": "books/hindisamay-238-9.html.receipt.json",
+      "bytes": 1045,
+      "sha256": "0c68d6491c373ee615a709ef8746fe38893dc1c3958601a0241d8ebfde0dccaf"
+    },
+    {
+      "file": "books/hindisamay-259-1.html",
+      "bytes": 199294,
+      "sha256": "f77797dd9b7eb97d6a22b65073085ca6400f956cfbcb7291769a6a2bc48faa75"
+    },
+    {
+      "file": "books/hindisamay-259-1.html.receipt.json",
+      "bytes": 1063,
+      "sha256": "dcd816a88982cfb24c583af5c2c9ece0b78dbb2493d5e32097555b279782c8b0"
+    },
+    {
+      "file": "books/hindisamay-259-10.html",
+      "bytes": 442160,
+      "sha256": "d801a14b2a3a12e7bf3344f74c523d78ad91cf6276a134aeac2b2ecceeb910cf"
+    },
+    {
+      "file": "books/hindisamay-259-10.html.receipt.json",
+      "bytes": 1066,
+      "sha256": "c7f98cc97116f63cbb72905a9bc1630104b56904cb15f74b85906e09c61da287"
+    },
+    {
+      "file": "books/hindisamay-259-11.html",
+      "bytes": 134712,
+      "sha256": "90b4a2247aa6bf35c8eb6d994c37f0b6dc51653892f386d6567e6f588e48c9b0"
+    },
+    {
+      "file": "books/hindisamay-259-11.html.receipt.json",
+      "bytes": 1066,
+      "sha256": "cda432f01cfd94866893f32476e7b51191e511ea53335df624809bb76ed853c3"
+    },
+    {
+      "file": "books/hindisamay-259-12.html",
+      "bytes": 216358,
+      "sha256": "c66dce06e9e12e57c94b9c4ca057f0a58293565175399ea24fdbfdced969a2c5"
+    },
+    {
+      "file": "books/hindisamay-259-12.html.receipt.json",
+      "bytes": 1066,
+      "sha256": "8ae159899cf1f8a78753612dac485192d67994404df52953b03f66180e175ce5"
+    },
+    {
+      "file": "books/hindisamay-259-2.html",
+      "bytes": 96933,
+      "sha256": "af97eb3b3f4fabcae5289808f4d191903f5757b15b06e48d9b69eec8a9565143"
+    },
+    {
+      "file": "books/hindisamay-259-2.html.receipt.json",
+      "bytes": 1062,
+      "sha256": "00e6d001147e4eb13561fb779e28d2888e7cd5b0fa97284c078413f11c8ebfff"
+    },
+    {
+      "file": "books/hindisamay-259-3.html",
+      "bytes": 164028,
+      "sha256": "fe30fe63e50f1cf1a725a8bb8a2fe8d34156ca76d78839fd9baea8ae8bd38d2d"
+    },
+    {
+      "file": "books/hindisamay-259-3.html.receipt.json",
+      "bytes": 1063,
+      "sha256": "db0f385c635f50d28d518baadc0235af53eae636e35fdfa64cc2826bb60a7329"
+    },
+    {
+      "file": "books/hindisamay-259-4.html",
+      "bytes": 270329,
+      "sha256": "90a55fbccb89f133b71061340dd1ebe1c76c40bb863ea7dbb75f8063763637c2"
+    },
+    {
+      "file": "books/hindisamay-259-4.html.receipt.json",
+      "bytes": 1063,
+      "sha256": "b238649cd321e3df7b763667cd69eb9dd7fc3082d2afb6296872efcbbc344db7"
+    },
+    {
+      "file": "books/hindisamay-259-5.html",
+      "bytes": 198488,
+      "sha256": "b1773346f08b82208ac64602949820b3a5df5af95a7c72f3bce394000dfa043a"
+    },
+    {
+      "file": "books/hindisamay-259-5.html.receipt.json",
+      "bytes": 1063,
+      "sha256": "bc1cdd9aaaa59c06e5f5aebfb695fdeb88d74b47f70327a3b6bbad6af70133f3"
+    },
+    {
+      "file": "books/hindisamay-259-6.html",
+      "bytes": 147124,
+      "sha256": "f541fb1469e76eb7e42f1b85902049cd8bec3d1773c6653b2a09afd35c519d05"
+    },
+    {
+      "file": "books/hindisamay-259-6.html.receipt.json",
+      "bytes": 1063,
+      "sha256": "e3557ec6c5851c2d470c52420cad2e2ec20995ed315094f8a41e625b24df6982"
+    },
+    {
+      "file": "books/hindisamay-259-7.html",
+      "bytes": 26760,
+      "sha256": "b37b9f08cf46feadd8518b46c565092423e38aabadcc4290976ee1ecb6201a1c"
+    },
+    {
+      "file": "books/hindisamay-259-7.html.receipt.json",
+      "bytes": 1062,
+      "sha256": "4029b70985fc16303f1764f357ca905f1d0b417bd9ceff2ffb09e6b6975a57fa"
+    },
+    {
+      "file": "books/hindisamay-259-7.query.html",
+      "bytes": 131873,
+      "sha256": "6dced9f1b6b3380fd42498ca18a2d509372dfa9ad5fa2222b150a0232c2eac5a"
+    },
+    {
+      "file": "books/hindisamay-259-7.query.html.receipt.json",
+      "bytes": 453,
+      "sha256": "4d8b9ff1f03c23f313efeb30bef9729cd12f0468fb5686348553e5f3126bfb34"
+    },
+    {
+      "file": "books/hindisamay-259-8.html",
+      "bytes": 26760,
+      "sha256": "b6e49032f850a9c54c7f844c3b290869f261837d56466dcbe9a8a80c11093770"
+    },
+    {
+      "file": "books/hindisamay-259-8.html.receipt.json",
+      "bytes": 1062,
+      "sha256": "a1755f3b3118c8869d82221f423ea62e9d719215cfc25b3dec2f75956919de3b"
+    },
+    {
+      "file": "books/hindisamay-259-8.query.html",
+      "bytes": 156450,
+      "sha256": "2865feb378661d8ffa2e21300146eaad92bee79e3fada96c98f58d887bbd6a58"
+    },
+    {
+      "file": "books/hindisamay-259-8.query.html.receipt.json",
+      "bytes": 453,
+      "sha256": "0c1658519f305faf11550299309379a72b18bd6d6e105ad62b19a3d58d44d75e"
+    },
+    {
+      "file": "books/hindisamay-259-9.html",
+      "bytes": 175480,
+      "sha256": "8a3eaed93c18b5afb9f0e91e4a331e8e09bc78143ee1a6abd5e3aa3841cc96f1"
+    },
+    {
+      "file": "books/hindisamay-259-9.html.receipt.json",
+      "bytes": 1063,
+      "sha256": "ae07417f8a70e00d4c9521a0cd44541f20311d5cb3457a57ed015b8b957de255"
+    },
+    {
+      "file": "books/munni_aruna_sabane.pdf",
+      "bytes": 2591518,
+      "sha256": "62443c0bab404f7d24d3f05899168343e3122a3fdacebc98e6e9f02cfe5e03a7"
+    },
+    {
+      "file": "books/munni_aruna_sabane.pdf.receipt.json",
+      "bytes": 464,
+      "sha256": "593668a868a432fa7c591c98a79e7a7436f970688899167227b9e6c0969c2f85"
+    },
+    {
+      "file": "books/phakiraa.pdf",
+      "bytes": 28341167,
+      "sha256": "05299116dfa87f6b7c67969190656edd604eb393fc762e76e0bdc7c429c05ebf"
+    },
+    {
+      "file": "books/phakiraa.pdf.receipt.json",
+      "bytes": 435,
+      "sha256": "4affeaaf1b8e34520bf277797d2fdbb07142a5e4dcbbb5073e0ea7fb22256f6f"
+    },
+    {
+      "file": "books/pm0101.pdf",
+      "bytes": 120807,
+      "sha256": "dcd0101a55d0954bc60f66b4a61139c977aa4ca67ba32b5891cf570f12c18f0f"
+    },
+    {
+      "file": "books/pm0101.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "459327c551e2c6732505ec910c8f629b5bbfefb89e19ddadad4bf0a68a3277c5"
+    },
+    {
+      "file": "books/pm0113.pdf",
+      "bytes": 216356,
+      "sha256": "fada006437378638e8b74a99d3809e1eb75cae0a304a0697afab4a6aed425944"
+    },
+    {
+      "file": "books/pm0113.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "45a80273ce7034ef3d4677816419048216d8ac495628fc1be80804ceebea2577"
+    },
+    {
+      "file": "books/pm0118.pdf",
+      "bytes": 159521,
+      "sha256": "fa75f1e46360c1c33b6608ddf2aa102684f7c7257a7739f7fc7f8f28ecabe9a3"
+    },
+    {
+      "file": "books/pm0118.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "4b3b7c2e56cad67fd453d55afcfce395ade229c303c332ad508b45227c9571c6"
+    },
+    {
+      "file": "books/pm0147.pdf",
+      "bytes": 151638,
+      "sha256": "16914e7152f3594f7e19c597585111425a93571b6a2a7df709d86ce2fcbbad8f"
+    },
+    {
+      "file": "books/pm0147.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "e93f5dc66ad286139bf62b0655072f13cb7b8ba244902d784d040d264ba113a8"
+    },
+    {
+      "file": "books/pm0148.pdf",
+      "bytes": 606554,
+      "sha256": "76867c8a688d56dc35546d3a14673535323ccff135c1cea78f77844173e2cd52"
+    },
+    {
+      "file": "books/pm0148.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "4d8cdda43f5804d51b1d2469e6e9f0918e3ca22ea80fc0bf7c6867432b2e80e0"
+    },
+    {
+      "file": "books/pm0228.pdf",
+      "bytes": 296713,
+      "sha256": "675e7c8101910ceaa18e3803a399dc3e49e9e16114367d9e549af50df606ab97"
+    },
+    {
+      "file": "books/pm0228.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "8d9ecb21859035bc5e1463973f5f3a0676c2b3afa08790269993731a7b880405"
+    },
+    {
+      "file": "books/pm0257.pdf",
+      "bytes": 744865,
+      "sha256": "c548cd999379c41ba3de640b69e92674c7a9cb63a7d58198d63880938925c379"
+    },
+    {
+      "file": "books/pm0257.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "6f16608f53acc1ee8e4ff2ebb4d013cc467aeba70d36dffe28c069b3af86c78f"
+    },
+    {
+      "file": "books/pm0258.pdf",
+      "bytes": 158851,
+      "sha256": "99d343b41174cf8e81799dbc68e446f829d66dc03b5997f81f2983c3191b38a9"
+    },
+    {
+      "file": "books/pm0258.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "fdc521f4f2e284657cb0f023fcee9d406acf9fd7becbf4afd0f96dbb342aae7a"
+    },
+    {
+      "file": "books/pm0376.pdf",
+      "bytes": 755300,
+      "sha256": "6372ae921978f6581f2b57ef09dbc59fafebad5767d6286c514e58a20aacebab"
+    },
+    {
+      "file": "books/pm0376.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "19d4b1d2776cdfa50f2dec8fa7064804765f31ee3695ec9e27dcd380564cc83c"
+    },
+    {
+      "file": "books/pm0718.pdf",
+      "bytes": 756399,
+      "sha256": "5cb19a988b511b2e16c4a26eca3c6eba01d6e21297c4e10eb004a7d4a64aded4"
+    },
+    {
+      "file": "books/pm0718.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "641a8c881599254d0f9f9f54defd177253921e1ff4c3a0be3dd80faea64b57ac"
+    },
+    {
+      "file": "books/pm0719.pdf",
+      "bytes": 739496,
+      "sha256": "b6a2e23f96dd64aaef12fb7d55da5cef409f7dbdfd5c216ab0970b71692e8229"
+    },
+    {
+      "file": "books/pm0719.pdf.receipt.json",
+      "bytes": 423,
+      "sha256": "1ff31017cf5b76cf13b38eb1e8948670c13df45f9e4ccd9ea3bd1290419a0502"
+    },
+    {
+      "file": "books/pmuni0101.html",
+      "bytes": 45966,
+      "sha256": "6d8e7ecef481e77a9b893777e605d31da131ed751033fe80e4d074d216a04cad"
+    },
+    {
+      "file": "books/pmuni0101.html.receipt.json",
+      "bytes": 430,
+      "sha256": "4458ea7d812ecb17850373f3d510d8762d625b9e9f8950c7255240936a4624b4"
+    },
+    {
+      "file": "books/pmuni0113.html",
+      "bytes": 344439,
+      "sha256": "6f093b26a9c679b718e93dd5f357d86a6c86626ea2cc15982fe2c1aef68781ba"
+    },
+    {
+      "file": "books/pmuni0113.html.receipt.json",
+      "bytes": 431,
+      "sha256": "03d09bb66bb1b4877695059797bdf822723dd0dd4b096c94958c5c92abef157e"
+    },
+    {
+      "file": "books/pmuni0118.html",
+      "bytes": 167652,
+      "sha256": "a18ea270770469cd0ad0258d4f1bd6b2d299c3c0f9ba8d42a74ddfba9656cf82"
+    },
+    {
+      "file": "books/pmuni0118.html.receipt.json",
+      "bytes": 431,
+      "sha256": "05dd957e0075d5da671a333870f1e5e8bc736bc3bfcf03f2403bbf72e4dc9f6e"
+    },
+    {
+      "file": "books/pmuni0147.html",
+      "bytes": 126065,
+      "sha256": "bfc865ddc2e4c8ccc7c65b32ec05416755174979bb81b67b3deb20853bdfa899"
+    },
+    {
+      "file": "books/pmuni0147.html.receipt.json",
+      "bytes": 431,
+      "sha256": "0794c57f870591bcdb08f0977cd01798a0216a1a1a4e3ea6b4b34437dd559e2a"
+    },
+    {
+      "file": "books/pmuni0148.html",
+      "bytes": 1357431,
+      "sha256": "d799043d59e9828de155dca2116b1feed19ae6350d065aa87133de2ff163848b"
+    },
+    {
+      "file": "books/pmuni0148.html.receipt.json",
+      "bytes": 432,
+      "sha256": "787e8ea14da2dd72eaa32f92bc6febf7b36cecf5abf90499c5dadc456064c47f"
+    },
+    {
+      "file": "books/pmuni0228.html",
+      "bytes": 540447,
+      "sha256": "543adf4a1d6163f4eb28e09af757e3a63a4c5654a29b905151cc15124c21761f"
+    },
+    {
+      "file": "books/pmuni0228.html.receipt.json",
+      "bytes": 431,
+      "sha256": "23f15f1c7fcf3cf68a8414494c92dc9bb26d630c800de8f6b6e752993271aaa0"
+    },
+    {
+      "file": "books/pmuni0257.html",
+      "bytes": 620383,
+      "sha256": "a559d2abaafdc67069cd262693b05de1a4986328afa1b16d8ec64b82a6a04cbb"
+    },
+    {
+      "file": "books/pmuni0257.html.receipt.json",
+      "bytes": 431,
+      "sha256": "ba9420bdeb82066f7ea3fee677a21fa434bd2e8baef8bd1422ceed3c663de9b2"
+    },
+    {
+      "file": "books/pmuni0258.html",
+      "bytes": 158522,
+      "sha256": "a98908b4e9852236c41d7d66fde172c0a84b667f17bb94152d605278f19b21b4"
+    },
+    {
+      "file": "books/pmuni0258.html.receipt.json",
+      "bytes": 431,
+      "sha256": "f40eff583936837aaf0607e0c05abcd41ffae22bad787b25a4ed23de553970a5"
+    },
+    {
+      "file": "books/pmuni0376.html",
+      "bytes": 698022,
+      "sha256": "1088bddb24458d80d92438a6500e7d472fc26f0d1e552519ee6aba932b187b98"
+    },
+    {
+      "file": "books/pmuni0376.html.receipt.json",
+      "bytes": 431,
+      "sha256": "b5f8e545ba05d840a4a492704d2544fcfd43f03a3a62a0ff82cb5bb4c336af1b"
+    },
+    {
+      "file": "books/pmuni0718.html",
+      "bytes": 758589,
+      "sha256": "ee97849a2f234939ebb6c8d2fcb7f81d2f9034ecafd6256424a476b142883934"
+    },
+    {
+      "file": "books/pmuni0718.html.receipt.json",
+      "bytes": 431,
+      "sha256": "5767ffc8516dbaaaf14220ac77437316c6d9cfbad5401426f8439ade46dbd149"
+    },
+    {
+      "file": "books/pmuni0719.html",
+      "bytes": 730108,
+      "sha256": "e401bc4161f78e097e58c4475e9286bbec2c58ba81f192c362c4b13a068d3194"
+    },
+    {
+      "file": "books/pmuni0719.html.receipt.json",
+      "bytes": 431,
+      "sha256": "9e93c2c88a10edf393b37f0cee3c1011747f2a96ebb770356525b422c71cfc41"
+    },
+    {
+      "file": "books/saichi_vahi.pdf",
+      "bytes": 1704093,
+      "sha256": "95babdeb5c9ca826b27d0eedff5bd399ad3d3efb05469b4d3d907d0dd47cbe02"
+    },
+    {
+      "file": "books/saichi_vahi.pdf.receipt.json",
+      "bytes": 443,
+      "sha256": "a38821a6fa419abfe6ee7c41fa3a4320ca9fad8dd07b3517d6c497211cabbf54"
+    },
+    {
+      "file": "catalogs/esahity-novels.html",
+      "bytes": 329347,
+      "sha256": "b52b5a3217982f6e336f48858ce5c62c91fb328936d1d86cc9674c76d95152bf"
+    },
+    {
+      "file": "catalogs/esahity-novels.html.receipt.json",
+      "bytes": 448,
+      "sha256": "2da018bfbdb9920421e3527d3fd31a2ebe588d0b363571a18eccefb307a2a4d5"
+    },
+    {
+      "file": "catalogs/gaban-first.html",
+      "bytes": 451430,
+      "sha256": "c49713cf6790c12fd61d31ef0f31a519e5a351cd47a5155d25b98fd7de6c8e1f"
+    },
+    {
+      "file": "catalogs/gaban-first.html.receipt.json",
+      "bytes": 445,
+      "sha256": "823ff994fdd262deaee01e6d440d12008095aa62193c954a6667c6cfd4d9ff6e"
+    },
+    {
+      "file": "catalogs/hindisamay-premchand.html",
+      "bytes": 122875,
+      "sha256": "4914677de3af920570361aaf33365392290396fbf211cb463773e0f8bcc4724b"
+    },
+    {
+      "file": "catalogs/hindisamay-premchand.html.receipt.json",
+      "bytes": 447,
+      "sha256": "5cb687d495785c81166674ca100a7cfb6413d900b37a1b7b4cf3124458e171b5"
+    },
+    {
+      "file": "catalogs/nirmala-first.html",
+      "bytes": 89506,
+      "sha256": "738347d7fa12dd4b33f65185200e31500a9ac1a11ac382a14b6c4a1d9cbccbff"
+    },
+    {
+      "file": "catalogs/nirmala-first.html.receipt.json",
+      "bytes": 443,
+      "sha256": "a1d7a3664d2e0a910fe8dfb9185e24281579e737e6be2e819f191d6019ed8ef7"
+    },
+    {
+      "file": "catalogs/nirmala-modern-first.html",
+      "bytes": 199266,
+      "sha256": "d68512cb083403c3294e70cbc1cb60bc19a02d0b0994e923bd9f31c07db80bf2"
+    },
+    {
+      "file": "catalogs/nirmala-modern-first.html.receipt.json",
+      "bytes": 454,
+      "sha256": "5eaa6e3a22ca3b016ede5f0f7b8c0c3a14cfce7a850e11eea34be4d15e088813"
+    },
+    {
+      "file": "catalogs/pratigya-first.html",
+      "bytes": 118368,
+      "sha256": "e4472ba02cf6055b187e8fa18b65969d5f131cc9aa3deb28c3295c426b81d6e4"
+    },
+    {
+      "file": "catalogs/pratigya-first.html.receipt.json",
+      "bytes": 448,
+      "sha256": "2b661315455423302bfec32f8ef54ee461c748948d5c3c9c4de7ff876c94bf08"
+    },
+    {
+      "file": "catalogs/prema-first.html",
+      "bytes": 150525,
+      "sha256": "efd3f5e369c4feb993924484b7e491ae7d98306da1e4e7da07691b347771f1ce"
+    },
+    {
+      "file": "catalogs/prema-first.html.receipt.json",
+      "bytes": 445,
+      "sha256": "e361e0908ce1191104a297f0f2d38405498ccf5c6795dbf5e5591c677140d723"
+    },
+    {
+      "file": "catalogs/project-madurai-rows.json",
+      "bytes": 911166,
+      "sha256": "b987662d334f52ce0ce575234b1e95bf8e324eb3f9fd046b43109bcc220635c5"
+    },
+    {
+      "file": "catalogs/project-madurai.html",
+      "bytes": 555408,
+      "sha256": "070c84ab85d56fac4ebef618e3cc044044fcd08b8b21975592a8c01f9c45fe0c"
+    },
+    {
+      "file": "catalogs/project-madurai.html.receipt.json",
+      "bytes": 406,
+      "sha256": "83f96037892b24c6ceb2c5d8f27b396bb342c2bb3f02e3be2bc527034db6fc29"
+    },
+    {
+      "file": "collected-books.jsonl",
+      "bytes": 114248,
+      "sha256": "9bf0cd345f720f316e7b967d9634ce90b7e1e2abe1c578e9602e22fae4dbc94c"
+    },
+    {
+      "file": "derived-ebooks/hindisamay-work-226.epub",
+      "bytes": 296987,
+      "sha256": "0fe4780b141ac2974671a9b2e1533eedfff72d9ae3fa99a33b0534851e013b80"
+    },
+    {
+      "file": "derived-ebooks/hindisamay-work-233.epub",
+      "bytes": 90029,
+      "sha256": "17034fc5fd351726c00c6febd81dcbd9bcaf92107ad22aeee8e076e2bc36a097"
+    },
+    {
+      "file": "derived-ebooks/hindisamay-work-238.epub",
+      "bytes": 115730,
+      "sha256": "fa28c7ee5c7ea514c7ecac40b87c54f49fc14647b34758317ada88bd768a58a2"
+    },
+    {
+      "file": "derived-ebooks/hindisamay-work-259.epub",
+      "bytes": 182340,
+      "sha256": "de3e07876bd711375145ceaa60ed740ad2ba4ebe3d4a16d252563e9d66d6e43b"
+    },
+    {
+      "file": "download-results.json",
+      "bytes": 76994,
+      "sha256": "64bdd4325e70ba4a0faf57928eaef2b7d0ffe23461be7f48d36c7125027d2699"
+    },
+    {
+      "file": "environment.json",
+      "bytes": 112,
+      "sha256": "aac36530f116d1f074255c96758dd30b9df02d70a232f24a3a71d39bf8bbf5f4"
+    },
+    {
+      "file": "grouping-evidence.json",
+      "bytes": 834,
+      "sha256": "d2a7a171ecf2ea40e13689ebec2995219f4539811d14a647841a14be725dc1a0"
+    },
+    {
+      "file": "identity-corrections.json",
+      "bytes": 385,
+      "sha256": "a7859e0aa794319038b2f6891f2063d9c5d7cf849455f9275cd5d355b50dd43e"
+    },
+    {
+      "file": "model-unchanged.json",
+      "bytes": 210,
+      "sha256": "d3a434718d7c0bf542a0153d0bddca732c36540c4b4e2250642d4c75aea2bf5b"
+    },
+    {
+      "file": "prepared/esahity-anand_madhu_shirgaonkar/anand_madhu_shirgaonkar.pages.json",
+      "bytes": 73030,
+      "sha256": "c3c5ee474c027be36bf988e39c70549bc472e5001fc3d8b92002efe1b49c5850"
+    },
+    {
+      "file": "prepared/esahity-anand_madhu_shirgaonkar/anand_madhu_shirgaonkar.pdf-extracted.txt",
+      "bytes": 1241344,
+      "sha256": "d23dc75df7065aefe678efa98932d050516296e0c57f2d8837fc04c042b8a0be"
+    },
+    {
+      "file": "prepared/esahity-anand_madhu_shirgaonkar/book-content.txt",
+      "bytes": 1241344,
+      "sha256": "d23dc75df7065aefe678efa98932d050516296e0c57f2d8837fc04c042b8a0be"
+    },
+    {
+      "file": "prepared/esahity-detective_alpha_saurabh_wagale/book-content.txt",
+      "bytes": 322675,
+      "sha256": "770c4049591598e30c463347821a50284d221b196ffbff254faf865dd91e5caa"
+    },
+    {
+      "file": "prepared/esahity-detective_alpha_saurabh_wagale/detective_alpha_saurabh_wagale.pages.json",
+      "bytes": 12595,
+      "sha256": "00d9e35f84c3d8acac89e7db87067ad08215fb7846b0d6fa249518eada8a54c6"
+    },
+    {
+      "file": "prepared/esahity-detective_alpha_saurabh_wagale/detective_alpha_saurabh_wagale.pdf-extracted.txt",
+      "bytes": 322675,
+      "sha256": "770c4049591598e30c463347821a50284d221b196ffbff254faf865dd91e5caa"
+    },
+    {
+      "file": "prepared/esahity-fullari_vinita_deshpande/book-content.txt",
+      "bytes": 205409,
+      "sha256": "af396112a13ae223c41e242cfadd832b2e0d52daa74549f68ed49f8d91334d4c"
+    },
+    {
+      "file": "prepared/esahity-fullari_vinita_deshpande/fullari_vinita_deshpande.pages.json",
+      "bytes": 10803,
+      "sha256": "855903d0e530e73e10f6365693e7a019a1115d7ffd71c5f98dcc8c1a147407c5"
+    },
+    {
+      "file": "prepared/esahity-fullari_vinita_deshpande/fullari_vinita_deshpande.pdf-extracted.txt",
+      "bytes": 205409,
+      "sha256": "af396112a13ae223c41e242cfadd832b2e0d52daa74549f68ed49f8d91334d4c"
+    },
+    {
+      "file": "prepared/esahity-munni_aruna_sabane/book-content.txt",
+      "bytes": 993739,
+      "sha256": "d70690585d8033d956b837ea9f12afa08b55d7f7753eca0e5569ff094cbb0d46"
+    },
+    {
+      "file": "prepared/esahity-munni_aruna_sabane/munni_aruna_sabane.pages.json",
+      "bytes": 50341,
+      "sha256": "0531bb1939ece3f9e51322a23bfc3c22e57c27d3189f9da998eafff6d8090bf5"
+    },
+    {
+      "file": "prepared/esahity-munni_aruna_sabane/munni_aruna_sabane.pdf-extracted.txt",
+      "bytes": 993739,
+      "sha256": "d70690585d8033d956b837ea9f12afa08b55d7f7753eca0e5569ff094cbb0d46"
+    },
+    {
+      "file": "prepared/esahity-phakiraa/book-content.txt",
+      "bytes": 645,
+      "sha256": "b6532c805d8003aaaac183909f53bf137e7ca7bdd7a48a25001286e2c61c50d4"
+    },
+    {
+      "file": "prepared/esahity-phakiraa/phakiraa.pages.json",
+      "bytes": 21203,
+      "sha256": "0edda8b1563fd38f6b3f9d2d6755eeaae9a387c716dbb65e02e3dc39c48b5c6a"
+    },
+    {
+      "file": "prepared/esahity-phakiraa/phakiraa.pdf-extracted.txt",
+      "bytes": 645,
+      "sha256": "b6532c805d8003aaaac183909f53bf137e7ca7bdd7a48a25001286e2c61c50d4"
+    },
+    {
+      "file": "prepared/esahity-saichi_vahi/book-content.txt",
+      "bytes": 52830,
+      "sha256": "84dd4119ddd988586e559eb5fa49b2fdbc87e8d9ad80c7843e5e571a4a247483"
+    },
+    {
+      "file": "prepared/esahity-saichi_vahi/saichi_vahi.pages.json",
+      "bytes": 5644,
+      "sha256": "55c278791a0825684adfb1b5e46add73ce9cdb9ac9ffa5a92e06b2996388fae7"
+    },
+    {
+      "file": "prepared/esahity-saichi_vahi/saichi_vahi.pdf-extracted.txt",
+      "bytes": 52830,
+      "sha256": "84dd4119ddd988586e559eb5fa49b2fdbc87e8d9ad80c7843e5e571a4a247483"
+    },
+    {
+      "file": "prepared/hindisamay-work-226/book-content.txt",
+      "bytes": 1317369,
+      "sha256": "2a4e81f1dc49b2218e5af8cc96ae6c8431b1516e63b41d1286ce5ce664e278e6"
+    },
+    {
+      "file": "prepared/hindisamay-work-226/hindisamay-226-1.raw.txt",
+      "bytes": 159876,
+      "sha256": "373b1df7f7c84eada0d4d3546044777c23febbd6d22519f2de2e6a8b2e46a577"
+    },
+    {
+      "file": "prepared/hindisamay-work-226/hindisamay-226-2.query.raw.txt",
+      "bytes": 325298,
+      "sha256": "afc111c24e3b15168fb2d300613c68a662d65678afc620e57703b2c250d745a7"
+    },
+    {
+      "file": "prepared/hindisamay-work-226/hindisamay-226-2.raw.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "prepared/hindisamay-work-226/hindisamay-226-3.raw.txt",
+      "bytes": 306009,
+      "sha256": "1844dd97126013471561dfab2b820b845ac1c24ed14fdd438216e1641995e3ab"
+    },
+    {
+      "file": "prepared/hindisamay-work-226/hindisamay-226-4.raw.txt",
+      "bytes": 242933,
+      "sha256": "495be25322a8846ed1f36decda943c15dd1e2672b63777280de2d24b773add27"
+    },
+    {
+      "file": "prepared/hindisamay-work-226/hindisamay-226-5.query.raw.txt",
+      "bytes": 283241,
+      "sha256": "46fac14891ada84f642e675c7e317226287f758f2f39724d3bb2c10d7aa3a152"
+    },
+    {
+      "file": "prepared/hindisamay-work-226/hindisamay-226-5.raw.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/book-content.txt",
+      "bytes": 329857,
+      "sha256": "8fe96a34f3563c56e60df402b305022148fc20cda20cf86b49d48b2be1a85d3e"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-1.raw.txt",
+      "bytes": 16743,
+      "sha256": "e1007e8def47c3947e2bc03ade41173a22cc1a238460becdea0e91784612b380"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-10.raw.txt",
+      "bytes": 54752,
+      "sha256": "7d4b6b2de58500a28c66877c0378909ee15872ee4777eda3ed024dc702b6616c"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-11.raw.txt",
+      "bytes": 42712,
+      "sha256": "07a5395078f288d1d1337912a393b4bebbe1bf297516c2f9129fedb504ec1b16"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-12.query.raw.txt",
+      "bytes": 28510,
+      "sha256": "ddc5468fd28d4b8bab7d307a4db5d156ed7c20d544eba6637c1ca4db6e9f685c"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-12.raw.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-13.raw.txt",
+      "bytes": 8214,
+      "sha256": "c8725beb560ae2f746362d0c63216e1878bc2508bb4baa9f60217ed27fa29f5e"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-14.raw.txt",
+      "bytes": 10520,
+      "sha256": "f09df6918ab75c234528507daa418b1633bb8b9ca2556f6d1a34a3bb1a8657b9"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-15.raw.txt",
+      "bytes": 14258,
+      "sha256": "20d15e6c0b0ed4555f78863187058194aa333223a531af5cc78c2cff9ed4396c"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-16.query.raw.txt",
+      "bytes": 6119,
+      "sha256": "7c899de40e8b24d3e58a833f4a9e98a38494ff9caeca239af83899b0f8638751"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-16.raw.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-17.raw.txt",
+      "bytes": 12369,
+      "sha256": "168f8423ed35cfe54f9a43e3d45e5fb199ff48a41a67012cdf5285237ecd326e"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-2.query.raw.txt",
+      "bytes": 14479,
+      "sha256": "a39b8f6fe4238b848603aeb8986430e51c457250efa88884c8b5876b46ca1537"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-2.raw.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-3.raw.txt",
+      "bytes": 7949,
+      "sha256": "e3dda6f57d9f7b125c1877528590d3ecf2f824d77026b38479a2cf3fafbf69cf"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-4.raw.txt",
+      "bytes": 29146,
+      "sha256": "c477e9ba0b0018eb368efa28a02960e2d684b6663930a45f5e25ffeab277cef4"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-5.raw.txt",
+      "bytes": 10850,
+      "sha256": "1e68c361fe518a67e8f00e5e135848dff75dc0ba8727df5e4170744cbbd4c03a"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-6.raw.txt",
+      "bytes": 12870,
+      "sha256": "67f07a1bb72b5bd01ee9acda2000ea65e664e392bcb55466079828fe84412035"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-7.raw.txt",
+      "bytes": 15137,
+      "sha256": "f86fa2c6813a813625c8e9ed835d2ae4ae96e8814302c9476f6580e49fd8cf8e"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-8.raw.txt",
+      "bytes": 11594,
+      "sha256": "20f95a0feb125260caa423dca849b584c26769b719002f94fd8e85db3a4e0eb3"
+    },
+    {
+      "file": "prepared/hindisamay-work-233/hindisamay-233-9.raw.txt",
+      "bytes": 33587,
+      "sha256": "f6c7a5f331bc792c3cd41fb84f17339ba4905ffa1ebba8608bc6bd869e187efc"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/book-content.txt",
+      "bytes": 465675,
+      "sha256": "6adb15d9f05fad2a0be17ce75f0d6824935c5b18fd46996694e0335360e32557"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-1.raw.txt",
+      "bytes": 32540,
+      "sha256": "3958169fbb30ce1d190f00cf33f03773945458d1afbca6943111e3733d09002f"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-10.raw.txt",
+      "bytes": 50599,
+      "sha256": "7ac6f371d6774280b5dd4398d7c48826d411d55f4defcd22fd90745ecc36136f"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-11.raw.txt",
+      "bytes": 16337,
+      "sha256": "cc4bdd0096667d0b7a0a855fd26ae5754b7848242f06d8c3fc2271cf940bd2c8"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-12.raw.txt",
+      "bytes": 40483,
+      "sha256": "b57cf69ac6e1e238e702335adaea494cf25a57bf91669b88c2737a4d1054c335"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-2.raw.txt",
+      "bytes": 36386,
+      "sha256": "889c3f73526ac3bc3673201bcad948722c11fffc2611bb996db8205787ac4337"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-3.raw.txt",
+      "bytes": 19614,
+      "sha256": "c1ba0abecd06d7f9db98cb6ad14d1ac15eaeb9ff508e81f6e8b1734b07fee4ff"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-4.query.raw.txt",
+      "bytes": 44062,
+      "sha256": "55514cdad1e46bb73a1deaad04ed4e2dabb81c3c1c871d5864923e8f9823dadf"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-4.raw.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-5.raw.txt",
+      "bytes": 84743,
+      "sha256": "d8b1c9800f79885a8948818cc0adc41278cbd8492ba4898fce14223712bea31a"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-6.query.raw.txt",
+      "bytes": 34838,
+      "sha256": "a68d1687491a07e6bdddcfb39b959b3c8114a875d0748bcf19f0bc0e7bc9af35"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-6.raw.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-7.query.raw.txt",
+      "bytes": 33123,
+      "sha256": "5bc6ab1b0e62f0e2a6ca798cc66cb9d8afe2332b1ba8e30e473c5de93bd6a2a9"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-7.raw.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-8.raw.txt",
+      "bytes": 32751,
+      "sha256": "923c4712183d3c432970efd08a2d316826f02f669580704e29054ca1a366209d"
+    },
+    {
+      "file": "prepared/hindisamay-work-238/hindisamay-238-9.raw.txt",
+      "bytes": 40166,
+      "sha256": "1421e73ba2b5f866b77f9dc8c9f5dff9d0ca275ceb30914ffe7cb6a56bc1d50a"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/book-content.txt",
+      "bytes": 781394,
+      "sha256": "20960511a0984cd0565298b21358102118875bbf40bc401228b7546cb52e1475"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/hindisamay-259-1.raw.txt",
+      "bytes": 52881,
+      "sha256": "ed13f6734dd7b9998a2002bf92a4c77332a3806d85f852896eaf77111f8b8273"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/hindisamay-259-10.raw.txt",
+      "bytes": 161418,
+      "sha256": "6668fae64d7a8e5eb3cd1dec8f580355d2b02b0ff38e8e162aa0e47200c7faed"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/hindisamay-259-11.raw.txt",
+      "bytes": 41940,
+      "sha256": "854a3963d90262cd603eb538b8110397f9f2db4ad19df5be7a6a4899a34f211b"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/hindisamay-259-12.raw.txt",
+      "bytes": 74184,
+      "sha256": "83c3931531728bcf8ad5f3021288fd873ad1e2d389c6183af827babe233e10e2"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/hindisamay-259-2.raw.txt",
+      "bytes": 28317,
+      "sha256": "e60cada4ba06ae71bf84a46fd57fd032955317f0e72cc32d8daf2280ba4d5578"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/hindisamay-259-3.raw.txt",
+      "bytes": 55973,
+      "sha256": "36fbd7863c09ba96b26db5d2d8e5c70efddcffd9cbc680f850a5272cc98e0228"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/hindisamay-259-4.raw.txt",
+      "bytes": 98743,
+      "sha256": "68fb48ed747e62395e82d4b40edad9331f4bc12fbb0ba4731ec89673bbb8d82d"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/hindisamay-259-5.raw.txt",
+      "bytes": 69027,
+      "sha256": "fb1af6f8e407a70fc9621af8f95dcf4d8b63541dd4bde1d49a919fdbb3d5db6b"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/hindisamay-259-6.raw.txt",
+      "bytes": 48220,
+      "sha256": "803831a9b9fd0c227e51a0a42a68a92c2bf83a72f4a2cf0bf48662d667cff534"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/hindisamay-259-7.query.raw.txt",
+      "bytes": 42111,
+      "sha256": "46400915d3710eb8e912c3698288c4de40b37592cd9141252354cfe9fa66217c"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/hindisamay-259-7.raw.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/hindisamay-259-8.query.raw.txt",
+      "bytes": 49754,
+      "sha256": "ef8d13a6aaa3d8bbf39065e8a95ace18d5a86067632e49af8d5d28feae3fad99"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/hindisamay-259-8.raw.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "prepared/hindisamay-work-259/hindisamay-259-9.raw.txt",
+      "bytes": 58793,
+      "sha256": "7ed0b23eb547ab8cb20a74f1a370702317dfdbd2b699e04e0bcef695875c3064"
+    },
+    {
+      "file": "prepared/pm-work-101/book-content.txt",
+      "bytes": 40344,
+      "sha256": "eb8f5b6c4b4b78bff7ede6b588f39787345974931b0a209877f6d15e0e30a949"
+    },
+    {
+      "file": "prepared/pm-work-101/pm0101.pages.json",
+      "bytes": 1516,
+      "sha256": "f842ae1e21007ede1004293c3df016ec40eaeb04456480fd2171b890b86f38bd"
+    },
+    {
+      "file": "prepared/pm-work-101/pm0101.pdf-extracted.txt",
+      "bytes": 22160,
+      "sha256": "6a83fff8fefd9edca3eae3eefbfab31e9691b7f0dfa5dacb61acb7fda1c9587a"
+    },
+    {
+      "file": "prepared/pm-work-101/pmuni0101.raw.txt",
+      "bytes": 41427,
+      "sha256": "f11b188f2222d7e2c1b1c74689e45e7fd93b2a936e91f426793a58c1800bc57a"
+    },
+    {
+      "file": "prepared/pm-work-113/book-content.txt",
+      "bytes": 317186,
+      "sha256": "7f26955e9e9a0c9e4d73336e6bc0414d98c2291e59b4f10d10878db161ea21cd"
+    },
+    {
+      "file": "prepared/pm-work-113/pm0113.pages.json",
+      "bytes": 13670,
+      "sha256": "527a11321169e733289ce6f05aa58ef0dc982d72d0da0d72fc9aaeb4329a14b5"
+    },
+    {
+      "file": "prepared/pm-work-113/pm0113.pdf-extracted.txt",
+      "bytes": 161152,
+      "sha256": "3d81ffa0e52c52b0d5974d793e13438d4390836d6953a5f7046047beb614c746"
+    },
+    {
+      "file": "prepared/pm-work-113/pmuni0113.raw.txt",
+      "bytes": 318499,
+      "sha256": "c081bcaada5ab1e059e05bceb45cf60223ddd3882f0667f3e2377b5b336a841d"
+    },
+    {
+      "file": "prepared/pm-work-118/book-content.txt",
+      "bytes": 159635,
+      "sha256": "5a73fa1d47f2991280381a28e1c36a64db7855e545b97e002458c6a6de245046"
+    },
+    {
+      "file": "prepared/pm-work-118/pm0118.pages.json",
+      "bytes": 5771,
+      "sha256": "1a4fffd569c29b6d858d87180955b9bdafcc6f67f303e69e1f0cda96642060a8"
+    },
+    {
+      "file": "prepared/pm-work-118/pm0118.pdf-extracted.txt",
+      "bytes": 89559,
+      "sha256": "c5df8028013d7c4e3f6de8ac375f6dce284c9b16254537c52157f550ded75adc"
+    },
+    {
+      "file": "prepared/pm-work-118/pmuni0118.raw.txt",
+      "bytes": 161339,
+      "sha256": "8532dd3ca9e211af74da7d4882b721919f426cdcda31292827170665416532cd"
+    },
+    {
+      "file": "prepared/pm-work-147/book-content.txt",
+      "bytes": 116208,
+      "sha256": "2392cf07358b4a3d6b760c186023d2731fc1bc2620a8dc8c738e73a91859ca24"
+    },
+    {
+      "file": "prepared/pm-work-147/pm0147.pages.json",
+      "bytes": 4604,
+      "sha256": "8e74996fdc6a9c63e012d61e3e8081d342af15db8385914e77504f7bd14c7281"
+    },
+    {
+      "file": "prepared/pm-work-147/pm0147.pdf-extracted.txt",
+      "bytes": 61799,
+      "sha256": "46a65ab02b9825473cef8dc5b1a8856dc4a98cdd8a87517e5fd31800aed2d886"
+    },
+    {
+      "file": "prepared/pm-work-147/pmuni0147.raw.txt",
+      "bytes": 117600,
+      "sha256": "28ba1fafd870575c69ae00a6f80d173e755560c5e4ac3ff32758bbcc3b5e3ca5"
+    },
+    {
+      "file": "prepared/pm-work-148/book-content.txt",
+      "bytes": 1335767,
+      "sha256": "53e18705b791488949cd333781425c35756774cc2b9b5dcef838bf5c493fca17"
+    },
+    {
+      "file": "prepared/pm-work-148/pm0148.pages.json",
+      "bytes": 26998,
+      "sha256": "fde21292da2b4135d502e1985acddf90d66f4e431fcd1b00257e48693e8a29cb"
+    },
+    {
+      "file": "prepared/pm-work-148/pm0148.pdf-extracted.txt",
+      "bytes": 713808,
+      "sha256": "8ed7f99fb2521db2bbfdbdac8bdc6c255c090506e177b48ccf931c0c3d2e9c33"
+    },
+    {
+      "file": "prepared/pm-work-148/pmuni0148.raw.txt",
+      "bytes": 1336642,
+      "sha256": "69f5515263e1381b674a19e542ab2055762cd42637ddf8dc62b129ca1704455d"
+    },
+    {
+      "file": "prepared/pm-work-228/book-content.txt",
+      "bytes": 533855,
+      "sha256": "1b145a5f3ec9b506730e9ed6d32164e8035e9a2f8d6e08e958ab8b0b5f5f27e3"
+    },
+    {
+      "file": "prepared/pm-work-228/pm0228.pages.json",
+      "bytes": 8082,
+      "sha256": "460f8d076c2850ce888f781d601af486c1124b1952dec5cf48fb4714528adebf"
+    },
+    {
+      "file": "prepared/pm-work-228/pm0228.pdf-extracted.txt",
+      "bytes": 290928,
+      "sha256": "f9758271febf333a16d64b11bf1b00f42c0d2f4fbb08d1762789fb474f8e937d"
+    },
+    {
+      "file": "prepared/pm-work-228/pmuni0228.raw.txt",
+      "bytes": 535259,
+      "sha256": "ad3b02ca76d02db5474d6d19cd3a3246a70bafa3e47e06a33ad82e144bfe6ea3"
+    },
+    {
+      "file": "prepared/pm-work-257/book-content.txt",
+      "bytes": 599685,
+      "sha256": "da0261bf4125c4d9d6b30e3ebd03cb62a1f799137f916e5042c939d650a7d052"
+    },
+    {
+      "file": "prepared/pm-work-257/pm0257.pages.json",
+      "bytes": 30417,
+      "sha256": "15303970006c8701554cf3dcec45fdd127e9467ef12e1b989173585d38ecd2a7"
+    },
+    {
+      "file": "prepared/pm-work-257/pm0257.pdf-extracted.txt",
+      "bytes": 1291626,
+      "sha256": "fd83773d865c73012a27237c5f6065eb620c0fe5fbc7dccd490798282f7db420"
+    },
+    {
+      "file": "prepared/pm-work-257/pmuni0257.raw.txt",
+      "bytes": 600567,
+      "sha256": "2c2c8d6789f70746512c040b392014f5088f16e70bf28ed7016bda12ec17809e"
+    },
+    {
+      "file": "prepared/pm-work-258/book-content.txt",
+      "bytes": 130442,
+      "sha256": "93043c769b74f1a5799c894029d31f6b0e0bf2ea9c04084f635ff711dd8e73b1"
+    },
+    {
+      "file": "prepared/pm-work-258/pm0258.pages.json",
+      "bytes": 3973,
+      "sha256": "9d5f6126871031229b28add7e1740ca5d81eb428f5bfb9e116e88383b9a1da02"
+    },
+    {
+      "file": "prepared/pm-work-258/pm0258.pdf-extracted.txt",
+      "bytes": 86273,
+      "sha256": "51cd919de0d3cd290d73bbaf6b8c371f33214cc6137cd1025f4972f359b6c176"
+    },
+    {
+      "file": "prepared/pm-work-258/pmuni0258.raw.txt",
+      "bytes": 131483,
+      "sha256": "ccc6144a9a068ff500384b3ff2777881b74a2506d9ec4707827f6897dd17b111"
+    },
+    {
+      "file": "prepared/pm-work-376/book-content.txt",
+      "bytes": 681311,
+      "sha256": "cd5a4eb73bf10f0a6fa0dbc58c4aee03dbf670cee5471b0e0e29b7b6d13f01e9"
+    },
+    {
+      "file": "prepared/pm-work-376/pm0376.pages.json",
+      "bytes": 16334,
+      "sha256": "694f8414c9dd14f48e1ad6533db26ef6e330d0213ef2fede220fd06b63f3abe3"
+    },
+    {
+      "file": "prepared/pm-work-376/pm0376.pdf-extracted.txt",
+      "bytes": 653227,
+      "sha256": "2e5076ab17c898604d8f612969383f5d9e511e973422e22395e1ea97d4e98637"
+    },
+    {
+      "file": "prepared/pm-work-376/pmuni0376.raw.txt",
+      "bytes": 682232,
+      "sha256": "afe965fdadbf0b933e960d9cbfb055772f227faeffcbd1bc07c964a93a0190a3"
+    },
+    {
+      "file": "prepared/pm-work-718/book-content.txt",
+      "bytes": 749042,
+      "sha256": "4cf12187503e8b2c15c1226b291bbe2a6ecac132dcc93eea9c677468cc03b8de"
+    },
+    {
+      "file": "prepared/pm-work-718/pm0718.pages.json",
+      "bytes": 25081,
+      "sha256": "df1d1d6c000070055871726b571f2e4f20506487c1e7ffdbd20ece896414bfb0"
+    },
+    {
+      "file": "prepared/pm-work-718/pm0718.pdf-extracted.txt",
+      "bytes": 1513142,
+      "sha256": "29f087af297f7d9b01e25af680dcade7d615881148d4b2792f8a4a263830b0c1"
+    },
+    {
+      "file": "prepared/pm-work-718/pmuni0718.raw.txt",
+      "bytes": 749943,
+      "sha256": "9e1ec47fca426fcd3a87c27ca7c52ee2b6cfd0cb4e6fa1389833ebe38b56bf8b"
+    },
+    {
+      "file": "prepared/pm-work-719/book-content.txt",
+      "bytes": 720145,
+      "sha256": "785c008346e339c8b56242445a084596f3e9758b63f08ead9603d45d6b89956c"
+    },
+    {
+      "file": "prepared/pm-work-719/pm0719.pages.json",
+      "bytes": 20766,
+      "sha256": "2b99293ff4369c73fa20dad0795eb5b6eab3ceb20a44c74ea3ac8bb3daeafc2c"
+    },
+    {
+      "file": "prepared/pm-work-719/pm0719.pdf-extracted.txt",
+      "bytes": 1466573,
+      "sha256": "8fc4675985b647550a52a3ab3da8068fc26fbe62f3ece442a50f729e82b4d0a8"
+    },
+    {
+      "file": "prepared/pm-work-719/pmuni0719.raw.txt",
+      "bytes": 721037,
+      "sha256": "9332a73b5271e1d8785949a7a6ae5c0e971f09516b996d692963738d47f018e8"
+    },
+    {
+      "file": "preview/anand_madhu_shirgaonkar.png",
+      "bytes": 744893,
+      "sha256": "5c924601723eedf3d193807665fd03af9f1f55eb51bb419be1f806e5d5c44bfc"
+    },
+    {
+      "file": "preview/annabhau-contents.jpg",
+      "bytes": 133312,
+      "sha256": "790de4f695cc9e17d8b98e171f7aeaa989ad0bcbdc751544d58be79a373a1768"
+    },
+    {
+      "file": "preview/annabhau-inner-003.png",
+      "bytes": 191370,
+      "sha256": "7750165128cb0b0203e007e3a41983e6cc37904c91b81e91d54ef0f066d9f386"
+    },
+    {
+      "file": "preview/annabhau-inner-004.png",
+      "bytes": 162748,
+      "sha256": "30f4a0d107a802e51fede4d94984e6ab771bdc32d1172bfbfcf215549a4b8317"
+    },
+    {
+      "file": "preview/annabhau-inner-005.png",
+      "bytes": 238138,
+      "sha256": "caf648b390f1b49f0cac24416f21f81d4884c0db748df0372eb950b6d70ba79a"
+    },
+    {
+      "file": "preview/annabhau-inner-006.png",
+      "bytes": 352650,
+      "sha256": "f0645f165b54dbc209b01c14a1c3caae444e95385ae1b693212b5b744106b4c8"
+    },
+    {
+      "file": "preview/covers-1.jpg",
+      "bytes": 401619,
+      "sha256": "474987e538b9c2ec4b3fbb47d51983bf87d142346bb14f74d48d20c9ab5c86ff"
+    },
+    {
+      "file": "preview/covers-2.jpg",
+      "bytes": 295065,
+      "sha256": "c3b2dd7cc4705e2c52ff77e995db88fce782f98b672273f5099af6c35674aaf9"
+    },
+    {
+      "file": "preview/detective_alpha_saurabh_wagale.png",
+      "bytes": 582772,
+      "sha256": "0e2774690c9b06bd2486339fd6bab21ab3485de655d6290ff01e4a07cafa6072"
+    },
+    {
+      "file": "preview/fullari_vinita_deshpande.png",
+      "bytes": 458679,
+      "sha256": "20495fa4393503b35533f24aa8fb5d0997dbf542666f5108a1c9a82a161c83ad"
+    },
+    {
+      "file": "preview/munni_aruna_sabane.png",
+      "bytes": 361125,
+      "sha256": "c147c6e0ff9ebf2b2f39ac764c8ace4b050f4623066ed04d3ce96dd24dc68dc9"
+    },
+    {
+      "file": "preview/phakiraa.png",
+      "bytes": 638359,
+      "sha256": "aa1f5cc0efb240b00761f334debf05e6e88af4ba2a2d394b64e4976ff6d4da95"
+    },
+    {
+      "file": "preview/pm0101.png",
+      "bytes": 101333,
+      "sha256": "2efcc455dd6e4aa84066ce474a8a496106f47d82654e5aceff0405d3c6af301e"
+    },
+    {
+      "file": "preview/pm0113.png",
+      "bytes": 93157,
+      "sha256": "c427db21f9841217f1cda1d8998a6e9f28094f3edd0bd1f55f1bc253a5f765b5"
+    },
+    {
+      "file": "preview/pm0118.png",
+      "bytes": 97464,
+      "sha256": "6c371e63d6453378893ddff40383de1e88b06a4144ede5fc03743caab9b68674"
+    },
+    {
+      "file": "preview/pm0147.png",
+      "bytes": 93887,
+      "sha256": "af37397ccff9ddc61d36ae716f0e053fc9d215588f2bdb0da2090057c7020801"
+    },
+    {
+      "file": "preview/pm0148.png",
+      "bytes": 231454,
+      "sha256": "d26057730fb0fddd4dc9bb93ba37a119b7627a718a76a4ff5c531b1552c24f32"
+    },
+    {
+      "file": "preview/pm0228.png",
+      "bytes": 103475,
+      "sha256": "fdfd1c7c285617bc0ae53c188c3170d4e6c945c29f0035bc31193d4619766a85"
+    },
+    {
+      "file": "preview/pm0257.png",
+      "bytes": 85397,
+      "sha256": "6d95af04220f6c15eba291cec5c416a5b898b27136c829d662d4d2b4b9c00ee8"
+    },
+    {
+      "file": "preview/pm0258.png",
+      "bytes": 110852,
+      "sha256": "ee4831b376e579c11e9fa6beb6154b88b060cd54733bb22d1155eb747300503d"
+    },
+    {
+      "file": "preview/pm0376.png",
+      "bytes": 55701,
+      "sha256": "e276d2319aaae7f27ce8bdff7dde2f8b8f5d7d8c40411b684602d9bd4ae3e2cb"
+    },
+    {
+      "file": "preview/pm0718.png",
+      "bytes": 91550,
+      "sha256": "9395c36f4bde113aa4c9b5d44d318024983a31d5875f015b231a5d7acd0982aa"
+    },
+    {
+      "file": "preview/pm0719.png",
+      "bytes": 89685,
+      "sha256": "5db4153be6c7edd1e341e6ad64417bd3e18611cd88f110f25831ecccc7063454"
+    },
+    {
+      "file": "preview/saichi_vahi.png",
+      "bytes": 665869,
+      "sha256": "341309e2efb4f93dabe3423b8a0a574146c93f83ff23d13cf64c08040a8d7ff5"
+    },
+    {
+      "file": "recovery-files.json",
+      "bytes": 2733,
+      "sha256": "3c3603e2e951e9276a95b5efa90c1873b4b7fa32342450b2d4ba20243ed1b364"
+    },
+    {
+      "file": "recovery-results.json",
+      "bytes": 5376,
+      "sha256": "a50ecda98c882dd19dfdd9167162bd36cac606523afe1ce5666398e7a7b3a63f"
+    },
+    {
+      "file": "selected-works.json",
+      "bytes": 51040,
+      "sha256": "9bf8efca4a8064f103ba017737d83c876c0edb8f6463199c006b8e7fdb17322c"
+    },
+    {
+      "file": "summary.json",
+      "bytes": 360,
+      "sha256": "af68bc54a96408ca5dc22fffaefc224cb6de38809eda51631af217c8f5b6488e"
+    },
+    {
+      "file": "validation.json",
+      "bytes": 956,
+      "sha256": "b1c9cafdb3d2946ac6f0e88887073d33af16aa364fd87a6e7ed9b4fc81780494"
+    }
+  ],
+  "preparation_scripts": [
+    {
+      "file": "scripts/fetch_native_book_source.py",
+      "sha256": "65b36ab72dfa3d1942148eca60e225a400cba7f505aa82736618d124a20513f9"
+    },
+    {
+      "file": "scripts/download_native_book_batch.py",
+      "sha256": "3da0fd3b983d09a24987c925733cc6a55e8480a48fdf1e922ce0c3d7b266c27f"
+    },
+    {
+      "file": "scripts/prepare_native_book_batch.py",
+      "sha256": "09fd581907cc18d4ea0a55d398ca77a75434ac3c0f9bb74af661e01a14a24419"
+    },
+    {
+      "file": "scripts/validate_native_book_batch.py",
+      "sha256": "209c52f654685673f3b07ce65a78b4da2de0f7deaa897b7569d322713b71ce63"
+    }
+  ],
+  "source_notices_preserved": true,
+  "model_sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b",
+  "training_labels_verified": false
+}

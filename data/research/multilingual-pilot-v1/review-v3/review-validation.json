@@ -1,0 +1,17 @@
+{
+  "sources_attempted": [
+    {
+      "url": "https://cris.unibo.it/retrieve/handle/11585/945314/e4707da5-bdad-4742-9cb4-a7b8430ac87b/Ciotti_2021_Tamil_Ilakkanam_Grammar.pdf",
+      "local_download_status": "HTTP 403; no local PDF counted",
+      "web_inspection_status": "indexed primary paper inspected through web tool",
+      "numeric_ddc_promoted": false
+    }
+  ],
+  "review_output_checks": {
+    "titles": 61,
+    "page_image_and_ocr_hash_pairs_checked": 141,
+    "sample_windows_checked": 183,
+    "unexpected_label_promotion": false,
+    "existing_collection_tests": "21 passed"
+  }
+}

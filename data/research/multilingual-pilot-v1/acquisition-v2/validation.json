@@ -1,0 +1,71 @@
+{
+  "source_receipts_checked": 72,
+  "hash_mismatches": [],
+  "downloaded_title_count": 40,
+  "languages": {
+    "tam": 16,
+    "mar": 14,
+    "hin": 10
+  },
+  "epub_checks": [
+    {
+      "book": "hindisamay-v2-1",
+      "epub_parts": 2,
+      "parsed_title": "देवरानी जेठानी की कहानी",
+      "parsed_language": "hi"
+    },
+    {
+      "book": "hindisamay-v2-2",
+      "epub_parts": 1,
+      "parsed_title": "सूरज का सातवाँ घोड़ा",
+      "parsed_language": "hi"
+    },
+    {
+      "book": "hindisamay-v2-3",
+      "epub_parts": 1,
+      "parsed_title": "दौड़",
+      "parsed_language": "hi"
+    },
+    {
+      "book": "hindisamay-v2-4",
+      "epub_parts": 1,
+      "parsed_title": "परीक्षा गुरु",
+      "parsed_language": "hi"
+    },
+    {
+      "book": "hindisamay-v2-5",
+      "epub_parts": 1,
+      "parsed_title": "शहर में कर्फ्यू",
+      "parsed_language": "hi"
+    },
+    {
+      "book": "hindisamay-v2-6",
+      "epub_parts": 1,
+      "parsed_title": "अधखिला फूल",
+      "parsed_language": "hi"
+    },
+    {
+      "book": "hindisamay-v2-7",
+      "epub_parts": 1,
+      "parsed_title": "ठेठ हिंदी का ठाट",
+      "parsed_language": "hi"
+    },
+    {
+      "book": "hindisamay-v2-11865",
+      "epub_parts": 1,
+      "parsed_title": "तितली",
+      "parsed_language": "hi"
+    },
+    {
+      "book": "hindisamay-des-birana",
+      "epub_parts": 6,
+      "parsed_title": "देस बिराना",
+      "parsed_language": "hi"
+    }
+  ],
+  "verified_training_count": 0,
+  "source_books_bytes": 58716468,
+  "unverified_text_available": 38,
+  "provisional_group_count": 40,
+  "groups_excluding_quarantined_anthology": 40
+}

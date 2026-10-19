@@ -1,0 +1,6 @@
+{
+  "model_file": "models/hierarchy_v1/classifier.joblib",
+  "sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b",
+  "matches_previous_head_coverage": true,
+  "model_retrained": false
+}

@@ -1,0 +1,1598 @@
+[
+  {
+    "work_id": "pm-work-101",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 772,
+        "chunks": 2,
+        "covered_characters": 2107,
+        "total_characters": 2107,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 805,
+        "chunks": 2,
+        "covered_characters": 2100,
+        "total_characters": 2100,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 837,
+        "chunks": 2,
+        "covered_characters": 2097,
+        "total_characters": 2097,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "pm-work-113",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 728,
+        "chunks": 2,
+        "covered_characters": 1943,
+        "total_characters": 1943,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 715,
+        "chunks": 2,
+        "covered_characters": 1877,
+        "total_characters": 1877,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 685,
+        "chunks": 2,
+        "covered_characters": 1905,
+        "total_characters": 1905,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 9.999999999999998
+  },
+  {
+    "work_id": "pm-work-147",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 342,
+        "chunks": 1,
+        "covered_characters": 1043,
+        "total_characters": 1043,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 438,
+        "chunks": 1,
+        "covered_characters": 1338,
+        "total_characters": 1338,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 393,
+        "chunks": 1,
+        "covered_characters": 1243,
+        "total_characters": 1243,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "pm-work-257",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 770,
+        "chunks": 2,
+        "covered_characters": 2161,
+        "total_characters": 2161,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 736,
+        "chunks": 2,
+        "covered_characters": 2152,
+        "total_characters": 2152,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 744,
+        "chunks": 2,
+        "covered_characters": 2156,
+        "total_characters": 2156,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "pm-work-258",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 909,
+        "chunks": 2,
+        "covered_characters": 2198,
+        "total_characters": 2198,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 876,
+        "chunks": 2,
+        "covered_characters": 2198,
+        "total_characters": 2198,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 928,
+        "chunks": 2,
+        "covered_characters": 2199,
+        "total_characters": 2199,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "pm-work-719",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 610,
+        "chunks": 2,
+        "covered_characters": 2192,
+        "total_characters": 2192,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 638,
+        "chunks": 2,
+        "covered_characters": 2192,
+        "total_characters": 2192,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 655,
+        "chunks": 2,
+        "covered_characters": 2194,
+        "total_characters": 2194,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.000000000000002
+  },
+  {
+    "work_id": "esahity-detective_alpha_saurabh_wagale",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 485,
+        "chunks": 1,
+        "covered_characters": 1522,
+        "total_characters": 1522,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 545,
+        "chunks": 2,
+        "covered_characters": 1766,
+        "total_characters": 1766,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 472,
+        "chunks": 1,
+        "covered_characters": 1459,
+        "total_characters": 1459,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-munni_aruna_sabane",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 490,
+        "chunks": 1,
+        "covered_characters": 1361,
+        "total_characters": 1361,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 453,
+        "chunks": 1,
+        "covered_characters": 1200,
+        "total_characters": 1200,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 267,
+        "chunks": 1,
+        "covered_characters": 751,
+        "total_characters": 751,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-anand_madhu_shirgaonkar",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 314,
+        "chunks": 1,
+        "covered_characters": 906,
+        "total_characters": 906,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 383,
+        "chunks": 1,
+        "covered_characters": 1127,
+        "total_characters": 1127,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 273,
+        "chunks": 1,
+        "covered_characters": 752,
+        "total_characters": 752,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-fullari_vinita_deshpande",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 361,
+        "chunks": 1,
+        "covered_characters": 1091,
+        "total_characters": 1091,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 284,
+        "chunks": 1,
+        "covered_characters": 871,
+        "total_characters": 871,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 406,
+        "chunks": 1,
+        "covered_characters": 1126,
+        "total_characters": 1126,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "hindisamay-work-226",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 742,
+        "chunks": 2,
+        "covered_characters": 2181,
+        "total_characters": 2181,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 744,
+        "chunks": 2,
+        "covered_characters": 2185,
+        "total_characters": 2185,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 713,
+        "chunks": 2,
+        "covered_characters": 2190,
+        "total_characters": 2190,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "hindisamay-work-259",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 694,
+        "chunks": 2,
+        "covered_characters": 2198,
+        "total_characters": 2198,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 704,
+        "chunks": 2,
+        "covered_characters": 2193,
+        "total_characters": 2193,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 693,
+        "chunks": 2,
+        "covered_characters": 2179,
+        "total_characters": 2179,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "pm-work-172",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 590,
+        "chunks": 2,
+        "covered_characters": 2195,
+        "total_characters": 2195,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 617,
+        "chunks": 2,
+        "covered_characters": 2174,
+        "total_characters": 2174,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 584,
+        "chunks": 2,
+        "covered_characters": 2198,
+        "total_characters": 2198,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "pm-work-217",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 619,
+        "chunks": 2,
+        "covered_characters": 2199,
+        "total_characters": 2199,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 630,
+        "chunks": 2,
+        "covered_characters": 2200,
+        "total_characters": 2200,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 664,
+        "chunks": 2,
+        "covered_characters": 2199,
+        "total_characters": 2199,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "pm-work-404",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 771,
+        "chunks": 2,
+        "covered_characters": 2197,
+        "total_characters": 2197,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 758,
+        "chunks": 2,
+        "covered_characters": 2115,
+        "total_characters": 2115,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 758,
+        "chunks": 2,
+        "covered_characters": 2167,
+        "total_characters": 2167,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "pm-work-413",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 603,
+        "chunks": 2,
+        "covered_characters": 1758,
+        "total_characters": 1758,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 672,
+        "chunks": 2,
+        "covered_characters": 1979,
+        "total_characters": 1979,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 9.999999999999998
+  },
+  {
+    "work_id": "pm-work-732",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 589,
+        "chunks": 2,
+        "covered_characters": 2132,
+        "total_characters": 2132,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 674,
+        "chunks": 2,
+        "covered_characters": 2169,
+        "total_characters": 2169,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 573,
+        "chunks": 2,
+        "covered_characters": 2153,
+        "total_characters": 2153,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "pm-work-734",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 611,
+        "chunks": 2,
+        "covered_characters": 2145,
+        "total_characters": 2145,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 633,
+        "chunks": 2,
+        "covered_characters": 2172,
+        "total_characters": 2172,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 684,
+        "chunks": 2,
+        "covered_characters": 2160,
+        "total_characters": 2160,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "pm-work-758",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 651,
+        "chunks": 2,
+        "covered_characters": 2199,
+        "total_characters": 2199,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 659,
+        "chunks": 2,
+        "covered_characters": 2198,
+        "total_characters": 2198,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 757,
+        "chunks": 2,
+        "covered_characters": 2200,
+        "total_characters": 2200,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "pm-work-839",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 387,
+        "chunks": 1,
+        "covered_characters": 1416,
+        "total_characters": 1416,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 546,
+        "chunks": 2,
+        "covered_characters": 2025,
+        "total_characters": 2025,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 447,
+        "chunks": 1,
+        "covered_characters": 1716,
+        "total_characters": 1716,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "pm-work-902",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 657,
+        "chunks": 2,
+        "covered_characters": 2189,
+        "total_characters": 2189,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 679,
+        "chunks": 2,
+        "covered_characters": 2179,
+        "total_characters": 2179,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 648,
+        "chunks": 2,
+        "covered_characters": 2171,
+        "total_characters": 2171,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-iblis_suraj_gatade",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 294,
+        "chunks": 1,
+        "covered_characters": 950,
+        "total_characters": 950,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 337,
+        "chunks": 1,
+        "covered_characters": 973,
+        "total_characters": 973,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 392,
+        "chunks": 1,
+        "covered_characters": 1255,
+        "total_characters": 1255,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-aindrajal_supriya_joshi",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 354,
+        "chunks": 1,
+        "covered_characters": 1166,
+        "total_characters": 1166,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 261,
+        "chunks": 1,
+        "covered_characters": 986,
+        "total_characters": 986,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 322,
+        "chunks": 1,
+        "covered_characters": 1194,
+        "total_characters": 1194,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-baap_the_grat_hero_manohar_surwade",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 296,
+        "chunks": 1,
+        "covered_characters": 887,
+        "total_characters": 887,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 335,
+        "chunks": 1,
+        "covered_characters": 1096,
+        "total_characters": 1096,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 295,
+        "chunks": 1,
+        "covered_characters": 920,
+        "total_characters": 920,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-omega_upgraded_abhishek_thamke",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 231,
+        "chunks": 1,
+        "covered_characters": 897,
+        "total_characters": 897,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 257,
+        "chunks": 1,
+        "covered_characters": 960,
+        "total_characters": 960,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 155,
+        "chunks": 1,
+        "covered_characters": 511,
+        "total_characters": 511,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-khidkee_saurabh_wagle",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 274,
+        "chunks": 1,
+        "covered_characters": 832,
+        "total_characters": 832,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 334,
+        "chunks": 1,
+        "covered_characters": 980,
+        "total_characters": 980,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 309,
+        "chunks": 1,
+        "covered_characters": 948,
+        "total_characters": 948,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-maaat_ketakee_shah",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 149,
+        "chunks": 1,
+        "covered_characters": 530,
+        "total_characters": 530,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 174,
+        "chunks": 1,
+        "covered_characters": 570,
+        "total_characters": 570,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 197,
+        "chunks": 1,
+        "covered_characters": 673,
+        "total_characters": 673,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-pinjaraa_sanjay_bansode",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 413,
+        "chunks": 1,
+        "covered_characters": 1221,
+        "total_characters": 1221,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 385,
+        "chunks": 1,
+        "covered_characters": 1241,
+        "total_characters": 1241,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 306,
+        "chunks": 1,
+        "covered_characters": 1105,
+        "total_characters": 1105,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-parimarjan_sudhir_karkhanis",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 346,
+        "chunks": 1,
+        "covered_characters": 1125,
+        "total_characters": 1125,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 326,
+        "chunks": 1,
+        "covered_characters": 1059,
+        "total_characters": 1059,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 380,
+        "chunks": 1,
+        "covered_characters": 1142,
+        "total_characters": 1142,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-bhoot_bangalyache_rahasya_akshay_jadhav",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 410,
+        "chunks": 1,
+        "covered_characters": 1346,
+        "total_characters": 1346,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 345,
+        "chunks": 1,
+        "covered_characters": 1121,
+        "total_characters": 1121,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 388,
+        "chunks": 1,
+        "covered_characters": 1293,
+        "total_characters": 1293,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "hindisamay-v2-2",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 701,
+        "chunks": 2,
+        "covered_characters": 2113,
+        "total_characters": 2113,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 725,
+        "chunks": 2,
+        "covered_characters": 2143,
+        "total_characters": 2143,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 704,
+        "chunks": 2,
+        "covered_characters": 2156,
+        "total_characters": 2156,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.000000000000002
+  },
+  {
+    "work_id": "hindisamay-v2-4",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 766,
+        "chunks": 2,
+        "covered_characters": 2160,
+        "total_characters": 2160,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 758,
+        "chunks": 2,
+        "covered_characters": 2159,
+        "total_characters": 2159,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 726,
+        "chunks": 2,
+        "covered_characters": 2008,
+        "total_characters": 2008,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "hindisamay-v2-5",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 624,
+        "chunks": 2,
+        "covered_characters": 1914,
+        "total_characters": 1914,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 564,
+        "chunks": 2,
+        "covered_characters": 1921,
+        "total_characters": 1921,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 588,
+        "chunks": 2,
+        "covered_characters": 1906,
+        "total_characters": 1906,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.000000000000002
+  },
+  {
+    "work_id": "hindisamay-v2-6",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 596,
+        "chunks": 2,
+        "covered_characters": 1798,
+        "total_characters": 1798,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 634,
+        "chunks": 2,
+        "covered_characters": 1798,
+        "total_characters": 1798,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 568,
+        "chunks": 2,
+        "covered_characters": 1785,
+        "total_characters": 1785,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.000000000000002
+  },
+  {
+    "work_id": "hindisamay-v2-7",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 328,
+        "chunks": 1,
+        "covered_characters": 1006,
+        "total_characters": 1006,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 339,
+        "chunks": 1,
+        "covered_characters": 1047,
+        "total_characters": 1047,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 348,
+        "chunks": 1,
+        "covered_characters": 1071,
+        "total_characters": 1071,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-europe_kavadse_maneesha_dikshit",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 579,
+        "chunks": 2,
+        "covered_characters": 1705,
+        "total_characters": 1705,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 539,
+        "chunks": 2,
+        "covered_characters": 1689,
+        "total_characters": 1689,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 579,
+        "chunks": 2,
+        "covered_characters": 1738,
+        "total_characters": 1738,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-keral_shailesh_purohit",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 245,
+        "chunks": 1,
+        "covered_characters": 749,
+        "total_characters": 749,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 222,
+        "chunks": 1,
+        "covered_characters": 737,
+        "total_characters": 737,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 207,
+        "chunks": 1,
+        "covered_characters": 682,
+        "total_characters": 682,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-mb_canada_bb_desai",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 479,
+        "chunks": 1,
+        "covered_characters": 1514,
+        "total_characters": 1514,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 458,
+        "chunks": 1,
+        "covered_characters": 1435,
+        "total_characters": 1435,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 176,
+        "chunks": 1,
+        "covered_characters": 560,
+        "total_characters": 560,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "esahity-ishany_bharat_neelima_kulkarni",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 259,
+        "chunks": 1,
+        "covered_characters": 836,
+        "total_characters": 836,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "ncert-fhcu1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 317,
+        "chunks": 1,
+        "covered_characters": 978,
+        "total_characters": 978,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 489,
+        "chunks": 1,
+        "covered_characters": 1564,
+        "total_characters": 1564,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 472,
+        "chunks": 1,
+        "covered_characters": 1501,
+        "total_characters": 1501,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 3.333333333333333
+  },
+  {
+    "work_id": "ncert-fmrcu1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 271,
+        "chunks": 1,
+        "covered_characters": 894,
+        "total_characters": 894,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 237,
+        "chunks": 1,
+        "covered_characters": 761,
+        "total_characters": 761,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 319,
+        "chunks": 1,
+        "covered_characters": 1082,
+        "total_characters": 1082,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 3.333333333333333
+  },
+  {
+    "work_id": "ncert-ftmcu1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 339,
+        "chunks": 1,
+        "covered_characters": 1151,
+        "total_characters": 1151,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 268,
+        "chunks": 1,
+        "covered_characters": 924,
+        "total_characters": 924,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 443,
+        "chunks": 1,
+        "covered_characters": 1529,
+        "total_characters": 1529,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 3.333333333333333
+  },
+  {
+    "work_id": "ncert-hhgp1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 486,
+        "chunks": 1,
+        "covered_characters": 1514,
+        "total_characters": 1514,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 280,
+        "chunks": 1,
+        "covered_characters": 750,
+        "total_characters": 750,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 556,
+        "chunks": 2,
+        "covered_characters": 1822,
+        "total_characters": 1822,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 3.333333333333333
+  },
+  {
+    "work_id": "ncert-hmrgp1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 530,
+        "chunks": 2,
+        "covered_characters": 1682,
+        "total_characters": 1682,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 196,
+        "chunks": 1,
+        "covered_characters": 571,
+        "total_characters": 571,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 395,
+        "chunks": 1,
+        "covered_characters": 1374,
+        "total_characters": 1374,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 3.333333333333333
+  },
+  {
+    "work_id": "ncert-htmgp1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 684,
+        "chunks": 2,
+        "covered_characters": 2269,
+        "total_characters": 2269,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 208,
+        "chunks": 1,
+        "covered_characters": 672,
+        "total_characters": 672,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 584,
+        "chunks": 2,
+        "covered_characters": 1919,
+        "total_characters": 1919,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 3.333333333333333
+  },
+  {
+    "work_id": "ncert-khph1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 980,
+        "chunks": 2,
+        "covered_characters": 2839,
+        "total_characters": 2839,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 799,
+        "chunks": 2,
+        "covered_characters": 2261,
+        "total_characters": 2261,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 1115,
+        "chunks": 3,
+        "covered_characters": 3545,
+        "total_characters": 3545,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "ncert-khch1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 916,
+        "chunks": 2,
+        "covered_characters": 2805,
+        "total_characters": 2805,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 699,
+        "chunks": 2,
+        "covered_characters": 2131,
+        "total_characters": 2131,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 1115,
+        "chunks": 3,
+        "covered_characters": 3371,
+        "total_characters": 3371,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.000000000000002
+  },
+  {
+    "work_id": "ncert-khbo1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 725,
+        "chunks": 2,
+        "covered_characters": 2576,
+        "total_characters": 2576,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 849,
+        "chunks": 2,
+        "covered_characters": 2407,
+        "total_characters": 2407,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 885,
+        "chunks": 2,
+        "covered_characters": 2550,
+        "total_characters": 2550,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "ncert-khpy1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 1122,
+        "chunks": 3,
+        "covered_characters": 4052,
+        "total_characters": 4052,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 856,
+        "chunks": 2,
+        "covered_characters": 3144,
+        "total_characters": 3144,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 843,
+        "chunks": 2,
+        "covered_characters": 3083,
+        "total_characters": 3083,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "ncert-khsy1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 647,
+        "chunks": 2,
+        "covered_characters": 2156,
+        "total_characters": 2156,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 580,
+        "chunks": 2,
+        "covered_characters": 2088,
+        "total_characters": 2088,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 656,
+        "chunks": 2,
+        "covered_characters": 2565,
+        "total_characters": 2565,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "ncert-khps1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 583,
+        "chunks": 2,
+        "covered_characters": 2093,
+        "total_characters": 2093,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 521,
+        "chunks": 2,
+        "covered_characters": 1902,
+        "total_characters": 1902,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 570,
+        "chunks": 2,
+        "covered_characters": 2077,
+        "total_characters": 2077,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "ncert-khec1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 649,
+        "chunks": 2,
+        "covered_characters": 2374,
+        "total_characters": 2374,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 570,
+        "chunks": 2,
+        "covered_characters": 1951,
+        "total_characters": 1951,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 557,
+        "chunks": 2,
+        "covered_characters": 2147,
+        "total_characters": 2147,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "ncert-khac1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 569,
+        "chunks": 2,
+        "covered_characters": 2072,
+        "total_characters": 2072,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 343,
+        "chunks": 1,
+        "covered_characters": 943,
+        "total_characters": 943,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 319,
+        "chunks": 1,
+        "covered_characters": 824,
+        "total_characters": 824,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  },
+  {
+    "work_id": "ncert-khfa1",
+    "chunk_audits": [
+      {
+        "kind": "contents",
+        "original_tokens": 771,
+        "chunks": 2,
+        "covered_characters": 2509,
+        "total_characters": 2509,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 464,
+        "chunks": 1,
+        "covered_characters": 1574,
+        "total_characters": 1574,
+        "omitted_tail": false
+      },
+      {
+        "kind": "contents",
+        "original_tokens": 428,
+        "chunks": 1,
+        "covered_characters": 1334,
+        "total_characters": 1334,
+        "omitted_tail": false
+      }
+    ],
+    "training_weight": 10.0
+  }
+]

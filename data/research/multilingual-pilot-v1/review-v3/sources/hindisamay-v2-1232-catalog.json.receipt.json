@@ -1,0 +1,9 @@
+{
+  "source_url": "https://openlibrary.org/search.json?title=Kankal&author=Prasad&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "final_url": "https://openlibrary.org/search.json?title=Kankal&author=Prasad&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "retrieved_at": "2026-10-04T03:34:31.275053+00:00",
+  "bytes": 581,
+  "sha256": "85f2cc899f8dbf60791159e2fbd894c7e6442adb8600e892fa27f160135d977b",
+  "content_type": "application/json",
+  "file": "data/research/multilingual-pilot-v1/review-v3/sources/hindisamay-v2-1232-catalog.json"
+}

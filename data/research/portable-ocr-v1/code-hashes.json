@@ -1,0 +1,23 @@
+{
+  "prototype/portable_ocr.py": "03373409967cc1ada03519c6cd11cccfd445adb3e599b8992a9aadc77723bb39",
+  "prototype/rapid_ocr_worker.py": "3c035131745dfb9edf0fca80643669d83f4294d4501dd7e3e0b92b0b6799bf62",
+  "prototype/runtime.py": "1aa6187d8819477f77438866f5ecf6f9e036c93fc1dc584c39c2e390fa3ec784",
+  "prototype/scene_ocr.py": "03835cfb94c08b87c22f4b675d4997eb57ea1614ffc60de835aa03e06e346b96",
+  "prototype/engine.py": "3682b9b105ee1a0b10c284853d2465d1c30d8ee9d1e830178a8b3404d740b5ee",
+  "prototype/easy_ocr_worker.py": "d628cbd692f0da45895d63e5639e5c5ef6d1d282c04c648779fa7f3691cf5f5f",
+  "prototype/easyocr_compat.py": "16f5b2a2e7d8bde4d3ada2df05e288ddb3c7a6ba27b735a230b7f707489f37b5",
+  "prototype/share.py": "d84d7f93c5ca5250390f0e9861ac2f5aca192958f9a5e72021111209b28896b4",
+  "scripts/setup_scene_ocr.py": "41c64026aa64be7117ca76a6499d9db6b927c4b57a2884fea4c98ed29247e220",
+  "scripts/setup_windows_demo.py": "47597d51acd91bb655114ff622b27060427ef1e22c105108ba8e58413f11a2a6",
+  "scripts/check_windows_demo.py": "bc8d1f2ea1c3c18d6be920dcc331c561381875613008f0a5f4de5b1d342c08f1",
+  "scripts/build_windows_demo.py": "68457c072733748ae35bcd0e24ed3b09426906835e699eda3534e8008ff55e95",
+  "scripts/check_scene_ocr_browser.cjs": "785c79f52a58120f1e1981eb1807443367ee4615b1ffdf270d3e9ab0309d51bb",
+  "scripts/finalize_portable_ocr.py": "ecb39b9cc080458c9839c0254ca818b0a8b46289c7991a4f05f6b3f9c22fce5b",
+  "scripts/check_windows_bundle.py": "e4802df670567c34d4db45fc1f04c8960f7ff6f5fcda4c47beded70970940619",
+  "tests/test_scene_ocr.py": "b93af068c7cbab3d6e5b051e4a26d7c11ee988664ed2591a9ed0b41b3cdbffd7",
+  "tests/test_windows_demo.py": "181dbbfe4dad47f9f5af19a1310b2ced2714eccc880c0a5b6d2cf976d52e1725",
+  "requirements-windows.txt": "8ec4a27dbcf830ff806d2dd6b7e65015bc10f524ae4b3010c09273a511ad8b7f",
+  "requirements-ocr.txt": "f04865eeee6ad061531ab05bffc6872c3b4438dd65b317385e69d83d21cfd465",
+  ".github/workflows/windows-demo.yml": "0fb3eac72c3ecbde9237582e3313d13c7f3a9fe35a71a0261681651e8257192f",
+  "docs/WINDOWS_DEMO.md": "1d129bb45e4a253b115e5bef922bd50c7b6a77f0d8eb3baf17ae9a74d90d7f71"
+}

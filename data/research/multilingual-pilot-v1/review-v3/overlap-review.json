@@ -1,0 +1,14 @@
+{
+  "old_catalog_records": 5034,
+  "identifier_candidate_hits": [],
+  "near_duplicate_sample_flags": [],
+  "conservative_shared_groups": {
+    "premchand-prema-pratigya": [
+      "hindisamay-work-233",
+      "hindisamay-work-238"
+    ]
+  },
+  "unresolved_anthology": "esahity-phakiraa",
+  "complete_work_independence_certified": false,
+  "note": "Exact identifier and sampled-text checks do not rule out unlinked translations, rewrites, or different catalog spellings. Existing eight development books remain separate."
+}

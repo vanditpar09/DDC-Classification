@@ -1,0 +1,313 @@
+{
+  "text": "OVER21\nMILLION\nCOPIES\nSOLD\nWORLDWIDE\nBy the author of\nA Thousand Splendid Suns\nKHALED HOSSEINI\nThe Kite\nRunner\n'Heartbreaking'\n'Devastating'\nThe\nTimes\nDaily\nTelegraph\n'Deeply\nmoving'\n'Unforgettable'\nSunday\nExpress\nIsabel Allende\nBLOOMSBURY",
+  "words": [
+    {
+      "text": "OVER21",
+      "confidence": 99.065,
+      "left": 345,
+      "top": 382,
+      "width": 215,
+      "height": 54
+    },
+    {
+      "text": "MILLION",
+      "confidence": 99.21799999999999,
+      "left": 544,
+      "top": 379,
+      "width": 228,
+      "height": 56
+    },
+    {
+      "text": "COPIES",
+      "confidence": 97.452,
+      "left": 759,
+      "top": 374,
+      "width": 188,
+      "height": 58
+    },
+    {
+      "text": "SOLD",
+      "confidence": 98.271,
+      "left": 944,
+      "top": 371,
+      "width": 134,
+      "height": 56
+    },
+    {
+      "text": "WORLDWIDE",
+      "confidence": 99.195,
+      "left": 1081,
+      "top": 352,
+      "width": 313,
+      "height": 72
+    },
+    {
+      "text": "By",
+      "confidence": 94.427,
+      "left": 746,
+      "top": 440,
+      "width": 307,
+      "height": 65
+    },
+    {
+      "text": "the",
+      "confidence": 94.427,
+      "left": 746,
+      "top": 440,
+      "width": 307,
+      "height": 65
+    },
+    {
+      "text": "author",
+      "confidence": 94.427,
+      "left": 746,
+      "top": 440,
+      "width": 307,
+      "height": 65
+    },
+    {
+      "text": "of",
+      "confidence": 94.427,
+      "left": 746,
+      "top": 440,
+      "width": 307,
+      "height": 65
+    },
+    {
+      "text": "A",
+      "confidence": 90.46300000000001,
+      "left": 464,
+      "top": 481,
+      "width": 795,
+      "height": 152
+    },
+    {
+      "text": "Thousand",
+      "confidence": 90.46300000000001,
+      "left": 464,
+      "top": 481,
+      "width": 795,
+      "height": 152
+    },
+    {
+      "text": "Splendid",
+      "confidence": 90.46300000000001,
+      "left": 464,
+      "top": 481,
+      "width": 795,
+      "height": 152
+    },
+    {
+      "text": "Suns",
+      "confidence": 90.46300000000001,
+      "left": 464,
+      "top": 481,
+      "width": 795,
+      "height": 152
+    },
+    {
+      "text": "KHALED",
+      "confidence": 92.078,
+      "left": 273,
+      "top": 606,
+      "width": 1203,
+      "height": 158
+    },
+    {
+      "text": "HOSSEINI",
+      "confidence": 92.078,
+      "left": 273,
+      "top": 606,
+      "width": 1203,
+      "height": 158
+    },
+    {
+      "text": "The",
+      "confidence": 88.266,
+      "left": 198,
+      "top": 721,
+      "width": 1420,
+      "height": 581
+    },
+    {
+      "text": "Kite",
+      "confidence": 88.266,
+      "left": 198,
+      "top": 721,
+      "width": 1420,
+      "height": 581
+    },
+    {
+      "text": "Runner",
+      "confidence": 68.201,
+      "left": 336,
+      "top": 1017,
+      "width": 1212,
+      "height": 631
+    },
+    {
+      "text": "'Heartbreaking'",
+      "confidence": 95.663,
+      "left": 1198,
+      "top": 1700,
+      "width": 295,
+      "height": 60
+    },
+    {
+      "text": "'Devastating'",
+      "confidence": 96.217,
+      "left": 369,
+      "top": 1728,
+      "width": 259,
+      "height": 76
+    },
+    {
+      "text": "The",
+      "confidence": 99.235,
+      "left": 1244,
+      "top": 1764,
+      "width": 88,
+      "height": 53
+    },
+    {
+      "text": "Times",
+      "confidence": 99.65,
+      "left": 1324,
+      "top": 1764,
+      "width": 127,
+      "height": 52
+    },
+    {
+      "text": "Daily",
+      "confidence": 92.163,
+      "left": 342,
+      "top": 1796,
+      "width": 133,
+      "height": 77
+    },
+    {
+      "text": "Telegraph",
+      "confidence": 99.431,
+      "left": 454,
+      "top": 1787,
+      "width": 207,
+      "height": 81
+    },
+    {
+      "text": "'Deeply",
+      "confidence": 95.894,
+      "left": 1203,
+      "top": 1886,
+      "width": 147,
+      "height": 58
+    },
+    {
+      "text": "moving'",
+      "confidence": 96.84,
+      "left": 1348,
+      "top": 1881,
+      "width": 161,
+      "height": 63
+    },
+    {
+      "text": "'Unforgettable'",
+      "confidence": 95.749,
+      "left": 360,
+      "top": 1907,
+      "width": 293,
+      "height": 83
+    },
+    {
+      "text": "Sunday",
+      "confidence": 99.056,
+      "left": 1203,
+      "top": 1942,
+      "width": 151,
+      "height": 61
+    },
+    {
+      "text": "Express",
+      "confidence": 98.869,
+      "left": 1348,
+      "top": 1942,
+      "width": 158,
+      "height": 61
+    },
+    {
+      "text": "Isabel",
+      "confidence": 99.139,
+      "left": 364,
+      "top": 1966,
+      "width": 289,
+      "height": 83
+    },
+    {
+      "text": "Allende",
+      "confidence": 99.139,
+      "left": 364,
+      "top": 1966,
+      "width": 289,
+      "height": 83
+    },
+    {
+      "text": "BLOOMSBURY",
+      "confidence": 99.361,
+      "left": 288,
+      "top": 2265,
+      "width": 466,
+      "height": 80
+    }
+  ],
+  "usable": true,
+  "quality": {
+    "ocr_confidence": 94.62675,
+    "low_confidence_fraction": 0.0,
+    "word_count": 32,
+    "median_character_height": 74.0,
+    "sharpness": 89.12021606445313,
+    "script": null,
+    "script_mismatch": false,
+    "suggested_languages": [],
+    "engine": "rapidocr-3.4.0-ppocrv5-server-cpu",
+    "confidence_source": "line recognizer; uncalibrated",
+    "capture": {
+      "page_detected": true,
+      "method": "central-quadrilateral-text-filter",
+      "polygon": [
+        [
+          219.99998474121094,
+          303.33331298828125
+        ],
+        [
+          1596.6666259765625,
+          233.3333282470703
+        ],
+        [
+          1736.6666259765625,
+          2280.0
+        ],
+        [
+          280.0,
+          2360.0
+        ]
+      ],
+      "processed_size": [
+        1920,
+        2560
+      ]
+    },
+    "region": {
+      "left": 219,
+      "top": 233,
+      "width": 1516,
+      "height": 2126,
+      "image_width": 1920,
+      "image_height": 2560
+    }
+  },
+  "work": {
+    "ocr_passes": 1,
+    "pixels": 4915200,
+    "seconds": 9.234684292
+  }
+}

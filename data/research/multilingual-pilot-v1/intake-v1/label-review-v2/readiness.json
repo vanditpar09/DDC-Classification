@@ -1,0 +1,107 @@
+{
+  "created_at": "2026-10-04T02:02:12.123863+00:00",
+  "model_sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b",
+  "model_weights_changed": false,
+  "books": [
+    {
+      "file": "dasbodh_khand_2.pdf",
+      "language": "mar",
+      "recommended_section": "294",
+      "label_status": "related_translation_hint_only",
+      "section_active": true,
+      "existing_weak_catalog_work_groups": 21,
+      "minimum_group_rule": 5,
+      "additional_distinct_groups_to_reach_minimum": 0,
+      "training_eligible": false
+    },
+    {
+      "file": "gandhi-autobiography-hindi.pdf",
+      "language": "hin",
+      "recommended_section": "954",
+      "label_status": "provisional_catalog_policy_choice",
+      "section_active": false,
+      "existing_weak_catalog_work_groups": 4,
+      "minimum_group_rule": 5,
+      "additional_distinct_groups_to_reach_minimum": 1,
+      "training_eligible": false
+    },
+    {
+      "file": "godan_by_premchand.pdf",
+      "language": "hin",
+      "recommended_section": "891",
+      "label_status": "same_work_other_edition_provisional",
+      "section_active": false,
+      "existing_weak_catalog_work_groups": 3,
+      "minimum_group_rule": 5,
+      "additional_distinct_groups_to_reach_minimum": 2,
+      "training_eligible": false
+    },
+    {
+      "file": "pg1228-images-3.epub",
+      "language": "eng",
+      "recommended_section": "576",
+      "label_status": "schedule_supported_working_selection",
+      "section_active": false,
+      "existing_weak_catalog_work_groups": 1,
+      "minimum_group_rule": 5,
+      "additional_distinct_groups_to_reach_minimum": 4,
+      "training_eligible": false
+    },
+    {
+      "file": "pg1342-images-3.epub",
+      "language": "eng",
+      "recommended_section": "823",
+      "label_status": "same_work_other_edition_provisional",
+      "section_active": true,
+      "existing_weak_catalog_work_groups": 179,
+      "minimum_group_rule": 5,
+      "additional_distinct_groups_to_reach_minimum": 0,
+      "training_eligible": false
+    },
+    {
+      "file": "ponniyin-selvan.pdf",
+      "language": "tam",
+      "recommended_section": "894",
+      "label_status": "same_work_other_volume_edition_provisional",
+      "section_active": false,
+      "existing_weak_catalog_work_groups": 0,
+      "minimum_group_rule": 5,
+      "additional_distinct_groups_to_reach_minimum": 5,
+      "training_eligible": false
+    },
+    {
+      "file": "shyamachi_aai.pdf",
+      "language": "mar",
+      "recommended_section": "891",
+      "label_status": "same_work_library_class_supported_provisional",
+      "section_active": false,
+      "existing_weak_catalog_work_groups": 3,
+      "minimum_group_rule": 5,
+      "additional_distinct_groups_to_reach_minimum": 2,
+      "training_eligible": false
+    },
+    {
+      "file": "tolkappiyar.pdf",
+      "language": "tam",
+      "recommended_section": "494",
+      "label_status": "related_partial_work_hint_only",
+      "section_active": false,
+      "existing_weak_catalog_work_groups": 0,
+      "minimum_group_rule": 5,
+      "additional_distinct_groups_to_reach_minimum": 5,
+      "training_eligible": false
+    }
+  ],
+  "books_with_unavailable_recommended_section": 6,
+  "unavailable_recommended_sections": [
+    "494",
+    "576",
+    "891",
+    "894",
+    "954"
+  ],
+  "working_label_diagnostic_books": 5,
+  "formal_accuracy_books": 0,
+  "training_books": 0,
+  "note": "Support counts come from the existing weak catalog, not verified native-script works. Minimum support is an implementation availability rule, not a data sufficiency or accuracy guarantee. No fitting or prediction calls were performed in this label pass."
+}

@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-10-04T08:11:15.225Z",
+  "page_loaded": true,
+  "visible_three_levels": true,
+  "suggested_path": [
+    "800",
+    "890",
+    "891"
+  ],
+  "experimental_note_visible": true,
+  "model": "native_silver_v2",
+  "console_errors": [],
+  "screenshot": "local-website.png",
+  "physical_phone_test": false,
+  "accuracy_benchmark": false
+}

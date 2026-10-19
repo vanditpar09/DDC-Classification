@@ -1,0 +1,9 @@
+{
+  "source_url": "https://openlibrary.org/search.json?title=%E0%A4%90%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A4%BE%E0%A4%B2&author=%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE+%E0%A4%9C%E0%A5%8B%E0%A4%B6%E0%A5%80&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "final_url": "https://openlibrary.org/search.json?title=%E0%A4%90%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A4%BE%E0%A4%B2&author=%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE+%E0%A4%9C%E0%A5%8B%E0%A4%B6%E0%A5%80&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "retrieved_at": "2026-10-04T03:34:16.105725+00:00",
+  "bytes": 156,
+  "sha256": "a68a51a345fbaef76433e2dc9c3af3f7f73ee9f366a07aa6e9eec27944a0f069",
+  "content_type": "application/json",
+  "file": "data/research/multilingual-pilot-v1/review-v3/sources/esahity-aindrajal_supriya_joshi-catalog.json"
+}

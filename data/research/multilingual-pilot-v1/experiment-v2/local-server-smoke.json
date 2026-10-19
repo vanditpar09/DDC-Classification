@@ -1,0 +1,97 @@
+{
+  "status": {
+    "model_files_present": true,
+    "hierarchical_model_present": true,
+    "languages": {
+      "eng": "English",
+      "eng+hin": "English + Hindi",
+      "eng+mar": "English + Marathi",
+      "eng+tam": "English + Tamil"
+    },
+    "cloud_calls": false,
+    "max_ocr_passes": 6,
+    "persistence": "sqlite",
+    "model_version": {
+      "name": "native_silver_v2",
+      "sha256": "cf2e4d18dbe43ad9431a965bc1a6213a0bcfbecac5b5c8830e73cb9a48f6cc86",
+      "experimental": true
+    },
+    "api_version": 2
+  },
+  "checks": [
+    {
+      "work_id": "ncert-fhgp1",
+      "language": "hin",
+      "session_id": "c799c1eb-0f8c-4503-84d0-f8ff8129a29a",
+      "source_image": "data/research/multilingual-pilot-v1/text-repair-v1/ncert-fhgp1-chapter-1/page-6.png",
+      "source_image_sha256": "c8a72ef3b3f40475d3f619c152df899c02e3eb03642073685bee04c51123202a",
+      "expected_silver_section": "510",
+      "suggested_path": [
+        "500",
+        "510",
+        "510"
+      ],
+      "model_version": {
+        "name": "native_silver_v2",
+        "sha256": "cf2e4d18dbe43ad9431a965bc1a6213a0bcfbecac5b5c8830e73cb9a48f6cc86",
+        "experimental": true
+      },
+      "ocr_passes": 2,
+      "token_count": 369,
+      "truncated": false,
+      "functional_only": true,
+      "physical_phone_test": false,
+      "reference_is_ground_truth": false
+    },
+    {
+      "work_id": "esahity-anand_madhu_shirgaonkar",
+      "language": "mar",
+      "session_id": "38faddb0-e271-4140-8027-ac36490b4e08",
+      "source_image": "data/research/multilingual-pilot-v1/text-repair-v1/esahity-anand_madhu_shirgaonkar/page-134.png",
+      "source_image_sha256": "864345e8cd5a24740d14100b0449f460e3a202b8aba6581c87af8098219decdf",
+      "expected_silver_section": "891",
+      "suggested_path": [
+        "800",
+        "890",
+        "891"
+      ],
+      "model_version": {
+        "name": "native_silver_v2",
+        "sha256": "cf2e4d18dbe43ad9431a965bc1a6213a0bcfbecac5b5c8830e73cb9a48f6cc86",
+        "experimental": true
+      },
+      "ocr_passes": 2,
+      "token_count": 315,
+      "truncated": false,
+      "functional_only": true,
+      "physical_phone_test": false,
+      "reference_is_ground_truth": false
+    },
+    {
+      "work_id": "pm-work-118",
+      "language": "tam",
+      "session_id": "5b2a333c-b688-46ea-bcd0-eb401eb6d88e",
+      "source_image": "data/research/multilingual-pilot-v1/review-v3/samples/pm-work-118/pm0118-page-11.png",
+      "source_image_sha256": "07eb5d380b9bfdf7b0e1a8a0e9593fbf201fb336dcd44f178bbeded48af1ed8d",
+      "expected_silver_section": "494",
+      "suggested_path": [
+        "400",
+        "490",
+        "494"
+      ],
+      "model_version": {
+        "name": "native_silver_v2",
+        "sha256": "cf2e4d18dbe43ad9431a965bc1a6213a0bcfbecac5b5c8830e73cb9a48f6cc86",
+        "experimental": true
+      },
+      "ocr_passes": 2,
+      "token_count": 564,
+      "truncated": true,
+      "functional_only": true,
+      "physical_phone_test": false,
+      "reference_is_ground_truth": false
+    }
+  ],
+  "passed": true,
+  "note": "Real OCR on rendered PDF pages. Body pages entered through the capture API; these are not photographed covers or a camera benchmark."
+}

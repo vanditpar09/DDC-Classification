@@ -1,0 +1,11 @@
+{
+  "reviewer": "assistant",
+  "human_checked": false,
+  "method": "Visual review of both first chapter pages and saved publisher index",
+  "subjects": [
+    "Coordinate/numeric mathematical discussion in ihmh1",
+    "Real numbers and arithmetic in jhmh1"
+  ],
+  "silver_section": "510",
+  "gold_numeric_catalog_match": false
+}

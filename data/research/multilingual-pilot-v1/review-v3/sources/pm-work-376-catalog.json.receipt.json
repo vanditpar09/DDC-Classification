@@ -1,0 +1,9 @@
+{
+  "source_url": "https://openlibrary.org/search.json?title=Tiyaka+pumi&author=Kalki&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "final_url": "https://openlibrary.org/search.json?title=Tiyaka+pumi&author=Kalki&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "retrieved_at": "2026-10-04T03:33:44.491557+00:00",
+  "bytes": 406,
+  "sha256": "2d5777f96c3d3c3a493dbb884dd3ef618e467256e767ee3f8fcd42b5abe6f071",
+  "content_type": "application/json",
+  "file": "data/research/multilingual-pilot-v1/review-v3/sources/pm-work-376-catalog.json"
+}

@@ -1,0 +1,15 @@
+{
+  "prepared_at": "2026-10-04T03:22:58.353366+00:00",
+  "selected_titles": 40,
+  "downloaded_titles": 40,
+  "by_language": {
+    "tam": 16,
+    "mar": 14,
+    "hin": 10
+  },
+  "text_available_unverified": 38,
+  "verified_training_books": 0,
+  "model_retrained": false,
+  "derived_hindi_epubs": 9,
+  "failed_titles": []
+}

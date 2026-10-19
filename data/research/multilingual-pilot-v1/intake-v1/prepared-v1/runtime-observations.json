@@ -1,0 +1,30 @@
+{
+  "recorded_at": "2026-10-03T15:10:21.828783+00:00",
+  "python": "3.9.6",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "packages": {
+    "numpy": "2.0.2",
+    "scikit-learn": "1.6.1",
+    "sentence-transformers": "3.4.1",
+    "pytesseract": "0.3.13",
+    "Pillow": "11.3.0"
+  },
+  "tesseract_version": "tesseract 5.5.2",
+  "tessdata": {
+    "eng": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2",
+    "hin": "4c73ffc59d497c186b19d1e90f5d721d678ea6b2e277b719bee4e2af12271825",
+    "mar": "0ba3f2d116972e72fe9e176bc84c38e81dfb6670f4ed1f7f6c8e16a27da7cb61",
+    "tam": "d02fbec24be4b07e32e80d0ccfc3b6b67a3c5d61c9d0a7c8532677990912c6ec"
+  },
+  "model_sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b",
+  "runtime_warnings": [
+    "divide by zero encountered in matmul",
+    "overflow encountered in matmul",
+    "invalid value encountered in matmul"
+  ],
+  "warning_note": "These macOS NumPy/Accelerate warnings appeared in the run console. All saved probability checks passed. The runner was subsequently changed to save future per-call warnings in JSON; this run predates that logging change.",
+  "prediction_input_character_cap": 2500,
+  "encoder_token_cap": 512,
+  "all_source_and_output_hashes_checked": true,
+  "all_predictions_used_same_model": true
+}

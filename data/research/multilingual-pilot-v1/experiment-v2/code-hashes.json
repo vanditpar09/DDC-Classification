@@ -1,0 +1,9 @@
+{
+  "scripts/collect_ncert_comparisons.py": "09899dda259ceec04fb2f5ecf4ceebaf08c79bba3a41039ab8c8399520c50aef",
+  "scripts/repair_native_book_samples.py": "ac0d010c9c19ff64730ce115eb66c1fc7232dadeb3e0dac229faa0991fadca18",
+  "scripts/prepare_silver_pilot.py": "0bad8a2f4d48bbc85d7548c605751b7cb84fa8bc7e699c3c605c1f8ab468a053",
+  "scripts/smoke_native_server.py": "7c6db3200e291539bcd08d6e089d74f5f2e359268a5f6c92a0ae9dec98a79fa5",
+  "scripts/check_native_browser.cjs": "72a7166c137fb3b3d360028efdc0a34f3f3b373db2bcdc64bd11e37fa0f0bb1a",
+  "scripts/finalize_silver_experiment.py": "0bb3dbe645839cc801f3d65d20477227faa41ab5a49bd3af460ddc6ab3ee1fdb",
+  "src/research/train_silver.py": "3b3a04ca303c3698058f08d28b42be5b8f5754e1cf55d30c523972dcb85d216c"
+}

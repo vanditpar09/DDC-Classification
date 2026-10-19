@@ -1,0 +1,611 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-171WZZBP70"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-171WZZBP70');
+</script>  
+<style type="text/css" >
+@font-face {
+	font-family: 'CDAC-GISTYogesh';
+	src: url(https://www.hindisamay.com/CDACGIS0.eot);
+	font-style:  normal;
+	font-weight: normal;
+}
+</style>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<style type="text/css">
+    
+        .styleImg
+        { 	padding-left:2px;
+        	padding-right:2px;
+        	padding-top:6px;
+        	padding-bottom:10px;
+        	position:relative;
+        	z-index:0px;
+        top: 0px;
+        left: 0px;
+        width: 8px;
+        }
+    
+        .textBelowImage 
+        {
+        	position:relative;
+        	z-index:1;
+        }
+        .chapter-link
+        {
+        	color:#98DB78;
+        	text-decoration:none
+        }
+        .style1
+        {
+            text-decoration: none;
+            text-align:center
+            
+        }
+        .hindif1 
+        {
+        	text-align:left;
+        	font-family:Utsaah;
+        	font-size:1.2em;
+        	vertical-align:text-top
+        	
+        }
+        .hindif2 
+        {
+        	text-align:left;
+        	font-family:Utsaah;
+        	font-size:1.4em;
+        	font-weight:bold;
+        	vertical-align:text-top
+        	
+        }
+    .style2
+    {
+        width: 113%;
+    }
+    .style3
+    {
+        FONT-FAMILY: Mangal,CDAC-GISTYogesh,'Arial Unicode MS',Mangal,Tahoma,Verdana,Arial,Helvetica,"Bitstream Vera Sans",sans-serif;
+        color: black;
+        FONT-SIZE: 14px;
+        padding: 10px 10px 10px 25px;
+        width: 113%;
+    }
+    .style4
+    {
+        width: 288px;
+    }
+    .kavita{ 
+        text-indent :0px; 
+        font-size:18px; 
+        COLOR: #000000;
+        TEXT-ALIGN: justify;
+        MARGIN: 5px 20px;
+        FONT-FAMILY: Utsaah,Kokila,CDAC-GISTYogesh,Mangal;
+        FONT-SIZE: 12px;
+        position: relative;
+        top: -40px;
+        left: 40px;
+        right: 40px;
+    }
+    .groupheader{ font-size:22px;}
+    .groupsubheader{font-size:18px; color:Navy;}
+    p { font-size:14px; font-weight:normal}
+    .writeDir {
+        direction: rtl;
+    }
+    </style>
+<script type="text/javascript" >(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/hi_IN/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/jscript" language="javascript">
+    function qs(key) {
+    var vars = [], hash;
+    var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+    for(var i = 0; i < hashes.length; i++)
+    {
+        hash = hashes[i].split('=');
+        vars.push(hash[0]);
+        vars[hash[0]] = hash[1];
+    }
+    return vars[key];
+    }
+
+function ChangeLanguage() {
+       
+        debugger;
+        var cid = 0; var pageno = 0;
+        //txtc_id
+        cid = qs('id');
+        pageno = qs('pageno');
+        //lang = qs('lang');
+        lang = document.getElementById("lang").innerHTML;
+        //alert(cid);
+        //alert(pageno);
+
+        var e = document.getElementById("lang");
+        var lang = e.options[e.selectedIndex].value;
+        //var text = e.options[e.selectedIndex].text;
+    
+    var idx = decodeURIComponent(window.location).indexOf("?");
+   
+    var url = '';
+    if (idx == -1)
+        window.location.href = decodeURIComponent(window.location + "?lang=" + lang);
+    else {
+        url = decodeURIComponent(window.location).substring(0,idx);
+        window.location.href = url + "?lang=" + lang;
+           // alert(url + "?lang=" + lang);
+    }
+    
+        
+    }
+
+var min=12;
+var max=27;
+function increaseFontSize() {
+ 
+   var p = document.getElementsByTagName('p');
+   for(i=0;i<p.length;i++) {
+ 
+      if(p[i].style.fontSize) {
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+      } else {
+ 
+         var s = 12;
+      }
+      if(s!=max) {
+ 
+         s += 1;
+      }
+      p[i].style.fontSize = s+"px"
+ 
+   }
+}
+function decreaseFontSize() {
+   var p = document.getElementsByTagName('p');
+   for(i=0;i<p.length;i++) {
+ 
+      if(p[i].style.fontSize) {
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+      } else {
+ 
+         var s = 12;
+      }
+      if(s!=min) {
+ 
+         s -= 1;
+      }
+      p[i].style.fontSize = s+"px"
+ 
+   }
+
+}
+function print() {
+    var prtContent = document.getElementById("contenttbl");
+    var WinPrint = window.open('', '', 'letf=0,top=0,width=800,height=900,toolbar=0,scrollbars=0,status=0');
+    WinPrint.document.body.style.backgroundImage = 'https://www.hindisamay.com/images/hindisamay.jpg';
+    prtContent.style.backgroundImage = "https://www.hindisamay.com/images/hindisamay.jpg";
+    //prtContent.bgColor = "blue";
+    WinPrint.document.write(prtContent.innerHTML);
+    WinPrint.document.close();
+    WinPrint.focus();
+    WinPrint.print();
+    WinPrint.close();
+}
+function download() {
+    var prtContent = document.getElementById("contenttbl");
+    var WinPrint = window.open('', '', 'letf=0,top=0,width=800,height=900,toolbar=0,scrollbars=0,status=0');
+    
+    WinPrint.document.write(prtContent.innerHTML);
+    WinPrint.document.close();
+    WinPrint.focus();
+    WinPrint.screen();
+    WinPrint.close();
+    
+} 
+    
+function show_hide()
+{
+    if (document.getElementById('write_img').style.display == 'none')
+    {
+        document.getElementById('write_img').style.display = 'block';
+        document.getElementById('hndAvl').style.display = 'none';
+    }
+    else
+    {
+        document.getElementById('write_img').style.display = 'none';
+        document.getElementById('hndAvl').style.display = 'block';
+    }
+}
+</script>
+<link rel="stylesheet" type="text/css" href="https://www.hindisamay.com/hindi-style_c.css"/>
+<style type="text/css">
+.bluehead1{color:White
+           }
+.bluehead1.li.a
+ {color:White;}           
+</style>   
+ <style type="text/css">
+<!--
+.visibleDiv, #topLeft, #topRight, #bottomLeft, #bottomRight
+{
+    position: fixed;
+    width: 50px;
+    border: solid 1px #e1e1e1;
+    vertical-align: middle;
+    background: #ffdab9;
+    text-align: center;
+}
+
+#topLeft
+{
+    top: 10px;
+    left: 10px;
+}
+
+#topRight
+{
+    top: 10px;
+    right: 10px;
+}
+
+#bottomLeft
+{
+    bottom: 10px;
+    left: 10px;
+}
+
+#bottomRight
+{
+    bottom: 10px;
+    right: 10px;
+}
+-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://www.hindisamay.com/menustyle.css"/>
+<script type="text/javascript">
+    // Javascript originally by Patrick Griffiths and Dan Webb.
+    // http://htmldog.com/articles/suckerfish/dropdowns/
+    sfHover = function() {
+        var sfEls = document.getElementById("navbar").getElementsByTagName("li");
+        for (var i = 0; i < sfEls.length; i++) {
+            sfEls[i].onmouseover = function() {
+                this.className += " hover";
+            }
+            sfEls[i].onmouseout = function() {
+                this.className = this.className.replace(new RegExp(" hover\\b"), "");
+            }
+        }
+    }
+    if (window.attachEvent) window.attachEvent("onload", sfHover);
+</script>
+<meta name="keyword" content="प्रेमचंद ,प्रतिज्ञा,उपन्यास" /><meta name="description" content="प्रेमचंद ,प्रतिज्ञा,उपन्यास,प्रतिज्ञा - प्रेमचंद  | Pratigya Premchand" /><title>
+	प्रेमचंद    प्रतिज्ञा उपन्यास
+</title></head>
+<body style ="background-color:#DEE7DE">
+    <form method="post" action="../../../contentDetail.aspx?id=233&amp;pageno=5&amp;lang=hi" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTEyOTkyODU1Mg9kFgJmD2QWAgIDD2QWAgIHD2QWEgIBDxYCHglpbm5lcmh0bWwFFeCkieCkquCkqOCljeCkr+CkvuCkuGQCAw8WAh8ABRvgpKrgpY3gpLDgpKTgpL/gpJzgpY3gpJ7gpL5kAgUPFgIfAAUZ4KSq4KWN4KSw4KWH4KSu4KSa4KSC4KSmIGQCBw8WAh4HVmlzaWJsZWhkAgkPFgIfAWhkAg0PZBYCAgMPDxYCHgRUZXh0BRXgpIXgpKfgpY3gpK/gpL7gpK8gIDVkZAIPDxYCHgVzdHlsZQVRZmxvYXQ6bGVmdDt3aWR0aDoxNDVweDtib3JkZXI6c29saWQgMHB4O3Bvc2l0aW9uOnJlbGF0aXZlO3otaW5kZXg6MDtkaXNwbGF5Om5vbmU7FgQCAQ8PFgIfAWhkZAIDDw8WAh8BaGRkAhEPDxYCHwIF/FY8YnIvPjxwIHN0eWxlPSJ0ZXh0LWluZGVudCA6IDBweCAiPg0KCeCkquClguCksOCljeCko+CkviDgpJXgpYsg4KSF4KSq4KSo4KWHIOCkmOCksCDgpLjgpYcg4KSo4KS/4KSV4KSy4KSk4KWHIOCkuOCkruCkryDgpKzgpKHgpLzgpL4g4KSm4KWB4KSD4KSWIOCkueCli+CkqOClhyDgpLLgpJfgpL7gpaQg4KSc4KWA4KS14KSoIOCkleClhyDgpKTgpYDgpKgg4KS14KSw4KWN4KS3IOCkh+CkuOClgCDgpJjgpLAg4KSu4KWH4KSCIOCkleCkvuCkn+ClhyDgpKXgpYfgpaQg4KSv4KS54KWA4KSCIOCkuOCljOCkreCkvuCkl+CljeCkryDgpJXgpYcg4KS44KWB4KSWIOCkpuClh+CkluClhywg4KSv4KS54KWA4KSCIOCkteCliOCkp+CkteCljeCkryDgpJXgpYcg4KSm4KWB4KSD4KSWIOCkreClgCDgpKbgpYfgpJbgpYfgpaQg4KSF4KSsIOCkieCkuOClhyDgpJvgpYvgpKHgpLzgpKTgpYcg4KS54KWB4KSPIOCkueClg+CkpuCkryDgpKvgpJ8g4KSc4KS+4KSk4KS+IOCkpeCkvuClpCDgpJzgpL/gpLgg4KS44KSu4KSvIOCkmuCkvuCksOCli+CkgiDgpJXgpLngpL7gpLAg4KSJ4KS44KSV4KS+IOCkheCkuOCkrOCkvuCkrCDgpIngpKDgpL7gpKjgpYcg4KSV4KWHIOCksuCkv+CkjyDgpJjgpLAg4KSG4KSPLCDgpLXgpLkg4KS44KS54KS44KS+IOCksOCliyDgpKrgpKHgpLzgpYDgpaQg4KSJ4KS44KSV4KWHIOCkruCkqCDgpK7gpYfgpIIg4KSV4KWB4KSbIOCkteCliOCkuOClhyDgpLngpYAg4KSt4KS+4KS1IOCknOCkvuCkl+CljeCksOCkpCDgpLngpYsg4KSX4KSPLCDgpJzgpYjgpLjgpYcg4KS24KS1IOCkleCliyDgpIngpKDgpL7gpKTgpYcg4KS44KSu4KSvIOCktuCli+CkleCkvuCkpOClgeCksCDgpKrgpY3gpLDgpL7gpKPgpL/gpK/gpYvgpIIg4KSV4KWHIOCkruCkqCDgpK7gpYfgpIIg4KSGIOCknOCkvuCkpOClhyDgpLngpYjgpILgpaQg4KSv4KS5IOCknOCkvuCkqOCkpOClhyDgpLngpYHgpI8g4KSt4KWAIOCkleCkvyDgpLLgpL7gpLYg4KSY4KSwIOCkruClh+CkgiDgpKjgpLngpYDgpIIg4KSw4KS5IOCkuOCkleCkpOClgCwg4KSc4KS/4KSk4KSo4KWAIOCknOCksuCljeCkpiDgpIngpLjgpJXgpL4g4KSm4KS+4KS54KS44KSC4KS44KWN4KSV4KS+4KSwIOCkleCljeCksOCkv+Ckr+CkviDgpLngpYsg4KSc4KS+4KSPIOCkieCkpOCkqOCkviDgpLngpYAg4KSF4KSa4KWN4KSb4KS+IOCkueCliOClpCDgpLXgpYcg4KSP4KSVIOCkleCljeCkt+CkoyDgpJXgpYcg4KSy4KS/4KSPIOCkruCli+CkuSDgpJXgpYcg4KSG4KS14KWH4KS2IOCkruClh+CkgiDgpIYg4KSV4KSwIOCkquCkvuCkgeCktSDgpLjgpYcg4KSa4KS/4KSu4KSfIOCknOCkvuCkpOClhyDgpLngpYjgpIIsIOCklOCksCDgpLbgpYvgpJUg4KS44KWHIOCkteCkv+CkueCljeCkteCksiDgpLngpYsg4KSV4KSwIOCkleCksOClguCkoyDgpLjgpY3gpLXgpLAg4KSu4KWH4KSCIOCksOClguCkpuCkqCDgpJXgpLDgpKjgpYcg4KSy4KSX4KSk4KWHIOCkueCliOCkgiwg4KS14KS5IOCkhuCkpOCljeCkri3gpKrgpY3gpLDgpLXgpILgpJrgpKjgpL4sIOCknOCkv+CkuOCkruClh+CkgiDgpIXgpKwg4KSk4KSVIOCkieCkqOCljeCkueCli+CkguCkqOClhyDgpIXgpKrgpKjgpYcg4KSV4KWLIOCkoeCkvuCksiDgpLDgpJbgpL4g4KSl4KS+IOCkleCkvyDgpJXgpKbgpL7gpJrgpL/gpKQg4KSF4KSsIOCkreClgCDgpJzgpYDgpLXgpKgg4KSV4KWHIOCkleClgeCkmyDgpJrgpL/gpLngpY3gpKgg4KSq4KWN4KSw4KSV4KSfIOCkueCliyDgpJzgpL7gpI/gpIEsIOCkj+CklSDgpKrgpLDgpKbgpYcg4KSV4KWHIOCkuOCkruCkvuCkqCDgpIbgpIHgpJbgpYvgpIIg4KSV4KWHIOCkuOCkvuCkruCkqOClhyDgpLjgpYcg4KS54KSfIOCknOCkvuCkpOClgCDgpLngpYgg4KSU4KSwIOCkruCli+CkuSDgpJXgpL4g4KSF4KSC4KSk4KS/4KSuIOCkrOCkguCkp+CkqCDgpJ/gpYLgpJ8g4KSc4KS+4KSk4KS+IOCkueCliCwg4KSJ4KS44KWAIOCkreCkvuCkgeCkpOCkvyDgpKrgpYLgpLDgpY3gpKPgpL4g4KSt4KWAIOCkmOCksCDgpJXgpYcg4KSP4KSVIOCkleCli+CkqOClhyDgpK7gpYfgpIIg4KSm4KWA4KS14KS+4KSwIOCkuOClhyDgpK7gpYHgpIHgpLkg4KSb4KS/4KSq4KS+IOCkleCksCDgpLDgpYvgpKjgpYcg4KSy4KSX4KWA4KWkIOCkheCkquCkqOClhyDgpKrgpY3gpLDgpL7gpKPgpYfgpLYg4KSV4KWAIOCkuOCljeCkruClg+CkpOCkvyDgpJXgpL4g4KSv4KS5IOCkhuCkp+CkvuCksCDgpK3gpYAg4KS24KWL4KSVIOCkleClhyDgpIXgpKrgpL7gpLAg4KS44KS+4KSX4KSwIOCkruClh+CkgiDgpLXgpL/gpLLgpYDgpKgg4KS54KWLIOCksOCkueCkviDgpKXgpL7gpaQg4KSJ4KS4IOCkmOCksCDgpJXgpL4g4KSP4KSVLeCkj+CklSDgpJXgpYvgpKjgpL4g4KSJ4KS44KSV4KWHIOCksuCkv+CkjyDgpK7gpKfgpYHgpLAt4KS44KWN4KSu4KWD4KSk4KS/4KSv4KWL4KSCIOCkuOClhyDgpLDgpILgpJzgpL/gpKQg4KSl4KS+LCDgpLjgpYzgpK3gpL7gpJfgpY3gpK8t4KS44KWC4KSw4KWN4KSvIOCkleClhyDgpIXgpLjgpY3gpKQg4KS54KWLIOCknOCkvuCkqOClhyDgpKrgpLAg4KSt4KWAIOCkr+CkueCkvuCkgSDgpIngpLjgpJXgpYAg4KSV4KWB4KSbIOCkneCksuCklSDgpKbgpL/gpJbgpL7gpIgg4KSm4KWH4KSk4KWAIOCkpeClgOClpCDgpLjgpYzgpK3gpL7gpJfgpY3gpK8t4KS44KSC4KSX4KWA4KSkIOCkleCkviDgpIXgpILgpKQg4KS54KWLIOCknOCkvuCkqOClhyDgpKrgpLAg4KSt4KWAIOCkr+CkueCkvuCkgSDgpIngpLjgpJXgpYAg4KSq4KWN4KSw4KSk4KS/4KSn4KWN4KS14KSo4KS/IOCkhuCkpOClgCDgpLDgpLngpKTgpYAg4KSl4KWA4KWkIOCkmOCksCDgpK7gpYfgpIIg4KS14KS/4KSa4KSw4KSk4KWHIOCkueClgeCkjyDgpIngpLjgpYcg4KSF4KSq4KSo4KWHIOCkuOCljOCkreCkvuCkl+CljeCkryDgpJXgpL4g4KS14KS/4KS34KS+4KSm4KSu4KSvIOCkl+CksOCljeCktSDgpLngpYvgpKTgpL4g4KSw4KS54KSk4KS+IOCkpeCkvuClpCDgpIbgpJwg4KS44KWM4KSt4KS+4KSX4KWN4KSvLeCkuOClguCksOCljeCkryDgpJXgpL4g4KS14KS5IOCkheCkguCkpOCkv+CkriDgpKrgpY3gpLDgpJXgpL7gpLYg4KSu4KS/4KSf4KS+IOCknOCkviDgpLDgpLngpL4g4KSl4KS+LCDgpLjgpYzgpK3gpL7gpJfgpY3gpK8t4KS44KSC4KSX4KWA4KSkIOCkleClgCDgpKrgpY3gpLDgpKTgpL/gpKfgpY3gpLXgpKjgpL8g4KSP4KSVIOCkheCkqOCkguCkpCDgpLbgpYLgpKjgpY3gpK8g4KSu4KWH4KSCIOCkoeClguCkrOClgCDgpJzgpL7gpKTgpYAg4KSl4KWALCDgpLXgpLkg4KS14KS/4KS34KS+4KSm4KSu4KSvIOCkl+CksOCljeCktSDgpLngpYPgpKbgpK8g4KSV4KWLIOCkmuClgOCksCDgpJXgpLAg4KSo4KS/4KSV4KSy4KS+IOCknOCkvuCkpOCkviDgpKXgpL7gpaQ8L3A+DQo8cCBwPSIiPg0KCeCkuOCkguCkp+CljeCkr+CkviDgpLjgpK7gpK8g4KS14KS5IOCkheCkquCkqOClgCDgpK7gpLngpLDgpYAg4KSs4KS/4KSy4KWN4KSy4KWLIOCkleClhyDgpLjgpL7gpKUg4KSw4KWL4KSk4KWAIOCkueClgeCkiCDgpIfgpLgg4KSt4KS+4KSB4KSk4KS/IOCkmuCksuClgCDgpK7gpL7gpKjgpYsg4KSV4KWL4KSIIOCkqOCkv+CksOCljeCkteCkvuCkuOCkv+CkpCDgpLngpYvgpaQg4KSq4KWA4KSb4KWHIOCkq+Ckv+CksC3gpKvgpL/gpLAg4KSV4KSwIOCkheCkquCkqOClhyDgpKrgpY3gpK/gpL7gpLDgpYcg4KSY4KSwIOCkleCliyDgpKbgpYfgpJbgpKTgpYAg4KSc4KS+4KSk4KWAIOCkpeClgCwg4KSu4KS+4KSo4KWLIOCkieCkuOCkleCkviDgpLngpYPgpKbgpK8g4KS14KS54KWA4KSCIOCksOCkuSDgpJfgpK/gpL4g4KS54KWL4KWkPC9wPg0KPHAgcD0iIj4NCgngpKbgpYfgpLXgpJXgpYAg4KSV4KWLIOCkuOClgeCkruCkv+CkpOCljeCksOCkviDgpJXgpYAg4KSV4KWL4KSIIOCkrOCkvuCkpCDgpKgg4KSt4KS+4KSk4KWAIOCkpeClgOClpCDgpIngpLjgpJXgpL4g4KS54KSB4KS44KSo4KS+LeCkrOCli+CksuCkqOCkviwg4KSa4KSy4KSo4KS+LeCkq+Ckv+CksOCkqOCkviwg4KSJ4KSg4KSo4KS+LeCkrOCliOCkoOCkqOCkviwg4KSq4KS54KSo4KSo4KS+LeCkk+CkouCkvOCkqOCkviDgpLjgpK3gpYAg4KSJ4KSo4KWN4KS54KWH4KSCIOCkq+ClguCkueCkoeCkvOCkquCkqCDgpJXgpYAg4KSa4KSw4KSuIOCkuOClgOCkruCkviDgpJXgpL4g4KSF4KSk4KS/4KSV4KWN4KSw4KSu4KSjIOCkleCksOCkpOCkviDgpLngpYHgpIYg4KSc4KS+4KSoIOCkquCkoeCkvOCkpOCkviDgpKXgpL4sIOCklOCksCDgpLXgpLkg4KSo4KS/4KSk4KWN4KSvIOCkieCkuOCkleClgCDgpKrgpY3gpLDgpJrgpILgpKEg4KSG4KSy4KWL4KSa4KSo4KS+IOCkleCksOCkpOClgCDgpLDgpLngpKTgpYAg4KSl4KWA4KWkIOCkieCkuOCkleClgCDgpIbgpLLgpYvgpJrgpKjgpL4g4KSu4KWH4KSCIOCkquCljeCksOClh+CkriDgpJTgpLAg4KS44KSm4KWN4KSt4KS+4KS1IOCkleCkviDgpIbgpKfgpL/gpJXgpY3gpK8g4KSl4KS+IOCkr+CkviDgpKbgpY3gpLXgpYfgpLcg4KSV4KS+LCDgpIfgpLjgpJXgpL4g4KSo4KS/4KSw4KWN4KSj4KSvIOCkleCksOCkqOCkviDgpJXgpKDgpL/gpKgg4KSl4KS+4KWkIOCkuOClgeCkruCkv+CkpOCljeCksOCkviDgpKTgpYsg4KSm4KWN4KS14KWH4KS3IOCkueClgCDgpLjgpK7gpJ3gpKTgpYAg4KSl4KWA4KWkIOCkh+CkuOClgOCksuCkv+CkjyDgpLXgpLkg4KSJ4KSo4KWN4KS54KWH4KSCIOCklOCksCDgpK3gpYAg4KSa4KS/4KSi4KS84KS+4KSk4KWAIOCksOCkueCkpOClgCDgpKXgpYAgLSDgpKbgpYfgpLXgpJXgpYAg4KS44KSs4KWH4KSw4KWHIOCkieCkoOCkqOClhyDgpJXgpL4g4KSJ4KSq4KSm4KWH4KS2IOCkleCksOCkpOClgCDgpKXgpYAsIOCkuOClgeCkruCkv+CkpOCljeCksOCkviDgpKrgpLngpLAg4KSm4KS/4KSoIOCkmuCkouCkvOClhyDgpIngpKDgpKTgpYAg4KSl4KWALCDgpKbgpYfgpLXgpJXgpYAg4KSY4KWC4KSB4KSY4KSfIOCkqOCkv+CkleCkvuCksuCkqOClhyDgpJXgpYsg4KSV4KS54KSk4KWAIOCkpeClgCwg4KS44KWB4KSu4KS/4KSk4KWN4KSw4KS+IOCkh+CkuOCkleClhyDgpJzgpLXgpL7gpKwg4KSu4KWH4KSCIOCkhuCkp+CkviDgpLjgpL/gpLAg4KSW4KWB4KSy4KS+IOCksOCkluCkpOClgCDgpKXgpYDgpaQg4KSm4KWH4KS14KSV4KWAIOCkruCkueCksOCkv+Ckr+Cli+CkgiDgpLjgpYcg4KSF4KSy4KSXIOCksOCkueCkqOClhyDgpJXgpYAg4KS24KS/4KSV4KWN4KS34KS+IOCkpuClh+CkpOClgCDgpKXgpYAsIOCkuOClgeCkruCkv+CkpOCljeCksOCkviDgpK7gpLngpLDgpL/gpK/gpYvgpIIg4KS44KWHIOCkueCkgeCkuOClgC3gpKbgpL/gpLLgpY3gpLLgpJfgpYAg4KSV4KSw4KSk4KWAIOCksOCkueCkpOClgCDgpKXgpYDgpaQg4KS44KWB4KSu4KS/4KSk4KWN4KSw4KS+IOCkleCliyDgpKrgpYLgpLDgpY3gpKPgpL4g4KSV4KS+IOCkr+CkueCkvuCkgSDgpIbgpKjgpL4g4KSF4KSa4KWN4KSb4KS+IOCkqOCkueClgOCkgiDgpLLgpJcg4KSw4KS54KS+IOCkueCliCwg4KSv4KS5IOCkieCkuOCkuOClhyDgpJvgpL/gpKrgpL4g4KSoIOCksOCkuSDgpLjgpJXgpL4sIOCkquCkueCksuClhyDgpLngpYAg4KS44KWHIOCkieCkuOCkqOClhyDgpKrgpKTgpL8g4KSV4KWHIOCkh+CkuCDgpKrgpY3gpLDgpLjgpY3gpKTgpL7gpLUg4KSq4KSwIOCkqOCkvuCklSDgpLjgpL/gpJXgpYvgpKHgpLzgpYAg4KSl4KWA4KWkIOCkquCksCwg4KSv4KS5IOCknOCkvuCkqOCkpOClhyDgpLngpYHgpI8g4KSV4KS/IOCkh+CkqOCkleClhyDgpK7gpKgg4KSu4KWH4KSCIOCknOCliyDgpIfgpJrgpY3gpJvgpL4g4KS54KWIIOCkieCkuOClhyDgpK/gpLkg4KSq4KWC4KSw4KS+IOCkueClgCDgpJXgpLDgpJXgpYcg4KSb4KWL4KSh4KS84KWH4KSC4KSX4KWHLCDgpIngpLjgpKjgpYcg4KS14KS/4KSw4KWL4KSnIOCkleCksOCkleClhyDgpIXgpKrgpK/gpLYg4KSy4KWH4KSo4KS+IOCkieCkmuCkv+CkpCDgpKgg4KS44KSu4KSd4KS+IOCkpeCkvuClpCDgpLjgpYHgpK7gpL/gpKTgpY3gpLDgpL4g4KS44KS+4KS4IOCkleClhyDgpK7gpKgg4KSV4KWHIOCkreCkvuCktSDgpKTgpL7gpKHgpLwg4KSw4KS54KWAIOCkpeClgOClpCDgpJTgpLAg4KSv4KS5IOCkreClgCDgpJzgpL7gpKjgpKTgpYAg4KSl4KWAIOCkleCkvyDgpKrgpYLgpLDgpY3gpKPgpL4g4KSt4KWAIOCkheCkteCktuCljeCkryDgpLngpYAg4KSk4KS+4KSh4KS8IOCksOCkueClgCDgpLngpYjgpaQg4KSH4KS44KSy4KS/4KSPIOCkquClguCksOCljeCko+CkviDgpJXgpYcg4KSq4KWN4KSw4KSk4KS/IOCkieCkuOCkleClhyDgpK7gpKgg4KSu4KWH4KSCIOCkuOCljeCkqOClh+CkuSDgpJTgpLAg4KS44KS54KS+4KSo4KWB4KSt4KWC4KSk4KS/IOCkieCkpOCljeCkquCkqOCljeCkqCDgpLngpYsg4KSX4KSI4KWkIOCkheCkrCDgpKTgpJUg4KSm4KWH4KS14KSV4KWAIOCkquClguCksOCljeCko+CkviDgpJXgpYsg4KSG4KSm4KSw4KWN4KS2IOCkl+Clg+CkueCkv+Cko+ClgCDgpJXgpLkg4KSV4KSwIOCkrOCkluCkvuCkqCDgpJXgpLDgpKTgpYAg4KSw4KS54KSk4KWAIOCkpeClgOClpCDgpIngpLjgpJXgpYsg4KSm4KS/4KSW4KS+IOCkleCksCDgpLjgpYHgpK7gpL/gpKTgpY3gpLDgpL4g4KSV4KWLIOCksuCknOCljeCknOCkv+CkpCDgpJXgpLDgpKjgpL4g4KSa4KS+4KS54KSk4KWAIOCkpeClgOClpCDgpIfgpLjgpLLgpL/gpI8g4KS44KWB4KSu4KS/4KSk4KWN4KSw4KS+IOCkquClguCksOCljeCko+CkviDgpLjgpYcg4KSc4KSy4KSk4KWAIOCkpeClgOClpCDgpIbgpJwg4KSm4KWH4KS14KSV4KWAIOCkleClhyDgpK7gpKgg4KSu4KWH4KSCIOCkteCkuSDgpK3gpL7gpLUg4KSoIOCkpeCkviwg4KSH4KS44KSy4KS/4KSPIOCkuOClgeCkruCkv+CkpOCljeCksOCkviDgpJXgpYcg4KSu4KSoIOCkruClh+CkgiDgpK3gpYAg4KS14KS5IOCkreCkvuCktSDgpKgg4KSw4KS54KS+4KWkPC9wPg0KPHAgcD0iIj4NCgngpJfgpY3gpK/gpL7gpLDgpLkg4KSs4KSc4KWHIOCkpeClh+ClpCDgpKrgpYLgpLDgpY3gpKPgpL4g4KSq4KWN4KSw4KSV4KS+4KS2IOCkruClh+CkgiDgpIbgpIHgpJbgpYfgpIIg4KS54KSf4KS+IOCkleCksCDgpJbgpL/gpKHgpLzgpJXgpYAg4KSV4KWHIOCkrOCkvuCkueCksCDgpIXgpILgpKfgpJXgpL7gpLAg4KSV4KWAIOCkk+CksCDgpKbgpYfgpJYg4KSw4KS54KWAIOCkpeClgOClpCDgpIngpLgg4KSX4KS54KSw4KWHIOCkheCkgeCkp+Clh+CksOClhyDgpK7gpYfgpIIg4KSJ4KS44KWHIOCkleCkv+CkpOCkqOClhyDgpLjgpYHgpILgpKbgpLAg4KSm4KWD4KS24KWN4KSvIOCkpuCkv+CkluCkvuCkiCDgpKbgpYcg4KSw4KS54KWHIOCkpeClhyAtIOCkteCkueClgCDgpIXgpKrgpKjgpL4g4KSW4KSq4KSw4KWI4KSyIOCkleCkviDgpJjgpLAg4KSl4KS+LCDgpLXgpLngpYAg4KSq4KWB4KSw4KS+4KSo4KWAIOCkluCkvuCknyDgpKXgpYAsIOCkteCkueClgCDgpJvgpYvgpJ/gpL4t4KS44KS+IOCkhuCkgeCkl+CkqCDgpKXgpL4sIOCklOCksCDgpIngpLjgpJXgpYcg4KSq4KSk4KS/4KSm4KWH4KS1IOCkpuCkq+CljeCkpOCksCDgpLjgpYcg4KSGIOCkleCksCDgpIngpLjgpJXgpYAg4KST4KSwIOCkuOCkvuCkueCkuCDgpK7gpYHgpJYg4KSU4KSwIOCkuOCkquCljeCksOClh+CkriDgpKjgpYfgpKTgpY3gpLDgpYvgpIIg4KS44KWHIOCkpOCkvuCkleCkpOClhyDgpLngpYHgpI8g4KSc4KWH4KSsIOCkuOClhyDgpJXgpYvgpIgg4KSa4KWA4KScIOCkqOCkv+CkleCkvuCksiDgpJXgpLAg4KSJ4KS44KWHIOCkpuCkv+CkluCkvuCkpOClhyDgpJTgpLAg4KSr4KS/4KSwIOCkm+Ckv+CkquCkviDgpLLgpYfgpKTgpYcg4KSl4KWH4KWkIOCkteCkuSDgpKzgpYjgpKDgpYAg4KSq4KS+4KSoIOCksuCkl+CkviDgpLDgpLngpYAg4KSl4KWALCDgpJ3gpKrgpJ8g4KSV4KSwIOCkieCkoOClgCDgpJTgpLAg4KSq4KSk4KS/IOCkleClhyDgpKbgpYvgpKjgpYvgpIIg4KS54KS+4KSlIOCkquCkleCkoeCkvCDgpJXgpLAg4KSs4KWL4KSy4KWAIC0gJiMzOTvgpKbgpL/gpJbgpL4g4KSm4KWLIOCkleCljeCkr+CkviDgpLngpYg/IOCkquCkpOCkvyDgpKjgpYcg4KSu4KWB4KSf4KWN4KSg4KWAIOCkrOCkguCkpiDgpJXgpLAg4KSy4KWA4KWkIOCkieCkuOCkleClgCDgpIngpKTgpY3gpLjgpYHgpJXgpKTgpL4g4KSU4KSwIOCkrOCkouCkvOClgCDgpIngpLjgpKjgpYcg4KSW4KWC4KSsIOCknOCli+CksCDgpLLgpJfgpL4g4KSV4KSwIOCkruClgeCkn+CljeCkoOClgCDgpJbgpYvgpLLgpYAsIOCkquCksCDgpIngpLjgpK7gpYfgpIIg4KSV4KWB4KSbIOCkqCDgpKXgpL7gpaQg4KS14KS5IOCkleClh+CkteCksiDgpJXgpYzgpKTgpYHgpJUg4KSl4KS+4KWkIOCkhuCkuSEg4KSJ4KS4IOCkleCljOCkpOClgeCklSwg4KSJ4KS4IOCkleCljeCksOClgOCkoeCkvOCkviDgpK7gpYfgpIIg4KSJ4KS44KWHIOCkheCkquCkqOClhyDgpJzgpYDgpLXgpKgg4KSV4KWAIOCkteCljeCkr+CkvuCkluCljeCkr+CkviDgpJvgpL/gpKrgpYAg4KS54KWB4KSIIOCkruCkvuCksuClguCkriDgpLngpYsg4KSw4KS54KWAIOCkpeClgOClpCYjMzk7PC9wPg0KPHAgLT0iIiBwPSIiPg0KCeCkquClguCksOCljeCko+CkviDgpKjgpYcg4KSG4KSB4KS44KWCIOCkquCli+CkguCkmyDgpKHgpL7gpLLgpYcg4KSU4KSwIOCkhuCkteCkvuCknCDgpLjgpIHgpK3gpL7gpLIg4KSV4KSwIOCkrOCli+CksuClgCAtICYjMzk74KSv4KS5IOCkpOCliyDgpKTgpYHgpK4g4KSd4KWC4KSgIOCkleCkueCkpOClgCDgpLngpYsg4KSs4KS54KSo4KWkIOCkr+CkuSDgpLjgpYvgpJrgpKTgpYAg4KSk4KWLIOCkpOClgeCkriDgpIbgpKTgpYAg4KSV4KWN4KSv4KWL4KSCPyYjMzk7PC9wPg0KPHAgLT0iIiBwPSIiPg0KCeCkquClguCksOCljeCko+CkviDgpKjgpYcg4KSV4KWB4KSbIOCkhuCktuCkguCkleCkv+CkpCDgpLngpYsg4KSV4KSwIOCkquClguCkm+CkviAtICYjMzk74KSk4KWB4KSuIOCkheCkrCDgpKTgpJUg4KSV4KWI4KS44KWHIOCknOCkvuCklyDgpLDgpLngpYAg4KS54KWLPyYjMzk7PC9wPg0KPHAgLT0iIiBwPSIiPg0KCeCkquClguCksOCljeCko+CkviAtICYjMzk74KSk4KWLIOCkleCljeCkr+Cli+CkgiDgpLjgpYvgpKTgpYAg4KS54KWLIOCkuOCkvuCksOClhyDgpKbgpL/gpKg/JiMzOTs8L3A+DQo8cCAtPSIiIHA9IiI+DQoJ4KS44KWB4KSu4KS/4KSk4KWN4KSw4KS+IOCkueCkgeCkuOCkqOClhyDgpLLgpJfgpYDgpaQg4KSP4KSVIOCkleCljeCkt+CkoyDgpK7gpYfgpIIg4KS44KS54KS44KS+IOCkieCkuOCkleCkviDgpK7gpYHgpJYg4KSX4KSC4KSt4KWA4KSwIOCkueCliyDgpJfgpK/gpL7gpaQg4KSs4KWL4KSy4KWAIC0gJiMzOTvgpIXgpKrgpKjgpYcg4KSu4KS+4KSk4KS+LeCkquCkv+CkpOCkviDgpJXgpYAg4KSn4KSoLeCksuCkv+CkquCljeCkuOCkviDgpJXgpL4g4KSq4KWN4KSw4KS+4KSv4KS24KWN4KSa4KS/4KSkIOCkleCksCDgpLDgpLngpYAg4KS54KWC4KSBLCDgpKzgpLngpKgg4KSU4KSwIOCkleCljeCkr+CkvuClpCYjMzk7IOCkr+CkuSDgpJXgpLngpKTgpYct4KSV4KS54KSk4KWHIOCkieCkuOCkleClgCDgpIbgpIHgpJbgpYfgpIIg4KS44KSc4KSyIOCkueCliyDgpJfgpIjgpaQ8L3A+DQo8cCBwPSIiPg0KCeCkuOClgeCkruCkv+CkpOCljeCksOCkviDgpJXgpL/gpLjgpYAg4KSF4KSC4KSk4KSw4KWN4KS14KWH4KSm4KSo4KS+IOCkuOClhyDgpLXgpL/gpJXgpLIg4KS54KWLIOCkleCksCDgpKzgpYvgpLLgpYAgLSAmIzM5O+CkpOClgeCkriDgpKbgpYfgpJYg4KSy4KWH4KSo4KS+IOCkrOCkueCkqCwg4KSP4KSVIOCkpuCkv+CkqCDgpK/gpLkg4KSu4KS54KSyIOCkouCkuSDgpJzgpL7gpI/gpJfgpL7gpaQg4KSv4KS54KWAIOCkheCkreCkv+CktuCkvuCkqiDgpK7gpYfgpLDgpYcg4KSu4KWB4KSB4KS5IOCkuOClhyDgpKzgpL7gpLAt4KSs4KS+4KSwIOCkqOCkv+CkleCksuCkpOCkviDgpLngpYjgpaQmIzM5OyDgpKrgpYLgpLDgpY3gpKPgpL4g4KSo4KWHIOCkteCkv+CkuOCljeCkruCkv+CkpCDgpLngpYsg4KSV4KSwIOCkleCkueCkviAtICYjMzk74KSQ4KS44KS+IOCkleCljeCkr+Cli+CkgiDgpJXgpLngpKTgpYAg4KS54KWLIOCkrOCkueCkqD8g4KSr4KS/4KSwIOCkieCkuOClhyDgpI/gpJUg4KSs4KS+4KSkIOCkr+CkvuCkpiDgpLngpYsg4KSX4KSI4KWkIOCkquClguCkm+CkviAtICYjMzk74KSV4KWN4KSv4KS+IOCkheCkreClgCDgpK3gpYjgpK/gpL7gpJzgpYAg4KSo4KS54KWA4KSCIOCkhuCkjz8mIzM5OzwvcD4NCjxwIC09IiIgcD0iIj4NCgngpKrgpYLgpLDgpY3gpKPgpL4g4KSo4KWHIOCkj+CklSDgpLLgpILgpKzgpYAg4KS44KS+4KSB4KS4IOCkluClgOCkguCkmiDgpJXgpLAg4KSV4KS54KS+IC0gJiMzOTvgpK7gpYfgpLDgpYcg4KSt4KS+4KSX4KWN4KSvIOCkuOClhyDgpIXgpKrgpKjgpYcg4KSt4KS+4KSX4KWN4KSvIOCkleClgCDgpKTgpYHgpLLgpKjgpL4g4KSoIOCkleCksOCliywg4KSs4KS54KSoIOCkquCksOCkvuCktuCljeCksOCkryDgpLjgpYcg4KSs4KSh4KS84KWAIOCkteCkv+CkquCkpOCljeCkpOCkvyDgpKbgpYHgpLDgpY3gpK3gpL7gpJfgpY3gpK8g4KSV4KWHIOCkleCli+CktiDgpK7gpYfgpIIg4KSo4KS54KWA4KSCIOCkueCliOClpCYjMzk7PC9wPg0KPHAgLT0iIiBwPSIiPg0KCeCkuOClgeCkruCkv+CkpOCljeCksOCkviDgpJrgpLLgpYAg4KSX4KSI4KWkIOCkquClguCksOCljeCko+CkviDgpKjgpYcg4KSs4KSk4KWN4KSk4KWAIOCkrOClgeCkneCkviDgpKbgpYAg4KSU4KSwIOCksuClh+Ckn+ClgCwg4KSq4KSwIOCkqOClgOCkguCkpiDgpJXgpLngpL7gpIE/IOCkhuCknCDgpLngpYAg4KSJ4KS44KSo4KWHIOCkh+CkuCDgpJjgpLAg4KSu4KWH4KSCIOCkleCkpuCkriDgpLDgpJbgpL4g4KSl4KS+IOCklOCksCDgpIbgpJwg4KS54KWAIOCkieCkuOClhyDgpIXgpKrgpKjgpYAg4KSc4KSy4KWN4KSm4KSs4KS+4KSc4KWAIOCkquCksCDgpJbgpYfgpKYg4KS54KWLIOCksOCkueCkviDgpKXgpL7gpaQg4KSv4KS5IOCkqOCkv+CktuCljeCkmuCkryDgpKXgpL4g4KSV4KS/IOCkteCkuSDgpKzgpLngpYHgpKQg4KSm4KS/4KSoIOCkr+CkueCkvuCkgSDgpKgg4KSw4KS5IOCkuOCkleClh+Ckl+ClgOClpDwvcD4NCmRkAhMPDxYCHwIFgwM8c3BhbiBzdHlsZSA9ImZsb2F0OnJpZ2h0Ij4gPGEgaHJlZj0iaHR0cHM6Ly9oaW5kaXNhbWF5LmNvbS9jb250ZW50LzIzMy80Ly3gpIngpKrgpKjgpY3gpK/gpL7gpLgt4KSq4KWN4KSw4KSk4KS/4KSc4KWN4KSe4KS+LeCkheCkp+CljeCkr+CkvuCkry01LmNzcHgiIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246bm9uZSIgPiA+PuCkquClgOCkm+Clhz4+IDwvYT4gPGEgaHJlZj0iaHR0cHM6Ly9oaW5kaXNhbWF5LmNvbS9jb250ZW50LzIzMy82Ly3gpIngpKrgpKjgpY3gpK/gpL7gpLgt4KSq4KWN4KSw4KSk4KS/4KSc4KWN4KSe4KS+LeCkheCkp+CljeCkr+CkvuCkry01LmNzcHgiIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246bm9uZSIgPiA+PuCkhuCkl+Clhz4+ICA8L2E+IDwvc3Bhbj5kZGSCL1trtKn+RsPzxsMfiuU1b/ZYNg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C65AFE61" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAQjO+WjAucrgoHaS1KghwE6imZjWwP9fjF/Z8emdokxI+T7trterDfuBb2E9/N6tD8aeX/GIKnIpTr1wMR/wytHJhGhZTv6FWJHSyh5fN3cuwkF4oE=" />
+    <div>
+    <table style="width:1050px; vertical-align:top; border-color:White" align="center" > 
+    <tr>
+    <td style="width:1050px" colspan ="3"> 
+<table border="1" cellpadding="2" width="1050px" style="border-collapse: collapse" cellspacing="3">
+    <tr >
+    <!--style="vertical-align:bottom;background-image:url('http://www.hindisamay.com/images/low-banner.jpg')"-->
+      <td  width="1050px" valign="top" height="180px">
+     <img src="//hindisamay.com/images/low-banner.jpg" alt="hindisamay head" style="width:1050px; height:180px" />
+      
+      </td>      
+    </tr>        
+    <tr>        
+     <td width="1050px" height="35px" style=" text-align:center; background-color:white; padding-left:35px;  z-index:1; position:relative" id="nav-menu">           
+     <ul id="navbar">
+      <!-- The strange spacing herein prevents an IE6 whitespace bug. -->
+         <li><a style="background-color:White;color: Black;" href="//hindisamay.com/default.aspx">
+     मुखपृष्ठ </a></li>
+     <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=1">
+      उपन्यास </a>  </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=2">
+     कहानी</a> </li>
+     <li> <a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=3">
+      कविता</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=4">
+      व्यंग्य</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=5">
+      नाटक</a></li> 
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=12">
+      निबंध</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=6">
+      आलोचना</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=7">
+      विमर्श</a></li> 
+     <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content_n.aspx?ctype=बाल साहित्य">
+      बाल साहित्य</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=18">
+      संस्मरण</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=19">
+     यात्रा वृत्तांत</a></li> 
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/content.aspx?id=20">
+     सिनेमा</a></li> 
+    
+      
+     
+         
+     
+     
+     
+         <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/vivid.aspx?id=8">
+      विविध</a>
+            <ul>
+               <li><a href="//hindisamay.com/content.aspx?id=8">विविध</a></li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=लघुकथाएँ">लघुकथाएँ</a></li>    
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=लोककथा">लोककथा</a></li> 
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=बात-चीत">बात-चीत</a></li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=वैचारिकी">वैचारिकी</a> </li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=शोध">शोध</a> </li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=डायरी">डायरी</a> </li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=आत्मकथा">आत्मकथा</a> </li>
+                <li><a href="//hindisamay.com/content_n.aspx?ctype=पत्र">पत्र</a> </li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=डायरी">डायरी</a> </li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=सूक्तियाँ">सूक्तियाँ</a> </li>
+               
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=आत्मकथ्य">आत्मकथ्य </a> </li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=रचना प्रक्रिया">रचना प्रक्रिया </a> </li>
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=व्याख्यान">व्याख्यान</a> </li>
+               
+               
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=लेख">लेख </a> </li>
+               
+               
+               <li><a href="//hindisamay.com/content.aspx?id=16">बात</a> </li>
+               <li><a href="//hindisamay.com/content.aspx?id=14">शब्द चर्चा</a> </li>
+               <li><a href="//hindisamay.com/content.aspx?id=13">अन्यत्र</a> </li>
+               <li><a href="//hindisamay.com/content.aspx?id=15">जिज्ञासा</a></li>
+               
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=जीवनी">जीवनी</a> </li>
+               
+               <li><a href="//hindisamay.com/content_n.aspx?ctype=अन्य">अन्य</a></li>
+            </ul>
+         </li>
+         <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/kosh.aspx?id=19">कोश</a>
+         </li> 
+       
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/samarg.aspx">
+      समग्र-संचयन </a> 
+      <ul>
+        <li><a href="//hindisamay.com/samarg.aspx">समग्र-संचयन</a></li>     
+               <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1275">अज्ञेय रचना संचयन </a></li>
+               <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1355">कबीर ग्रंथावली </a></li>               
+               <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1182">मोहन राकेश संचयन</a> </li>
+               <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1162">'हरिऔध' समग्र</a> </li>
+               <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1152">प्रेमचंद समग्र</a> </li>
+               <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1157">भारतेंदु हरिश्चंद्र</a> </li>
+               <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1262">रामचंद्र शुक्‍ल समग्र</a> </li>
+                <li><a href="//hindisamay.com/writer/writer_details_n.aspx?id=1539">सहजानंद सरस्वती समग्र </a> </li>
+               <li><a href="//hindisamay.com/samagra-sanchayan.aspx?id=19">रहीम ग्रंथावली </a> </li>
+               </ul>
+      </li>  	
+               
+               
+<li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/audio-vedio.aspx">आडियो/वीडियो </a> </li>  
+<li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/anuvad.aspx">अनुवाद</a> </li>  
+
+
+<li><a href="//hindisamay.com/writer/hindisamay_writer.aspx" style="text-decoration: none;background-color:White;color: Black;">हमारे रचनाकार</a>  </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/writer/writer.aspx">हिंदी लेखक</a></li>      
+       <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/hindisamay_oldIssues.aspx">अभिलेखागार</a></li>
+       <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/university-publication.aspx">हमारे प्रकाशन</a></li> 
+      <li><a href="//hindisamay.com/search.aspx" style="text-decoration: none;background-color:White;color: Black;">खोज</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/contact.aspx">संपर्क</a></li> 
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindivishwa.org">विश्वविद्यालय</a> </li>
+<li><a style="text-decoration: none;background-color:White;color: Black;" href="http://archive.hindivishwa.org">संग्रहालय</a></li>
+
+</ul>
+      </td>
+    </tr>
+    </table> </td>
+    </tr>
+    <tr> 
+    <!--4D8F55 5FB73A #749080-->
+    <td style="width:150px; vertical-align:top; background-color:#749080; margin-right:10px ">
+    <div style="float:left; width:100%">
+   
+          <img id="writer_img" class="styleImg" src="" height="175" width="145" /> 
+           <span id="lblWriterImage" class="floating-menu" style="display:inline-block;"></span>     
+      
+    </div>
+        
+        </td>
+    <td style="width:750px; vertical-align:top;  padding-top :4px "> 
+    <table width="100%" id="contenttbl">
+      <tr>
+      <td valign="top" >
+      <a name="top"></a>
+       
+
+      <br /><br />
+      <span style="float:right; font-size:large"><a href="javascript:increaseFontSize();">अ+</a>&nbsp;<a href="javascript:decreaseFontSize();">अ-</a> </span>      
+      
+      
+      
+      <div id="fb-root"></div>
+      <div class="fb-like" data-send="true" data-width="450" data-show-faces="true"></div>
+        <div style="clear:both; float:right" > <select id="lang" onchange="ChangeLanguage();">
+            <option value="0"> Change Script to </option>
+            
+            <option value="ur">Urdu </option>
+            <option value="en">Roman </option>  
+            <option value="hi">Devnagari </option>
+          </select> </div>
+       <div style =" background-color:CaptionText; color:White;font-family:Mangal; font-style:italic; font-size:14px" > 
+       <h3 id="ContentPlaceHolder1_lblContentType" Class="headertext">उपन्यास</h3> </div>  
+        <Div align="center">
+        <h1 id="ContentPlaceHolder1_lblTitle" Class="tittleHeader">प्रतिज्ञा</h1> 
+        <h2 id="ContentPlaceHolder1_lblAuthor" Class="subtittleHeader">प्रेमचंद </h2> 
+         
+        
+        </div>
+        <p align="center">
+        <span id="ContentPlaceHolder1_lblToc"></span>
+        </p>        
+        <div id="chapater-list" >
+        <span id="ContentPlaceHolder1_chapter_info">
+        <table>
+        <tr><td style="width:50px">
+        <a id="ContentPlaceHolder1_btntoc" class="chapter-link" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$btntoc&#39;,&#39;&#39;)"> अनुक्रम </a> </td> 
+        <td style="width:600px;text-align:center" > 
+        
+        <span id="ContentPlaceHolder1_lblChapter" class="subtittleHeader" style="font-size:16px;font-weight:bold;color:White">अध्याय  5</span> </td> 
+        <td style="width:50px">
+        <a id="ContentPlaceHolder1_btnPrevChapter" class="chapter-link" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$btnPrevChapter&#39;,&#39;&#39;)">पीछे  </a> &nbsp&nbsp&nbsp 
+            <a id="ContentPlaceHolder1_btnNextChapter" class="chapter-link" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$btnNextChapter&#39;,&#39;&#39;)"> आगे  </a> </td>
+        </tr>
+        </table> </span>    
+        </div>
+        </td>
+        </tr>
+        
+        
+        <tr>
+      <td  style=" vertical-align:text-top;padding-right:40px;">  
+      <div id="ContentPlaceHolder1_write_img" style="float:left;width:145px;border:solid 0px;position:relative;z-index:0;display:none;">
+            
+      
+          <br /><br />
+      </div>
+      
+      <div style=" padding-top:20px; padding-left:20px; padding-right:40px; padding-bottom:20px;margin-top:5px; vertical-align:text-top;">
+          
+      <span id="ContentPlaceHolder1_lblContentText" class="middleContentH"><br/><p style="text-indent : 0px ">
+	पूर्णा को अपने घर से निकलते समय बड़ा दुःख होने लगा। जीवन के तीन वर्ष इसी घर में काटे थे। यहीं सौभाग्य के सुख देखे, यहीं वैधव्य के दुःख भी देखे। अब उसे छोड़ते हुए हृदय फट जाता था। जिस समय चारों कहार उसका असबाब उठाने के लिए घर आए, वह सहसा रो पड़ी। उसके मन में कुछ वैसे ही भाव जाग्रत हो गए, जैसे शव को उठाते समय शोकातुर प्राणियों के मन में आ जाते हैं। यह जानते हुए भी कि लाश घर में नहीं रह सकती, जितनी जल्द उसका दाहसंस्कार क्रिया हो जाए उतना ही अच्छा है। वे एक क्षण के लिए मोह के आवेश में आ कर पाँव से चिमट जाते हैं, और शोक से विह्वल हो कर करूण स्वर में रूदन करने लगते हैं, वह आत्म-प्रवंचना, जिसमें अब तक उन्होंने अपने को डाल रखा था कि कदाचित अब भी जीवन के कुछ चिह्न प्रकट हो जाएँ, एक परदे के समान आँखों के सामने से हट जाती है और मोह का अंतिम बंधन टूट जाता है, उसी भाँति पूर्णा भी घर के एक कोने में दीवार से मुँह छिपा कर रोने लगी। अपने प्राणेश की स्मृति का यह आधार भी शोक के अपार सागर में विलीन हो रहा था। उस घर का एक-एक कोना उसके लिए मधुर-स्मृतियों से रंजित था, सौभाग्य-सूर्य के अस्त हो जाने पर भी यहाँ उसकी कुछ झलक दिखाई देती थी। सौभाग्य-संगीत का अंत हो जाने पर भी यहाँ उसकी प्रतिध्वनि आती रहती थी। घर में विचरते हुए उसे अपने सौभाग्य का विषादमय गर्व होता रहता था। आज सौभाग्य-सूर्य का वह अंतिम प्रकाश मिटा जा रहा था, सौभाग्य-संगीत की प्रतिध्वनि एक अनंत शून्य में डूबी जाती थी, वह विषादमय गर्व हृदय को चीर कर निकला जाता था।</p>
+<p p="">
+	संध्या समय वह अपनी महरी बिल्लो के साथ रोती हुई इस भाँति चली मानो कोई निर्वासित हो। पीछे फिर-फिर कर अपने प्यारे घर को देखती जाती थी, मानो उसका हृदय वहीं रह गया हो।</p>
+<p p="">
+	देवकी को सुमित्रा की कोई बात न भाती थी। उसका हँसना-बोलना, चलना-फिरना, उठना-बैठना, पहनना-ओढ़ना सभी उन्हें फूहड़पन की चरम सीमा का अतिक्रमण करता हुआ जान पड़ता था, और वह नित्य उसकी प्रचंड आलोचना करती रहती थी। उसकी आलोचना में प्रेम और सद्भाव का आधिक्य था या द्वेष का, इसका निर्णय करना कठिन था। सुमित्रा तो द्वेष ही समझती थी। इसीलिए वह उन्हें और भी चिढ़ाती रहती थी - देवकी सबेरे उठने का उपदेश करती थी, सुमित्रा पहर दिन चढ़े उठती थी, देवकी घूँघट निकालने को कहती थी, सुमित्रा इसके जवाब में आधा सिर खुला रखती थी। देवकी महरियों से अलग रहने की शिक्षा देती थी, सुमित्रा महरियों से हँसी-दिल्लगी करती रहती थी। सुमित्रा को पूर्णा का यहाँ आना अच्छा नहीं लग रहा है, यह उससे छिपा न रह सका, पहले ही से उसने पति के इस प्रस्ताव पर नाक सिकोड़ी थी। पर, यह जानते हुए कि इनके मन में जो इच्छा है उसे यह पूरा ही करके छोड़ेंगे, उसने विरोध करके अपयश लेना उचित न समझा था। सुमित्रा सास के मन के भाव ताड़ रही थी। और यह भी जानती थी कि पूर्णा भी अवश्य ही ताड़ रही है। इसलिए पूर्णा के प्रति उसके मन में स्नेह और सहानुभूति उत्पन्न हो गई। अब तक देवकी पूर्णा को आदर्श गृहिणी कह कर बखान करती रहती थी। उसको दिखा कर सुमित्रा को लज्जित करना चाहती थी। इसलिए सुमित्रा पूर्णा से जलती थी। आज देवकी के मन में वह भाव न था, इसलिए सुमित्रा के मन में भी वह भाव न रहा।</p>
+<p p="">
+	ग्यारह बजे थे। पूर्णा प्रकाश में आँखें हटा कर खिड़की के बाहर अंधकार की ओर देख रही थी। उस गहरे अँधेरे में उसे कितने सुंदर दृश्य दिखाई दे रहे थे - वही अपना खपरैल का घर था, वही पुरानी खाट थी, वही छोटा-सा आँगन था, और उसके पतिदेव दफ्तर से आ कर उसकी ओर साहस मुख और सप्रेम नेत्रों से ताकते हुए जेब से कोई चीज निकाल कर उसे दिखाते और फिर छिपा लेते थे। वह बैठी पान लगा रही थी, झपट कर उठी और पति के दोनों हाथ पकड़ कर बोली - &#39;दिखा दो क्या है? पति ने मुट्ठी बंद कर ली। उसकी उत्सुकता और बढ़ी उसने खूब जोर लगा कर मुट्ठी खोली, पर उसमें कुछ न था। वह केवल कौतुक था। आह! उस कौतुक, उस क्रीड़ा में उसे अपने जीवन की व्याख्या छिपी हुई मालूम हो रही थी।&#39;</p>
+<p -="" p="">
+	पूर्णा ने आँसू पोंछ डाले और आवाज सँभाल कर बोली - &#39;यह तो तुम झूठ कहती हो बहन। यह सोचती तो तुम आती क्यों?&#39;</p>
+<p -="" p="">
+	पूर्णा ने कुछ आशंकित हो कर पूछा - &#39;तुम अब तक कैसे जाग रही हो?&#39;</p>
+<p -="" p="">
+	पूर्णा - &#39;तो क्यों सोती हो सारे दिन?&#39;</p>
+<p -="" p="">
+	सुमित्रा हँसने लगी। एक क्षण में सहसा उसका मुख गंभीर हो गया। बोली - &#39;अपने माता-पिता की धन-लिप्सा का प्रायश्चित कर रही हूँ, बहन और क्या।&#39; यह कहते-कहते उसकी आँखें सजल हो गई।</p>
+<p p="">
+	सुमित्रा किसी अंतर्वेदना से विकल हो कर बोली - &#39;तुम देख लेना बहन, एक दिन यह महल ढह जाएगा। यही अभिशाप मेरे मुँह से बार-बार निकलता है।&#39; पूर्णा ने विस्मित हो कर कहा - &#39;ऐसा क्यों कहती हो बहन? फिर उसे एक बात याद हो गई। पूछा - &#39;क्या अभी भैयाजी नहीं आए?&#39;</p>
+<p -="" p="">
+	पूर्णा ने एक लंबी साँस खींच कर कहा - &#39;मेरे भाग्य से अपने भाग्य की तुलना न करो, बहन पराश्रय से बड़ी विपत्ति दुर्भाग्य के कोश में नहीं है।&#39;</p>
+<p -="" p="">
+	सुमित्रा चली गई। पूर्णा ने बत्ती बुझा दी और लेटी, पर नींद कहाँ? आज ही उसने इस घर में कदम रखा था और आज ही उसे अपनी जल्दबाजी पर खेद हो रहा था। यह निश्चय था कि वह बहुत दिन यहाँ न रह सकेगी।</p>
+</span><br />
+      
+      
+      <span id="ContentPlaceHolder1_lblEndMarker" class="middleContentH"><span style ="float:right"> <a href="https://hindisamay.com/content/233/4/-उपन्यास-प्रतिज्ञा-अध्याय-5.cspx" style="text-decoration:none" > >>पीछे>> </a> <a href="https://hindisamay.com/content/233/6/-उपन्यास-प्रतिज्ञा-अध्याय-5.cspx" style="text-decoration:none" > >>आगे>>  </a> </span></span>
+      
+      
+      </div>
+      <div id="bottomRight">
+        <a href="#top"> शीर्ष पर जाएँ</a>
+    </div>
+     
+      
+      </td>
+      </tr>
+      </table>
+ </td> 
+    <td style="width:150px;vertical-align:top; background-color:#749080;">  
+    <div style="float:left; width:100%">
+    <span id="lblWriterID" class="floating-menu" style="display:inline-block;"></span>
+    </div>
+     <div id="bottomRight">
+        <a href="#top"> शीर्ष पर जाएँ</a>
+    </div>
+
+    </td> 
+    </tr>
+    <tr>
+    <td style="width:1050px" colspan ="3"> 
+<table border="1" cellpadding="2" width="1050px" style="border-collapse: collapse" cellspacing="3">
+         
+    <tr>        
+     <td width="1050px" height="35" style=" text-align:center; background-color:white; padding-left:35px;  z-index:1; position:relative" id="nav-menu">           
+     <ul id="navbar">
+      <!-- The strange spacing herein prevents an IE6 whitespace bug. -->
+         <li><a style="background-color:White;color: Black;" href="http://www.hindisamay.com/default.aspx">
+     मुखपृष्ठ </a></li>
+     <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=1">
+      उपन्यास </a>  </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=2">
+     कहानी</a> </li>
+     <li> <a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=3">
+      कविता</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=4">
+      व्यंग्य</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=5">
+      नाटक</a></li> 
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=12">
+      निबंध</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=6">
+      आलोचना</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content.aspx?id=7">
+      विमर्श</a></li> 
+     <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/content_n.aspx?ctype=बाल साहित्य">
+      बाल साहित्य</a>
+      <ul>
+     
+               </ul>
+         </li>
+     
+         <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/vivid.aspx?id=8">
+      विविध</a>
+            <ul>
+                
+            </ul>
+         </li>
+      
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/samarg.aspx">
+      समग्र-संचयन </a>  </li>  	
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://www.hindisamay.com/anuvad.aspx">
+      अनुवाद</a> </li>  
+      <li><a href="http://www.hindisamay.com/writer/hindisamay_writer.aspx" style="text-decoration: none;background-color:White;color: Black;">हमारे रचनाकार</a>  </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://hindisamay.com/writer/writer.aspx">हिंदी लेखक</a></li>
+       <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://hindisamay.com/hindisamay_oldIssues.aspx">अभिलेखागार</a></li>
+       <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://hindisamay.com/university-publication.aspx">हमारे प्रकाशन</a></li>       
+      <li><a href="http://www.hindisamay.com/search.aspx" style="text-decoration: none;background-color:White;color: Black;"> खोज</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindisamay.com/contact.aspx">संपर्क</a></li> 
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="//hindivishwa.ac.in">विश्वविद्यालय</a> </li>
+      <li><a style="text-decoration: none;background-color:White;color: Black;" href="http://archive.hindivishwa.ac.in">संग्रहालय</a></li>
+      
+      </ul>
+      </td>
+    </tr>
+    </table> </td>
+    </tr>
+    </table>        
+    </div>
+    </form>
+</body>
+</html>

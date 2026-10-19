@@ -1,0 +1,1230 @@
+[
+  {
+    "work_id": "pm-work-55",
+    "group_id": "pm-work-55",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "யாப்பெருங்கலக் காரிகை",
+    "author": "அமிதசாகரர்",
+    "language": "tam",
+    "genre_source": "இலக்கணம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "494",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0055.pdf",
+        "file": "books/pm0055.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0055.html",
+        "file": "books/pmuni0055.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "pm-work-145",
+    "group_id": "pm-work-145",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "தண்டி அலங்காரம்",
+    "author": "தண்டியாசிரியர்",
+    "language": "tam",
+    "genre_source": "இலக்கணம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "494",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0145.pdf",
+        "file": "books/pm0145.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0145.html",
+        "file": "books/pmuni0145.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "pm-work-172",
+    "group_id": "pm-work-172",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "அந்திம காலம் (நாவல்)",
+    "author": "இரா. கார்த்திகேசு",
+    "language": "tam",
+    "genre_source": "சிறுகதைகள் - தொகுப்பு",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "894",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0172.pdf",
+        "file": "books/pm0172.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0172.html",
+        "file": "books/pmuni0172.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    },
+    "quality_notes": [
+      "Catalog genre says short-story collection while PDF title page explicitly says novel. Numeric classification remains provisional."
+    ]
+  },
+  {
+    "work_id": "pm-work-217",
+    "group_id": "pm-work-217",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "பிரதாப முதலியார் சரித்திரம்",
+    "author": "மயூரம் வேதநாயகம் பிள்ளை",
+    "language": "tam",
+    "genre_source": "வரலாறு / சரித்திரம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "894",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0217.pdf",
+        "file": "books/pm0217.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0217.html",
+        "file": "books/pmuni0217.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    },
+    "quality_notes": [
+      "Publisher catalog history category is not sufficient to identify nonfiction; title/content correspond to the novel. Numeric classification remains provisional."
+    ]
+  },
+  {
+    "work_id": "pm-work-263",
+    "group_id": "pm-work-263",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "சிந்துப்பாவியல்",
+    "author": "இரா. திருமுருகன் (அரங்க நடராசன் உரையுடன்)",
+    "language": "tam",
+    "genre_source": "இலக்கணம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "494",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0263.pdf",
+        "file": "books/pm0263.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0263.html",
+        "file": "books/pmuni0263.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "pm-work-295",
+    "group_id": "pm-work-295",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "அகப்பொருள் விளக்கம்",
+    "author": "நாற்கவிராச நம்பி",
+    "language": "tam",
+    "genre_source": "இலக்கணம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "494",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0295.pdf",
+        "file": "books/pm0295.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0295.html",
+        "file": "books/pmuni0295.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "pm-work-301",
+    "group_id": "pm-work-301",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "களவியல் என்னும் இறையனார் அகப்பொருள்",
+    "author": "",
+    "language": "tam",
+    "genre_source": "இலக்கணம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "494",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0301.pdf",
+        "file": "books/pm0301.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0301.html",
+        "file": "books/pmuni0301.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "pm-work-404",
+    "group_id": "pm-work-404",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "சேரன் செங்குட்டுவன்",
+    "author": "மு. இராகவ ஐயங்கார்",
+    "language": "tam",
+    "genre_source": "வரலாறு / சரித்திரம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "954",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0404.pdf",
+        "file": "books/pm0404.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0404.html",
+        "file": "books/pmuni0404.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "pm-work-410",
+    "group_id": "pm-work-410",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "சிதம்பரப்பாட்டியல் (மு. இராகவ ஐயங்கார் உரையுடன்)",
+    "author": "பரஞ்சோதியார்",
+    "language": "tam",
+    "genre_source": "இலக்கணம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "494",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0410.pdf",
+        "file": "books/pm0410.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0410.html",
+        "file": "books/pmuni0410.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    },
+    "quality_notes": [
+      "Source notice says the 1911 scan used for transcription was not adequate and contains unreadable passages. Do not treat Unicode HTML as a complete checked reference."
+    ]
+  },
+  {
+    "work_id": "pm-work-413",
+    "group_id": "pm-work-413",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "வேளிர் வரலாறு",
+    "author": "மு. இராகவயங்கார்",
+    "language": "tam",
+    "genre_source": "வரலாறு / சரித்திரம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "954",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0413.pdf",
+        "file": "books/pm0413.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0413.html",
+        "file": "books/pmuni0413.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "pm-work-695",
+    "group_id": "pm-work-695",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "செய்யுளிலக்கணம் - கத்தியரூபம்",
+    "author": "பூவை - கலியாணசுந்தர முதலியார்",
+    "language": "tam",
+    "genre_source": "இலக்கணம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "494",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0695.pdf",
+        "file": "books/pm0695.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0695.html",
+        "file": "books/pmuni0695.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "pm-work-732",
+    "group_id": "pm-work-732",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "வளர்ப்பு மகள் (நாவல்)",
+    "author": "சு. சமுத்திரம்",
+    "language": "tam",
+    "genre_source": "நாவல் - புதினம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "894",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0732.pdf",
+        "file": "books/pm0732.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0732.html",
+        "file": "books/pmuni0732.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "pm-work-734",
+    "group_id": "pm-work-734",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "ஒரு கோட்டுக்கு வெளியே (நாவல்)",
+    "author": "சு. சமுத்திரம்",
+    "language": "tam",
+    "genre_source": "நாவல் - புதினம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "894",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0734.pdf",
+        "file": "books/pm0734.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0734.html",
+        "file": "books/pmuni0734.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "pm-work-758",
+    "group_id": "pm-work-758",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "கபோதிபுரத்துக் காதல்",
+    "author": "அறிஞர் அண்ணா (கா. ந. அண்ணாதுரை)",
+    "language": "tam",
+    "genre_source": "குறும் புதினம் - குறுநாவல்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "894",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0758.pdf",
+        "file": "books/pm0758.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0758.html",
+        "file": "books/pmuni0758.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "pm-work-839",
+    "group_id": "pm-work-839",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "நெற்றிக் கண் (2 பாகங்களாக)",
+    "author": "தீபம் நா. பார்த்தசாரதி",
+    "language": "tam",
+    "genre_source": "நாவல் / புதினம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "894",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0839.pdf",
+        "file": "books/pm0839.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0839.html",
+        "file": "books/pmuni0839.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "pm-work-902",
+    "group_id": "pm-work-902",
+    "group_resolution_status": "provisional; catalog overlap and related originals unresolved",
+    "title": "அவள் விழித்திருந்தாள் ( நாவல்)",
+    "author": "அ.க. நவநீத கிருட்டிணன்",
+    "language": "tam",
+    "genre_source": "நாவல் - புதினம்",
+    "catalog_url": "https://www.projectmadurai.org/pmworks.html",
+    "candidate_ddc_section": "894",
+    "label_basis": "Assistant collection proposal from original-work genre; prosody/rhetoric can have competing classifications. Requires catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/pdf/pm0902.pdf",
+        "file": "books/pm0902.pdf"
+      },
+      {
+        "source_url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0902.html",
+        "file": "books/pmuni0902.html"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of publisher PDF pages 1–2 and source catalog",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "esahity-iblis_suraj_gatade",
+    "group_id": "esahity-iblis_suraj_gatade",
+    "group_resolution_status": "provisional; title pages inspected, catalog overlap and series/collection identities unresolved",
+    "title": "इब्लिस",
+    "author": "सूरज काशिनाथ गाताडे",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; inspect title and body pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Working collection proposal for Marathi original literature; requires primary catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/iblis_suraj_gatade.pdf",
+        "file": "books/iblis_suraj_gatade.pdf"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of source PDF pages 1–3 plus extraction",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "esahity-aindrajal_supriya_joshi",
+    "group_id": "esahity-aindrajal_supriya_joshi",
+    "group_resolution_status": "provisional; title pages inspected, catalog overlap and series/collection identities unresolved",
+    "title": "ऐंद्रजाल",
+    "author": "सुप्रिया जोशी",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; inspect title and body pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Working collection proposal for Marathi original literature; requires primary catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/aindrajal_supriya_joshi.pdf",
+        "file": "books/aindrajal_supriya_joshi.pdf"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of source PDF pages 1–3 plus extraction",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "esahity-baap_the_grat_hero_manohar_surwade",
+    "group_id": "esahity-baap_the_grat_hero_manohar_surwade",
+    "group_resolution_status": "provisional; title pages inspected, catalog overlap and series/collection identities unresolved",
+    "title": "बाप : ग्रेट हिरो",
+    "author": "डॉ. मनोहर झगडू सुरवाडे",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; inspect title and body pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Working collection proposal for Marathi original literature; requires primary catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/baap_the_grat_hero_manohar_surwade.pdf",
+        "file": "books/baap_the_grat_hero_manohar_surwade.pdf"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of source PDF pages 1–3 plus extraction",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "esahity-omega_upgraded_abhishek_thamke",
+    "group_id": "esahity-omega_upgraded_abhishek_thamke",
+    "group_resolution_status": "provisional; title pages inspected, catalog overlap and series/collection identities unresolved",
+    "title": "ओमेगा अपग्रेडेड",
+    "author": "अभिषेक ठमके",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; inspect title and body pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Working collection proposal for Marathi original literature; requires primary catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/omega_upgraded_abhishek_thamke.pdf",
+        "file": "books/omega_upgraded_abhishek_thamke.pdf"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of source PDF pages 1–3 plus extraction",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    },
+    "quality_notes": [
+      "Science fiction is a literary subject here; do not infer a technology DDC class from its setting.",
+      "Front matter contains an inconsistent surname in acknowledgements; use displayed author title page, retain source."
+    ]
+  },
+  {
+    "work_id": "esahity-khidkee_saurabh_wagle",
+    "group_id": "esahity-khidkee_saurabh_wagle",
+    "group_resolution_status": "provisional; title pages inspected, catalog overlap and series/collection identities unresolved",
+    "title": "डिटेक्टिव्ह अल्फा आणि अर्धप्रकाशित खिडकी",
+    "author": "सौरभ वागळे",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; inspect title and body pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Working collection proposal for Marathi original literature; requires primary catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/khidkee_saurabh_wagle.pdf",
+        "file": "books/khidkee_saurabh_wagle.pdf"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of source PDF pages 1–3 plus extraction",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    },
+    "quality_notes": [
+      "Title page extraction contains copied genre boilerplate; inspect body and series identity before label approval.",
+      "Different Detective Alpha title from v1; shared author/series can confound evaluation."
+    ]
+  },
+  {
+    "work_id": "esahity-hirana_arun_kulakarni",
+    "group_id": "esahity-hirana_arun_kulakarni",
+    "group_resolution_status": "provisional; title pages inspected, catalog overlap and series/collection identities unresolved",
+    "title": "हिरणं",
+    "author": "अरुण कुळकर्णी",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; inspect title and body pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Working collection proposal for Marathi original literature; requires primary catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/hirana_arun_kulakarni.pdf",
+        "file": "books/hirana_arun_kulakarni.pdf"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of source PDF pages 1–3 plus extraction",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "esahity-maaat_ketakee_shah",
+    "group_id": "esahity-maaat_ketakee_shah",
+    "group_resolution_status": "provisional; title pages inspected, catalog overlap and series/collection identities unresolved",
+    "title": "मात",
+    "author": "केतकी शहा",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; inspect title and body pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Working collection proposal for Marathi original literature; requires primary catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/maaat_ketakee_shah.pdf",
+        "file": "books/maaat_ketakee_shah.pdf"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of source PDF pages 1–3 plus extraction",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "esahity-pinjaraa_sanjay_bansode",
+    "group_id": "esahity-pinjaraa_sanjay_bansode",
+    "group_resolution_status": "provisional; title pages inspected, catalog overlap and series/collection identities unresolved",
+    "title": "पिंजरा",
+    "author": "संजय लिंबाजी बनसोडे",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; inspect title and body pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Working collection proposal for Marathi original literature; requires primary catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/pinjaraa_sanjay_bansode.pdf",
+        "file": "books/pinjaraa_sanjay_bansode.pdf"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of source PDF pages 1–3 plus extraction",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "esahity-parimarjan_sudhir_karkhanis",
+    "group_id": "esahity-parimarjan_sudhir_karkhanis",
+    "group_resolution_status": "provisional; title pages inspected, catalog overlap and series/collection identities unresolved",
+    "title": "परिमार्जन",
+    "author": "सुधीर कारखानीस",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; inspect title and body pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Working collection proposal for Marathi original literature; requires primary catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/parimarjan_sudhir_karkhanis.pdf",
+        "file": "books/parimarjan_sudhir_karkhanis.pdf"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of source PDF pages 1–3 plus extraction",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "esahity-bhoot_bangalyache_rahasya_akshay_jadhav",
+    "group_id": "esahity-bhoot_bangalyache_rahasya_akshay_jadhav",
+    "group_resolution_status": "provisional; title pages inspected, catalog overlap and series/collection identities unresolved",
+    "title": "गुप्तहेर सत्यवीर आणि भूतबंगल्याचे रहस्य",
+    "author": "अक्षय जाधव",
+    "language": "mar",
+    "genre_source": "Marathi novel catalog; inspect title and body pages",
+    "catalog_url": "https://www.esahity.com/2325236623422306234823522368.html",
+    "candidate_ddc_section": "891",
+    "label_basis": "Working collection proposal for Marathi original literature; requires primary catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/bhoot_bangalyache_rahasya_akshay_jadhav.pdf",
+        "file": "books/bhoot_bangalyache_rahasya_akshay_jadhav.pdf"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of source PDF pages 1–3 plus extraction",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "hindisamay-v2-1",
+    "group_id": "hindisamay-v2-1",
+    "group_resolution_status": "provisional; editions, series and related originals unresolved",
+    "title": "देवरानी जेठानी की कहानी",
+    "author": "गौरीदत्त",
+    "language": "hin",
+    "genre_source": "उपन्यास",
+    "catalog_url": "https://hindisamay.com/upanyas/Index%20Novel.htm",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant collection proposal from publisher subject category; exact DDC requires independent catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "file": "catalogs/hindi-1.html",
+        "source_url": "https://hindisamay.com/upanyas/Devrani%20jethani%20ki%20kahani.htm",
+        "provider_part_number": 1,
+        "content_xpath": "//td[@width=\"1000\" and @valign=\"top\" and @height=\"917\" and not(.//td)]"
+      },
+      {
+        "file": "books/devrani-part-2.html",
+        "source_url": "https://hindisamay.com/upanyas/Devrani%20jethani%20ki%20kahani2.htm",
+        "provider_part_number": 2,
+        "content_xpath": "//td[@width=\"1000\" and @valign=\"top\" and @height=\"917\" and not(.//td)]"
+      }
+    ],
+    "provider_index_parts": 2
+  },
+  {
+    "work_id": "hindisamay-v2-2",
+    "group_id": "hindisamay-v2-2",
+    "group_resolution_status": "provisional; editions, series and related originals unresolved",
+    "title": "सूरज का सातवाँ घोड़ा",
+    "author": "धर्मवीर भारती",
+    "language": "hin",
+    "genre_source": "उपन्यास",
+    "catalog_url": "https://hindisamay.com/upanyas/Index%20Novel.htm",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant collection proposal from publisher subject category; exact DDC requires independent catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "file": "catalogs/hindi-2.html",
+        "source_url": "https://hindisamay.com/upanyas/suraj_ka_satava_ghoda.htm",
+        "provider_part_number": 1,
+        "content_xpath": "//td[@align=\"justify\" and @width=\"100%\"]"
+      }
+    ],
+    "provider_index_parts": 1
+  },
+  {
+    "work_id": "hindisamay-v2-3",
+    "group_id": "hindisamay-v2-3",
+    "group_resolution_status": "provisional; editions, series and related originals unresolved",
+    "title": "दौड़",
+    "author": "ममता कालिया",
+    "language": "hin",
+    "genre_source": "उपन्यास",
+    "catalog_url": "https://hindisamay.com/upanyas/Index%20Novel.htm",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant collection proposal from publisher subject category; exact DDC requires independent catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "file": "catalogs/hindi-3.html",
+        "source_url": "https://hindisamay.com/upanyas/daud.htm",
+        "provider_part_number": 1,
+        "content_xpath": "//td[@align=\"justify\" and @width=\"100%\"]"
+      }
+    ],
+    "provider_index_parts": 1
+  },
+  {
+    "work_id": "hindisamay-v2-4",
+    "group_id": "hindisamay-v2-4",
+    "group_resolution_status": "provisional; editions, series and related originals unresolved",
+    "title": "परीक्षा गुरु",
+    "author": "लाला श्रीनिवास दास",
+    "language": "hin",
+    "genre_source": "उपन्यास",
+    "catalog_url": "https://hindisamay.com/upanyas/Index%20Novel.htm",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant collection proposal from publisher subject category; exact DDC requires independent catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "file": "catalogs/hindi-4.html",
+        "source_url": "https://hindisamay.com/upanyas/pariksha_guru.htm",
+        "provider_part_number": 1,
+        "content_xpath": "//td[@align=\"justify\" and @width=\"100%\"]"
+      }
+    ],
+    "provider_index_parts": 1
+  },
+  {
+    "work_id": "hindisamay-v2-5",
+    "group_id": "hindisamay-v2-5",
+    "group_resolution_status": "provisional; editions, series and related originals unresolved",
+    "title": "शहर में कर्फ्यू",
+    "author": "विभूति नारायण राय",
+    "language": "hin",
+    "genre_source": "उपन्यास",
+    "catalog_url": "https://hindisamay.com/upanyas/Index%20Novel.htm",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant collection proposal from publisher subject category; exact DDC requires independent catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "file": "catalogs/hindi-5.html",
+        "source_url": "https://hindisamay.com/upanyas/shahar-mein-curfew.htm",
+        "provider_part_number": 1,
+        "content_xpath": "//td[@align=\"justify\" and @width=\"100%\"]"
+      }
+    ],
+    "provider_index_parts": 1
+  },
+  {
+    "work_id": "hindisamay-v2-6",
+    "group_id": "hindisamay-v2-6",
+    "group_resolution_status": "provisional; editions, series and related originals unresolved",
+    "title": "अधखिला फूल",
+    "author": "अयोध्यासिंह उपाध्याय हरिऔध",
+    "language": "hin",
+    "genre_source": "उपन्यास",
+    "catalog_url": "https://hindisamay.com/upanyas/Index%20Novel.htm",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant collection proposal from publisher subject category; exact DDC requires independent catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "file": "catalogs/hindi-6.html",
+        "source_url": "https://hindisamay.com/hariodh%20Samagra/adhkhila-phool.htm",
+        "provider_part_number": 1,
+        "content_xpath": "//td[@align=\"justify\" and contains(@style,\"font-size: 12.5pt\")]"
+      }
+    ],
+    "provider_index_parts": 1
+  },
+  {
+    "work_id": "hindisamay-v2-7",
+    "group_id": "hindisamay-v2-7",
+    "group_resolution_status": "provisional; editions, series and related originals unresolved",
+    "title": "ठेठ हिंदी का ठाट",
+    "author": "अयोध्यासिंह उपाध्याय हरिऔध",
+    "language": "hin",
+    "genre_source": "उपन्यास",
+    "catalog_url": "https://hindisamay.com/upanyas/Index%20Novel.htm",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant collection proposal from publisher subject category; exact DDC requires independent catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "file": "books/theth-hindi-novel.html",
+        "source_url": "https://hindisamay.com/hariodh%20Samagra/Theth-hindi-ka-That-novel.htm",
+        "provider_part_number": 1,
+        "content_xpath": "//td[@align=\"justify\" and @width=\"100%\"]"
+      }
+    ],
+    "provider_index_parts": 1
+  },
+  {
+    "work_id": "hindisamay-v2-1232",
+    "group_id": "hindisamay-v2-1232",
+    "group_resolution_status": "provisional; editions, series and related originals unresolved",
+    "title": "कंकाल",
+    "author": "जयशंकर प्रसाद",
+    "language": "hin",
+    "genre_source": "उपन्यास",
+    "catalog_url": "https://hindisamay.com/upanyas/Index%20Novel.htm",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant collection proposal from publisher subject category; exact DDC requires independent catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "file": "catalogs/hindi-1232.html",
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=1232&pageno=1",
+        "provider_part_number": 1
+      },
+      {
+        "file": "books/kankal-part-2.html",
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=1232&pageno=2",
+        "provider_part_number": 2
+      },
+      {
+        "file": "books/kankal-part-3.html",
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=1232&pageno=3",
+        "provider_part_number": 3
+      },
+      {
+        "file": "books/kankal-part-4.html",
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=1232&pageno=4",
+        "provider_part_number": 4
+      },
+      {
+        "file": "books/kankal-part-2.linked.html",
+        "source_url": "https://hindisamay.com/content/1232/2/%E0%A4%9C%E0%A4%AF%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%A6-JAISHANKER-PRASAD-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%95%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE-%E0%A4%96%E0%A4%82%E0%A4%A1.cspx",
+        "provider_part_number": 2
+      },
+      {
+        "file": "books/kankal-part-3.linked.html",
+        "source_url": "https://hindisamay.com/content/1232/3/%E0%A4%9C%E0%A4%AF%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%A6-JAISHANKER-PRASAD-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%95%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE-%E0%A4%96%E0%A4%82%E0%A4%A1.cspx",
+        "provider_part_number": 3
+      },
+      {
+        "file": "books/kankal-part-4.linked.html",
+        "source_url": "https://hindisamay.com/content/1232/4/%E0%A4%9C%E0%A4%AF%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%A6-JAISHANKER-PRASAD-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-%E0%A4%95%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE-%E0%A4%96%E0%A4%82%E0%A4%A1.cspx",
+        "provider_part_number": 4
+      }
+    ],
+    "provider_index_parts": 4,
+    "quality_notes": [
+      "Query responses for parts 2–4 are empty. Actual indexed links recovered parts 2 and 4; part 3 remains empty through both paths. No complete EPUB generated."
+    ]
+  },
+  {
+    "work_id": "hindisamay-v2-11865",
+    "group_id": "hindisamay-v2-11865",
+    "group_resolution_status": "provisional; editions, series and related originals unresolved",
+    "title": "तितली",
+    "author": "जयशंकर प्रसाद",
+    "language": "hin",
+    "genre_source": "उपन्यास",
+    "catalog_url": "https://hindisamay.com/upanyas/Index%20Novel.htm",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant collection proposal from publisher subject category; exact DDC requires independent catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "file": "catalogs/hindi-11865.html",
+        "source_url": "https://hindisamay.com/contentDetail.aspx?id=11865&pageno=1",
+        "provider_part_number": 1
+      }
+    ],
+    "provider_index_parts": 1
+  },
+  {
+    "work_id": "hindisamay-des-birana",
+    "group_id": "hindisamay-des-birana",
+    "group_resolution_status": "provisional; editions, series and related originals unresolved",
+    "title": "देस बिराना",
+    "author": "सूरज प्रकाश",
+    "language": "hin",
+    "genre_source": "उपन्यास",
+    "catalog_url": "https://hindisamay.com/upanyas/Index%20Novel.htm",
+    "candidate_ddc_section": "891",
+    "label_basis": "Assistant collection proposal from publisher subject category; exact DDC requires independent catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "file": "catalogs/des-birana-part-1.html",
+        "source_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag1.htm",
+        "provider_part_number": 1,
+        "content_xpath": "//td[@align=\"justify\" and @width=\"100%\"]"
+      },
+      {
+        "file": "books/des-birana-part-2.html",
+        "source_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag2.htm",
+        "provider_part_number": 2,
+        "content_xpath": "//td[@align=\"justify\" and @width=\"100%\"]"
+      },
+      {
+        "file": "books/des-birana-part-3.html",
+        "source_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag3.htm",
+        "provider_part_number": 3,
+        "content_xpath": "//td[@align=\"justify\" and @width=\"100%\"]"
+      },
+      {
+        "file": "books/des-birana-part-4.html",
+        "source_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag4.htm",
+        "provider_part_number": 4,
+        "content_xpath": "//td[@align=\"justify\" and @width=\"100%\"]"
+      },
+      {
+        "file": "books/des-birana-part-5.html",
+        "source_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag5.htm",
+        "provider_part_number": 5,
+        "content_xpath": "//td[@align=\"justify\" and @width=\"100%\"]"
+      },
+      {
+        "file": "books/des-birana-part-6.html",
+        "source_url": "https://hindisamay.com/upanyas/Desh-beerana/bhag6.htm",
+        "provider_part_number": 6,
+        "content_xpath": "//td[@align=\"justify\" and @width=\"100%\"]"
+      }
+    ],
+    "provider_index_parts": 6
+  },
+  {
+    "work_id": "esahity-europe_kavadse_maneesha_dikshit",
+    "group_id": "esahity-europe_kavadse_maneesha_dikshit",
+    "group_resolution_status": "provisional; editions, series and related originals unresolved",
+    "title": "युरोप-कवडसे",
+    "author": "मनीषा दीक्षित",
+    "language": "mar",
+    "genre_source": "प्रवासवर्णन",
+    "catalog_url": "https://www.esahity.com/23462381235223572366236023572352238123392344.html",
+    "candidate_ddc_section": "914",
+    "label_basis": "Assistant collection proposal from publisher subject category; exact DDC requires independent catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "file": "books/europe_kavadse_maneesha_dikshit.pdf",
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/europe_kavadse_maneesha_dikshit.pdf"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of source PDF pages 1–3 plus extraction",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "esahity-keral_shailesh_purohit",
+    "group_id": "esahity-keral_shailesh_purohit",
+    "group_resolution_status": "provisional; editions, series and related originals unresolved",
+    "title": "दक्षिण केरळ अर्थात कोची – मुन्नार – तेक्कडी – आलप्पुळा",
+    "author": "शैलेश पुरोहित",
+    "language": "mar",
+    "genre_source": "प्रवासवर्णन",
+    "catalog_url": "https://www.esahity.com/23462381235223572366236023572352238123392344.html",
+    "candidate_ddc_section": "915",
+    "label_basis": "Assistant collection proposal from publisher subject category; exact DDC requires independent catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "file": "books/keral_shailesh_purohit.pdf",
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/keral_shailesh_purohit.pdf"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of source PDF pages 1–3 plus extraction",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "esahity-mb_canada_bb_desai",
+    "group_id": "esahity-mb_canada_bb_desai",
+    "group_resolution_status": "provisional; editions, series and related originals unresolved",
+    "title": "मला भावलेला कॅनडा",
+    "author": "मनोहर (बी. बी. देसाई)",
+    "language": "mar",
+    "genre_source": "प्रवासवर्णन",
+    "catalog_url": "https://www.esahity.com/23462381235223572366236023572352238123392344.html",
+    "candidate_ddc_section": "917",
+    "label_basis": "Assistant collection proposal from publisher subject category; exact DDC requires independent catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "file": "books/mb_canada_bb_desai.pdf",
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/mb_canada_bb_desai.pdf"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of source PDF pages 1–3 plus extraction",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  },
+  {
+    "work_id": "esahity-ishany_bharat_neelima_kulkarni",
+    "group_id": "esahity-ishany_bharat_neelima_kulkarni",
+    "group_resolution_status": "provisional; editions, series and related originals unresolved",
+    "title": "रंग ईशान्येचे",
+    "author": "डॉ. नीलिमा कुलकर्णी",
+    "language": "mar",
+    "genre_source": "प्रवासवर्णन",
+    "catalog_url": "https://www.esahity.com/23462381235223572366236023572352238123392344.html",
+    "candidate_ddc_section": "915",
+    "label_basis": "Assistant collection proposal from publisher subject category; exact DDC requires independent catalog corroboration.",
+    "verified_section": null,
+    "human_checked": false,
+    "training_eligible": false,
+    "files": [
+      {
+        "file": "books/ishany_bharat_neelima_kulkarni.pdf",
+        "source_url": "https://www.esahity.com/uploads/5/0/1/2/501218/ishany_bharat_neelima_kulkarni.pdf"
+      }
+    ],
+    "identity_review": {
+      "reviewer": "assistant",
+      "method": "visual inspection of source PDF pages 1–3 plus extraction",
+      "human_reviewed": false,
+      "numeric_ddc_verified": false,
+      "preview": "previews/"
+    }
+  }
+]

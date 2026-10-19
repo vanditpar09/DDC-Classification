@@ -1,0 +1,29 @@
+[
+  {
+    "file": "vivekanand-marathi-catalog.pdf",
+    "url": "https://www.vivekanandcollege.ac.in/uploads/library/Marathi%202_merged.pdf",
+    "retrieved_at": "2026-10-04T01:56:43.315777+00:00",
+    "final_url": "https://www.vivekanandcollege.ac.in/uploads/library/marathi%202_merged.pdf",
+    "status": "downloaded",
+    "bytes": 471963,
+    "sha256": "5f1436db02df07c5abe01b40cddf7e32cc2fcf25f6aa2aa2f64d8807e6a60b95"
+  },
+  {
+    "file": "iitgn-hindi-catalog.pdf",
+    "url": "https://library.iitgn.ac.in/documents/library_files/Hindi-Books.pdf",
+    "retrieved_at": "2026-10-04T01:56:44.500422+00:00",
+    "final_url": "https://library.iitgn.ac.in/documents/library_files/Hindi-Books.pdf",
+    "status": "downloaded",
+    "bytes": 1889738,
+    "sha256": "3d0fcb47c0b4fb9b2c4f5e3fb2a4f6ae9cc64ed3febbe95a0b10298be4c6bc0a"
+  },
+  {
+    "file": "oclc-ddc23-summaries.pdf",
+    "url": "https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf",
+    "retrieved_at": "2026-10-04T01:56:45.044901+00:00",
+    "final_url": "https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf",
+    "status": "downloaded",
+    "bytes": 1791716,
+    "sha256": "87d9b5a163404878b05b675271a4b86ec3218e7646aa155657beac303c2bc455"
+  }
+]

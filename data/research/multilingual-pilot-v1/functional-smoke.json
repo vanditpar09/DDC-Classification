@@ -1,0 +1,87 @@
+{
+  "model_sha256": "41c37d0dcf0b8633b2efd8b6a882c1b636bc92e23ae533b184af955cd324649b",
+  "checks": [
+    {
+      "language": "eng",
+      "kind": "authored_functional_example",
+      "path": [
+        "000",
+        "000",
+        "005"
+      ],
+      "same_as_baseline": true,
+      "windows": 1
+    },
+    {
+      "language": "hin",
+      "kind": "authored_functional_example",
+      "path": [
+        "000",
+        "000",
+        "005"
+      ],
+      "same_as_baseline": true,
+      "windows": 1
+    },
+    {
+      "language": "mar",
+      "kind": "authored_functional_example",
+      "path": [
+        "000",
+        "000",
+        "006"
+      ],
+      "same_as_baseline": true,
+      "windows": 1
+    },
+    {
+      "language": "tam",
+      "kind": "authored_functional_example",
+      "path": [
+        "000",
+        "000",
+        "005"
+      ],
+      "same_as_baseline": true,
+      "windows": 1
+    },
+    {
+      "kind": "authored_long_three_page_example",
+      "path": [
+        "000",
+        "000",
+        "005"
+      ],
+      "windows": 6,
+      "page_coverage": [
+        {
+          "kind": "cover",
+          "original_tokens": 16,
+          "chunks": 1,
+          "covered_characters": 43,
+          "total_characters": 43,
+          "omitted_tail": false
+        },
+        {
+          "kind": "back_cover",
+          "original_tokens": 3785,
+          "chunks": 4,
+          "covered_characters": 9154,
+          "total_characters": 17639,
+          "omitted_tail": true
+        },
+        {
+          "kind": "contents",
+          "original_tokens": 21,
+          "chunks": 1,
+          "covered_characters": 88,
+          "total_characters": 88,
+          "omitted_tail": false
+        }
+      ],
+      "omitted_text": true,
+      "review_level": 0
+    }
+  ],
+  "note": "Authored plumbing checks only. No real-book multilingual accuracy or improvement claim."
+}

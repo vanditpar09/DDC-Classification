@@ -1,0 +1,106 @@
+[
+  {
+    "file": "books/ihmh1/ihmh101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ihmh101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ihmh101.pdf",
+      "retrieved_at": "2026-10-04T04:15:23.776905+00:00",
+      "bytes": 1464604,
+      "sha256": "8b2d44ef67fcb2b955ef0a35fb03034ebaf0b899cec6f415d9cb017ab00a138e",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v4/books/ihmh1/ihmh101.pdf"
+    }
+  },
+  {
+    "file": "books/ihmh1/ihmh104.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ihmh104.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ihmh104.pdf",
+      "retrieved_at": "2026-10-04T04:15:24.527031+00:00",
+      "bytes": 2588681,
+      "sha256": "d0ac84635beeb59af9fbdd5ead4e43f36fcb07e969b8f9a5c1830a33de900ce1",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v4/books/ihmh1/ihmh104.pdf"
+    }
+  },
+  {
+    "file": "books/ihmh1/ihmh108.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ihmh108.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ihmh108.pdf",
+      "retrieved_at": "2026-10-04T04:15:24.703982+00:00",
+      "bytes": 2731135,
+      "sha256": "febd7a127ccd8e6c6579808787af9ff421af119e779ee8247916e91cd1c8c680",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v4/books/ihmh1/ihmh108.pdf"
+    }
+  },
+  {
+    "file": "books/ihmh1/ihmh1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/ihmh1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/ihmh1ps.pdf",
+      "retrieved_at": "2026-10-04T04:15:25.453763+00:00",
+      "bytes": 2785002,
+      "sha256": "2f5f7b7dacc24e7a51c5d951f6106950ee4dd1d910c6740770be1583ba23fa33",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v4/books/ihmh1/ihmh1ps.pdf"
+    }
+  },
+  {
+    "file": "books/jhmh1/jhmh101.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/jhmh101.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/jhmh101.pdf",
+      "retrieved_at": "2026-10-04T04:15:25.428276+00:00",
+      "bytes": 1041506,
+      "sha256": "c5dcccb4219568bd996bd5b8bd352f2dd402f78821b870c39fc8b253e0369c8a",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v4/books/jhmh1/jhmh101.pdf"
+    }
+  },
+  {
+    "file": "books/jhmh1/jhmh107.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/jhmh107.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/jhmh107.pdf",
+      "retrieved_at": "2026-10-04T04:15:25.605948+00:00",
+      "bytes": 1403349,
+      "sha256": "b6750de18ec3c553445b0d2bdb98e48550b86c6e8dced847048e380415e362e4",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v4/books/jhmh1/jhmh107.pdf"
+    }
+  },
+  {
+    "file": "books/jhmh1/jhmh114.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/jhmh114.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/jhmh114.pdf",
+      "retrieved_at": "2026-10-04T04:15:26.262210+00:00",
+      "bytes": 1566628,
+      "sha256": "075d5ae9fc2ef24ac8582f8643e313a5de5bf358e0be76315a5e5f0625fe46c6",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v4/books/jhmh1/jhmh114.pdf"
+    }
+  },
+  {
+    "file": "books/jhmh1/jhmh1ps.pdf",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://ncert.nic.in/textbook/pdf/jhmh1ps.pdf",
+      "final_url": "https://ncert.nic.in/textbook/pdf/jhmh1ps.pdf",
+      "retrieved_at": "2026-10-04T04:15:26.429785+00:00",
+      "bytes": 2444868,
+      "sha256": "c3a94c7c347882f6e2634434bfda01dc23584a1c46afe3db0927e6395126c9ee",
+      "content_type": "application/pdf",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v4/books/jhmh1/jhmh1ps.pdf"
+    }
+  }
+]

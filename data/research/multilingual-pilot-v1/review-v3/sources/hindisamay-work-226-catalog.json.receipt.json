@@ -1,0 +1,9 @@
+{
+  "source_url": "https://openlibrary.org/search.json?title=Gaban&author=Premchand&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "final_url": "https://openlibrary.org/search.json?title=Gaban&author=Premchand&limit=5&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cddc%2Cedition_key",
+  "retrieved_at": "2026-10-04T03:33:53.618306+00:00",
+  "bytes": 793,
+  "sha256": "d597f6109802b748dfe8a212efdb82aed64f66b3025ae61024e8a57869704fb1",
+  "content_type": "application/json",
+  "file": "data/research/multilingual-pilot-v1/review-v3/sources/hindisamay-work-226-catalog.json"
+}

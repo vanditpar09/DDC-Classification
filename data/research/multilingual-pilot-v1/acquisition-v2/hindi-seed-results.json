@@ -1,0 +1,132 @@
+[
+  {
+    "title": "देवरानी जेठानी की कहानी",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/Devrani%20jethani%20ki%20kahani.htm",
+      "final_url": "https://hindisamay.com/upanyas/Devrani%20jethani%20ki%20kahani.htm",
+      "retrieved_at": "2026-10-04T03:07:39.900348+00:00",
+      "bytes": 111266,
+      "sha256": "246f802c794fb9aeab31c9d5b9f523a128135c5e2a8afad6b44e75615396586b",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-1.html"
+    }
+  },
+  {
+    "title": "सूरज का सातवाँ घोड़ा",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/suraj_ka_satava_ghoda.htm",
+      "final_url": "https://hindisamay.com/upanyas/suraj_ka_satava_ghoda.htm",
+      "retrieved_at": "2026-10-04T03:07:40.060713+00:00",
+      "bytes": 337260,
+      "sha256": "f01c0e3d784b7fdc3d1638140abe23e7184101ab2f11b8f3e2b3328213cdb7ff",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-2.html"
+    }
+  },
+  {
+    "title": "दौड़",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/daud.htm",
+      "final_url": "https://hindisamay.com/upanyas/daud.htm",
+      "retrieved_at": "2026-10-04T03:07:40.481861+00:00",
+      "bytes": 311965,
+      "sha256": "b1f3f6ec59ca6c15562a35dad9d59531ec5ffef0c175bd3af7f833f4a9c3f227",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-3.html"
+    }
+  },
+  {
+    "title": "परीक्षा गुरु",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/pariksha_guru.htm",
+      "final_url": "https://hindisamay.com/upanyas/pariksha_guru.htm",
+      "retrieved_at": "2026-10-04T03:07:40.857808+00:00",
+      "bytes": 997941,
+      "sha256": "90a8b8780f9959e5e46d02254bd174bf7672729b6c26e2602a717ff7f38fcf85",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-4.html"
+    }
+  },
+  {
+    "title": "शहर में कर्फ्यू",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/upanyas/shahar-mein-curfew.htm",
+      "final_url": "https://hindisamay.com/upanyas/shahar-mein-curfew.htm",
+      "retrieved_at": "2026-10-04T03:07:41.223724+00:00",
+      "bytes": 475572,
+      "sha256": "c5f83b57714e4970912d05713bdc0fa227b7c9f9725d29ce890a989c78538d50",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-5.html"
+    }
+  },
+  {
+    "title": "अधखिला फूल",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/hariodh%20Samagra/adhkhila-phool.htm",
+      "final_url": "https://hindisamay.com/hariodh%20Samagra/adhkhila-phool.htm",
+      "retrieved_at": "2026-10-04T03:07:41.683148+00:00",
+      "bytes": 822345,
+      "sha256": "0b5073403fb6f7768d5ad479e341cde921b21bf296b34452690e8471bc3b7919",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-6.html"
+    }
+  },
+  {
+    "title": "ठेठ हिंदी का ठाट",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/hariodh%20Samagra/Theth-hindi-ka-That-intro.htm",
+      "final_url": "https://hindisamay.com/hariodh%20Samagra/Theth-hindi-ka-That-intro.htm",
+      "retrieved_at": "2026-10-04T03:07:41.835587+00:00",
+      "bytes": 84494,
+      "sha256": "d1433d712dd4d7f13d7ff048aba8f77a299c70e5838d1749d727393123935935",
+      "content_type": "text/html",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-7.html"
+    }
+  },
+  {
+    "title": "कंकाल",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=1232&pageno=1",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=1232&pageno=1",
+      "retrieved_at": "2026-10-04T03:07:42.492510+00:00",
+      "bytes": 735675,
+      "sha256": "f547d3b0c352ed1ed52f30ea64a71333aab5ed5f7763cf784156fb600f31ee05",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-1232.html"
+    }
+  },
+  {
+    "title": "तितली",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=11865&pageno=1",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=11865&pageno=1",
+      "retrieved_at": "2026-10-04T03:07:43.084224+00:00",
+      "bytes": 2221559,
+      "sha256": "ce200191b3c2a3c4f3fe14bab103a7533ed9ffd46083d09d4d9e368290ebb38d",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-11865.html"
+    }
+  },
+  {
+    "title": "इरावती",
+    "status": "downloaded",
+    "receipt": {
+      "source_url": "https://hindisamay.com/contentDetail.aspx?id=11969&pageno=1",
+      "final_url": "https://hindisamay.com/contentDetail.aspx?id=11969&pageno=1",
+      "retrieved_at": "2026-10-04T03:07:43.092166+00:00",
+      "bytes": 72734,
+      "sha256": "bcbb818a246670d67159913cb0ea306b309a3d79e451e4b703a092070b33d764",
+      "content_type": "text/html; charset=utf-8",
+      "file": "data/research/multilingual-pilot-v1/acquisition-v2/catalogs/hindi-11969.html"
+    }
+  }
+]
