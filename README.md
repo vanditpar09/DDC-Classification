@@ -33,11 +33,11 @@ There are **175 local source PDFs** under `data/research/multilingual-pilot-v1/`
 Of those, **68 PDFs supplied OCR passages from 34 training editions**. Another
 19 training editions supplied publisher text instead. The remaining PDFs include
 18 development sources, 16 locked-test sources and 73 companion/reference or
-unused files. Several PDFs are chapters of one book; 175 files does not mean
+unused files. Several PDFs are chapters of one book; 175 files do not mean
 175 training books. The trainer reads the prepared passages, not entire PDFs.
 
 Original PDFs/EPUBs are **saved locally and excluded from Git**. A clone includes
-the prepared passages, source receipts, splits, reports and small fitted
+the prepared passages, source receipts, splits, reports and a small fitted
 classifier, but not the original book files. The inventory records local paths
 and hashes without uploading those originals. Regenerate it on the collection
 laptop with `python3 scripts/inventory_training_pdfs.py`.
